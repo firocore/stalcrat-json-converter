@@ -1,0 +1,12 @@
+{
+  "item_name": "Кронштейн-планка RIS",
+  "key": "item.att.mount_mp5ris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.11,
+    "other": []
+  },
+  "discription": "ВНИМАНИЕ: при надетом глушителе враг не будет знать, откуда вы ведёте огонь."
+}

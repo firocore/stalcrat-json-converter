@@ -1,0 +1,25 @@
+{
+  "item_name": "Прицел оптический Барс",
+  "key": "item.att.scope_bars.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x4.0"
+      },
+      {
+        "name": "Скорость прицеливания",
+        "value": 10.000002
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Модель: ПО1/4"
+}

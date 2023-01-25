@@ -1,0 +1,25 @@
+{
+  "item_name": "ДТК-1",
+  "key": "item.att.barrel_dtk1.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.128,
+    "other": [
+      {
+        "name": "Отдача",
+        "value": -5.000001
+      },
+      {
+        "name": "Гориз. отдача",
+        "value": -7.999998
+      },
+      {
+        "name": "Разброс",
+        "value": -7.999998
+      }
+    ]
+  },
+  "discription": "Цвет лазера - красный"
+}

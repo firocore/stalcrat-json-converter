@@ -1,0 +1,21 @@
+{
+  "item_name": "Тактический блок AN/PEQ 15, чёрный (зелёный лазер)",
+  "key": "item.att.lcu_anpeqbg.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.21,
+    "other": [
+      {
+        "name": "Разброс от бедра",
+        "value": -25.0
+      },
+      {
+        "name": "Стабилизация",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Цвет лазера - зелёный"
+}

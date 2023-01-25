@@ -1,0 +1,25 @@
+{
+  "item_name": "Стандартный ствол АШ-12",
+  "key": "item.att.barrel_ash12.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.16,
+    "other": [
+      {
+        "name": "Дистанция",
+        "value": 10.000002
+      },
+      {
+        "name": "Гориз. отдача",
+        "value": -10.000002
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "Цвет лазера - красный"
+}

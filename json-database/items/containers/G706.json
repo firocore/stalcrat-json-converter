@@ -1,0 +1,21 @@
+{
+  "item_name": "Рюкзак Errand Junior",
+  "key": "item.bag.errand.name",
+  "category": "containers",
+  "class": "Рюкзаки и Контейнеры",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 1.6,
+    "other": [
+      {
+        "name": "Выносливость",
+        "value": 20.0
+      },
+      {
+        "name": "Переносимый вес",
+        "value": 27.0
+      }
+    ]
+  },
+  "discription": "Обычный рюкзак"
+}

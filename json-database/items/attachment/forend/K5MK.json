@@ -1,0 +1,12 @@
+{
+  "item_name": "Боковой кронштейн с планкой Пикатинни",
+  "key": "item.att.mount_lastris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.26,
+    "other": []
+  },
+  "discription": "ВНИМАНИЕ: при надетом глушителе враг не будет знать, откуда вы ведёте огонь."
+}

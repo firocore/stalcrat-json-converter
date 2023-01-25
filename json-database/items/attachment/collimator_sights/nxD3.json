@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел коллиматорный «Кобра»",
+  "key": "item.att.sight_cobra.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.41,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: ЭКП-8, ласточкин хвост@Метка - Т-образная, красный"
+}

@@ -1,0 +1,25 @@
+{
+  "item_name": "Прицел оптический Acecare",
+  "key": "item.att.scope_acecare.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x4.0"
+      },
+      {
+        "name": "Скорость прицеливания",
+        "value": 10.000002
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Модель: Precise 4x32"
+}

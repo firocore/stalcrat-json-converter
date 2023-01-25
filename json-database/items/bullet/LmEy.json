@@ -1,0 +1,18 @@
+{
+  "item_name": "Баллон с горючей смесью",
+  "key": "item.amm.gas.name",
+  "category": "bullet",
+  "class": "Патроны",
+  "stats": {
+    "weight": 3.5,
+    "other": [
+      {
+        "text": "Стандартный патрон"
+      },
+      {
+        "text": "Низкая пробиваемость"
+      }
+    ]
+  },
+  "discription": "Взрыв при контакте"
+}

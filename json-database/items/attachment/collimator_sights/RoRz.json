@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел коллиматорный Barska",
+  "key": "item.att.sight_barska_closed.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.386,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: Multi-reticle AR-X 1x35@Метка - круг с вырезами, точка в центре красный"
+}

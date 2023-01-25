@@ -1,0 +1,29 @@
+{
+  "item_name": "Удлиненный ствол 9 мм",
+  "key": "item.att.barrel_extension9mm.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Дистанция",
+        "value": 20.000004
+      },
+      {
+        "name": "Отдача",
+        "value": 25.0
+      },
+      {
+        "name": "Разброс",
+        "value": -19.999998
+      },
+      {
+        "name": "Урон вдали",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Цвет лазера - красный"
+}

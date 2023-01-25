@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел коллиматорный DM",
+  "key": "item.att.sight_dm51.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.15,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: SUPER M-51@Метка - шеврон с чертой, красный"
+}

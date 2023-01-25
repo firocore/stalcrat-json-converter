@@ -1,0 +1,21 @@
+{
+  "item_name": "Рукоять Fab defence AGR-43, хаки",
+  "key": "item.att.handle_agr43h.name",
+  "category": "attachment/pistol_handle",
+  "class": "Пистолетные рукояти",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.096,
+    "other": [
+      {
+        "name": "Покачивание",
+        "value": -1.9999981
+      },
+      {
+        "name": "Время перезарядки",
+        "value": -1.9999981
+      }
+    ]
+  },
+  "discription": "Планка Пикатинни для установки прицелов на СВТ"
+}

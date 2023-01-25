@@ -1,0 +1,21 @@
+{
+  "item_name": "Штурмовой рюкзак Tri-Zip",
+  "key": "item.bag.trizip.name",
+  "category": "containers",
+  "class": "Рюкзаки и Контейнеры",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 1.5,
+    "other": [
+      {
+        "name": "Выносливость",
+        "value": 30.0
+      },
+      {
+        "name": "Переносимый вес",
+        "value": 40.0
+      }
+    ]
+  },
+  "discription": "Обычный рюкзак"
+}

@@ -1,0 +1,11 @@
+{
+  "item_name": "Защитная планка, хаки",
+  "key": "item.att.other_deflongh.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "ВНИМАНИЕ: при надетом глушителе враг не будет знать, откуда вы ведёте огонь."
+}

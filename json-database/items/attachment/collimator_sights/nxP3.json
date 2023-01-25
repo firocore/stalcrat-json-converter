@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел коллиматорный «Валдай»",
+  "key": "item.att.sight_valdai.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.298,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: 1П87@Метка - перекрестие, точка в центре, красное"
+}

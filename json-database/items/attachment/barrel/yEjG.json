@@ -1,0 +1,21 @@
+{
+  "item_name": "Diamondhead Compensator",
+  "key": "item.att.barrel_diamondhead.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.141,
+    "other": [
+      {
+        "name": "Гориз. отдача",
+        "value": -6.0
+      },
+      {
+        "name": "Разброс",
+        "value": -14.999998
+      }
+    ]
+  },
+  "discription": "Цвет лазера - красный"
+}

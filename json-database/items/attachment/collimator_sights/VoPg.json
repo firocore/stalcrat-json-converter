@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел широкоугольный «Ракурс»",
+  "key": "item.att.scope_rakurs.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.47,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.5"
+      }
+    ]
+  },
+  "discription": "Модель: ПО1х20"
+}

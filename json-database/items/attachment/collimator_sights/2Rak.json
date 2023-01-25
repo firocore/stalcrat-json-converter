@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел коллиматорный «Bering OPTICS»",
+  "key": "item.att.sight_bering.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.386,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x3.0"
+      }
+    ]
+  },
+  "discription": "Модель: Prismatic Supra 3x32@Метка - круг с лучами, точка в центре, зелёный"
+}

@@ -1,0 +1,25 @@
+{
+  "item_name": "ДТК Цитадель 5.45",
+  "key": "item.att.barrel_citadel.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.096,
+    "other": [
+      {
+        "name": "Отдача",
+        "value": -1.9999981
+      },
+      {
+        "name": "Гориз. отдача",
+        "value": -11.000002
+      },
+      {
+        "name": "Разброс",
+        "value": -22.000004
+      }
+    ]
+  },
+  "discription": "Цвет лазера - красный"
+}

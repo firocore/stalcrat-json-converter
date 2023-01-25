@@ -1,0 +1,17 @@
+{
+  "item_name": "Увеличенный магазин Beretta",
+  "key": "item.att.mag_beretta.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.075,
+    "other": [
+      {
+        "name": "Доп. размер магазина",
+        "value": 2.0
+      }
+    ]
+  },
+  "discription": "ВНИМАНИЕ: при надетом глушителе враг не будет знать, откуда вы ведёте огонь."
+}

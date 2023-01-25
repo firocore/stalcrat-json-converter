@@ -1,0 +1,4388 @@
+[
+  {
+    "name": "Candle Short Range Detector",
+    "key": "item.device.dud_svecha.name",
+    "data": "/items/weapon/device/B17n.json",
+    "icon": "/icons/weapon/device/B17n.png"
+  },
+  {
+    "name": "Buryat Short Range Detector",
+    "key": "item.device.dud_buryat.name",
+    "data": "/items/weapon/device/yZ08.json",
+    "icon": "/icons/weapon/device/yZ08.png"
+  },
+  {
+    "name": "Elbrus Short Range Detector",
+    "key": "item.device.dud_elbrus.name",
+    "data": "/items/weapon/device/lLod.json",
+    "icon": "/icons/weapon/device/lLod.png"
+  },
+  {
+    "name": "SN-1 Pancake",
+    "key": "item.misc.cn1.name",
+    "data": "/items/weapon/device/VzQG.json",
+    "icon": "/icons/weapon/device/VzQG.png"
+  },
+  {
+    "name": "SN-1u Mini-Pancake",
+    "key": "item.misc.cn1u.name",
+    "data": "/items/weapon/device/n8Vk.json",
+    "icon": "/icons/weapon/device/n8Vk.png"
+  },
+  {
+    "name": "SN-2 Leg",
+    "key": "item.misc.cn2.name",
+    "data": "/items/weapon/device/gKnN.json",
+    "icon": "/icons/weapon/device/gKnN.png"
+  },
+  {
+    "name": "SN-2u Leglet",
+    "key": "item.misc.cn2u.name",
+    "data": "/items/weapon/device/0Qd7.json",
+    "icon": "/icons/weapon/device/0Qd7.png"
+  },
+  {
+    "name": "Electric Crystal",
+    "key": "item.art.electra_crystal.name",
+    "data": "/items/artefact/electrophysical/B16j.json",
+    "icon": "/icons/artefact/electrophysical/B16j.png"
+  },
+  {
+    "name": "Sparkler",
+    "key": "item.art.electra_bengal.name",
+    "data": "/items/artefact/electrophysical/yZP6.json",
+    "icon": "/icons/artefact/electrophysical/yZP6.png"
+  },
+  {
+    "name": "Flare",
+    "key": "item.art.electra_vspyshka.name",
+    "data": "/items/artefact/electrophysical/lLBw.json",
+    "icon": "/icons/artefact/electrophysical/lLBw.png"
+  },
+  {
+    "name": "Battery",
+    "key": "item.art.electra_batareyka.name",
+    "data": "/items/artefact/electrophysical/Kmoj.json",
+    "icon": "/icons/artefact/electrophysical/Kmoj.png"
+  },
+  {
+    "name": "Snowflake",
+    "key": "item.art.electra_snowflake.name",
+    "data": "/items/artefact/electrophysical/k5b2.json",
+    "icon": "/icons/artefact/electrophysical/k5b2.png"
+  },
+  {
+    "name": "Shell",
+    "key": "item.art.electra_pustishka.name",
+    "data": "/items/artefact/electrophysical/31K1.json",
+    "icon": "/icons/artefact/electrophysical/31K1.png"
+  },
+  {
+    "name": "Disintegrator",
+    "key": "item.art.electra_dezintegrator.name",
+    "data": "/items/artefact/electrophysical/VzgA.json",
+    "icon": "/icons/artefact/electrophysical/VzgA.png"
+  },
+  {
+    "name": "Moonlight",
+    "key": "item.art.electra_moonlight.name",
+    "data": "/items/artefact/electrophysical/n8l9.json",
+    "icon": "/icons/artefact/electrophysical/n8l9.png"
+  },
+  {
+    "name": "Helium",
+    "key": "item.art.electra_helium.name",
+    "data": "/items/artefact/electrophysical/gKMn.json",
+    "icon": "/icons/artefact/electrophysical/gKMn.png"
+  },
+  {
+    "name": "Crystal",
+    "key": "item.art.jarka_crystal.name",
+    "data": "/items/artefact/thermal/VzdA.json",
+    "icon": "/icons/artefact/thermal/VzdA.png"
+  },
+  {
+    "name": "Fireball",
+    "key": "item.art.jarka_fireball.name",
+    "data": "/items/artefact/thermal/n8w9.json",
+    "icon": "/icons/artefact/thermal/n8w9.png"
+  },
+  {
+    "name": "Droplet",
+    "key": "item.art.jarka_kaplya.name",
+    "data": "/items/artefact/thermal/gKQn.json",
+    "icon": "/icons/artefact/thermal/gKQn.png"
+  },
+  {
+    "name": "Wolf Tears",
+    "key": "item.art.jarka_vslezy.name",
+    "data": "/items/artefact/thermal/0QwO.json",
+    "icon": "/icons/artefact/thermal/0QwO.png"
+  },
+  {
+    "name": "Mama’s Beads",
+    "key": "item.art.jarka_mamybusi.name",
+    "data": "/items/artefact/thermal/Rgay.json",
+    "icon": "/icons/artefact/thermal/Rgay.png"
+  },
+  {
+    "name": "Eye",
+    "key": "item.art.jarka_glaz.name",
+    "data": "/items/artefact/thermal/2XMR.json",
+    "icon": "/icons/artefact/thermal/2XMR.png"
+  },
+  {
+    "name": "Flame",
+    "key": "item.art.jarka_plamya.name",
+    "data": "/items/artefact/thermal/Jk6Q.json",
+    "icon": "/icons/artefact/thermal/Jk6Q.png"
+  },
+  {
+    "name": "Sun",
+    "key": "item.art.jarka_solnce.name",
+    "data": "/items/artefact/thermal/PReY.json",
+    "icon": "/icons/artefact/thermal/PReY.png"
+  },
+  {
+    "name": "Stone Blood",
+    "key": "item.art.karousel_bloodstone.name",
+    "data": "/items/artefact/gravity/B1xn.json",
+    "icon": "/icons/artefact/gravity/B1xn.png"
+  },
+  {
+    "name": "Meat Chunk",
+    "key": "item.art.karousel_lomot.name",
+    "data": "/items/artefact/gravity/yZR8.json",
+    "icon": "/icons/artefact/gravity/yZR8.png"
+  },
+  {
+    "name": "Stone Bile",
+    "key": "item.art.karousel_jelch.name",
+    "data": "/items/artefact/gravity/lLbd.json",
+    "icon": "/icons/artefact/gravity/lLbd.png"
+  },
+  {
+    "name": "Swamp Rot",
+    "key": "item.art.karousel_gnilec.name",
+    "data": "/items/artefact/gravity/Km1A.json",
+    "icon": "/icons/artefact/gravity/Km1A.png"
+  },
+  {
+    "name": "Soul",
+    "key": "item.art.karousel_dusha.name",
+    "data": "/items/artefact/gravity/k51k.json",
+    "icon": "/icons/artefact/gravity/k51k.png"
+  },
+  {
+    "name": "Spring",
+    "key": "item.art.karousel_prujina.name",
+    "data": "/items/artefact/gravity/31kB.json",
+    "icon": "/icons/artefact/gravity/31kB.png"
+  },
+  {
+    "name": "Frame",
+    "key": "item.art.karousel_ostov.name",
+    "data": "/items/artefact/gravity/VznG.json",
+    "icon": "/icons/artefact/gravity/VznG.png"
+  },
+  {
+    "name": "Acid Crystal",
+    "key": "item.art.kisel_crystal.name",
+    "data": "/items/artefact/biochemical/Vz0G.json",
+    "icon": "/icons/artefact/biochemical/Vz0G.png"
+  },
+  {
+    "name": "Lollipop",
+    "key": "item.art.kisel_kisel.name",
+    "data": "/items/artefact/biochemical/n8Bk.json",
+    "icon": "/icons/artefact/biochemical/n8Bk.png"
+  },
+  {
+    "name": "Slime",
+    "key": "item.art.kisel_sliz.name",
+    "data": "/items/artefact/biochemical/gKaN.json",
+    "icon": "/icons/artefact/biochemical/gKaN.png"
+  },
+  {
+    "name": "Slug",
+    "key": "item.art.kisel_sliznyak.name",
+    "data": "/items/artefact/biochemical/0Qk7.json",
+    "icon": "/icons/artefact/biochemical/0Qk7.png"
+  },
+  {
+    "name": "Mica",
+    "key": "item.art.kisel_slyda.name",
+    "data": "/items/artefact/biochemical/Rg37.json",
+    "icon": "/icons/artefact/biochemical/Rg37.png"
+  },
+  {
+    "name": "Firefly",
+    "key": "item.art.kisel_svetlyak.name",
+    "data": "/items/artefact/biochemical/2XVa.json",
+    "icon": "/icons/artefact/biochemical/2XVa.png"
+  },
+  {
+    "name": "Snail",
+    "key": "item.art.kisel_ulitka.name",
+    "data": "/items/artefact/biochemical/JkdV.json",
+    "icon": "/icons/artefact/biochemical/JkdV.png"
+  },
+  {
+    "name": "Bubble",
+    "key": "item.art.kisel_puzir.name",
+    "data": "/items/artefact/biochemical/PRKE.json",
+    "icon": "/icons/artefact/biochemical/PRKE.png"
+  },
+  {
+    "name": "Pellicle",
+    "key": "item.art.kisel_plenka.name",
+    "data": "/items/artefact/biochemical/NMyK.json",
+    "icon": "/icons/artefact/biochemical/NMyK.png"
+  },
+  {
+    "name": "Polyhedron",
+    "key": "item.art.kisel_poly.name",
+    "data": "/items/artefact/biochemical/D1eX.json",
+    "icon": "/icons/artefact/biochemical/D1eX.png"
+  },
+  {
+    "name": "Thorn",
+    "key": "item.art.puh_koluchka.name",
+    "data": "/items/artefact/biochemical/B19r.json",
+    "icon": "/icons/artefact/biochemical/B19r.png"
+  },
+  {
+    "name": "Crystal Thorn",
+    "key": "item.art.puh_kkoluchka.name",
+    "data": "/items/artefact/biochemical/yZz5.json",
+    "icon": "/icons/artefact/biochemical/yZz5.png"
+  },
+  {
+    "name": "Urchin",
+    "key": "item.art.puh_ej.name",
+    "data": "/items/artefact/biochemical/lLnr.json",
+    "icon": "/icons/artefact/biochemical/lLnr.png"
+  },
+  {
+    "name": "Kolobok",
+    "key": "item.art.puh_kolobok.name",
+    "data": "/items/artefact/biochemical/KmgX.json",
+    "icon": "/icons/artefact/biochemical/KmgX.png"
+  },
+  {
+    "name": "Steel Kolobok",
+    "key": "item.art.puh_steelkolobok.name",
+    "data": "/items/artefact/biochemical/k5VN.json",
+    "icon": "/icons/artefact/biochemical/k5VN.png"
+  },
+  {
+    "name": "Stone Flower",
+    "key": "item.art.trampoline_kamencvet.name",
+    "data": "/items/artefact/gravity/Vzbg.json",
+    "icon": "/icons/artefact/gravity/Vzbg.png"
+  },
+  {
+    "name": "Jellyfish",
+    "key": "item.art.trampoline_meduza.name",
+    "data": "/items/artefact/gravity/n8Aw.json",
+    "icon": "/icons/artefact/gravity/n8Aw.png"
+  },
+  {
+    "name": "Dark Jellyfish",
+    "key": "item.art.trampoline_darkmeduza.name",
+    "data": "/items/artefact/gravity/gKLe.json",
+    "icon": "/icons/artefact/gravity/gKLe.png"
+  },
+  {
+    "name": "Veiner",
+    "key": "item.art.trampoline_jilnik.name",
+    "data": "/items/artefact/gravity/0Qak.json",
+    "icon": "/icons/artefact/gravity/0Qak.png"
+  },
+  {
+    "name": "Night Star",
+    "key": "item.art.trampoline_nightstar.name",
+    "data": "/items/artefact/gravity/RgMD.json",
+    "icon": "/icons/artefact/gravity/RgMD.png"
+  },
+  {
+    "name": "Proto-Jellyfish",
+    "key": "item.art.trampoline_protomeduza.name",
+    "data": "/items/artefact/gravity/2X11.json",
+    "icon": "/icons/artefact/gravity/2X11.png"
+  },
+  {
+    "name": "Bracelet",
+    "key": "item.art.trampoline_braslet.name",
+    "data": "/items/artefact/gravity/Jkme.json",
+    "icon": "/icons/artefact/gravity/Jkme.png"
+  },
+  {
+    "name": "Quirk",
+    "key": "item.art.voronka_vivert.name",
+    "data": "/items/artefact/gravity/B1QQ.json",
+    "icon": "/icons/artefact/gravity/B1QQ.png"
+  },
+  {
+    "name": "Gravi",
+    "key": "item.art.voronka_gravi.name",
+    "data": "/items/artefact/gravity/yZXl.json",
+    "icon": "/icons/artefact/gravity/yZXl.png"
+  },
+  {
+    "name": "Goldfish",
+    "key": "item.art.voronka_goldfish.name",
+    "data": "/items/artefact/gravity/lLGM.json",
+    "icon": "/icons/artefact/gravity/lLGM.png"
+  },
+  {
+    "name": "Gold Gravi",
+    "key": "item.art.voronka_goldgravi.name",
+    "data": "/items/artefact/gravity/KmMq.json",
+    "icon": "/icons/artefact/gravity/KmMq.png"
+  },
+  {
+    "name": "Amberite",
+    "key": "item.art.voronka_yantar.name",
+    "data": "/items/artefact/gravity/k58D.json",
+    "icon": "/icons/artefact/gravity/k58D.png"
+  },
+  {
+    "name": "Cryogen",
+    "key": "item.art.voronka_kriogen.name",
+    "data": "/items/artefact/gravity/31y7.json",
+    "icon": "/icons/artefact/gravity/31y7.png"
+  },
+  {
+    "name": "Black Crystal",
+    "key": "item.art.voronka_crystal.name",
+    "data": "/items/artefact/gravity/Vz5w.json",
+    "icon": "/icons/artefact/gravity/Vz5w.png"
+  },
+  {
+    "name": "Spiral",
+    "key": "item.art.puzir_spiral.name",
+    "data": "/items/artefact/electrophysical/Vzkw.json",
+    "icon": "/icons/artefact/electrophysical/Vzkw.png"
+  },
+  {
+    "name": "Mirror",
+    "key": "item.art.puzir_zerkalo.name",
+    "data": "/items/artefact/electrophysical/n813.json",
+    "icon": "/icons/artefact/electrophysical/n813.png"
+  },
+  {
+    "name": "Shard",
+    "key": "item.art.puzir_oskolok.name",
+    "data": "/items/artefact/electrophysical/gKz3.json",
+    "icon": "/icons/artefact/electrophysical/gKz3.png"
+  },
+  {
+    "name": "Prism",
+    "key": "item.art.puzir_prisma.name",
+    "data": "/items/artefact/electrophysical/0QKe.json",
+    "icon": "/icons/artefact/electrophysical/0QKe.png"
+  },
+  {
+    "name": "Atom",
+    "key": "item.art.puzir_atom.name",
+    "data": "/items/artefact/electrophysical/RgOz.json",
+    "icon": "/icons/artefact/electrophysical/RgOz.png"
+  },
+  {
+    "name": "Frost",
+    "key": "item.art.blizzard_frost.name",
+    "data": "/items/artefact/thermal/Vzr3.json",
+    "icon": "/icons/artefact/thermal/Vzr3.png"
+  },
+  {
+    "name": "Crystal",
+    "key": "item.art.blizzard_crystal.name",
+    "data": "/items/artefact/thermal/n86x.json",
+    "icon": "/icons/artefact/thermal/n86x.png"
+  },
+  {
+    "name": "Crust",
+    "key": "item.art.blizzard_crust.name",
+    "data": "/items/artefact/thermal/gK2w.json",
+    "icon": "/icons/artefact/thermal/gK2w.png"
+  },
+  {
+    "name": "Whirlwind",
+    "key": "item.art.blizzard_vortex.name",
+    "data": "/items/artefact/thermal/0QZb.json",
+    "icon": "/icons/artefact/thermal/0QZb.png"
+  },
+  {
+    "name": "Fahrenheit",
+    "key": "item.art.blizzard_fahrenheit.name",
+    "data": "/items/artefact/thermal/Rgdl.json",
+    "icon": "/icons/artefact/thermal/Rgdl.png"
+  },
+  {
+    "name": "Razor",
+    "key": "item.11455.name",
+    "data": "/items/artefact/thermal/2Xqg.json",
+    "icon": "/icons/artefact/thermal/2Xqg.png"
+  },
+  {
+    "name": "Heel",
+    "key": "item.art.blizzard_heel.name",
+    "data": "/items/artefact/thermal/JkGK.json",
+    "icon": "/icons/artefact/thermal/JkGK.png"
+  },
+  {
+    "name": "Chicken God",
+    "key": "item.art.blizzard_chickengod.name",
+    "data": "/items/artefact/thermal/PR1M.json",
+    "icon": "/icons/artefact/thermal/PR1M.png"
+  },
+  {
+    "name": "Eye of the Storm",
+    "key": "item.art.blizzard_stormeye.name",
+    "data": "/items/artefact/thermal/NMaj.json",
+    "icon": "/icons/artefact/thermal/NMaj.png"
+  },
+  {
+    "name": "Rubik",
+    "key": "item.art.special_rubik.name",
+    "data": "/items/artefact/other_arts/B132.json",
+    "icon": "/icons/artefact/other_arts/B132.png"
+  },
+  {
+    "name": "KZS-1 Container",
+    "key": "item.cont.kzs1.name",
+    "data": "/items/containers/BOlx.json",
+    "icon": "/icons/containers/BOlx.png"
+  },
+  {
+    "name": "KZS-1u Container",
+    "key": "item.cont.kzs1d.name",
+    "data": "/items/containers/3gLq.json",
+    "icon": "/icons/containers/3gLq.png"
+  },
+  {
+    "name": "KZS-2",
+    "key": "item.cont.kzs2.name",
+    "data": "/items/containers/Rb1x.json",
+    "icon": "/icons/containers/Rb1x.png"
+  },
+  {
+    "name": "Hellboy Backpack",
+    "key": "item.bag.hellboy.name",
+    "data": "/items/containers/2DEN.json",
+    "icon": "/icons/containers/2DEN.png"
+  },
+  {
+    "name": "KZS-2u",
+    "key": "item.cont.kzs2d.name",
+    "data": "/items/containers/DNjR.json",
+    "icon": "/icons/containers/DNjR.png"
+  },
+  {
+    "name": "Reinforced Hellboy Backpack",
+    "key": "item.bag.hellboyd.name",
+    "data": "/items/containers/QAOn.json",
+    "icon": "/icons/containers/QAOn.png"
+  },
+  {
+    "name": "IU-2 Container",
+    "key": "item.cont.iu2.name",
+    "data": "/items/containers/m0OL.json",
+    "icon": "/icons/containers/m0OL.png"
+  },
+  {
+    "name": "KZS-3",
+    "key": "item.cont.kzs3.name",
+    "data": "/items/containers/zg6l.json",
+    "icon": "/icons/containers/zg6l.png"
+  },
+  {
+    "name": "KZS-3u",
+    "key": "item.cont.kzs3d.name",
+    "data": "/items/containers/MZDY.json",
+    "icon": "/icons/containers/MZDY.png"
+  },
+  {
+    "name": "Fridge Container",
+    "key": "item.cont.fridge.name",
+    "data": "/items/containers/a0nY.json",
+    "icon": "/icons/containers/a0nY.png"
+  },
+  {
+    "name": "Pack Bag",
+    "key": "item.cont.pouch.name",
+    "data": "/items/containers/oPG8.json",
+    "icon": "/icons/containers/oPG8.png"
+  },
+  {
+    "name": "Bear’s Den — 4 Container",
+    "key": "item.cont.bear4.name",
+    "data": "/items/containers/dLy5.json",
+    "icon": "/icons/containers/dLy5.png"
+  },
+  {
+    "name": "KZS-4",
+    "key": "item.cont.kzs4.name",
+    "data": "/items/containers/7Jyz.json",
+    "icon": "/icons/containers/7Jyz.png"
+  },
+  {
+    "name": "Cocoon Container",
+    "key": "item.cont.cocoon.name",
+    "data": "/items/containers/j6nm.json",
+    "icon": "/icons/containers/j6nm.png"
+  },
+  {
+    "name": "Forager Container",
+    "key": "item.cont.getter.name",
+    "data": "/items/containers/9rKA.json",
+    "icon": "/icons/containers/9rKA.png"
+  },
+  {
+    "name": "SMC Container",
+    "key": "item.cont.ksm.name",
+    "data": "/items/containers/rBNm.json",
+    "icon": "/icons/containers/rBNm.png"
+  },
+  {
+    "name": "Berloga-4u Container",
+    "key": "item.cont.bear4d.name",
+    "data": "/items/containers/X9bQ.json",
+    "icon": "/icons/containers/X9bQ.png"
+  },
+  {
+    "name": "KZS-4u",
+    "key": "item.cont.kzs4d.name",
+    "data": "/items/containers/ZYBG.json",
+    "icon": "/icons/containers/ZYBG.png"
+  },
+  {
+    "name": "Game Bag",
+    "key": "item.bag.tasche.name",
+    "data": "/items/containers/OZDE.json",
+    "icon": "/icons/containers/OZDE.png"
+  },
+  {
+    "name": "Freezer Container",
+    "key": "item.cont.kolotun.name",
+    "data": "/items/containers/q0Nr.json",
+    "icon": "/icons/containers/q0Nr.png"
+  },
+  {
+    "name": "KZS-5",
+    "key": "item.cont.kzs5.name",
+    "data": "/items/containers/A3dB.json",
+    "icon": "/icons/containers/A3dB.png"
+  },
+  {
+    "name": "Hive Container",
+    "key": "item.cont.hive.name",
+    "data": "/items/containers/EY7z.json",
+    "icon": "/icons/containers/EY7z.png"
+  },
+  {
+    "name": "KZS-5y",
+    "key": "item.cont.kzs5d.name",
+    "data": "/items/containers/yg92.json",
+    "icon": "/icons/containers/yg92.png"
+  },
+  {
+    "name": "Bear’s Den — 6 Container",
+    "key": "item.cont.bear6.name",
+    "data": "/items/containers/VA1K.json",
+    "icon": "/icons/containers/VA1K.png"
+  },
+  {
+    "name": "Berloga-6u Container",
+    "key": "item.cont.bear6d.name",
+    "data": "/items/containers/2DON.json",
+    "icon": "/icons/containers/2DON.png"
+  },
+  {
+    "name": "Transformer Bag",
+    "key": "item.bag.transformer.name",
+    "data": "/items/containers/Rboy.json",
+    "icon": "/icons/containers/Rboy.png"
+  },
+  {
+    "name": "Sports Bag",
+    "key": "item.bag.sports.name",
+    "data": "/items/containers/DNVZ.json",
+    "icon": "/icons/containers/DNVZ.png"
+  },
+  {
+    "name": "Errand Junior Backpack",
+    "key": "item.bag.errand.name",
+    "data": "/items/containers/G706.json",
+    "icon": "/icons/containers/G706.png"
+  },
+  {
+    "name": "MBSS Backpack",
+    "key": "item.bag.mbss.name",
+    "data": "/items/containers/MZ7E.json",
+    "icon": "/icons/containers/MZ7E.png"
+  },
+  {
+    "name": "Tri-Zip Assault Backpack",
+    "key": "item.bag.trizip.name",
+    "data": "/items/containers/X9E7.json",
+    "icon": "/icons/containers/X9E7.png"
+  },
+  {
+    "name": "NPA Backpack",
+    "key": "item.bag.npa.name",
+    "data": "/items/containers/A3KP.json",
+    "icon": "/icons/containers/A3KP.png"
+  },
+  {
+    "name": "RGN",
+    "key": "item.exp.rgn.name",
+    "data": "/items/grenade/rB2d.json",
+    "icon": "/icons/grenade/rB2d.png"
+  },
+  {
+    "name": "RGO",
+    "key": "item.exp.rgo.name",
+    "data": "/items/grenade/X9e1.json",
+    "icon": "/icons/grenade/X9e1.png"
+  },
+  {
+    "name": "Flare Grenade",
+    "key": "item.exp.vspishka.name",
+    "data": "/items/grenade/A3Rw.json",
+    "icon": "/icons/grenade/A3Rw.png"
+  },
+  {
+    "name": "M84",
+    "key": "item.exp.m84.name",
+    "data": "/items/grenade/EYNA.json",
+    "icon": "/icons/grenade/EYNA.png"
+  },
+  {
+    "name": "M84 QD",
+    "key": "item.exp.m84qd.name",
+    "data": "/items/grenade/Lm3Z.json",
+    "icon": "/icons/grenade/Lm3Z.png"
+  },
+  {
+    "name": "RGD-5",
+    "key": "item.exp.rgd5.name",
+    "data": "/items/grenade/5e6a.json",
+    "icon": "/icons/grenade/5e6a.png"
+  },
+  {
+    "name": "F-1",
+    "key": "item.exp.f1.name",
+    "data": "/items/grenade/BO2r.json",
+    "icon": "/icons/grenade/BO2r.png"
+  },
+  {
+    "name": "M67",
+    "key": "item.exp.m67.name",
+    "data": "/items/grenade/ygm5.json",
+    "icon": "/icons/grenade/ygm5.png"
+  },
+  {
+    "name": "V40 Mini-Grenade",
+    "key": "item.exp.v40.name",
+    "data": "/items/grenade/l03r.json",
+    "icon": "/icons/grenade/l03r.png"
+  },
+  {
+    "name": "VOG-25 Grenade Round",
+    "key": "item.exp.vog25.name",
+    "data": "/items/grenade/KrkX.json",
+    "icon": "/icons/grenade/KrkX.png"
+  },
+  {
+    "name": "VOG-25 Podkidysh Grenade Round",
+    "key": "item.exp.vog25p.name",
+    "data": "/items/grenade/kYkN.json",
+    "icon": "/icons/grenade/kYkN.png"
+  },
+  {
+    "name": "M381 Grenade Round",
+    "key": "item.exp.m381.name",
+    "data": "/items/grenade/3grl.json",
+    "icon": "/icons/grenade/3grl.png"
+  },
+  {
+    "name": "M397 Grenade Round",
+    "key": "item.exp.m397.name",
+    "data": "/items/grenade/VADg.json",
+    "icon": "/icons/grenade/VADg.png"
+  },
+  {
+    "name": "M2 Grenade Round",
+    "key": "item.exp.m381_2.name",
+    "data": "/items/grenade/a0J0.json",
+    "icon": "/icons/grenade/a0J0.png"
+  },
+  {
+    "name": "9 mm Ammo",
+    "key": "item.amm.9st.name",
+    "data": "/items/bullet/BOry.json",
+    "icon": "/icons/bullet/BOry.png"
+  },
+  {
+    "name": "9 mm Armor-piercing Ammo",
+    "key": "item.amm.9bb.name",
+    "data": "/items/bullet/yg3N.json",
+    "icon": "/icons/bullet/yg3N.png"
+  },
+  {
+    "name": "9 mm Expanding Ammo",
+    "key": "item.amm.9exp.name",
+    "data": "/items/bullet/l0XB.json",
+    "icon": "/icons/bullet/l0XB.png"
+  },
+  {
+    "name": "9 mm Incendiary Ammo",
+    "key": "item.amm.9inc.name",
+    "data": "/items/bullet/Krnx.json",
+    "icon": "/icons/bullet/Krnx.png"
+  },
+  {
+    "name": "9 mm SBP Ammo",
+    "key": "item.amm.9sbp.name",
+    "data": "/items/bullet/kYX1.json",
+    "icon": "/icons/bullet/kYX1.png"
+  },
+  {
+    "name": "Frost Shot",
+    "key": "item.amm.12frz.name",
+    "data": "/items/bullet/gPXm.json",
+    "icon": "/icons/bullet/gPXm.png"
+  },
+  {
+    "name": "12 Caliber Incendiary",
+    "key": "item.amm.12inc.name",
+    "data": "/items/bullet/0P9q.json",
+    "icon": "/icons/bullet/0P9q.png"
+  },
+  {
+    "name": "12 Caliber Canister Shot",
+    "key": "item.amm.12kar.name",
+    "data": "/items/bullet/RbNO.json",
+    "icon": "/icons/bullet/RbNO.png"
+  },
+  {
+    "name": "12 Caliber Buckshot",
+    "key": "item.amm.12drob.name",
+    "data": "/items/bullet/2D9P.json",
+    "icon": "/icons/bullet/2D9P.png"
+  },
+  {
+    "name": "12 Caliber Hunting Round",
+    "key": "item.amm.12slug.name",
+    "data": "/items/bullet/JNVG.json",
+    "icon": "/icons/bullet/JNVG.png"
+  },
+  {
+    "name": "12 Caliber Live Ammo",
+    "key": "item.amm.12dart.name",
+    "data": "/items/bullet/PbJx.json",
+    "icon": "/icons/bullet/PbJx.png"
+  },
+  {
+    "name": "5.45 mm Ammo",
+    "key": "item.amm.545st.name",
+    "data": "/items/bullet/NbRD.json",
+    "icon": "/icons/bullet/NbRD.png"
+  },
+  {
+    "name": "5.45 mm Armor-Piercing Ammo",
+    "key": "item.amm.545bb.name",
+    "data": "/items/bullet/DNBn.json",
+    "icon": "/icons/bullet/DNBn.png"
+  },
+  {
+    "name": "5.45 mm Expanding Ammo",
+    "key": "item.amm.545exp.name",
+    "data": "/items/bullet/QAEj.json",
+    "icon": "/icons/bullet/QAEj.png"
+  },
+  {
+    "name": "5.45 mm Incendiary Ammo",
+    "key": "item.amm.545inc.name",
+    "data": "/items/bullet/m0Zz.json",
+    "icon": "/icons/bullet/m0Zz.png"
+  },
+  {
+    "name": "5.45 mm SBP Ammo",
+    "key": "item.amm.545sbp.name",
+    "data": "/items/bullet/6Q6x.json",
+    "icon": "/icons/bullet/6Q6x.png"
+  },
+  {
+    "name": "5.56 mm Ammo",
+    "key": "item.amm.556st.name",
+    "data": "/items/bullet/xgXa.json",
+    "icon": "/icons/bullet/xgXa.png"
+  },
+  {
+    "name": "5.56 mm Armor-Piercing Ammo",
+    "key": "item.amm.556bb.name",
+    "data": "/items/bullet/zgoX.json",
+    "icon": "/icons/bullet/zgoX.png"
+  },
+  {
+    "name": "5.56 mm Expanding Ammo",
+    "key": "item.amm.556exp.name",
+    "data": "/items/bullet/81zQ.json",
+    "icon": "/icons/bullet/81zQ.png"
+  },
+  {
+    "name": "5.56 mm Incendiary Ammo",
+    "key": "item.amm.556inc.name",
+    "data": "/items/bullet/G7E7.json",
+    "icon": "/icons/bullet/G7E7.png"
+  },
+  {
+    "name": "5.56 SBP Ammo",
+    "key": "item.amm.556sbp.name",
+    "data": "/items/bullet/w3Xq.json",
+    "icon": "/icons/bullet/w3Xq.png"
+  },
+  {
+    "name": "7.62 mm Ammo",
+    "key": "item.amm.762st.name",
+    "data": "/items/bullet/MZED.json",
+    "icon": "/icons/bullet/MZED.png"
+  },
+  {
+    "name": "7.62 mm Armor-Piercing Ammo",
+    "key": "item.amm.762bb.name",
+    "data": "/items/bullet/a0EV.json",
+    "icon": "/icons/bullet/a0EV.png"
+  },
+  {
+    "name": "7.62 mm Expanding Ammo",
+    "key": "item.amm.762exp.name",
+    "data": "/items/bullet/oPo7.json",
+    "icon": "/icons/bullet/oPo7.png"
+  },
+  {
+    "name": "7.62 mm Incendiary Ammo",
+    "key": "item.amm.762inc.name",
+    "data": "/items/bullet/1rPj.json",
+    "icon": "/icons/bullet/1rPj.png"
+  },
+  {
+    "name": "7.62 mm SBP Ammo",
+    "key": "item.amm.762sbp.name",
+    "data": "/items/bullet/bRZb.json",
+    "icon": "/icons/bullet/bRZb.png"
+  },
+  {
+    "name": "9x39 mm SP-5 Ammo",
+    "key": "item.amm.939st.name",
+    "data": "/items/bullet/dLZj.json",
+    "icon": "/icons/bullet/dLZj.png"
+  },
+  {
+    "name": "9x39 mm SP-6 Ammo",
+    "key": "item.amm.939bb.name",
+    "data": "/items/bullet/7JxP.json",
+    "icon": "/icons/bullet/7JxP.png"
+  },
+  {
+    "name": "9x39 mm BP Ammo",
+    "key": "item.amm.939sbp.name",
+    "data": "/items/bullet/j6ZK.json",
+    "icon": "/icons/bullet/j6ZK.png"
+  },
+  {
+    "name": "Large-Caliber Ammo",
+    "key": "item.amm.12st.name",
+    "data": "/items/bullet/9r8V.json",
+    "icon": "/icons/bullet/9r8V.png"
+  },
+  {
+    "name": "7.62 mm Sniper Ammo",
+    "key": "item.amm.762snp.name",
+    "data": "/items/bullet/X9AX.json",
+    "icon": "/icons/bullet/X9AX.png"
+  },
+  {
+    "name": "Gauss Rifle Charger",
+    "key": "item.amm.akumulatora.name",
+    "data": "/items/bullet/OZEV.json",
+    "icon": "/icons/bullet/OZEV.png"
+  },
+  {
+    "name": "10 mm Ammo",
+    "key": "item.amm.10st.name",
+    "data": "/items/bullet/A3E9.json",
+    "icon": "/icons/bullet/A3E9.png"
+  },
+  {
+    "name": "10 mm Incendiary Ammo",
+    "key": "item.amm.10inc.name",
+    "data": "/items/bullet/EYEE.json",
+    "icon": "/icons/bullet/EYEE.png"
+  },
+  {
+    "name": "Tank of Combustible Mixture",
+    "key": "item.amm.gas.name",
+    "data": "/items/bullet/LmEy.json",
+    "icon": "/icons/bullet/LmEy.png"
+  },
+  {
+    "name": "Tank of Combustible Mixture",
+    "key": "item.amm.gas_small.name",
+    "data": "/items/bullet/BOEy.json",
+    "icon": "/icons/bullet/BOEy.png"
+  },
+  {
+    "name": "12.7x55 Ammo",
+    "key": "item.amm.127st.name",
+    "data": "/items/bullet/yg5N.json",
+    "icon": "/icons/bullet/yg5N.png"
+  },
+  {
+    "name": "12.7x55 SMG Ammo",
+    "key": "item.amm.127bb.name",
+    "data": "/items/bullet/l0ZB.json",
+    "icon": "/icons/bullet/l0ZB.png"
+  },
+  {
+    "name": "12.7x55 mm Sniper Ammo",
+    "key": "item.amm.127snp.name",
+    "data": "/items/bullet/KrEx.json",
+    "icon": "/icons/bullet/KrEx.png"
+  },
+  {
+    "name": "9 mm Silver Ammo",
+    "key": "item.amm.9silver.name",
+    "data": "/items/bullet/BOYN.json",
+    "icon": "/icons/bullet/BOYN.png"
+  },
+  {
+    "name": "12 Caliber Silver Ammo",
+    "key": "item.amm.12slugsilver.name",
+    "data": "/items/bullet/ygrx.json",
+    "icon": "/icons/bullet/ygrx.png"
+  },
+  {
+    "name": "5.45 mm Silver Ammo",
+    "key": "item.amm.545silver.name",
+    "data": "/items/bullet/l0rK.json",
+    "icon": "/icons/bullet/l0rK.png"
+  },
+  {
+    "name": "5.56 mm Silver Ammo",
+    "key": "item.amm.556silver.name",
+    "data": "/items/bullet/KrB8.json",
+    "icon": "/icons/bullet/KrB8.png"
+  },
+  {
+    "name": "7.62 mm Silver Ammo",
+    "key": "item.amm.762silver.name",
+    "data": "/items/bullet/kYwG.json",
+    "icon": "/icons/bullet/kYwG.png"
+  },
+  {
+    "name": "9x39 mm Silver Ammo",
+    "key": "item.amm.939silver.name",
+    "data": "/items/bullet/3g8R.json",
+    "icon": "/icons/bullet/3g8R.png"
+  },
+  {
+    "name": "Large-Caliber Silver Ammo",
+    "key": "item.amm.12silver.name",
+    "data": "/items/bullet/VAlJ.json",
+    "icon": "/icons/bullet/VAlJ.png"
+  },
+  {
+    "name": "12.7x55 mm Silver Ammo",
+    "key": "item.amm.127silver.name",
+    "data": "/items/bullet/nRa2.json",
+    "icon": "/icons/bullet/nRa2.png"
+  },
+  {
+    "name": "9 mm Silver Ammo",
+    "key": "item.amm.9silver2.name",
+    "data": "/items/bullet/Rb5b.json",
+    "icon": "/icons/bullet/Rb5b.png"
+  },
+  {
+    "name": "12 Caliber Silver Ammo",
+    "key": "item.amm.12slugsilver2.name",
+    "data": "/items/bullet/2Dz7.json",
+    "icon": "/icons/bullet/2Dz7.png"
+  },
+  {
+    "name": "5.45 mm Silver Ammo",
+    "key": "item.amm.545silver2.name",
+    "data": "/items/bullet/JNX1.json",
+    "icon": "/icons/bullet/JNX1.png"
+  },
+  {
+    "name": "5.56 mm Silver Ammo",
+    "key": "item.amm.556silver2.name",
+    "data": "/items/bullet/PbOA.json",
+    "icon": "/icons/bullet/PbOA.png"
+  },
+  {
+    "name": "7.62 mm Silver Ammo",
+    "key": "item.amm.762silver2.name",
+    "data": "/items/bullet/NbXN.json",
+    "icon": "/icons/bullet/NbXN.png"
+  },
+  {
+    "name": "9x39 mm Silver Ammo",
+    "key": "item.amm.939silver2.name",
+    "data": "/items/bullet/DNXV.json",
+    "icon": "/icons/bullet/DNXV.png"
+  },
+  {
+    "name": "Large-Caliber Silver Ammo",
+    "key": "item.amm.12silver2.name",
+    "data": "/items/bullet/QAX1.json",
+    "icon": "/icons/bullet/QAX1.png"
+  },
+  {
+    "name": "12.7x55 mm Silver Ammo",
+    "key": "item.amm.127silver2.name",
+    "data": "/items/bullet/m0M8.json",
+    "icon": "/icons/bullet/m0M8.png"
+  },
+  {
+    "name": "GP-25 Kostyor",
+    "key": "item.att.launcher_gp25.name",
+    "data": "/items/attachment/other/Bl92.json",
+    "icon": "/icons/attachment/other/Bl92.png"
+  },
+  {
+    "name": "M203",
+    "key": "item.att.launcher_m203.name",
+    "data": "/items/attachment/other/yyzG.json",
+    "icon": "/icons/attachment/other/yyzG.png"
+  },
+  {
+    "name": "Grenade Launcher for OTs-14 Groza",
+    "key": "item.att.launcher_groza.name",
+    "data": "/items/attachment/other/lkn1.json",
+    "icon": "/icons/attachment/other/lkn1.png"
+  },
+  {
+    "name": "FN EGLM Grenade Launcher",
+    "key": "item.att.launcher_eglm.name",
+    "data": "/items/attachment/other/kKV6.json",
+    "icon": "/icons/attachment/other/kKV6.png"
+  },
+  {
+    "name": "SMG-91 KEDR",
+    "key": "item.wpn.kedr.name",
+    "data": "/items/weapon/submachine_gun/BMBr.json",
+    "icon": "/icons/weapon/submachine_gun/BMBr.png"
+  },
+  {
+    "name": "HK MP5",
+    "key": "item.wpn.mp5.name",
+    "data": "/items/weapon/submachine_gun/y1d5.json",
+    "icon": "/icons/weapon/submachine_gun/y1d5.png"
+  },
+  {
+    "name": "IMI Uzi",
+    "key": "item.wpn.uzi.name",
+    "data": "/items/weapon/submachine_gun/lOdr.json",
+    "icon": "/icons/weapon/submachine_gun/lOdr.png"
+  },
+  {
+    "name": "AEK-919K Kashtan",
+    "key": "item.wpn.kashtan.name",
+    "data": "/items/weapon/submachine_gun/KP0X.json",
+    "icon": "/icons/weapon/submachine_gun/KP0X.png"
+  },
+  {
+    "name": "AKS-74U",
+    "key": "item.wpn.aksu.name",
+    "data": "/items/weapon/assault_rifle/kaON.json",
+    "icon": "/icons/weapon/assault_rifle/kaON.png"
+  },
+  {
+    "name": "Walther MPK",
+    "key": "item.wpn.mpk.name",
+    "data": "/items/weapon/submachine_gun/32Pl.json",
+    "icon": "/icons/weapon/submachine_gun/32Pl.png"
+  },
+  {
+    "name": "AKS-74",
+    "key": "item.wpn.aks74.name",
+    "data": "/items/weapon/assault_rifle/MOwn.json",
+    "icon": "/icons/weapon/assault_rifle/MOwn.png"
+  },
+  {
+    "name": "L85A1",
+    "key": "item.wpn.l85.name",
+    "data": "/items/weapon/assault_rifle/aVQ0.json",
+    "icon": "/icons/weapon/assault_rifle/aVQ0.png"
+  },
+  {
+    "name": "SMG-19 Bizon-2-01",
+    "key": "item.wpn.bizon.name",
+    "data": "/items/weapon/submachine_gun/oq89.json",
+    "icon": "/icons/weapon/submachine_gun/oq89.png"
+  },
+  {
+    "name": "AKM",
+    "key": "item.wpn.akm.name",
+    "data": "/items/weapon/assault_rifle/1gnd.json",
+    "icon": "/icons/weapon/assault_rifle/1gnd.png"
+  },
+  {
+    "name": "SMG-19-01 Vityaz",
+    "key": "item.wpn.vityaz.name",
+    "data": "/items/weapon/submachine_gun/bnEg.json",
+    "icon": "/icons/weapon/submachine_gun/bnEg.png"
+  },
+  {
+    "name": "M4A1",
+    "key": "item.wpn.m4.name",
+    "data": "/items/weapon/assault_rifle/nqMw.json",
+    "icon": "/icons/weapon/assault_rifle/nqMw.png"
+  },
+  {
+    "name": "FN P90",
+    "key": "item.wpn.p90.name",
+    "data": "/items/weapon/submachine_gun/g9be.json",
+    "icon": "/icons/weapon/submachine_gun/g9be.png"
+  },
+  {
+    "name": "AS Val",
+    "key": "item.wpn.val.name",
+    "data": "/items/weapon/assault_rifle/0nVk.json",
+    "icon": "/icons/weapon/assault_rifle/0nVk.png"
+  },
+  {
+    "name": "SIG SG 550",
+    "key": "item.wpn.sig.name",
+    "data": "/items/weapon/assault_rifle/RywD.json",
+    "icon": "/icons/weapon/assault_rifle/RywD.png"
+  },
+  {
+    "name": "SMG-2000",
+    "key": "item.wpn.pp2000.name",
+    "data": "/items/weapon/submachine_gun/20g1.json",
+    "icon": "/icons/weapon/submachine_gun/20g1.png"
+  },
+  {
+    "name": "SR-2M Veresk",
+    "key": "item.wpn.sr2.name",
+    "data": "/items/weapon/submachine_gun/JJwe.json",
+    "icon": "/icons/weapon/submachine_gun/JJwe.png"
+  },
+  {
+    "name": "Spectre M4",
+    "key": "item.wpn.spectre.name",
+    "data": "/items/weapon/submachine_gun/PLoq.json",
+    "icon": "/icons/weapon/submachine_gun/PLoq.png"
+  },
+  {
+    "name": "M16A3",
+    "key": "item.wpn.m16a3.name",
+    "data": "/items/weapon/assault_rifle/NNw9.json",
+    "icon": "/icons/weapon/assault_rifle/NNw9.png"
+  },
+  {
+    "name": "M4 LB",
+    "key": "item.wpn.m4_lb.name",
+    "data": "/items/weapon/assault_rifle/DMZ7.json",
+    "icon": "/icons/weapon/assault_rifle/DMZ7.png"
+  },
+  {
+    "name": "AN-94 Abakan",
+    "key": "item.wpn.abakan.name",
+    "data": "/items/weapon/assault_rifle/QBwb.json",
+    "icon": "/icons/weapon/assault_rifle/QBwb.png"
+  },
+  {
+    "name": "M16A2",
+    "key": "item.wpn.m16a2.name",
+    "data": "/items/weapon/assault_rifle/xEKM.json",
+    "icon": "/icons/weapon/assault_rifle/xEKM.png"
+  },
+  {
+    "name": "AK-103",
+    "key": "item.wpn.ak103.name",
+    "data": "/items/weapon/assault_rifle/aVb0.json",
+    "icon": "/icons/weapon/assault_rifle/aVb0.png"
+  },
+  {
+    "name": "ALK-22 Dragonfly",
+    "key": "item.wpn.alk22.name",
+    "data": "/items/weapon/assault_rifle/1g8d.json",
+    "icon": "/icons/weapon/assault_rifle/1g8d.png"
+  },
+  {
+    "name": "HK G36C",
+    "key": "item.wpn.g36c.name",
+    "data": "/items/weapon/assault_rifle/75Bm.json",
+    "icon": "/icons/weapon/assault_rifle/75Bm.png"
+  },
+  {
+    "name": "OTs-14 Groza",
+    "key": "item.wpn.groza.name",
+    "data": "/items/weapon/assault_rifle/jaKq.json",
+    "icon": "/icons/weapon/assault_rifle/jaKq.png"
+  },
+  {
+    "name": "TDI KRISS Vector",
+    "key": "item.wpn.kriss.name",
+    "data": "/items/weapon/submachine_gun/92lL.json",
+    "icon": "/icons/weapon/submachine_gun/92lL.png"
+  },
+  {
+    "name": "A-545",
+    "key": "item.wpn.a545.name",
+    "data": "/items/weapon/assault_rifle/r62d.json",
+    "icon": "/icons/weapon/assault_rifle/r62d.png"
+  },
+  {
+    "name": "HK G3A1",
+    "key": "item.wpn.g3a1.name",
+    "data": "/items/weapon/assault_rifle/Xne1.json",
+    "icon": "/icons/weapon/assault_rifle/Xne1.png"
+  },
+  {
+    "name": "FN F2000 Tactical",
+    "key": "item.wpn.f2000.name",
+    "data": "/items/weapon/assault_rifle/Z0xx.json",
+    "icon": "/icons/weapon/assault_rifle/Z0xx.png"
+  },
+  {
+    "name": "AEK-971",
+    "key": "item.wpn.aek971.name",
+    "data": "/items/weapon/assault_rifle/qwRM.json",
+    "icon": "/icons/weapon/assault_rifle/qwRM.png"
+  },
+  {
+    "name": "ASh-12",
+    "key": "item.wpn.ash12.name",
+    "data": "/items/weapon/assault_rifle/Ygx7.json",
+    "icon": "/icons/weapon/assault_rifle/Ygx7.png"
+  },
+  {
+    "name": "FN F2000",
+    "key": "item.wpn.f2000-1.name",
+    "data": "/items/weapon/assault_rifle/y1m5.json",
+    "icon": "/icons/weapon/assault_rifle/y1m5.png"
+  },
+  {
+    "name": "DP",
+    "key": "item.wpn.dp.name",
+    "data": "/items/weapon/machine_gun/MOxx.json",
+    "icon": "/icons/weapon/machine_gun/MOxx.png"
+  },
+  {
+    "name": "RPK-74",
+    "key": "item.wpn.rpk74.name",
+    "data": "/items/weapon/machine_gun/aVJ1.json",
+    "icon": "/icons/weapon/machine_gun/aVJ1.png"
+  },
+  {
+    "name": "L86A1",
+    "key": "item.wpn.l86.name",
+    "data": "/items/weapon/machine_gun/V3yw.json",
+    "icon": "/icons/weapon/machine_gun/V3yw.png"
+  },
+  {
+    "name": "RPD",
+    "key": "item.wpn.rpd.name",
+    "data": "/items/weapon/machine_gun/nqE3.json",
+    "icon": "/icons/weapon/machine_gun/nqE3.png"
+  },
+  {
+    "name": "PKP Pecheneg",
+    "key": "item.wpn.pkp.name",
+    "data": "/items/weapon/machine_gun/75Qa.json",
+    "icon": "/icons/weapon/machine_gun/75Qa.png"
+  },
+  {
+    "name": "MG 42",
+    "key": "item.wpn.mg42.name",
+    "data": "/items/weapon/machine_gun/ja9X.json",
+    "icon": "/icons/weapon/machine_gun/ja9X.png"
+  },
+  {
+    "name": "Mosin’s Carbine",
+    "key": "item.wpn.mosinkar.name",
+    "data": "/items/weapon/sniper_rifle/y1DZ.json",
+    "icon": "/icons/weapon/sniper_rifle/y1DZ.png"
+  },
+  {
+    "name": "SKS",
+    "key": "item.wpn.sks.name",
+    "data": "/items/weapon/sniper_rifle/lOl0.json",
+    "icon": "/icons/weapon/sniper_rifle/lOl0.png"
+  },
+  {
+    "name": "Winchester M70",
+    "key": "item.wpn.winchester.name",
+    "data": "/items/weapon/sniper_rifle/aV7x.json",
+    "icon": "/icons/weapon/sniper_rifle/aV7x.png"
+  },
+  {
+    "name": "SVT-40",
+    "key": "item.wpn.svt40.name",
+    "data": "/items/weapon/sniper_rifle/d079.json",
+    "icon": "/icons/weapon/sniper_rifle/d079.png"
+  },
+  {
+    "name": "Steyr Scout",
+    "key": "item.wpn.scout.name",
+    "data": "/items/weapon/sniper_rifle/75z9.json",
+    "icon": "/icons/weapon/sniper_rifle/75z9.png"
+  },
+  {
+    "name": "SVD",
+    "key": "item.wpn.svd.name",
+    "data": "/items/weapon/sniper_rifle/V3m3.json",
+    "icon": "/icons/weapon/sniper_rifle/V3m3.png"
+  },
+  {
+    "name": "VSS Vintorez",
+    "key": "item.wpn.vss.name",
+    "data": "/items/weapon/sniper_rifle/nqyx.json",
+    "icon": "/icons/weapon/sniper_rifle/nqyx.png"
+  },
+  {
+    "name": "M40A5",
+    "key": "item.wpn.m40.name",
+    "data": "/items/weapon/sniper_rifle/g9Nw.json",
+    "icon": "/icons/weapon/sniper_rifle/g9Nw.png"
+  },
+  {
+    "name": "Alpine TPG-1",
+    "key": "item.wpn.alpine.name",
+    "data": "/items/weapon/sniper_rifle/RyPl.json",
+    "icon": "/icons/weapon/sniper_rifle/RyPl.png"
+  },
+  {
+    "name": "FG-42 Whip",
+    "key": "item.wpn.fg42.name",
+    "data": "/items/weapon/sniper_rifle/NN0j.json",
+    "icon": "/icons/weapon/sniper_rifle/NN0j.png"
+  },
+  {
+    "name": "M1A FA",
+    "key": "item.wpn.m1a.name",
+    "data": "/items/weapon/sniper_rifle/75w9.json",
+    "icon": "/icons/weapon/sniper_rifle/75w9.png"
+  },
+  {
+    "name": "SVU",
+    "key": "item.wpn.svu.name",
+    "data": "/items/weapon/sniper_rifle/jamz.json",
+    "icon": "/icons/weapon/sniper_rifle/jamz.png"
+  },
+  {
+    "name": "WA2000",
+    "key": "item.wpn.wa2000.name",
+    "data": "/items/weapon/sniper_rifle/92wq.json",
+    "icon": "/icons/weapon/sniper_rifle/92wq.png"
+  },
+  {
+    "name": "L96A1",
+    "key": "item.wpn.l96.name",
+    "data": "/items/weapon/sniper_rifle/r637.json",
+    "icon": "/icons/weapon/sniper_rifle/r637.png"
+  },
+  {
+    "name": "MTs-558",
+    "key": "item.wpn.mc558.name",
+    "data": "/items/weapon/sniper_rifle/OOR6.json",
+    "icon": "/icons/weapon/sniper_rifle/OOR6.png"
+  },
+  {
+    "name": "Karbach OTL-03",
+    "key": "item.wpn.otl.name",
+    "data": "/items/weapon/sniper_rifle/AMA7.json",
+    "icon": "/icons/weapon/sniper_rifle/AMA7.png"
+  },
+  {
+    "name": "BM-16 Sawed-Off",
+    "key": "item.wpn.obrezbm16.name",
+    "data": "/items/weapon/shotgun_rifle/BMA2.json",
+    "icon": "/icons/weapon/shotgun_rifle/BMA2.png"
+  },
+  {
+    "name": "BM-16",
+    "key": "item.wpn.bm16.name",
+    "data": "/items/weapon/shotgun_rifle/MOkQ.json",
+    "icon": "/icons/weapon/shotgun_rifle/MOkQ.png"
+  },
+  {
+    "name": "TOZ-34",
+    "key": "item.wpn.toz.name",
+    "data": "/items/weapon/shotgun_rifle/V3aa.json",
+    "icon": "/icons/weapon/shotgun_rifle/V3aa.png"
+  },
+  {
+    "name": "Mossberg 590A1",
+    "key": "item.wpn.mossberg.name",
+    "data": "/items/weapon/shotgun_rifle/nqPD.json",
+    "icon": "/icons/weapon/shotgun_rifle/nqPD.png"
+  },
+  {
+    "name": "Shorty 590",
+    "key": "item.wpn.shorty.name",
+    "data": "/items/weapon/shotgun_rifle/g9VX.json",
+    "icon": "/icons/weapon/shotgun_rifle/g9VX.png"
+  },
+  {
+    "name": "МР-133",
+    "key": "item.wpn.mr133.name",
+    "data": "/items/weapon/shotgun_rifle/0nmJ.json",
+    "icon": "/icons/weapon/shotgun_rifle/0nmJ.png"
+  },
+  {
+    "name": "RMB-93",
+    "key": "item.wpn.rmo93.name",
+    "data": "/items/weapon/shotgun_rifle/Ry7n.json",
+    "icon": "/icons/weapon/shotgun_rifle/Ry7n.png"
+  },
+  {
+    "name": "Chiappa Triple Crown",
+    "key": "item.wpn.triple.name",
+    "data": "/items/weapon/shotgun_rifle/PLaZ.json",
+    "icon": "/icons/weapon/shotgun_rifle/PLaZ.png"
+  },
+  {
+    "name": "Franchi SPAS-12",
+    "key": "item.wpn.spas.name",
+    "data": "/items/weapon/shotgun_rifle/75aL.json",
+    "icon": "/icons/weapon/shotgun_rifle/75aL.png"
+  },
+  {
+    "name": "Saiga-12K",
+    "key": "item.wpn.saiga.name",
+    "data": "/items/weapon/shotgun_rifle/ja2O.json",
+    "icon": "/icons/weapon/shotgun_rifle/ja2O.png"
+  },
+  {
+    "name": "МР-153",
+    "key": "item.wpn.mr153.name",
+    "data": "/items/weapon/shotgun_rifle/92aQ.json",
+    "icon": "/icons/weapon/shotgun_rifle/92aQ.png"
+  },
+  {
+    "name": "Protecta",
+    "key": "item.wpn.protecta.name",
+    "data": "/items/weapon/shotgun_rifle/XnQO.json",
+    "icon": "/icons/weapon/shotgun_rifle/XnQO.png"
+  },
+  {
+    "name": "OTs-62",
+    "key": "item.wpn.ots62.name",
+    "data": "/items/weapon/shotgun_rifle/qw6w.json",
+    "icon": "/icons/weapon/shotgun_rifle/qw6w.png"
+  },
+  {
+    "name": "PB",
+    "key": "item.wpn.pb.name",
+    "data": "/items/weapon/pistol/BMay.json",
+    "icon": "/icons/weapon/pistol/BMay.png"
+  },
+  {
+    "name": "PM",
+    "key": "item.wpn.pm.name",
+    "data": "/items/weapon/pistol/y17N.json",
+    "icon": "/icons/weapon/pistol/y17N.png"
+  },
+  {
+    "name": "TT",
+    "key": "item.wpn.tt.name",
+    "data": "/items/weapon/pistol/lOPB.json",
+    "icon": "/icons/weapon/pistol/lOPB.png"
+  },
+  {
+    "name": "Fort-12",
+    "key": "item.wpn.fort12.name",
+    "data": "/items/weapon/pistol/MO0D.json",
+    "icon": "/icons/weapon/pistol/MO0D.png"
+  },
+  {
+    "name": "Walther P99",
+    "key": "item.wpn.p99.name",
+    "data": "/items/weapon/pistol/aVXV.json",
+    "icon": "/icons/weapon/pistol/aVXV.png"
+  },
+  {
+    "name": "R-92",
+    "key": "item.wpn.r92.name",
+    "data": "/items/weapon/pistol/oqY7.json",
+    "icon": "/icons/weapon/pistol/oqY7.png"
+  },
+  {
+    "name": "Beretta 92FS",
+    "key": "item.wpn.beretta.name",
+    "data": "/items/weapon/pistol/V36x.json",
+    "icon": "/icons/weapon/pistol/V36x.png"
+  },
+  {
+    "name": "Browning Hi-Power",
+    "key": "item.wpn.hp.name",
+    "data": "/items/weapon/pistol/nqXA.json",
+    "icon": "/icons/weapon/pistol/nqXA.png"
+  },
+  {
+    "name": "Mauser C96",
+    "key": "item.wpn.mauser.name",
+    "data": "/items/weapon/pistol/g9Xm.json",
+    "icon": "/icons/weapon/pistol/g9Xm.png"
+  },
+  {
+    "name": "Beretta 93R",
+    "key": "item.wpn.beretta93.name",
+    "data": "/items/weapon/pistol/0n9q.json",
+    "icon": "/icons/weapon/pistol/0n9q.png"
+  },
+  {
+    "name": "SW1911",
+    "key": "item.wpn.colt.name",
+    "data": "/items/weapon/pistol/75xP.json",
+    "icon": "/icons/weapon/pistol/75xP.png"
+  },
+  {
+    "name": "Glock 17",
+    "key": "item.wpn.glock17.name",
+    "data": "/items/weapon/pistol/jaZK.json",
+    "icon": "/icons/weapon/pistol/jaZK.png"
+  },
+  {
+    "name": "Desert Eagle Mark XIX",
+    "key": "item.wpn.deagle.name",
+    "data": "/items/weapon/pistol/928V.json",
+    "icon": "/icons/weapon/pistol/928V.png"
+  },
+  {
+    "name": "SR-1 Gyurza",
+    "key": "item.wpn.sr1.name",
+    "data": "/items/weapon/pistol/r6YM.json",
+    "icon": "/icons/weapon/pistol/r6YM.png"
+  },
+  {
+    "name": "OTs-33 Pernach",
+    "key": "item.wpn.oc33.name",
+    "data": "/items/weapon/pistol/XnAX.json",
+    "icon": "/icons/weapon/pistol/XnAX.png"
+  },
+  {
+    "name": "Colt Python",
+    "key": "item.wpn.python.name",
+    "data": "/items/weapon/pistol/Z0Zy.json",
+    "icon": "/icons/weapon/pistol/Z0Zy.png"
+  },
+  {
+    "name": "RSh-12",
+    "key": "item.wpn.rsh12.name",
+    "data": "/items/weapon/pistol/YgZm.json",
+    "icon": "/icons/weapon/pistol/YgZm.png"
+  },
+  {
+    "name": "HK UMP9",
+    "key": "item.wpn.ump.name",
+    "data": "/items/weapon/submachine_gun/BMEN.json",
+    "icon": "/icons/weapon/submachine_gun/BMEN.png"
+  },
+  {
+    "name": "IMI Mini Uzi",
+    "key": "item.wpn.miniuzi.name",
+    "data": "/items/weapon/submachine_gun/y15x.json",
+    "icon": "/icons/weapon/submachine_gun/y15x.png"
+  },
+  {
+    "name": "IMI Micro Uzi",
+    "key": "item.wpn.microuzi.name",
+    "data": "/items/weapon/pistol/lOZK.json",
+    "icon": "/icons/weapon/pistol/lOZK.png"
+  },
+  {
+    "name": "PMM",
+    "key": "item.wpn.pmm.name",
+    "data": "/items/weapon/pistol/KPE8.json",
+    "icon": "/icons/weapon/pistol/KPE8.png"
+  },
+  {
+    "name": "HK MP5K",
+    "key": "item.wpn.mp5k.name",
+    "data": "/items/weapon/submachine_gun/karG.json",
+    "icon": "/icons/weapon/submachine_gun/karG.png"
+  },
+  {
+    "name": "Ingram MAC-10",
+    "key": "item.wpn.mac10.name",
+    "data": "/items/weapon/pistol/32XR.json",
+    "icon": "/icons/weapon/pistol/32XR.png"
+  },
+  {
+    "name": "Kbk wz. 88 Tantal",
+    "key": "item.wpn.wz88.name",
+    "data": "/items/weapon/assault_rifle/MOlk.json",
+    "icon": "/icons/weapon/assault_rifle/MOlk.png"
+  },
+  {
+    "name": "Mosin’s Rifle",
+    "key": "item.wpn.mosin.name",
+    "data": "/items/weapon/sniper_rifle/aV5B.json",
+    "icon": "/icons/weapon/sniper_rifle/aV5B.png"
+  },
+  {
+    "name": "Cobray Terminator",
+    "key": "item.wpn.terminator.name",
+    "data": "/items/weapon/shotgun_rifle/oqrQ.json",
+    "icon": "/icons/weapon/shotgun_rifle/oqrQ.png"
+  },
+  {
+    "name": "SOK-94",
+    "key": "item.wpn.sok94.name",
+    "data": "/items/weapon/sniper_rifle/1gE9.json",
+    "icon": "/icons/weapon/sniper_rifle/1gE9.png"
+  },
+  {
+    "name": "APS",
+    "key": "item.wpn.aps.name",
+    "data": "/items/weapon/pistol/V3lJ.json",
+    "icon": "/icons/weapon/pistol/V3lJ.png"
+  },
+  {
+    "name": "AK-105",
+    "key": "item.wpn.ak105.name",
+    "data": "/items/weapon/assault_rifle/nqa2.json",
+    "icon": "/icons/weapon/assault_rifle/nqa2.png"
+  },
+  {
+    "name": "LR-300",
+    "key": "item.wpn.lr300.name",
+    "data": "/items/weapon/assault_rifle/g9xG.json",
+    "icon": "/icons/weapon/assault_rifle/g9xG.png"
+  },
+  {
+    "name": "FN SCAR-L",
+    "key": "item.wpn.scarl.name",
+    "data": "/items/weapon/assault_rifle/0n6Q.json",
+    "icon": "/icons/weapon/assault_rifle/0n6Q.png"
+  },
+  {
+    "name": "RPK",
+    "key": "item.wpn.rpk.name",
+    "data": "/items/weapon/machine_gun/Ry5b.json",
+    "icon": "/icons/weapon/machine_gun/Ry5b.png"
+  },
+  {
+    "name": "OTs-14M Shtorm",
+    "key": "item.wpn.storm.name",
+    "data": "/items/weapon/assault_rifle/20z7.json",
+    "icon": "/icons/weapon/assault_rifle/20z7.png"
+  },
+  {
+    "name": "SV-98",
+    "key": "item.wpn.sv98.name",
+    "data": "/items/weapon/sniper_rifle/JJX1.json",
+    "icon": "/icons/weapon/sniper_rifle/JJX1.png"
+  },
+  {
+    "name": "AA-12",
+    "key": "item.wpn.aa12.name",
+    "data": "/items/weapon/shotgun_rifle/PLOA.json",
+    "icon": "/icons/weapon/shotgun_rifle/PLOA.png"
+  },
+  {
+    "name": "Glock 18C",
+    "key": "item.wpn.glock18c.name",
+    "data": "/items/weapon/pistol/NNXN.json",
+    "icon": "/icons/weapon/pistol/NNXN.png"
+  },
+  {
+    "name": "M1014",
+    "key": "item.wpn.m1014.name",
+    "data": "/items/weapon/shotgun_rifle/DMXV.json",
+    "icon": "/icons/weapon/shotgun_rifle/DMXV.png"
+  },
+  {
+    "name": "M249 SAW",
+    "key": "item.wpn.m249.name",
+    "data": "/items/weapon/machine_gun/QBX1.json",
+    "icon": "/icons/weapon/machine_gun/QBX1.png"
+  },
+  {
+    "name": "9А-91",
+    "key": "item.wpn.9a91.name",
+    "data": "/items/weapon/assault_rifle/mqM8.json",
+    "icon": "/icons/weapon/assault_rifle/mqM8.png"
+  },
+  {
+    "name": "VSK-94",
+    "key": "item.wpn.vsk94.name",
+    "data": "/items/weapon/sniper_rifle/62eE.json",
+    "icon": "/icons/weapon/sniper_rifle/62eE.png"
+  },
+  {
+    "name": "Steyr AUG 9 mm",
+    "key": "item.wpn.aug9mm.name",
+    "data": "/items/weapon/submachine_gun/xEjK.json",
+    "icon": "/icons/weapon/submachine_gun/xEjK.png"
+  },
+  {
+    "name": "МР-412",
+    "key": "item.wpn.mr412.name",
+    "data": "/items/weapon/pistol/z1jL.json",
+    "icon": "/icons/weapon/pistol/z1jL.png"
+  },
+  {
+    "name": "Steyr AUG A1",
+    "key": "item.wpn.aug.name",
+    "data": "/items/weapon/assault_rifle/8O53.json",
+    "icon": "/icons/weapon/assault_rifle/8O53.png"
+  },
+  {
+    "name": "HK416",
+    "key": "item.wpn.hk416.name",
+    "data": "/items/weapon/assault_rifle/w1jP.json",
+    "icon": "/icons/weapon/assault_rifle/w1jP.png"
+  },
+  {
+    "name": "RPK-16",
+    "key": "item.wpn.rpk16.name",
+    "data": "/items/weapon/machine_gun/eamJ.json",
+    "icon": "/icons/weapon/machine_gun/eamJ.png"
+  },
+  {
+    "name": "TKB-0146M",
+    "key": "item.wpn.tkb.name",
+    "data": "/items/weapon/assault_rifle/MOXk.json",
+    "icon": "/icons/weapon/assault_rifle/MOXk.png"
+  },
+  {
+    "name": "MTs-116M",
+    "key": "item.wpn.mc116.name",
+    "data": "/items/weapon/sniper_rifle/aVPB.json",
+    "icon": "/icons/weapon/sniper_rifle/aVPB.png"
+  },
+  {
+    "name": "Grizzly 8.5",
+    "key": "item.wpn.grizzly.name",
+    "data": "/items/weapon/shotgun_rifle/oqjQ.json",
+    "icon": "/icons/weapon/shotgun_rifle/oqjQ.png"
+  },
+  {
+    "name": "Steyr AUG A2",
+    "key": "item.wpn.aug2.name",
+    "data": "/items/weapon/assault_rifle/1gx9.json",
+    "icon": "/icons/weapon/assault_rifle/1gx9.png"
+  },
+  {
+    "name": "Steyr AUG A3",
+    "key": "item.wpn.aug3.name",
+    "data": "/items/weapon/assault_rifle/bnNZ.json",
+    "icon": "/icons/weapon/assault_rifle/bnNZ.png"
+  },
+  {
+    "name": "AK-12",
+    "key": "item.wpn.ak12.name",
+    "data": "/items/weapon/assault_rifle/d0QM.json",
+    "icon": "/icons/weapon/assault_rifle/d0QM.png"
+  },
+  {
+    "name": "SIG SG 550 Sniper",
+    "key": "item.wpn.sigsniper.name",
+    "data": "/items/weapon/sniper_rifle/75MM.json",
+    "icon": "/icons/weapon/sniper_rifle/75MM.png"
+  },
+  {
+    "name": "FN FAL",
+    "key": "item.wpn.fal.name",
+    "data": "/items/weapon/assault_rifle/jaGP.json",
+    "icon": "/icons/weapon/assault_rifle/jaGP.png"
+  },
+  {
+    "name": "HK XM8",
+    "key": "item.wpn.xm8.name",
+    "data": "/items/weapon/assault_rifle/92Xg.json",
+    "icon": "/icons/weapon/assault_rifle/92Xg.png"
+  },
+  {
+    "name": "FN SCAR-H",
+    "key": "item.wpn.scarh.name",
+    "data": "/items/weapon/assault_rifle/r6OV.json",
+    "icon": "/icons/weapon/assault_rifle/r6OV.png"
+  },
+  {
+    "name": "PTRD-M",
+    "key": "item.wpn.ptrd.name",
+    "data": "/items/weapon/heavy/Xn5y.json",
+    "icon": "/icons/weapon/heavy/Xn5y.png"
+  },
+  {
+    "name": "Gauss Rifle",
+    "key": "item.wpn.gauss.name",
+    "data": "/items/weapon/sniper_rifle/Z0V2.json",
+    "icon": "/icons/weapon/sniper_rifle/Z0V2.png"
+  },
+  {
+    "name": "FN SCAR SSR",
+    "key": "item.wpn.scarssr.name",
+    "data": "/items/weapon/sniper_rifle/OOXl.json",
+    "icon": "/icons/weapon/sniper_rifle/OOXl.png"
+  },
+  {
+    "name": "FAMAS G2",
+    "key": "item.wpn.famas.name",
+    "data": "/items/weapon/assault_rifle/qwjJ.json",
+    "icon": "/icons/weapon/assault_rifle/qwjJ.png"
+  },
+  {
+    "name": "McMillan CS5",
+    "key": "item.wpn.mcmillan.name",
+    "data": "/items/weapon/sniper_rifle/AMXD.json",
+    "icon": "/icons/weapon/sniper_rifle/AMXD.png"
+  },
+  {
+    "name": "Crye Precision SIX12",
+    "key": "item.wpn.six12.name",
+    "data": "/items/weapon/shotgun_rifle/E9Xq.json",
+    "icon": "/icons/weapon/shotgun_rifle/E9Xq.png"
+  },
+  {
+    "name": "HK PSG1",
+    "key": "item.wpn.psg.name",
+    "data": "/items/weapon/sniper_rifle/5DwQ.json",
+    "icon": "/icons/weapon/sniper_rifle/5DwQ.png"
+  },
+  {
+    "name": "HK XM8S",
+    "key": "item.wpn.xm8s.name",
+    "data": "/items/weapon/assault_rifle/BMXN.json",
+    "icon": "/icons/weapon/assault_rifle/BMXN.png"
+  },
+  {
+    "name": "HK417",
+    "key": "item.wpn.hk417.name",
+    "data": "/items/weapon/assault_rifle/y1jx.json",
+    "icon": "/icons/weapon/assault_rifle/y1jx.png"
+  },
+  {
+    "name": "DSA-58",
+    "key": "item.wpn.dsa58.name",
+    "data": "/items/weapon/assault_rifle/lOeK.json",
+    "icon": "/icons/weapon/assault_rifle/lOeK.png"
+  },
+  {
+    "name": "AK-308",
+    "key": "item.wpn.ak308.name",
+    "data": "/items/weapon/assault_rifle/KPX8.json",
+    "icon": "/icons/weapon/assault_rifle/KPX8.png"
+  },
+  {
+    "name": "IWI Tavor X95",
+    "key": "item.wpn.x95.name",
+    "data": "/items/weapon/assault_rifle/kaNG.json",
+    "icon": "/icons/weapon/assault_rifle/kaNG.png"
+  },
+  {
+    "name": "Tsunami",
+    "key": "item.wpn.kedr_mod.name",
+    "data": "/items/weapon/submachine_gun/BMyl.json",
+    "icon": "/icons/weapon/submachine_gun/BMyl.png"
+  },
+  {
+    "name": "Viper",
+    "key": "item.wpn.mp5_mod.name",
+    "data": "/items/weapon/submachine_gun/y1q9.json",
+    "icon": "/icons/weapon/submachine_gun/y1q9.png"
+  },
+  {
+    "name": "Rapier",
+    "key": "item.wpn.aks74_mod.name",
+    "data": "/items/weapon/assault_rifle/JJ03.json",
+    "icon": "/icons/weapon/assault_rifle/JJ03.png"
+  },
+  {
+    "name": "SMG Nut",
+    "key": "item.wpn.oreh.name",
+    "data": "/items/weapon/submachine_gun/NNPA.json",
+    "icon": "/icons/weapon/submachine_gun/NNPA.png"
+  },
+  {
+    "name": "AVT-40",
+    "key": "item.wpn.svt40_mod.name",
+    "data": "/items/weapon/sniper_rifle/V3g2.json",
+    "icon": "/icons/weapon/sniper_rifle/V3g2.png"
+  },
+  {
+    "name": "Avalanche",
+    "key": "item.wpn.svu_mod.name",
+    "data": "/items/weapon/sniper_rifle/JJao.json",
+    "icon": "/icons/weapon/sniper_rifle/JJao.png"
+  },
+  {
+    "name": "Eternal Novice’s PM",
+    "key": "item.wpn.pm_mod.name",
+    "data": "/items/weapon/pistol/y1R2.json",
+    "icon": "/icons/weapon/pistol/y1R2.png"
+  },
+  {
+    "name": "Bee",
+    "key": "item.wpn.p99_mod.name",
+    "data": "/items/weapon/pistol/JJd9.json",
+    "icon": "/icons/weapon/pistol/JJd9.png"
+  },
+  {
+    "name": "Dream",
+    "key": "item.wpn.hp_mod.name",
+    "data": "/items/weapon/pistol/aVzY.json",
+    "icon": "/icons/weapon/pistol/aVzY.png"
+  },
+  {
+    "name": "RG-6",
+    "key": "item.wpn.rg6.name",
+    "data": "/items/weapon/heavy/V35A.json",
+    "icon": "/icons/weapon/heavy/V35A.png"
+  },
+  {
+    "name": "Flamethrower",
+    "key": "item.wpn.flamethrower.name",
+    "data": "/items/weapon/heavy/nqe9.json",
+    "icon": "/icons/weapon/heavy/nqe9.png"
+  },
+  {
+    "name": "Tinderbox",
+    "key": "item.wpn.flamepistol.name",
+    "data": "/items/weapon/heavy/Ryjy.json",
+    "icon": "/icons/weapon/heavy/Ryjy.png"
+  },
+  {
+    "name": "RPG-7",
+    "key": "item.wpn.rpg7.name",
+    "data": "/items/weapon/heavy/753d.json",
+    "icon": "/icons/weapon/heavy/753d.png"
+  },
+  {
+    "name": "Hunter’s Knife",
+    "key": "item.21000.name",
+    "data": "/items/weapon/melee/BMqn.json",
+    "icon": "/icons/weapon/melee/BMqn.png"
+  },
+  {
+    "name": "Project 6X4",
+    "key": "item.21001.name",
+    "data": "/items/weapon/melee/y1l8.json",
+    "icon": "/icons/weapon/melee/y1l8.png"
+  },
+  {
+    "name": "Crowbar",
+    "key": "item.21002.name",
+    "data": "/items/weapon/melee/lOad.json",
+    "icon": "/icons/weapon/melee/lOad.png"
+  },
+  {
+    "name": "OTs-04",
+    "key": "item.melee.oc04.name",
+    "data": "/items/weapon/melee/KPYA.json",
+    "icon": "/icons/weapon/melee/KPYA.png"
+  },
+  {
+    "name": "Glock Feldmesser 78",
+    "key": "item.21004.name",
+    "data": "/items/weapon/melee/kaMk.json",
+    "icon": "/icons/weapon/melee/kaMk.png"
+  },
+  {
+    "name": "Gerber Downrange Tomahawk",
+    "key": "item.melee.downrange.name",
+    "data": "/items/weapon/melee/32qB.json",
+    "icon": "/icons/weapon/melee/32qB.png"
+  },
+  {
+    "name": "KO-1",
+    "key": "item.21006.name",
+    "data": "/items/weapon/melee/V3kG.json",
+    "icon": "/icons/weapon/melee/V3kG.png"
+  },
+  {
+    "name": "Kukri",
+    "key": "item.melee.kukri.name",
+    "data": "/items/weapon/melee/nq1k.json",
+    "icon": "/icons/weapon/melee/nq1k.png"
+  },
+  {
+    "name": "Jagdkommando",
+    "key": "item.21008.name",
+    "data": "/items/weapon/melee/g98N.json",
+    "icon": "/icons/weapon/melee/g98N.png"
+  },
+  {
+    "name": "Sapper’s Shovel",
+    "key": "item.21009.name",
+    "data": "/items/weapon/melee/0nq7.json",
+    "icon": "/icons/weapon/melee/0nq7.png"
+  },
+  {
+    "name": "Tanto with a Ring",
+    "key": "item.21010.name",
+    "data": "/items/weapon/melee/RyB7.json",
+    "icon": "/icons/weapon/melee/RyB7.png"
+  },
+  {
+    "name": "Hunter’s Machete",
+    "key": "item.21011.name",
+    "data": "/items/weapon/melee/20Aa.json",
+    "icon": "/icons/weapon/melee/20Aa.png"
+  },
+  {
+    "name": "Russian Bayonet",
+    "key": "item.21012.name",
+    "data": "/items/weapon/melee/JJqV.json",
+    "icon": "/icons/weapon/melee/JJqV.png"
+  },
+  {
+    "name": "Ice Pick",
+    "key": "item.21013.name",
+    "data": "/items/weapon/melee/PLqE.json",
+    "icon": "/icons/weapon/melee/PLqE.png"
+  },
+  {
+    "name": "Ax",
+    "key": "item.21014.name",
+    "data": "/items/weapon/melee/NNqK.json",
+    "icon": "/icons/weapon/melee/NNqK.png"
+  },
+  {
+    "name": "Hammer",
+    "key": "item.21015.name",
+    "data": "/items/weapon/melee/DMqX.json",
+    "icon": "/icons/weapon/melee/DMqX.png"
+  },
+  {
+    "name": "EMChes Machete",
+    "key": "item.21016.name",
+    "data": "/items/weapon/melee/QBqQ.json",
+    "icon": "/icons/weapon/melee/QBqQ.png"
+  },
+  {
+    "name": "M9 Bayonet Knife",
+    "key": "item.21017.name",
+    "data": "/items/weapon/melee/mqol.json",
+    "icon": "/icons/weapon/melee/mqol.png"
+  },
+  {
+    "name": "M48 Tomahawk",
+    "key": "item.21018.name",
+    "data": "/items/weapon/melee/62qV.json",
+    "icon": "/icons/weapon/melee/62qV.png"
+  },
+  {
+    "name": "Telescopic Baton",
+    "key": "item.21019.name",
+    "data": "/items/weapon/melee/xEyl.json",
+    "icon": "/icons/weapon/melee/xEyl.png"
+  },
+  {
+    "name": "Bat with Nails",
+    "key": "item.21020.name",
+    "data": "/items/weapon/melee/z1K2.json",
+    "icon": "/icons/weapon/melee/z1K2.png"
+  },
+  {
+    "name": "Aluminum Club",
+    "key": "item.21021.name",
+    "data": "/items/weapon/melee/8OqJ.json",
+    "icon": "/icons/weapon/melee/8OqJ.png"
+  },
+  {
+    "name": "Hatchet",
+    "key": "item.21022.name",
+    "data": "/items/weapon/melee/GJqk.json",
+    "icon": "/icons/weapon/melee/GJqk.png"
+  },
+  {
+    "name": "Survival SP8 Ontario Machete",
+    "key": "item.21023.name",
+    "data": "/items/weapon/melee/w1BA.json",
+    "icon": "/icons/weapon/melee/w1BA.png"
+  },
+  {
+    "name": "Piece of Pipe",
+    "key": "item.21024.name",
+    "data": "/items/weapon/melee/eaxD.json",
+    "icon": "/icons/weapon/melee/eaxD.png"
+  },
+  {
+    "name": "Old Sickle",
+    "key": "item.21025.name",
+    "data": "/items/weapon/melee/MOqq.json",
+    "icon": "/icons/weapon/melee/MOqq.png"
+  },
+  {
+    "name": "New Year’s Shovel",
+    "key": "item.21026.name",
+    "data": "/items/weapon/melee/aVDN.json",
+    "icon": "/icons/weapon/melee/aVDN.png"
+  },
+  {
+    "name": "Razor",
+    "key": "item.melee.britva.name",
+    "data": "/items/weapon/melee/oqbX.json",
+    "icon": "/icons/weapon/melee/oqbX.png"
+  },
+  {
+    "name": "Fire Razor",
+    "key": "item.melee.britva_fire.name",
+    "data": "/items/weapon/melee/1gqO.json",
+    "icon": "/icons/weapon/melee/1gqO.png"
+  },
+  {
+    "name": "Acid Razor",
+    "key": "item.melee.britva_acid.name",
+    "data": "/items/weapon/melee/bnQO.json",
+    "icon": "/icons/weapon/melee/bnQO.png"
+  },
+  {
+    "name": "Cauterizer",
+    "key": "item.melee.burner.name",
+    "data": "/items/weapon/melee/d06O.json",
+    "icon": "/icons/weapon/melee/d06O.png"
+  },
+  {
+    "name": "Shiv",
+    "key": "item.21031.name",
+    "data": "/items/weapon/melee/75qe.json",
+    "icon": "/icons/weapon/melee/75qe.png"
+  },
+  {
+    "name": "Icy Kukri",
+    "key": "item.melee.kukri_f.name",
+    "data": "/items/weapon/melee/jawR.json",
+    "icon": "/icons/weapon/melee/jawR.png"
+  },
+  {
+    "name": "Frozen Ice Pick",
+    "key": "item.melee.iceaxe_f.name",
+    "data": "/items/weapon/melee/92JD.json",
+    "icon": "/icons/weapon/melee/92JD.png"
+  },
+  {
+    "name": "Military Stalkers’ Hatchet",
+    "key": "item.21034.name",
+    "data": "/items/weapon/melee/r67Z.json",
+    "icon": "/icons/weapon/melee/r67Z.png"
+  },
+  {
+    "name": "Twitcher",
+    "key": "item.21035.name",
+    "data": "/items/weapon/melee/Xn3j.json",
+    "icon": "/icons/weapon/melee/Xn3j.png"
+  },
+  {
+    "name": "6H9 Knife",
+    "key": "item.21036.name",
+    "data": "/items/weapon/melee/Z0n8.json",
+    "icon": "/icons/weapon/melee/Z0n8.png"
+  },
+  {
+    "name": "UVSR",
+    "key": "item.melee.uvsr.name",
+    "data": "/items/weapon/melee/OOrz.json",
+    "icon": "/icons/weapon/melee/OOrz.png"
+  },
+  {
+    "name": "NR-43",
+    "key": "item.21038.name",
+    "data": "/items/weapon/melee/qwd0.json",
+    "icon": "/icons/weapon/melee/qwd0.png"
+  },
+  {
+    "name": "Diversion Knife",
+    "key": "item.21039.name",
+    "data": "/items/weapon/melee/Yg5Y.json",
+    "icon": "/icons/weapon/melee/Yg5Y.png"
+  },
+  {
+    "name": "Claw Karambit",
+    "key": "item.21040.name",
+    "data": "/items/weapon/melee/AMz5.json",
+    "icon": "/icons/weapon/melee/AMz5.png"
+  },
+  {
+    "name": "Spiked Club",
+    "key": "item.21041.name",
+    "data": "/items/weapon/melee/E9e7.json",
+    "icon": "/icons/weapon/melee/E9e7.png"
+  },
+  {
+    "name": "Swamp Dweller’s Friend",
+    "key": "item.melee.bolotnik.name",
+    "data": "/items/weapon/melee/5DgM.json",
+    "icon": "/icons/weapon/melee/5DgM.png"
+  },
+  {
+    "name": "Classic M9",
+    "key": "item.21044.name",
+    "data": "/items/weapon/melee/BM8n.json",
+    "icon": "/icons/weapon/melee/BM8n.png"
+  },
+  {
+    "name": "Butcher’s Knife",
+    "key": "item.21045.name",
+    "data": "/items/weapon/melee/y1B8.json",
+    "icon": "/icons/weapon/melee/y1B8.png"
+  },
+  {
+    "name": "Reverse-Grip Knife",
+    "key": "item.21046.name",
+    "data": "/items/weapon/melee/lOMd.json",
+    "icon": "/icons/weapon/melee/lOMd.png"
+  },
+  {
+    "name": "Corrosive Saw",
+    "key": "item.21047.name",
+    "data": "/items/weapon/melee/KPdA.json",
+    "icon": "/icons/weapon/melee/KPdA.png"
+  },
+  {
+    "name": "Grabber",
+    "key": "item.21048.name",
+    "data": "/items/weapon/melee/kaek.json",
+    "icon": "/icons/weapon/melee/kaek.png"
+  },
+  {
+    "name": "Butcher’s Hook",
+    "key": "item.21049.name",
+    "data": "/items/weapon/melee/32VB.json",
+    "icon": "/icons/weapon/melee/32VB.png"
+  },
+  {
+    "name": "Ceremonial Ax",
+    "key": "item.melee.raxe.name",
+    "data": "/items/weapon/melee/QBZQ.json",
+    "icon": "/icons/weapon/melee/QBZQ.png"
+  },
+  {
+    "name": "Fiery Greeting",
+    "key": "item.melee.fireknuckle.name",
+    "data": "/items/weapon/melee/mqal.json",
+    "icon": "/icons/weapon/melee/mqal.png"
+  },
+  {
+    "name": "Bone Knife",
+    "key": "item.melee.boneknife.name",
+    "data": "/items/weapon/melee/620V.json",
+    "icon": "/icons/weapon/melee/620V.png"
+  },
+  {
+    "name": "Misericorde",
+    "key": "item.melee.misery.name",
+    "data": "/items/weapon/melee/xEOl.json",
+    "icon": "/icons/weapon/melee/xEOl.png"
+  },
+  {
+    "name": "Steel Tiger Karambit",
+    "key": "item.melee.steeltiger.name",
+    "data": "/items/weapon/melee/z1y2.json",
+    "icon": "/icons/weapon/melee/z1y2.png"
+  },
+  {
+    "name": "Katran-1 Combat Knife",
+    "key": "item.melee.katran.name",
+    "data": "/items/weapon/melee/8O2J.json",
+    "icon": "/icons/weapon/melee/8O2J.png"
+  },
+  {
+    "name": "Cossack Shashka",
+    "key": "item.melee.shashka.name",
+    "data": "/items/weapon/melee/GJak.json",
+    "icon": "/icons/weapon/melee/GJak.png"
+  },
+  {
+    "name": "Ka-Bar BKR3 Tactical Knife",
+    "key": "item.melee.bkr3.name",
+    "data": "/items/weapon/melee/w1ZA.json",
+    "icon": "/icons/weapon/melee/w1ZA.png"
+  },
+  {
+    "name": "Endgame",
+    "key": "item.melee.endgame.name",
+    "data": "/items/weapon/melee/aVNN.json",
+    "icon": "/icons/weapon/melee/aVNN.png"
+  },
+  {
+    "name": "Fluorite",
+    "key": "item.melee.fluorite.name",
+    "data": "/items/weapon/melee/oq1X.json",
+    "icon": "/icons/weapon/melee/oq1X.png"
+  },
+  {
+    "name": "RIS L85 Handguard",
+    "key": "item.att.forend_l85.name",
+    "data": "/items/attachment/forend/Bk2j.json",
+    "icon": "/icons/attachment/forend/Bk2j.png"
+  },
+  {
+    "name": "RIS M4A1 Handguard",
+    "key": "item.att.forend_m4ris.name",
+    "data": "/items/attachment/forend/yEm6.json",
+    "icon": "/icons/attachment/forend/yEm6.png"
+  },
+  {
+    "name": "RIS M16 Handguard",
+    "key": "item.att.forend_m16ris.name",
+    "data": "/items/attachment/forend/lz3w.json",
+    "icon": "/icons/attachment/forend/lz3w.png"
+  },
+  {
+    "name": "MP5 with Picatinny Rail Handguard",
+    "key": "item.att.forend_mp5ris.name",
+    "data": "/items/attachment/forend/K5kj.json",
+    "icon": "/icons/attachment/forend/K5kj.png"
+  },
+  {
+    "name": "RIS P90 Handguard",
+    "key": "item.att.forend_p90ris.name",
+    "data": "/items/attachment/forend/kxk2.json",
+    "icon": "/icons/attachment/forend/kxk2.png"
+  },
+  {
+    "name": "Fal Quad Rail",
+    "key": "item.att.forend_falris.name",
+    "data": "/items/attachment/forend/3mr1.json",
+    "icon": "/icons/attachment/forend/3mr1.png"
+  },
+  {
+    "name": "SIG SG 550 Handguard 4x NAR",
+    "key": "item.att.forend_sigris4.name",
+    "data": "/items/attachment/forend/VoDA.json",
+    "icon": "/icons/attachment/forend/VoDA.png"
+  },
+  {
+    "name": "Handguard with Guiding RIS for Uzi",
+    "key": "item.att.forend_uziris.name",
+    "data": "/items/attachment/forend/nxn9.json",
+    "icon": "/icons/attachment/forend/nxn9.png"
+  },
+  {
+    "name": "Handguard with Guiding RIS for SIG SG 550",
+    "key": "item.att.forend_sigris1.name",
+    "data": "/items/attachment/forend/gJBn.json",
+    "icon": "/icons/attachment/forend/gJBn.png"
+  },
+  {
+    "name": "M1A with Picatinny Rail Handguard",
+    "key": "item.att.forend_m1ris1.name",
+    "data": "/items/attachment/forend/0gzO.json",
+    "icon": "/icons/attachment/forend/0gzO.png"
+  },
+  {
+    "name": "M1A Stock with Picatinny Rails",
+    "key": "item.att.forend_m1ris2.name",
+    "data": "/items/attachment/forend/Ro2y.json",
+    "icon": "/icons/attachment/forend/Ro2y.png"
+  },
+  {
+    "name": "Handguard RIS LR-300",
+    "key": "item.att.forend_lr300ris.name",
+    "data": "/items/attachment/forend/2R6R.json",
+    "icon": "/icons/attachment/forend/2R6R.png"
+  },
+  {
+    "name": "Fab Defense G3-RS Handguard",
+    "key": "item.att.forend_g3.name",
+    "data": "/items/attachment/forend/JAKQ.json",
+    "icon": "/icons/attachment/forend/JAKQ.png"
+  },
+  {
+    "name": "Springfield M1A PACS Stock",
+    "key": "item.att.forend_m1pacs.name",
+    "data": "/items/attachment/forend/P80Y.json",
+    "icon": "/icons/attachment/forend/P80Y.png"
+  },
+  {
+    "name": "B-11 Handguard with Upper Rail",
+    "key": "item.att.forend_b11.name",
+    "data": "/items/attachment/forend/nxE9.json",
+    "icon": "/icons/attachment/forend/nxE9.png"
+  },
+  {
+    "name": "AKM Wooden Handguard, Black",
+    "key": "item.att.forend_akmblack.name",
+    "data": "/items/attachment/forend/gJEn.json",
+    "icon": "/icons/attachment/forend/gJEn.png"
+  },
+  {
+    "name": "Fab Defense AK Handguard",
+    "key": "item.att.forend_akfb.name",
+    "data": "/items/attachment/forend/0gNO.json",
+    "icon": "/icons/attachment/forend/0gNO.png"
+  },
+  {
+    "name": "CAA RS-21 Handguard",
+    "key": "item.att.forend_caars.name",
+    "data": "/items/attachment/forend/RoLy.json",
+    "icon": "/icons/attachment/forend/RoLy.png"
+  },
+  {
+    "name": "B-10M Handguard and B-33 Receiver Cover",
+    "key": "item.att.forend_b10b33.name",
+    "data": "/items/attachment/forend/2RQR.json",
+    "icon": "/icons/attachment/forend/2RQR.png"
+  },
+  {
+    "name": "PKP Receiver Cover with Picatinny Rail",
+    "key": "item.att.forend_pkp.name",
+    "data": "/items/attachment/forend/JA5Q.json",
+    "icon": "/icons/attachment/forend/JA5Q.png"
+  },
+  {
+    "name": "AN-94 Udav Handguard",
+    "key": "item.att.forend_an94.name",
+    "data": "/items/attachment/forend/N5xJ.json",
+    "icon": "/icons/attachment/forend/N5xJ.png"
+  },
+  {
+    "name": "Handguard for Saiga-12K",
+    "key": "item.att.forend_saiga.name",
+    "data": "/items/attachment/forend/DVdZ.json",
+    "icon": "/icons/attachment/forend/DVdZ.png"
+  },
+  {
+    "name": "SKS Tactical Grip",
+    "key": "item.att.forend_skstop.name",
+    "data": "/items/attachment/forend/Q8xR.json",
+    "icon": "/icons/attachment/forend/Q8xR.png"
+  },
+  {
+    "name": "B-21M Handguard",
+    "key": "item.att.forend_b21m.name",
+    "data": "/items/attachment/forend/mxEE.json",
+    "icon": "/icons/attachment/forend/mxEE.png"
+  },
+  {
+    "name": "B-10M Handguard (Bottom Rail)",
+    "key": "item.att.forend_b10m.name",
+    "data": "/items/attachment/forend/61KD.json",
+    "icon": "/icons/attachment/forend/61KD.png"
+  },
+  {
+    "name": "RPD Tactical Handguard",
+    "key": "item.att.forend_rpd.name",
+    "data": "/items/attachment/forend/xLGN.json",
+    "icon": "/icons/attachment/forend/xLGN.png"
+  },
+  {
+    "name": "Tactical Stock for SKS",
+    "key": "item.att.forend_sks.name",
+    "data": "/items/attachment/forend/G0Z6.json",
+    "icon": "/icons/attachment/forend/G0Z6.png"
+  },
+  {
+    "name": "OTs-14 Tactical Grip",
+    "key": "item.att.forend_groza.name",
+    "data": "/items/attachment/forend/wDG7.json",
+    "icon": "/icons/attachment/forend/wDG7.png"
+  },
+  {
+    "name": "Val/VSS Receiver Cover",
+    "key": "item.att.forend_val.name",
+    "data": "/items/attachment/forend/ePQX.json",
+    "icon": "/icons/attachment/forend/ePQX.png"
+  },
+  {
+    "name": "Magpul AFG Tactical Grip",
+    "key": "item.att.handgrip_magpul.name",
+    "data": "/items/attachment/other/Bkon.json",
+    "icon": "/icons/attachment/other/Bkon.png"
+  },
+  {
+    "name": "PCLRS Tactical Grip",
+    "key": "item.att.handgrip_pclrs.name",
+    "data": "/items/attachment/other/yEM8.json",
+    "icon": "/icons/attachment/other/yEM8.png"
+  },
+  {
+    "name": "ANG4 Vertical Grip",
+    "key": "item.att.handgrip_ang4.name",
+    "data": "/items/attachment/other/lz1d.json",
+    "icon": "/icons/attachment/other/lz1d.png"
+  },
+  {
+    "name": "REG Fab Defense Tactical Grip, Khaki",
+    "key": "item.att.handgrip_regfbh.name",
+    "data": "/items/attachment/other/K5GA.json",
+    "icon": "/icons/attachment/other/K5GA.png"
+  },
+  {
+    "name": "REG Fab Defense Tactical Grip, Gray",
+    "key": "item.att.handgrip_regfbb.name",
+    "data": "/items/attachment/other/kxjk.json",
+    "icon": "/icons/attachment/other/kxjk.png"
+  },
+  {
+    "name": "Grip for OTs-14 Groza",
+    "key": "item.att.handgrip_groza.name",
+    "data": "/items/attachment/barrel/3mJB.json",
+    "icon": "/icons/attachment/barrel/3mJB.png"
+  },
+  {
+    "name": "Fortis SHIFT Vertical Tactical Grip, Orange",
+    "key": "item.att.handgrip_fortiso.name",
+    "data": "/items/attachment/other/gJ1N.json",
+    "icon": "/icons/attachment/other/gJ1N.png"
+  },
+  {
+    "name": "Fortis SHIFT Vertical Tactical Grip, Black",
+    "key": "item.att.handgrip_fortisb.name",
+    "data": "/items/attachment/other/0g07.json",
+    "icon": "/icons/attachment/other/0g07.png"
+  },
+  {
+    "name": "FMA DARK EARTH Fire Transfer Grip",
+    "key": "item.att.handgrip_fmade.name",
+    "data": "/items/attachment/other/RoG7.json",
+    "icon": "/icons/attachment/other/RoG7.png"
+  },
+  {
+    "name": "FMA TD Grip Tactical Grip",
+    "key": "item.att.handgrip_fmatd.name",
+    "data": "/items/attachment/other/2R2a.json",
+    "icon": "/icons/attachment/other/2R2a.png"
+  },
+  {
+    "name": "Tapco Vertical Grip",
+    "key": "item.att.handgrip_tapco.name",
+    "data": "/items/attachment/other/JAjV.json",
+    "icon": "/icons/attachment/other/JAjV.png"
+  },
+  {
+    "name": "SUSAT Scope",
+    "key": "item.att.scope_susat.name",
+    "data": "/items/attachment/collimator_sights/Bkwr.json",
+    "icon": "/icons/attachment/collimator_sights/Bkwr.png"
+  },
+  {
+    "name": "Leupold Optical Sight",
+    "key": "item.att.scope_hamr.name",
+    "data": "/items/attachment/collimator_sights/yEJ5.json",
+    "icon": "/icons/attachment/collimator_sights/yEJ5.png"
+  },
+  {
+    "name": "Elcan Optical Sight",
+    "key": "item.att.scope_elcan4.name",
+    "data": "/items/attachment/collimator_sights/lzxr.json",
+    "icon": "/icons/attachment/collimator_sights/lzxr.png"
+  },
+  {
+    "name": "Trijicon ACOG Optical Sight",
+    "key": "item.att.scope_acog6.name",
+    "data": "/items/attachment/collimator_sights/K5VX.json",
+    "icon": "/icons/attachment/collimator_sights/K5VX.png"
+  },
+  {
+    "name": "Sig Sauer Optical Sight",
+    "key": "item.att.scope_bravo.name",
+    "data": "/items/attachment/collimator_sights/kx6N.json",
+    "icon": "/icons/attachment/collimator_sights/kx6N.png"
+  },
+  {
+    "name": "Trijicon AccuPoint Optical Sight",
+    "key": "item.att.scope_tr20.name",
+    "data": "/items/attachment/collimator_sights/3mwl.json",
+    "icon": "/icons/attachment/collimator_sights/3mwl.png"
+  },
+  {
+    "name": "Trijicon ACOG Optical Sight",
+    "key": "item.att.scope_acog4.name",
+    "data": "/items/attachment/collimator_sights/Vomg.json",
+    "icon": "/icons/attachment/collimator_sights/Vomg.png"
+  },
+  {
+    "name": "Elcan M145 Optical Sight",
+    "key": "item.att.scope_m145.name",
+    "data": "/items/attachment/collimator_sights/nxyw.json",
+    "icon": "/icons/attachment/collimator_sights/nxyw.png"
+  },
+  {
+    "name": "Elcan Optical Sight",
+    "key": "item.att.scope_elcan6.name",
+    "data": "/items/attachment/collimator_sights/0gxk.json",
+    "icon": "/icons/attachment/collimator_sights/0gxk.png"
+  },
+  {
+    "name": "Bars Optical Sight",
+    "key": "item.att.scope_bars.name",
+    "data": "/items/attachment/collimator_sights/RoPD.json",
+    "icon": "/icons/attachment/collimator_sights/RoPD.png"
+  },
+  {
+    "name": "Acecare Optical Sight",
+    "key": "item.att.scope_acecare.name",
+    "data": "/items/attachment/collimator_sights/2Rw1.json",
+    "icon": "/icons/attachment/collimator_sights/2Rw1.png"
+  },
+  {
+    "name": "Rakurs Wide-Angle Sight",
+    "key": "item.att.scope_rakurs.name",
+    "data": "/items/attachment/collimator_sights/VoPg.json",
+    "icon": "/icons/attachment/collimator_sights/VoPg.png"
+  },
+  {
+    "name": "PSO Optical Sight",
+    "key": "item.att.scope_pso1.name",
+    "data": "/items/attachment/collimator_sights/nxQw.json",
+    "icon": "/icons/attachment/collimator_sights/nxQw.png"
+  },
+  {
+    "name": "1P77 Optical Sight",
+    "key": "item.att.scope_1p77.name",
+    "data": "/items/attachment/collimator_sights/gJ0e.json",
+    "icon": "/icons/attachment/collimator_sights/gJ0e.png"
+  },
+  {
+    "name": "POSP Optical Sight",
+    "key": "item.att.scope_psop.name",
+    "data": "/items/attachment/collimator_sights/0g7k.json",
+    "icon": "/icons/attachment/collimator_sights/0g7k.png"
+  },
+  {
+    "name": "PU Optical Sight on Side Bracket",
+    "key": "item.att.scope_pu.name",
+    "data": "/items/attachment/collimator_sights/Ro0D.json",
+    "icon": "/icons/attachment/collimator_sights/Ro0D.png"
+  },
+  {
+    "name": "PSO Optical Sight",
+    "key": "item.att.scope_pso3.name",
+    "data": "/items/attachment/collimator_sights/2RG1.json",
+    "icon": "/icons/attachment/collimator_sights/2RG1.png"
+  },
+  {
+    "name": "PU Optical Sight for SVT",
+    "key": "item.att.scope_svt.name",
+    "data": "/items/attachment/collimator_sights/JAye.json",
+    "icon": "/icons/attachment/collimator_sights/JAye.png"
+  },
+  {
+    "name": "Tulip Optical Sight",
+    "key": "item.att.scope_1p29.name",
+    "data": "/items/attachment/collimator_sights/P8nq.json",
+    "icon": "/icons/attachment/collimator_sights/P8nq.png"
+  },
+  {
+    "name": "Pilad 3.5x20 Optical Sight",
+    "key": "item.att.scope_pilad.name",
+    "data": "/items/attachment/collimator_sights/N539.json",
+    "icon": "/icons/attachment/collimator_sights/N539.png"
+  },
+  {
+    "name": "Micro Collimator Sight",
+    "key": "item.att.sight_microt1.name",
+    "data": "/items/attachment/collimator_sights/BkPQ.json",
+    "icon": "/icons/attachment/collimator_sights/BkPQ.png"
+  },
+  {
+    "name": "EoTech Collimator Sight",
+    "key": "item.att.sight_eoth.name",
+    "data": "/items/attachment/collimator_sights/yEOl.json",
+    "icon": "/icons/attachment/collimator_sights/yEOl.png"
+  },
+  {
+    "name": "EoTech Collimator Sight",
+    "key": "item.att.sight_eotb.name",
+    "data": "/items/attachment/collimator_sights/lz2M.json",
+    "icon": "/icons/attachment/collimator_sights/lz2M.png"
+  },
+  {
+    "name": "Trijicon Collimator Sight",
+    "key": "item.att.sight_rmr.name",
+    "data": "/items/attachment/collimator_sights/K5bq.json",
+    "icon": "/icons/attachment/collimator_sights/K5bq.png"
+  },
+  {
+    "name": "LaRue Collimator Sight",
+    "key": "item.att.sight_irondot.name",
+    "data": "/items/attachment/collimator_sights/kxRD.json",
+    "icon": "/icons/attachment/collimator_sights/kxRD.png"
+  },
+  {
+    "name": "OKP-7 Collimator Sight",
+    "key": "item.att.sight_okp.name",
+    "data": "/items/attachment/collimator_sights/3mz7.json",
+    "icon": "/icons/attachment/collimator_sights/3mz7.png"
+  },
+  {
+    "name": "BSA Reflex Collimator Sight",
+    "key": "item.att.sight_bsa.name",
+    "data": "/items/attachment/collimator_sights/Voaw.json",
+    "icon": "/icons/attachment/collimator_sights/Voaw.png"
+  },
+  {
+    "name": "Valday Collimator Sight",
+    "key": "item.att.sight_valdai.name",
+    "data": "/items/attachment/collimator_sights/nxP3.json",
+    "icon": "/icons/attachment/collimator_sights/nxP3.png"
+  },
+  {
+    "name": "Barska Collimator Sight",
+    "key": "item.att.sight_barska_open.name",
+    "data": "/items/attachment/collimator_sights/gJg3.json",
+    "icon": "/icons/attachment/collimator_sights/gJg3.png"
+  },
+  {
+    "name": "Barska Collimator Sight",
+    "key": "item.att.sight_barska_closed.name",
+    "data": "/items/attachment/collimator_sights/RoRz.json",
+    "icon": "/icons/attachment/collimator_sights/RoRz.png"
+  },
+  {
+    "name": "Bering OPTICS Collimator Sight",
+    "key": "item.att.sight_bering.name",
+    "data": "/items/attachment/collimator_sights/2Rak.json",
+    "icon": "/icons/attachment/collimator_sights/2Rak.png"
+  },
+  {
+    "name": "Bering OPTICS Collimator Sight",
+    "key": "item.att.sight_bering2.name",
+    "data": "/items/attachment/collimator_sights/JAlB.json",
+    "icon": "/icons/attachment/collimator_sights/JAlB.png"
+  },
+  {
+    "name": "Vortex Collimator Sight",
+    "key": "item.att.sight_uh1.name",
+    "data": "/items/attachment/collimator_sights/P8gR.json",
+    "icon": "/icons/attachment/collimator_sights/P8gR.png"
+  },
+  {
+    "name": "Vortex Collimator Sight",
+    "key": "item.att.sight_vortex2.name",
+    "data": "/items/attachment/collimator_sights/N5Vb.json",
+    "icon": "/icons/attachment/collimator_sights/N5Vb.png"
+  },
+  {
+    "name": "Trijicon Collimator Sight",
+    "key": "item.att.sight_srs.name",
+    "data": "/items/attachment/collimator_sights/DVam.json",
+    "icon": "/icons/attachment/collimator_sights/DVam.png"
+  },
+  {
+    "name": "Trijicon Collimator Sight",
+    "key": "item.att.sight_1x42.name",
+    "data": "/items/attachment/collimator_sights/Q80r.json",
+    "icon": "/icons/attachment/collimator_sights/Q80r.png"
+  },
+  {
+    "name": "Sig Sauer Collimator Sight",
+    "key": "item.att.sight_romeo3.name",
+    "data": "/items/attachment/collimator_sights/mxNO.json",
+    "icon": "/icons/attachment/collimator_sights/mxNO.png"
+  },
+  {
+    "name": "PK-01(T) Collimator Sight",
+    "key": "item.att.sight_pk01t.name",
+    "data": "/items/attachment/collimator_sights/61a2.json",
+    "icon": "/icons/attachment/collimator_sights/61a2.png"
+  },
+  {
+    "name": "PK-01(T/Z) Collimator Sight",
+    "key": "item.att.sight_pk01tz.name",
+    "data": "/items/attachment/collimator_sights/xL7L.json",
+    "icon": "/icons/attachment/collimator_sights/xL7L.png"
+  },
+  {
+    "name": "Rusak Collimator Sight",
+    "key": "item.att.sight_rusak.name",
+    "data": "/items/attachment/collimator_sights/z57x.json",
+    "icon": "/icons/attachment/collimator_sights/z57x.png"
+  },
+  {
+    "name": "DM Collimator Sight",
+    "key": "item.att.sight_dm51.name",
+    "data": "/items/attachment/collimator_sights/86oE.json",
+    "icon": "/icons/attachment/collimator_sights/86oE.png"
+  },
+  {
+    "name": "Kobra Collimator Sight",
+    "key": "item.att.sight_cobra_pik.name",
+    "data": "/items/attachment/collimator_sights/G0O3.json",
+    "icon": "/icons/attachment/collimator_sights/G0O3.png"
+  },
+  {
+    "name": "Panorama Collimator Sight",
+    "key": "item.att.sight_panorama.name",
+    "data": "/items/attachment/collimator_sights/wD7l.json",
+    "icon": "/icons/attachment/collimator_sights/wD7l.png"
+  },
+  {
+    "name": "Obzor Collimator Sight",
+    "key": "item.att.sight_obzor.name",
+    "data": "/items/attachment/collimator_sights/VoNw.json",
+    "icon": "/icons/attachment/collimator_sights/VoNw.png"
+  },
+  {
+    "name": "Kobra Collimator Sight",
+    "key": "item.att.sight_cobra.name",
+    "data": "/items/attachment/collimator_sights/nxD3.json",
+    "icon": "/icons/attachment/collimator_sights/nxD3.png"
+  },
+  {
+    "name": "PK-AS Collimator Sight",
+    "key": "item.att.sight_pkas.name",
+    "data": "/items/attachment/collimator_sights/gJX3.json",
+    "icon": "/icons/attachment/collimator_sights/gJX3.png"
+  },
+  {
+    "name": "Kleshch-2PS Compact Laser Designator",
+    "key": "item.att.lcu_compact.name",
+    "data": "/items/attachment/other/nxYx.json",
+    "icon": "/icons/attachment/other/nxYx.png"
+  },
+  {
+    "name": "AN/PEQ 15 Tactical Unit, Khaki",
+    "key": "item.att.lcu_anpeqh.name",
+    "data": "/items/attachment/other/gJ5w.json",
+    "icon": "/icons/attachment/other/gJ5w.png"
+  },
+  {
+    "name": "AN/PEQ 15 Tactical Unit, Black",
+    "key": "item.att.lcu_anpeqb.name",
+    "data": "/items/attachment/other/0gMb.json",
+    "icon": "/icons/attachment/other/0gMb.png"
+  },
+  {
+    "name": "AN/PEQ 15 Tactical Unit, Black (Green Laser)",
+    "key": "item.att.lcu_anpeqbg.name",
+    "data": "/items/attachment/other/N5Kj.json",
+    "icon": "/icons/attachment/other/N5Kj.png"
+  },
+  {
+    "name": "HQ ISSUE Mini Laser Sight (Green Laser)",
+    "key": "item.att.lcu_hqi.name",
+    "data": "/items/attachment/other/DVb9.json",
+    "icon": "/icons/attachment/other/DVb9.png"
+  },
+  {
+    "name": "HQ ISSUE Low-Profile Laser Sight (Red Laser)",
+    "key": "item.att.lcu_lowp.name",
+    "data": "/items/attachment/other/Q8VJ.json",
+    "icon": "/icons/attachment/other/Q8VJ.png"
+  },
+  {
+    "name": "Noveske KX3 Flash Suppressor",
+    "key": "item.att.barrel_noveske.name",
+    "data": "/items/attachment/barrel/BkX2.json",
+    "icon": "/icons/attachment/barrel/BkX2.png"
+  },
+  {
+    "name": "Diamondhead Compensator",
+    "key": "item.att.barrel_diamondhead.name",
+    "data": "/items/attachment/barrel/yEjG.json",
+    "icon": "/icons/attachment/barrel/yEjG.png"
+  },
+  {
+    "name": "Resistance Armament Compensator",
+    "key": "item.att.barrel_resistance.name",
+    "data": "/items/attachment/barrel/lze1.json",
+    "icon": "/icons/attachment/barrel/lze1.png"
+  },
+  {
+    "name": "Hera Arms CC Compensator",
+    "key": "item.att.barrel_heracc.name",
+    "data": "/items/attachment/barrel/K5Xe.json",
+    "icon": "/icons/attachment/barrel/K5Xe.png"
+  },
+  {
+    "name": "LoneWolf Flash Suppressor",
+    "key": "item.att.barrel_lonewolf.name",
+    "data": "/items/attachment/barrel/kxw6.json",
+    "icon": "/icons/attachment/barrel/kxw6.png"
+  },
+  {
+    "name": "3 Port Mini Compensator",
+    "key": "item.att.barrel_3port.name",
+    "data": "/items/attachment/barrel/3m8G.json",
+    "icon": "/icons/attachment/barrel/3m8G.png"
+  },
+  {
+    "name": "VG6 EPSILON 556 Muzzle Brake",
+    "key": "item.att.barrel_vg6556.name",
+    "data": "/items/attachment/barrel/Vola.json",
+    "icon": "/icons/attachment/barrel/Vola.png"
+  },
+  {
+    "name": "VG6 EPSILON 762 Muzzle Brake",
+    "key": "item.att.barrel_vg6762.name",
+    "data": "/items/attachment/barrel/nxaD.json",
+    "icon": "/icons/attachment/barrel/nxaD.png"
+  },
+  {
+    "name": "D-Eagle Barrel Extension",
+    "key": "item.att.barrel_longdeagle.name",
+    "data": "/items/attachment/barrel/wDjk.json",
+    "icon": "/icons/attachment/barrel/wDjk.png"
+  },
+  {
+    "name": "AKademia T’ma Flash Suppressor",
+    "key": "item.att.barrel_akademia.name",
+    "data": "/items/attachment/barrel/M7XQ.json",
+    "icon": "/icons/attachment/barrel/M7XQ.png"
+  },
+  {
+    "name": "Kosoi MBC",
+    "key": "item.att.barrel_kosoi.name",
+    "data": "/items/attachment/barrel/amPr.json",
+    "icon": "/icons/attachment/barrel/amPr.png"
+  },
+  {
+    "name": "Whirlwind MBC",
+    "key": "item.att.barrel_vihr.name",
+    "data": "/items/attachment/barrel/o7jn.json",
+    "icon": "/icons/attachment/barrel/o7jn.png"
+  },
+  {
+    "name": "MBC-1",
+    "key": "item.att.barrel_dtk1.name",
+    "data": "/items/attachment/barrel/10Y7.json",
+    "icon": "/icons/attachment/barrel/10Y7.png"
+  },
+  {
+    "name": "Citadel 5.45 MBC",
+    "key": "item.att.barrel_citadel.name",
+    "data": "/items/attachment/barrel/bM35.json",
+    "icon": "/icons/attachment/barrel/bM35.png"
+  },
+  {
+    "name": "9 mm Barrel Extension",
+    "key": "item.att.barrel_extension9mm.name",
+    "data": "/items/attachment/barrel/dJnq.json",
+    "icon": "/icons/attachment/barrel/dJnq.png"
+  },
+  {
+    "name": "ASh-12 Standard Barrel",
+    "key": "item.att.barrel_ash12.name",
+    "data": "/items/attachment/barrel/7mYL.json",
+    "icon": "/icons/attachment/barrel/7mYL.png"
+  },
+  {
+    "name": "JS Silencer",
+    "key": "item.att.silencer_js.name",
+    "data": "/items/attachment/barrel/Vo8a.json",
+    "icon": "/icons/attachment/barrel/Vo8a.png"
+  },
+  {
+    "name": "Osprey Silencer",
+    "key": "item.att.silencer_osprey.name",
+    "data": "/items/attachment/barrel/nxmD.json",
+    "icon": "/icons/attachment/barrel/nxmD.png"
+  },
+  {
+    "name": "SCAR-SD Silencer",
+    "key": "item.att.silencer_scarsd.name",
+    "data": "/items/attachment/barrel/gJRX.json",
+    "icon": "/icons/attachment/barrel/gJRX.png"
+  },
+  {
+    "name": "FA556 Mini Silencer",
+    "key": "item.att.silencer_fa556.name",
+    "data": "/items/attachment/barrel/0gYJ.json",
+    "icon": "/icons/attachment/barrel/0gYJ.png"
+  },
+  {
+    "name": "Salvo 12 Silencer",
+    "key": "item.att.silencer_salvo12.name",
+    "data": "/items/attachment/barrel/Romn.json",
+    "icon": "/icons/attachment/barrel/Romn.png"
+  },
+  {
+    "name": "KAC Style QD Silencer",
+    "key": "item.att.silencer_kacqd.name",
+    "data": "/items/attachment/barrel/2RYz.json",
+    "icon": "/icons/attachment/barrel/2RYz.png"
+  },
+  {
+    "name": "SureFire SOCOM556-RC2 Silencer",
+    "key": "item.att.silencer_socom556.name",
+    "data": "/items/attachment/barrel/DVKJ.json",
+    "icon": "/icons/attachment/barrel/DVKJ.png"
+  },
+  {
+    "name": "PBS-4",
+    "key": "item.att.silencer_pbs4.name",
+    "data": "/items/attachment/barrel/j7YO.json",
+    "icon": "/icons/attachment/barrel/j7YO.png"
+  },
+  {
+    "name": "ATG Silencer",
+    "key": "item.att.silencer_atg.name",
+    "data": "/items/attachment/barrel/9mgQ.json",
+    "icon": "/icons/attachment/barrel/9mgQ.png"
+  },
+  {
+    "name": "Silencer for OTs-14 Groza",
+    "key": "item.att.silencer_groza.name",
+    "data": "/items/attachment/barrel/rwnB.json",
+    "icon": "/icons/attachment/barrel/rwnB.png"
+  },
+  {
+    "name": "PSUZV-11TM.12 Imkas",
+    "key": "item.att.silencer_imkas.name",
+    "data": "/items/attachment/barrel/XEdO.json",
+    "icon": "/icons/attachment/barrel/XEdO.png"
+  },
+  {
+    "name": "ASh-12/MTs-558 Silencer",
+    "key": "item.att.silencer_ash12_mc558.name",
+    "data": "/items/attachment/barrel/O8dD.json",
+    "icon": "/icons/attachment/barrel/O8dD.png"
+  },
+  {
+    "name": "MTs-558 Silencer",
+    "key": "item.att.silencer_mc558.name",
+    "data": "/items/attachment/barrel/qeVw.json",
+    "icon": "/icons/attachment/barrel/qeVw.png"
+  },
+  {
+    "name": "Mossberg Stock",
+    "key": "item.22600.name",
+    "data": "/items/attachment/butt/Bkmy.json",
+    "icon": "/icons/attachment/butt/Bkmy.png"
+  },
+  {
+    "name": "MP5 Fixed Stock",
+    "key": "item.22603.name",
+    "data": "/items/attachment/butt/K5ax.json",
+    "icon": "/icons/attachment/butt/K5ax.png"
+  },
+  {
+    "name": "M4 Paddle Stock",
+    "key": "item.22604.name",
+    "data": "/items/attachment/butt/kxB1.json",
+    "icon": "/icons/attachment/butt/kxB1.png"
+  },
+  {
+    "name": "M4 Lightweight Stock",
+    "key": "item.22605.name",
+    "data": "/items/attachment/butt/3mln.json",
+    "icon": "/icons/attachment/butt/3mln.png"
+  },
+  {
+    "name": "Izhmash Wooden Stock",
+    "key": "item.22650.name",
+    "data": "/items/attachment/butt/Vogx.json",
+    "icon": "/icons/attachment/butt/Vogx.png"
+  },
+  {
+    "name": "Izhmash Plastic Stock",
+    "key": "item.att.butt_ak_p.name",
+    "data": "/items/attachment/butt/nxlA.json",
+    "icon": "/icons/attachment/butt/nxlA.png"
+  },
+  {
+    "name": "Wooden Skeleton Stock",
+    "key": "item.22652.name",
+    "data": "/items/attachment/butt/gJMm.json",
+    "icon": "/icons/attachment/butt/gJMm.png"
+  },
+  {
+    "name": "M4 Buttstock",
+    "key": "item.22653.name",
+    "data": "/items/attachment/butt/0gBq.json",
+    "icon": "/icons/attachment/butt/0gBq.png"
+  },
+  {
+    "name": "ZM High Standard AK Stock",
+    "key": "item.22654.name",
+    "data": "/items/attachment/butt/RokO.json",
+    "icon": "/icons/attachment/butt/RokO.png"
+  },
+  {
+    "name": "APS Stock",
+    "key": "item.22655.name",
+    "data": "/items/attachment/butt/2RlP.json",
+    "icon": "/icons/attachment/butt/2RlP.png"
+  },
+  {
+    "name": "RPD Plastic Stock",
+    "key": "item.22656.name",
+    "data": "/items/attachment/butt/JAaG.json",
+    "icon": "/icons/attachment/butt/JAaG.png"
+  },
+  {
+    "name": "OTs-33 Stock",
+    "key": "item.22657.name",
+    "data": "/items/attachment/butt/P8lx.json",
+    "icon": "/icons/attachment/butt/P8lx.png"
+  },
+  {
+    "name": "5.56 NATO STANAG Clip",
+    "key": "item.att.mag_stanag20.name",
+    "data": "/items/attachment/mag/BkRN.json",
+    "icon": "/icons/attachment/mag/BkRN.png"
+  },
+  {
+    "name": "5.56 NATO STANAG Clip",
+    "key": "item.att.mag_stanag30.name",
+    "data": "/items/attachment/mag/yEKx.json",
+    "icon": "/icons/attachment/mag/yEKx.png"
+  },
+  {
+    "name": "5.56 NATO PMAG Clip, Khaki",
+    "key": "item.att.mag_pmag30h.name",
+    "data": "/items/attachment/mag/lz8K.json",
+    "icon": "/icons/attachment/mag/lz8K.png"
+  },
+  {
+    "name": "5.56 NATO PMAG Clip, Black",
+    "key": "item.att.mag_pmag30b.name",
+    "data": "/items/attachment/mag/K5x8.json",
+    "icon": "/icons/attachment/mag/K5x8.png"
+  },
+  {
+    "name": "5.56 NATO STANAG Clip",
+    "key": "item.att.mag_stanag40.name",
+    "data": "/items/attachment/mag/kx1G.json",
+    "icon": "/icons/attachment/mag/kx1G.png"
+  },
+  {
+    "name": "5.56 NATO STANAG Clip",
+    "key": "item.att.mag_stanag60.name",
+    "data": "/items/attachment/mag/3mkR.json",
+    "icon": "/icons/attachment/mag/3mkR.png"
+  },
+  {
+    "name": "5.56 NATO Drum Clip, Khaki",
+    "key": "item.att.mag_cmag100h.name",
+    "data": "/items/attachment/mag/VonJ.json",
+    "icon": "/icons/attachment/mag/VonJ.png"
+  },
+  {
+    "name": "5.56 NATO Drum Clip, Black",
+    "key": "item.att.mag_cmag100b.name",
+    "data": "/items/attachment/mag/nx72.json",
+    "icon": "/icons/attachment/mag/nx72.png"
+  },
+  {
+    "name": "X-5 Drum Clip",
+    "key": "item.att.mag_x550.name",
+    "data": "/items/attachment/mag/gJeG.json",
+    "icon": "/icons/attachment/mag/gJeG.png"
+  },
+  {
+    "name": "AA-12 Drum Clip",
+    "key": "item.att.mag_aa1220.name",
+    "data": "/items/attachment/mag/0gyQ.json",
+    "icon": "/icons/attachment/mag/0gyQ.png"
+  },
+  {
+    "name": "7.62 NATO PMAG Clip, Khaki",
+    "key": "item.att.mag_pmag76230h.name",
+    "data": "/items/attachment/mag/RoKb.json",
+    "icon": "/icons/attachment/mag/RoKb.png"
+  },
+  {
+    "name": "7.62 NATO PMAG Clip, Black",
+    "key": "item.att.mag_pmag76230b.name",
+    "data": "/items/attachment/mag/2RK7.json",
+    "icon": "/icons/attachment/mag/2RK7.png"
+  },
+  {
+    "name": "5.56 NATO EMAG Drum Clip",
+    "key": "item.att.mag_emag55660.name",
+    "data": "/items/attachment/mag/JAo1.json",
+    "icon": "/icons/attachment/mag/JAo1.png"
+  },
+  {
+    "name": "5.56 Pufgun Clip, Black",
+    "key": "item.att.mag_pufgun556b.name",
+    "data": "/items/attachment/mag/P8yA.json",
+    "icon": "/icons/attachment/mag/P8yA.png"
+  },
+  {
+    "name": "Browning Extended Clip",
+    "key": "item.att.mag_browning.name",
+    "data": "/items/attachment/mag/N57N.json",
+    "icon": "/icons/attachment/mag/N57N.png"
+  },
+  {
+    "name": "Colt Extended Clip",
+    "key": "item.att.mag_colt.name",
+    "data": "/items/attachment/mag/DV8V.json",
+    "icon": "/icons/attachment/mag/DV8V.png"
+  },
+  {
+    "name": "Beretta Extended Clip",
+    "key": "item.att.mag_beretta.name",
+    "data": "/items/attachment/mag/Q8l1.json",
+    "icon": "/icons/attachment/mag/Q8l1.png"
+  },
+  {
+    "name": "G3/M1A Drum Clip",
+    "key": "item.att.mag_g350.name",
+    "data": "/items/attachment/mag/mxd8.json",
+    "icon": "/icons/attachment/mag/mxd8.png"
+  },
+  {
+    "name": "40-Ammo EMAG Clip",
+    "key": "item.att.mag_sig40.name",
+    "data": "/items/attachment/mag/xL0K.json",
+    "icon": "/icons/attachment/mag/xL0K.png"
+  },
+  {
+    "name": "5.45 Bakelite Clip",
+    "key": "item.att.mag_rumag54545b.name",
+    "data": "/items/attachment/mag/gJaG.json",
+    "icon": "/icons/attachment/mag/gJaG.png"
+  },
+  {
+    "name": "5.45 Plastic Clip",
+    "key": "item.att.mag_rumag54545p.name",
+    "data": "/items/attachment/mag/0gkQ.json",
+    "icon": "/icons/attachment/mag/0gkQ.png"
+  },
+  {
+    "name": "5.45 Clip",
+    "key": "item.att.mag_rumag54560.name",
+    "data": "/items/attachment/mag/Ro3b.json",
+    "icon": "/icons/attachment/mag/Ro3b.png"
+  },
+  {
+    "name": "5.45 Drum Clip",
+    "key": "item.att.mag_rumag54575.name",
+    "data": "/items/attachment/mag/2RV7.json",
+    "icon": "/icons/attachment/mag/2RV7.png"
+  },
+  {
+    "name": "Drum Clip for PM",
+    "key": "item.att.mag_pmdrum.name",
+    "data": "/items/attachment/mag/JAd1.json",
+    "icon": "/icons/attachment/mag/JAd1.png"
+  },
+  {
+    "name": "Ergonomic Clip for VSS/Val",
+    "key": "item.att.mag_vss20.name",
+    "data": "/items/attachment/mag/P8KA.json",
+    "icon": "/icons/attachment/mag/P8KA.png"
+  },
+  {
+    "name": "SMG-91 Clip",
+    "key": "item.att.mag_kedr40.name",
+    "data": "/items/attachment/mag/N5yN.json",
+    "icon": "/icons/attachment/mag/N5yN.png"
+  },
+  {
+    "name": "Kobra Extended Clip",
+    "key": "item.att.mag_svu15.name",
+    "data": "/items/attachment/mag/DVeV.json",
+    "icon": "/icons/attachment/mag/DVeV.png"
+  },
+  {
+    "name": "SMG-2000 Clip",
+    "key": "item.att.mag_pp200040.name",
+    "data": "/items/attachment/mag/Q8k1.json",
+    "icon": "/icons/attachment/mag/Q8k1.png"
+  },
+  {
+    "name": "7.62 Plastic Clip",
+    "key": "item.att.mag_rumag762p.name",
+    "data": "/items/attachment/mag/mxj8.json",
+    "icon": "/icons/attachment/mag/mxj8.png"
+  },
+  {
+    "name": "7.62 Bakelite Clip",
+    "key": "item.att.mag_rumag762b.name",
+    "data": "/items/attachment/mag/61RE.json",
+    "icon": "/icons/attachment/mag/61RE.png"
+  },
+  {
+    "name": "5.45 PMAG Clip, Black",
+    "key": "item.att.mag_pmag545b.name",
+    "data": "/items/attachment/mag/xLRK.json",
+    "icon": "/icons/attachment/mag/xLRK.png"
+  },
+  {
+    "name": "PM/PB Extended Clip",
+    "key": "item.att.mag_pm.name",
+    "data": "/items/attachment/mag/z5JL.json",
+    "icon": "/icons/attachment/mag/z5JL.png"
+  },
+  {
+    "name": "Fort-12 Extended Clip",
+    "key": "item.att.mag_fort12.name",
+    "data": "/items/attachment/mag/86J3.json",
+    "icon": "/icons/attachment/mag/86J3.png"
+  },
+  {
+    "name": "MP-133/MP-153 Clip Extender",
+    "key": "item.att.mag_mr133.name",
+    "data": "/items/attachment/mag/G0o9.json",
+    "icon": "/icons/attachment/mag/G0o9.png"
+  },
+  {
+    "name": "30-Round Clip for VSS/Val",
+    "key": "item.att.mag_val30.name",
+    "data": "/items/attachment/mag/wD0P.json",
+    "icon": "/icons/attachment/mag/wD0P.png"
+  },
+  {
+    "name": "OTs-14 Extended Clip",
+    "key": "item.att.mag_groza30.name",
+    "data": "/items/attachment/mag/ePeJ.json",
+    "icon": "/icons/attachment/mag/ePeJ.png"
+  },
+  {
+    "name": "MTs-558 Extended Clip",
+    "key": "item.att.mag_mc55810.name",
+    "data": "/items/attachment/mag/M7Bk.json",
+    "icon": "/icons/attachment/mag/M7Bk.png"
+  },
+  {
+    "name": "PSG1 Extended Clip",
+    "key": "item.att.mag_psg1.name",
+    "data": "/items/attachment/mag/amzB.json",
+    "icon": "/icons/attachment/mag/amzB.png"
+  },
+  {
+    "name": "30-Round Clip for AK-308",
+    "key": "item.att.mag_ak30830.name",
+    "data": "/items/attachment/mag/1039.json",
+    "icon": "/icons/attachment/mag/1039.png"
+  },
+  {
+    "name": "7.62x39 Drum Clip",
+    "key": "item.att.mag_rumag76275.name",
+    "data": "/items/attachment/mag/bM8Z.json",
+    "icon": "/icons/attachment/mag/bM8Z.png"
+  },
+  {
+    "name": "Protective Rail, Olive",
+    "key": "item.att.other_deflongg.name",
+    "data": "/items/attachment/other/Bk9l.json",
+    "icon": "/icons/attachment/other/Bk9l.png"
+  },
+  {
+    "name": "Protective Rail, Khaki",
+    "key": "item.att.other_deflongh.name",
+    "data": "/items/attachment/other/yEz9.json",
+    "icon": "/icons/attachment/other/yEz9.png"
+  },
+  {
+    "name": "Protective Rail, Black",
+    "key": "item.att.other_deflongb.name",
+    "data": "/items/attachment/other/lznO.json",
+    "icon": "/icons/attachment/other/lznO.png"
+  },
+  {
+    "name": "Compact Protective Rail, Olive",
+    "key": "item.att.other_defg.name",
+    "data": "/items/attachment/other/K5g5.json",
+    "icon": "/icons/attachment/other/K5g5.png"
+  },
+  {
+    "name": "Compact Protective Rail, Khaki",
+    "key": "item.att.other_defh.name",
+    "data": "/items/attachment/other/kxV9.json",
+    "icon": "/icons/attachment/other/kxV9.png"
+  },
+  {
+    "name": "Compact Protective Rail, Black",
+    "key": "item.att.other_defb.name",
+    "data": "/items/attachment/other/3m6Z.json",
+    "icon": "/icons/attachment/other/3m6Z.png"
+  },
+  {
+    "name": "BM Barrel Mount",
+    "key": "item.att.forend_bm.name",
+    "data": "/items/attachment/forend/BkQw.json",
+    "icon": "/icons/attachment/forend/BkQw.png"
+  },
+  {
+    "name": "RIS Bracket-Rail",
+    "key": "item.att.mount_mp5ris.name",
+    "data": "/items/attachment/forend/yEXY.json",
+    "icon": "/icons/attachment/forend/yEXY.png"
+  },
+  {
+    "name": "Picatinny Rail and Base",
+    "key": "item.att.mount_tozris.name",
+    "data": "/items/attachment/forend/lzG2.json",
+    "icon": "/icons/attachment/forend/lzG2.png"
+  },
+  {
+    "name": "Side Bracket with Picatinny Rail",
+    "key": "item.att.mount_lastris.name",
+    "data": "/items/attachment/forend/K5MK.json",
+    "icon": "/icons/attachment/forend/K5MK.png"
+  },
+  {
+    "name": "RIS XM8 Rail",
+    "key": "item.att.mount_xm8ris.name",
+    "data": "/items/attachment/forend/kx8X.json",
+    "icon": "/icons/attachment/forend/kx8X.png"
+  },
+  {
+    "name": "Guiding RIS for Shotgun",
+    "key": "item.att.mount_shotgunris.name",
+    "data": "/items/attachment/forend/3myD.json",
+    "icon": "/icons/attachment/forend/3myD.png"
+  },
+  {
+    "name": "Clamp with RIS Rail",
+    "key": "item.att.forend_valris1.name",
+    "data": "/items/attachment/forend/Vo52.json",
+    "icon": "/icons/attachment/forend/Vo52.png"
+  },
+  {
+    "name": "Clamp with 3 RIS Rails",
+    "key": "item.att.forend_valris3.name",
+    "data": "/items/attachment/forend/nxea.json",
+    "icon": "/icons/attachment/forend/nxea.png"
+  },
+  {
+    "name": "SKS Bracket—Dovetail Joint",
+    "key": "item.att.mount_skslast.name",
+    "data": "/items/attachment/forend/0grE.json",
+    "icon": "/icons/attachment/forend/0grE.png"
+  },
+  {
+    "name": "Kochetov Mount for Patriot with Picatinny Rail",
+    "key": "item.att.mount_mosinris.name",
+    "data": "/items/attachment/forend/N512.json",
+    "icon": "/icons/attachment/forend/N512.png"
+  },
+  {
+    "name": "RIS Rail for SMG-91 KEDR",
+    "key": "item.att.forend_kedrris.name",
+    "data": "/items/attachment/forend/DV62.json",
+    "icon": "/icons/attachment/forend/DV62.png"
+  },
+  {
+    "name": "Adaptive RIS Rail for DP",
+    "key": "item.att.mount_dpris.name",
+    "data": "/items/attachment/forend/mxwo.json",
+    "icon": "/icons/attachment/forend/mxwo.png"
+  },
+  {
+    "name": "Sight Mount for M16A2",
+    "key": "item.att.mount_m16ris.name",
+    "data": "/items/attachment/forend/61k0.json",
+    "icon": "/icons/attachment/forend/61k0.png"
+  },
+  {
+    "name": "Increasing RIS-Rail",
+    "key": "item.att.mount_riselevator.name",
+    "data": "/items/attachment/forend/xLr3.json",
+    "icon": "/icons/attachment/forend/xLr3.png"
+  },
+  {
+    "name": "Picatinny Rail for SVT",
+    "key": "item.att.mount_svt.name",
+    "data": "/items/attachment/forend/z5Bd.json",
+    "icon": "/icons/attachment/forend/z5Bd.png"
+  },
+  {
+    "name": "RK-3 Grip",
+    "key": "item.att.handle_rk3.name",
+    "data": "/items/attachment/pistol_handle/Bk3j.json",
+    "icon": "/icons/attachment/pistol_handle/Bk3j.png"
+  },
+  {
+    "name": "Fab Defense AG-47 Grip, Black",
+    "key": "item.att.handle_ag47b.name",
+    "data": "/items/attachment/pistol_handle/yEx6.json",
+    "icon": "/icons/attachment/pistol_handle/yEx6.png"
+  },
+  {
+    "name": "Fab Defense AG-47 Grip, Green",
+    "key": "item.att.handle_ag47g.name",
+    "data": "/items/attachment/pistol_handle/lzVw.json",
+    "icon": "/icons/attachment/pistol_handle/lzVw.png"
+  },
+  {
+    "name": "Fab Defense AG-47 Grip, Khaki",
+    "key": "item.att.handle_ag47h.name",
+    "data": "/items/attachment/pistol_handle/K5Nj.json",
+    "icon": "/icons/attachment/pistol_handle/K5Nj.png"
+  },
+  {
+    "name": "Fab Defense AGR-43 Grip, Black",
+    "key": "item.att.handle_agr43b.name",
+    "data": "/items/attachment/pistol_handle/VowA.json",
+    "icon": "/icons/attachment/pistol_handle/VowA.png"
+  },
+  {
+    "name": "Fab Defense AGR-43 Grip, Green",
+    "key": "item.att.handle_agr43g.name",
+    "data": "/items/attachment/pistol_handle/nx59.json",
+    "icon": "/icons/attachment/pistol_handle/nx59.png"
+  },
+  {
+    "name": "Fab Defense AGR-43 Grip, Khaki",
+    "key": "item.att.handle_agr43h.name",
+    "data": "/items/attachment/pistol_handle/gJAn.json",
+    "icon": "/icons/attachment/pistol_handle/gJAn.png"
+  },
+  {
+    "name": "Coat",
+    "key": "item.arm.kyrtka.name",
+    "data": "/items/armor/clothes/BnNl.json",
+    "icon": "/icons/armor/clothes/BnNl.png"
+  },
+  {
+    "name": "Coat with Face Covering",
+    "key": "item.arm.kyrtka_pov.name",
+    "data": "/items/armor/clothes/yLb9.json",
+    "icon": "/icons/armor/clothes/yLb9.png"
+  },
+  {
+    "name": "Bandit Coat",
+    "key": "item.arm.kyrtka_bandit.name",
+    "data": "/items/armor/clothes/lYQO.json",
+    "icon": "/icons/armor/clothes/lYQO.png"
+  },
+  {
+    "name": "Leather Jacket",
+    "key": "item.arm.kyrtka_koj.name",
+    "data": "/items/armor/clothes/k9D9.json",
+    "icon": "/icons/armor/clothes/k9D9.png"
+  },
+  {
+    "name": "Raincoat",
+    "key": "item.arm.raincoat.name",
+    "data": "/items/armor/scientist/VqrV.json",
+    "icon": "/icons/armor/scientist/VqrV.png"
+  },
+  {
+    "name": "Coat with Body Armor",
+    "key": "item.arm.bronj.name",
+    "data": "/items/armor/combat/nb6M.json",
+    "icon": "/icons/armor/combat/nb6M.png"
+  },
+  {
+    "name": "Reporter’s Armor",
+    "key": "item.arm.bronj_press.name",
+    "data": "/items/armor/combat/gw2B.json",
+    "icon": "/icons/armor/combat/gw2B.png"
+  },
+  {
+    "name": "Gorka-3 Suit",
+    "key": "item.arm.gorka.name",
+    "data": "/items/armor/discoverer/JQG3.json",
+    "icon": "/icons/armor/discoverer/JQG3.png"
+  },
+  {
+    "name": "Hunter’s Cloak",
+    "key": "item.arm.vestcoat.name",
+    "data": "/items/armor/combat/xQ1j.json",
+    "icon": "/icons/armor/combat/xQ1j.png"
+  },
+  {
+    "name": "Fleece Protective Suit",
+    "key": "item.arm.vorsa.name",
+    "data": "/items/armor/combat/zxdq.json",
+    "icon": "/icons/armor/combat/zxdq.png"
+  },
+  {
+    "name": "Hoplite Armored Suit",
+    "key": "item.arm.goplit.name",
+    "data": "/items/armor/combat/8jkn.json",
+    "icon": "/icons/armor/combat/8jkn.png"
+  },
+  {
+    "name": "Trapper Suit",
+    "key": "item.arm.trapper.name",
+    "data": "/items/armor/combat/GQxw.json",
+    "icon": "/icons/armor/combat/GQxw.png"
+  },
+  {
+    "name": "IP-4M",
+    "key": "item.arm.ip4m.name",
+    "data": "/items/armor/scientist/drgm.json",
+    "icon": "/icons/armor/scientist/drgm.png"
+  },
+  {
+    "name": "Cloak",
+    "key": "item.arm.longcoat.name",
+    "data": "/items/armor/combat/7jK6.json",
+    "icon": "/icons/armor/combat/7jK6.png"
+  },
+  {
+    "name": "Bandit Cloak",
+    "key": "item.arm.longcoat_bandit.name",
+    "data": "/items/armor/combat/jqNN.json",
+    "icon": "/icons/armor/combat/jqNN.png"
+  },
+  {
+    "name": "Zarya Suit",
+    "key": "item.arm.zarya.name",
+    "data": "/items/armor/discoverer/9j3O.json",
+    "icon": "/icons/armor/discoverer/9j3O.png"
+  },
+  {
+    "name": "Zarya Suit with Gas Mask",
+    "key": "item.arm.zarya_gas.name",
+    "data": "/items/armor/discoverer/rbG0.json",
+    "icon": "/icons/armor/discoverer/rbG0.png"
+  },
+  {
+    "name": "Zarya-B Suit",
+    "key": "item.arm.zarya_balon.name",
+    "data": "/items/armor/scientist/XqZk.json",
+    "icon": "/icons/armor/scientist/XqZk.png"
+  },
+  {
+    "name": "Tourist Suit",
+    "key": "item.arm.turist.name",
+    "data": "/items/armor/discoverer/ZAbr.json",
+    "icon": "/icons/armor/discoverer/ZAbr.png"
+  },
+  {
+    "name": "Bandit Suit",
+    "key": "item.arm.bover.name",
+    "data": "/items/armor/discoverer/OL6j.json",
+    "icon": "/icons/armor/discoverer/OL6j.png"
+  },
+  {
+    "name": "Bandit Suit with Gas Mask",
+    "key": "item.arm.bover_gas.name",
+    "data": "/items/armor/discoverer/qb5L.json",
+    "icon": "/icons/armor/discoverer/qb5L.png"
+  },
+  {
+    "name": "Bandit Suit with Gas Tanks",
+    "key": "item.arm.bover_balon.name",
+    "data": "/items/armor/scientist/Yq1A.json",
+    "icon": "/icons/armor/scientist/Yq1A.png"
+  },
+  {
+    "name": "Kleptomaniac Suit",
+    "key": "item.arm.klepto.name",
+    "data": "/items/armor/discoverer/AVk2.json",
+    "icon": "/icons/armor/discoverer/AVk2.png"
+  },
+  {
+    "name": "Berill-5M Armored Suit",
+    "key": "item.arm.berill.name",
+    "data": "/items/armor/combat/ERg1.json",
+    "icon": "/icons/armor/combat/ERg1.png"
+  },
+  {
+    "name": "Worm Armored Suit",
+    "key": "item.arm.berill_bandit.name",
+    "data": "/items/armor/combat/LQDm.json",
+    "icon": "/icons/armor/combat/LQDm.png"
+  },
+  {
+    "name": "Healing Berill",
+    "key": "item.arm.berill_lech.name",
+    "data": "/items/armor/combat/5L9J.json",
+    "icon": "/icons/armor/combat/5L9J.png"
+  },
+  {
+    "name": "AH-1 Drifter Suit",
+    "key": "item.arm.ao1.name",
+    "data": "/items/armor/combined/Bn3l.json",
+    "icon": "/icons/armor/combined/Bn3l.png"
+  },
+  {
+    "name": "Currant Ghillie Suit",
+    "key": "item.arm.smorodina.name",
+    "data": "/items/armor/combat/yLx9.json",
+    "icon": "/icons/armor/combat/yLx9.png"
+  },
+  {
+    "name": "Houndmaster Protective Suit",
+    "key": "item.arm.dogger.name",
+    "data": "/items/armor/combat/lYVO.json",
+    "icon": "/icons/armor/combat/lYVO.png"
+  },
+  {
+    "name": "Scout Suit",
+    "key": "item.arm.scout.name",
+    "data": "/items/armor/combat/KQN5.json",
+    "icon": "/icons/armor/combat/KQN5.png"
+  },
+  {
+    "name": "Striker Armored Suit",
+    "key": "item.arm.striker.name",
+    "data": "/items/armor/combat/k939.json",
+    "icon": "/icons/armor/combat/k939.png"
+  },
+  {
+    "name": "PS-1 Picklock",
+    "key": "item.arm.picklock.name",
+    "data": "/items/armor/combined/3j7Z.json",
+    "icon": "/icons/armor/combined/3j7Z.png"
+  },
+  {
+    "name": "SEVA Suit",
+    "key": "item.arm.seva.name",
+    "data": "/items/armor/scientist/VqMV.json",
+    "icon": "/icons/armor/scientist/VqMV.png"
+  },
+  {
+    "name": "REAPER Suit",
+    "key": "item.arm.jnec.name",
+    "data": "/items/armor/scientist/nbgM.json",
+    "icon": "/icons/armor/scientist/nbgM.png"
+  },
+  {
+    "name": "Voshod Heavy Armored Suit",
+    "key": "item.arm.voshod.name",
+    "data": "/items/armor/discoverer/gwyB.json",
+    "icon": "/icons/armor/discoverer/gwyB.png"
+  },
+  {
+    "name": "Thug Heavy Armored Suit",
+    "key": "item.arm.gromila.name",
+    "data": "/items/armor/discoverer/0j1N.json",
+    "icon": "/icons/armor/discoverer/0j1N.png"
+  },
+  {
+    "name": "MIS-99 Amber",
+    "key": "item.arm.yantar.name",
+    "data": "/items/armor/scientist/RQ8G.json",
+    "icon": "/icons/armor/scientist/RQ8G.png"
+  },
+  {
+    "name": "MIS-99 Malachite",
+    "key": "item.arm.kimm.name",
+    "data": "/items/armor/scientist/2jdo.json",
+    "icon": "/icons/armor/scientist/2jdo.png"
+  },
+  {
+    "name": "Hawk Armored Suit",
+    "key": "item.arm.sokol.name",
+    "data": "/items/armor/discoverer/JQP3.json",
+    "icon": "/icons/armor/discoverer/JQP3.png"
+  },
+  {
+    "name": "Mockingbird Armored Suit",
+    "key": "item.arm.mocking.name",
+    "data": "/items/armor/discoverer/PQxn.json",
+    "icon": "/icons/armor/discoverer/PQxn.png"
+  },
+  {
+    "name": "AH-2 Nomad Suit",
+    "key": "item.arm.ao2.name",
+    "data": "/items/armor/combined/NQmA.json",
+    "icon": "/icons/armor/combined/NQmA.png"
+  },
+  {
+    "name": "AH-3 Seeker Suit",
+    "key": "item.arm.ao3.name",
+    "data": "/items/armor/combined/D05a.json",
+    "icon": "/icons/armor/combined/D05a.png"
+  },
+  {
+    "name": "MIS-105 Topaz",
+    "key": "item.arm.topaz.name",
+    "data": "/items/armor/scientist/Q1zP.json",
+    "icon": "/icons/armor/scientist/Q1zP.png"
+  },
+  {
+    "name": "MIS-113 Iolite",
+    "key": "item.arm.iolit.name",
+    "data": "/items/armor/scientist/mbnZ.json",
+    "icon": "/icons/armor/scientist/mbnZ.png"
+  },
+  {
+    "name": "MIS-116 Emerald",
+    "key": "item.arm.izumrud.name",
+    "data": "/items/armor/scientist/6Xr7.json",
+    "icon": "/icons/armor/scientist/6Xr7.png"
+  },
+  {
+    "name": "MIS-122 Amethyst",
+    "key": "item.arm.ametist.name",
+    "data": "/items/armor/scientist/xQ6j.json",
+    "icon": "/icons/armor/scientist/xQ6j.png"
+  },
+  {
+    "name": "MIS-X ATLAS",
+    "key": "item.arm.atlas.name",
+    "data": "/items/armor/scientist/zxzq.json",
+    "icon": "/icons/armor/scientist/zxzq.png"
+  },
+  {
+    "name": "RAPS AH-4 Raider",
+    "key": "item.arm.ao4.name",
+    "data": "/items/armor/combined/8jZn.json",
+    "icon": "/icons/armor/combined/8jZn.png"
+  },
+  {
+    "name": "RAPS AH-5 Pilgrim",
+    "key": "item.arm.ao5.name",
+    "data": "/items/armor/combined/GQRw.json",
+    "icon": "/icons/armor/combined/GQRw.png"
+  },
+  {
+    "name": "Osh Protective Suit",
+    "key": "item.arm.osh.name",
+    "data": "/items/armor/combat/wQmy.json",
+    "icon": "/icons/armor/combat/wQmy.png"
+  },
+  {
+    "name": "Jaeger Exoarmor",
+    "key": "item.arm.eger.name",
+    "data": "/items/armor/combat/ebAG.json",
+    "icon": "/icons/armor/combat/ebAG.png"
+  },
+  {
+    "name": "SKAT-9b Armored Suit",
+    "key": "item.arm.skat9b.name",
+    "data": "/items/armor/discoverer/MAQB.json",
+    "icon": "/icons/armor/discoverer/MAQB.png"
+  },
+  {
+    "name": "Exoskeleton",
+    "key": "item.arm.exo.name",
+    "data": "/items/armor/discoverer/awZd.json",
+    "icon": "/icons/armor/discoverer/awZd.png"
+  },
+  {
+    "name": "Trump Exoskeleton",
+    "key": "item.arm.exo_bandit.name",
+    "data": "/items/armor/discoverer/oO0A.json",
+    "icon": "/icons/armor/discoverer/oO0A.png"
+  },
+  {
+    "name": "PSZ-10 Armored Suit",
+    "key": "item.arm.bulat.name",
+    "data": "/items/armor/discoverer/7jX6.json",
+    "icon": "/icons/armor/discoverer/7jX6.png"
+  },
+  {
+    "name": "Kingpin Armored Suit",
+    "key": "item.arm.pahan.name",
+    "data": "/items/armor/discoverer/jqkN.json",
+    "icon": "/icons/armor/discoverer/jqkN.png"
+  },
+  {
+    "name": "SKAT-9m Armored Suit",
+    "key": "item.arm.skat9m.name",
+    "data": "/items/armor/discoverer/9jOO.json",
+    "icon": "/icons/armor/discoverer/9jOO.png"
+  },
+  {
+    "name": "Legionnaire Heavy Armored Suit",
+    "key": "item.arm.legion.name",
+    "data": "/items/armor/combat/rbJ0.json",
+    "icon": "/icons/armor/combat/rbJ0.png"
+  },
+  {
+    "name": "Centurion Armored Exoskeleton",
+    "key": "item.arm.centurion.name",
+    "data": "/items/armor/combat/Xqok.json",
+    "icon": "/icons/armor/combat/Xqok.png"
+  },
+  {
+    "name": "SKAT-10 Armored Suit",
+    "key": "item.arm.skat10.name",
+    "data": "/items/armor/discoverer/NQD2.json",
+    "icon": "/icons/armor/discoverer/NQD2.png"
+  },
+  {
+    "name": "Yorsh Protective Armored Suit",
+    "key": "item.arm.yorsh.name",
+    "data": "/items/armor/combat/gwrR.json",
+    "icon": "/icons/armor/combat/gwrR.png"
+  },
+  {
+    "name": "RAPS Spanner",
+    "key": "item.arm.spanner.name",
+    "data": "/items/armor/combined/0jRE.json",
+    "icon": "/icons/armor/combined/0jRE.png"
+  },
+  {
+    "name": "MIS-85D",
+    "key": "item.arm.kim85.name",
+    "data": "/items/armor/scientist/RQXk.json",
+    "icon": "/icons/armor/scientist/RQXk.png"
+  },
+  {
+    "name": "Lynx Armored Suit",
+    "key": "item.arm.ris.name",
+    "data": "/items/armor/combat/JQxo.json",
+    "icon": "/icons/armor/combat/JQxo.png"
+  },
+  {
+    "name": "Bear Exoskeleton",
+    "key": "item.arm.bear.name",
+    "data": "/items/armor/combat/PQ7K.json",
+    "icon": "/icons/armor/combat/PQ7K.png"
+  },
+  {
+    "name": "Phantom Hunter Armored Suit",
+    "key": "item.arm.ghost.name",
+    "data": "/items/armor/combat/NQo2.json",
+    "icon": "/icons/armor/combat/NQo2.png"
+  },
+  {
+    "name": "Nord Group Assault Trooper",
+    "key": "item.arm.ny_heavy.name",
+    "data": "/items/armor/combined/D0n2.json",
+    "icon": "/icons/armor/combined/D0n2.png"
+  },
+  {
+    "name": "Nord Group Exoskeleton",
+    "key": "item.arm.ny_exomod.name",
+    "data": "/items/armor/combat/Q197.json",
+    "icon": "/icons/armor/combat/Q197.png"
+  },
+  {
+    "name": "Expedition Suit",
+    "key": "item.arm.expedition.name",
+    "data": "/items/armor/combined/mbKo.json",
+    "icon": "/icons/armor/combined/mbKo.png"
+  },
+  {
+    "name": "Khors Group ZIVCAS",
+    "key": "item.arm.dr_zivcas.name",
+    "data": "/items/armor/combined/6XG0.json",
+    "icon": "/icons/armor/combined/6XG0.png"
+  },
+  {
+    "name": "Khors Group Tank",
+    "key": "item.arm.dr_tank.name",
+    "data": "/items/armor/combat/xQM3.json",
+    "icon": "/icons/armor/combat/xQM3.png"
+  },
+  {
+    "name": "Ratcatcher Exoarmor",
+    "key": "item.arm.ratcatcher.name",
+    "data": "/items/armor/combat/8jaZ.json",
+    "icon": "/icons/armor/combat/8jaZ.png"
+  },
+  {
+    "name": "Ghillie Suit",
+    "key": "item.arm.ghillie.name",
+    "data": "/items/armor/combat/wQww.json",
+    "icon": "/icons/armor/combat/wQww.png"
+  },
+  {
+    "name": "Nord-22 Group Assault Trooper",
+    "key": "item.arm.ny22_heavy.name",
+    "data": "/items/armor/combined/ez99.json",
+    "icon": "/icons/armor/combined/ez99.png"
+  },
+  {
+    "name": "Nord-22 Group Exoskeleton",
+    "key": "item.arm.ny22_exomod.name",
+    "data": "/items/armor/combat/MYrL.json",
+    "icon": "/icons/armor/combat/MYrL.png"
+  },
+  {
+    "name": "Nord-22 Group Blizzard-Bound",
+    "key": "item.arm.ny22_frostwalker.name",
+    "data": "/items/armor/combat/a9jO.json",
+    "icon": "/icons/armor/combat/a9jO.png"
+  },
+  {
+    "name": "Brigand Armored Suit",
+    "key": "item.arm.armai.name",
+    "data": "/items/armor/discoverer/bbYq.json",
+    "icon": "/icons/armor/discoverer/bbYq.png"
+  },
+  {
+    "name": "Grenadier Exoskeleton",
+    "key": "item.arm.grenadier.name",
+    "data": "/items/armor/discoverer/dzRL.json",
+    "icon": "/icons/armor/discoverer/dzRL.png"
+  },
+  {
+    "name": "Stylish Jacket",
+    "key": "item.arm.kyrtka_modnaya.name",
+    "data": "/items/armor/clothes/BLjx.json",
+    "icon": "/icons/armor/clothes/BLjx.png"
+  },
+  {
+    "name": "CD-1 Suit",
+    "key": "item.arm.kz1.name",
+    "data": "/items/armor/combat/VYXK.json",
+    "icon": "/icons/armor/combat/VYXK.png"
+  },
+  {
+    "name": "CD-2 Armored Suit",
+    "key": "item.arm.kz2.name",
+    "data": "/items/armor/combat/njGr.json",
+    "icon": "/icons/armor/combat/njGr.png"
+  },
+  {
+    "name": "Reinforced Cloak",
+    "key": "item.arm.longcoat_donate.name",
+    "data": "/items/armor/clothes/gDj2.json",
+    "icon": "/icons/armor/clothes/gDj2.png"
+  },
+  {
+    "name": "Coat and Hat",
+    "key": "item.arm.palto.name",
+    "data": "/items/armor/clothes/0be1.json",
+    "icon": "/icons/armor/clothes/0be1.png"
+  },
+  {
+    "name": "Improved Hazmat Suit",
+    "key": "item.arm.ozk.name",
+    "data": "/items/armor/scientist/BLJj.json",
+    "icon": "/icons/armor/scientist/BLJj.png"
+  },
+  {
+    "name": "Magnet Suit",
+    "key": "item.arm.magnit.name",
+    "data": "/items/armor/combined/y8a6.json",
+    "icon": "/icons/armor/combined/y8a6.png"
+  },
+  {
+    "name": "CD-3a Armored Suit",
+    "key": "item.arm.kz3a.name",
+    "data": "/items/armor/combat/l6Jw.json",
+    "icon": "/icons/armor/combat/l6Jw.png"
+  },
+  {
+    "name": "Altyn Set",
+    "key": "item.arm.altyn.name",
+    "data": "/items/armor/combat/KLjj.json",
+    "icon": "/icons/armor/combat/KLjj.png"
+  },
+  {
+    "name": "CD-3b Armored Suit",
+    "key": "item.arm.kz3b.name",
+    "data": "/items/armor/combat/kqo2.json",
+    "icon": "/icons/armor/combat/kqo2.png"
+  },
+  {
+    "name": "Shade Hunter Heavy Armored Suit",
+    "key": "item.arm.smog.name",
+    "data": "/items/armor/combat/3Ze1.json",
+    "icon": "/icons/armor/combat/3Ze1.png"
+  },
+  {
+    "name": "Altyn-T Heavy Set",
+    "key": "item.arm.heavyaltyn.name",
+    "data": "/items/armor/combat/VYjA.json",
+    "icon": "/icons/armor/combat/VYjA.png"
+  },
+  {
+    "name": "Tonga Suit",
+    "key": "item.arm.tonga.name",
+    "data": "/items/armor/combined/nj29.json",
+    "icon": "/icons/armor/combined/nj29.png"
+  },
+  {
+    "name": "Albatross Scout Armored Exoskeleton",
+    "key": "item.arm.albatros_scout.name",
+    "data": "/items/armor/combined/gD6n.json",
+    "icon": "/icons/armor/combined/gD6n.png"
+  },
+  {
+    "name": "Blizzard-Bound Heavy Armored Suit",
+    "key": "item.arm.frostwalker.name",
+    "data": "/items/armor/combat/0b8O.json",
+    "icon": "/icons/armor/combat/0b8O.png"
+  },
+  {
+    "name": "JD ZIVCAS 2A Exoarmor",
+    "key": "item.arm.zivcas.name",
+    "data": "/items/armor/combined/VYEA.json",
+    "icon": "/icons/armor/combined/VYEA.png"
+  },
+  {
+    "name": "Albatross Infiltrator Armored Exoskeleton",
+    "key": "item.arm.albatros_light.name",
+    "data": "/items/armor/combined/njL9.json",
+    "icon": "/icons/armor/combined/njL9.png"
+  },
+  {
+    "name": "Modified Exoskeleton",
+    "key": "item.arm.exo_mod.name",
+    "data": "/items/armor/combat/gDGn.json",
+    "icon": "/icons/armor/combat/gDGn.png"
+  },
+  {
+    "name": "SBA TANK",
+    "key": "item.arm.tank.name",
+    "data": "/items/armor/combat/0blO.json",
+    "icon": "/icons/armor/combat/0blO.png"
+  },
+  {
+    "name": "Albatross Heavy Assault Armored Exoskeleton",
+    "key": "item.arm.albatros_heavy.name",
+    "data": "/items/armor/combined/RY6y.json",
+    "icon": "/icons/armor/combined/RY6y.png"
+  },
+  {
+    "name": "Rigel Suit",
+    "key": "item.arm.rigel.name",
+    "data": "/items/armor/combined/JLBQ.json",
+    "icon": "/icons/armor/combined/JLBQ.png"
+  },
+  {
+    "name": "CD-4 Armored Suit",
+    "key": "item.arm.kz4.name",
+    "data": "/items/armor/combat/PYVY.json",
+    "icon": "/icons/armor/combat/PYVY.png"
+  },
+  {
+    "name": "MIS-100 Garnet",
+    "key": "item.arm.granat.name",
+    "data": "/items/armor/scientist/QYnR.json",
+    "icon": "/icons/armor/scientist/QYnR.png"
+  },
+  {
+    "name": "MIS-102 Zircon",
+    "key": "item.arm.cirkon.name",
+    "data": "/items/armor/scientist/m82E.json",
+    "icon": "/icons/armor/scientist/m82E.png"
+  },
+  {
+    "name": "Saturn Suit",
+    "key": "item.arm.saturn.name",
+    "data": "/items/armor/scientist/zae2.json",
+    "icon": "/icons/armor/scientist/zae2.png"
+  },
+  {
+    "name": "Mule Exoskeleton",
+    "key": "item.arm.mule.name",
+    "data": "/items/armor/discoverer/a9MN.json",
+    "icon": "/icons/armor/discoverer/a9MN.png"
+  },
+  {
+    "name": "Ace Exoskeleton",
+    "key": "item.arm.tuz.name",
+    "data": "/items/armor/discoverer/oDwX.json",
+    "icon": "/icons/armor/discoverer/oDwX.png"
+  },
+  {
+    "name": "RAPS AH-6 Nomad",
+    "key": "item.arm.ao6.name",
+    "data": "/items/armor/combined/1LNO.json",
+    "icon": "/icons/armor/combined/1LNO.png"
+  },
+  {
+    "name": "Beast Slayer Exoarmor",
+    "key": "item.arm.zveroboi.name",
+    "data": "/items/armor/combat/dzBO.json",
+    "icon": "/icons/armor/combat/dzBO.png"
+  },
+  {
+    "name": "Apostle Heavy Armored Suit",
+    "key": "item.arm.apostle.name",
+    "data": "/items/armor/combat/XY9j.json",
+    "icon": "/icons/armor/combat/XY9j.png"
+  },
+  {
+    "name": "Hounds Exoskeleton",
+    "key": "item.arm.hound.name",
+    "data": "/items/armor/combined/ZzY8.json",
+    "icon": "/icons/armor/combined/ZzY8.png"
+  },
+  {
+    "name": "Vanguard Armored Suit",
+    "key": "item.arm.vanguard.name",
+    "data": "/items/armor/combat/OYZz.json",
+    "icon": "/icons/armor/combat/OYZz.png"
+  },
+  {
+    "name": "Punisher Armored Suit",
+    "key": "item.arm.punisher.name",
+    "data": "/items/armor/discoverer/qD00.json",
+    "icon": "/icons/armor/discoverer/qD00.png"
+  },
+  {
+    "name": "Home-made NVG",
+    "key": "item.25500.name",
+    "data": "/items/armor/device/BL7r.json",
+    "icon": "/icons/armor/device/BL7r.png"
+  },
+  {
+    "name": "Night-Vision Goggles",
+    "key": "item.25501.name",
+    "data": "/items/armor/device/y805.json",
+    "icon": "/icons/armor/device/y805.png"
+  },
+  {
+    "name": "2nd Generation NVG",
+    "key": "item.device.nvd2.name",
+    "data": "/items/armor/device/l6or.json",
+    "icon": "/icons/armor/device/l6or.png"
+  },
+  {
+    "name": "NVD-11 Export",
+    "key": "item.25504.name",
+    "data": "/items/armor/device/kqQN.json",
+    "icon": "/icons/armor/device/kqQN.png"
+  },
+  {
+    "name": "NVG O1M",
+    "key": "item.device.nvdo.name",
+    "data": "/items/armor/device/3Z5l.json",
+    "icon": "/icons/armor/device/3Z5l.png"
+  },
+  {
+    "name": "Personal First-Aid Kit",
+    "key": "item.med.apt_i.name",
+    "data": "/items/medicine/BLoN.json",
+    "icon": "/icons/medicine/BLoN.png"
+  },
+  {
+    "name": "Scientific First-Aid Kit",
+    "key": "item.med.apt_s.name",
+    "data": "/items/medicine/y8Mx.json",
+    "icon": "/icons/medicine/y8Mx.png"
+  },
+  {
+    "name": "Army First-Aid Kit",
+    "key": "item.med.apt_a.name",
+    "data": "/items/medicine/l61K.json",
+    "icon": "/icons/medicine/l61K.png"
+  },
+  {
+    "name": "Bandage",
+    "key": "item.med.bandage.name",
+    "data": "/items/medicine/KLG8.json",
+    "icon": "/icons/medicine/KLG8.png"
+  },
+  {
+    "name": "Vinca",
+    "key": "item.med.barvinok.name",
+    "data": "/items/medicine/kqyG.json",
+    "icon": "/icons/medicine/kqyG.png"
+  },
+  {
+    "name": "1st Class Antirad",
+    "key": "item.med.antirad_1.name",
+    "data": "/items/medicine/3ZoR.json",
+    "icon": "/icons/medicine/3ZoR.png"
+  },
+  {
+    "name": "2nd Class Antirad",
+    "key": "item.med.antirad_2.name",
+    "data": "/items/medicine/VYeJ.json",
+    "icon": "/icons/medicine/VYeJ.png"
+  },
+  {
+    "name": "3rd Class Antirad",
+    "key": "item.med.antirad_3.name",
+    "data": "/items/medicine/njk2.json",
+    "icon": "/icons/medicine/njk2.png"
+  },
+  {
+    "name": "2nd Class Psy-Blocker",
+    "key": "item.med.psiblock_2.name",
+    "data": "/items/medicine/gD7G.json",
+    "icon": "/icons/medicine/gD7G.png"
+  },
+  {
+    "name": "2nd Class Antidote",
+    "key": "item.med.antidot_2.name",
+    "data": "/items/medicine/0bLQ.json",
+    "icon": "/icons/medicine/0bLQ.png"
+  },
+  {
+    "name": "2nd Class ThermoBlock",
+    "key": "item.med.thermobarier_2.name",
+    "data": "/items/medicine/RYeb.json",
+    "icon": "/icons/medicine/RYeb.png"
+  },
+  {
+    "name": "Jiden EXTRA Energy Drink",
+    "key": "item.med.jiden.name",
+    "data": "/items/medicine/2Zo7.json",
+    "icon": "/icons/medicine/2Zo7.png"
+  },
+  {
+    "name": "“Hercules”",
+    "key": "item.med.gerkules.name",
+    "data": "/items/medicine/JLZ1.json",
+    "icon": "/icons/medicine/JLZ1.png"
+  },
+  {
+    "name": "Morphine",
+    "key": "item.med.morphin.name",
+    "data": "/items/medicine/m858.json",
+    "icon": "/icons/medicine/m858.png"
+  },
+  {
+    "name": "Epinephrine",
+    "key": "item.med.epinephrine.name",
+    "data": "/items/medicine/6ZzE.json",
+    "icon": "/icons/medicine/6ZzE.png"
+  },
+  {
+    "name": "“ClearMind+”",
+    "key": "item.med.clearmind.name",
+    "data": "/items/medicine/x8NK.json",
+    "icon": "/icons/medicine/x8NK.png"
+  },
+  {
+    "name": "Vodka",
+    "key": "item.med.vodka.name",
+    "data": "/items/medicine/8EM3.json",
+    "icon": "/icons/medicine/8EM3.png"
+  },
+  {
+    "name": "Guide’s First-Aid Kit",
+    "key": "item.med.apt_p.name",
+    "data": "/items/medicine/GLj9.json",
+    "icon": "/icons/medicine/GLj9.png"
+  },
+  {
+    "name": "“STRIKE”",
+    "key": "item.med.strike.name",
+    "data": "/items/medicine/w8PP.json",
+    "icon": "/icons/medicine/w8PP.png"
+  },
+  {
+    "name": "“Astrixin”",
+    "key": "item.med.astrikcin.name",
+    "data": "/items/medicine/MYek.json",
+    "icon": "/icons/medicine/MYek.png"
+  },
+  {
+    "name": "ATLAS Anabolic Steroid",
+    "key": "item.med.atlas.name",
+    "data": "/items/medicine/a97B.json",
+    "icon": "/icons/medicine/a97B.png"
+  },
+  {
+    "name": "3rd Class Psy-Blocker",
+    "key": "item.med.psiblock_3.name",
+    "data": "/items/medicine/9L5g.json",
+    "icon": "/icons/medicine/9L5g.png"
+  },
+  {
+    "name": "1st Class Antidote",
+    "key": "item.med.antidot_1.name",
+    "data": "/items/medicine/rDgV.json",
+    "icon": "/icons/medicine/rDgV.png"
+  },
+  {
+    "name": "3rd Class Antidote",
+    "key": "item.med.antidot_3.name",
+    "data": "/items/medicine/XYXy.json",
+    "icon": "/icons/medicine/XYXy.png"
+  },
+  {
+    "name": "1st Class ThermoBlock",
+    "key": "item.med.thermobarier_1.name",
+    "data": "/items/medicine/Zz72.json",
+    "icon": "/icons/medicine/Zz72.png"
+  },
+  {
+    "name": "3rd Class ThermoBlock",
+    "key": "item.med.thermobarier_3.name",
+    "data": "/items/medicine/OYel.json",
+    "icon": "/icons/medicine/OYel.png"
+  },
+  {
+    "name": "1st Class Psy-Blocker",
+    "key": "item.med.psiblock_1.name",
+    "data": "/items/medicine/qDnJ.json",
+    "icon": "/icons/medicine/qDnJ.png"
+  },
+  {
+    "name": "Mobile Camp",
+    "key": "item.clan.ffa_camp.name",
+    "data": "/items/backpack/yd96.json",
+    "icon": "/icons/backpack/yd96.png"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "item_name": "Прицел оптический 1П77",
+  "key": "item.att.scope_1p77.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.95,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x4.0"
+      },
+      {
+        "name": "Скорость прицеливания",
+        "value": 10.000002
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Модель: 1П77"
+}

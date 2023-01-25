@@ -1,0 +1,17 @@
+{
+  "item_name": "Прицел коллиматорный Sig Sauer",
+  "key": "item.att.sight_romeo3.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.04,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: ROMEO3 1x25@Метка - точка, красная"
+}
