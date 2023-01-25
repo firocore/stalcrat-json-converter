@@ -196,9 +196,9 @@ class Converter():
                 "discription": "Отсутвует",
                 }
         # Запись выходного файла data
-        with open(self.dir + self.output_path_name + path[:-8] + file_name, 'a') as out:
+        with open(self.dir + self.output_path_name + path[:-9] + file_name, 'a') as out:
             json.dump(new_rows, out, indent=2, ensure_ascii=False)
-            print('Файл', path, 'конвертирован в', path[:-8] + file_name)
+            print('Файл', path, 'конвертирован в', path[:-9] + file_name)
 
 
 if __name__ == "__main__":
