@@ -4,7 +4,8 @@
 
 Config.json
 
-"cfg": {
+```json
+{
     "output_path_name": "output", Название выходного каталога
 
     Языки 
@@ -15,3 +16,4 @@ Config.json
         "items": "ru" Язык записи файлов
     }
 }
+```
