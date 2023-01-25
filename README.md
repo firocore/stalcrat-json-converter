@@ -4,7 +4,7 @@
 
 Config.json
 
-{
+"cfg": {
     "output_path_name": "output", Название выходного каталога
 
     Языки 
