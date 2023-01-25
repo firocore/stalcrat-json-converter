@@ -4,7 +4,7 @@
 
 Config.json
 
-```json
+```
 {
     "output_path_name": "output", Название выходного каталога
 
