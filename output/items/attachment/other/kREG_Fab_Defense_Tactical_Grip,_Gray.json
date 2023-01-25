@@ -1,0 +1,25 @@
+{
+  "item_name": "Тактическая рукоятка REG Fab Defence, серый",
+  "key": "item.att.handgrip_regfbb.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.12,
+    "other": [
+      {
+        "name": "Гориз. отдача",
+        "value": -22.000004
+      },
+      {
+        "name": "Покачивание",
+        "value": -35.000004
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

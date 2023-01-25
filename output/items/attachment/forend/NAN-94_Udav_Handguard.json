@@ -1,0 +1,12 @@
+{
+  "item_name": "Цевьё «Удав» АН-94",
+  "key": "item.att.forend_an94.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.21,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

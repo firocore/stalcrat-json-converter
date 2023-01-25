@@ -1,0 +1,12 @@
+{
+  "item_name": "Цевьё RIS P90",
+  "key": "item.att.forend_p90ris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.3,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

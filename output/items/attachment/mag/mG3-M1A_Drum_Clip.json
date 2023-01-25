@@ -1,0 +1,29 @@
+{
+  "item_name": "Барабанный магазин G3/M1A",
+  "key": "item.att.mag_g350.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.8,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 50.0
+      },
+      {
+        "name": "Заклинивание",
+        "value": 0.005
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 20.000004
+      },
+      {
+        "name": "Время перезарядки",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

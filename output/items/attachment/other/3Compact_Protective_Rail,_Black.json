@@ -1,0 +1,11 @@
+{
+  "item_name": "Компактная защитная планка,чёрная",
+  "key": "item.att.other_defb.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

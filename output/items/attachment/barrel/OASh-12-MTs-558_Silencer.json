@@ -1,0 +1,21 @@
+{
+  "item_name": "Глушитель АШ-12/МЦ-558",
+  "key": "item.att.silencer_ash12_mc558.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.7,
+    "other": [
+      {
+        "name": "Скорость доставания",
+        "value": 10.000002
+      },
+      {
+        "name": "Урон вдали",
+        "value": -14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

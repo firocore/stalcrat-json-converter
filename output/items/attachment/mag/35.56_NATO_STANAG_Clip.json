@@ -1,0 +1,29 @@
+{
+  "item_name": "Магазин 5.56 NATO STANAG",
+  "key": "item.att.mag_stanag60.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.18,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 60.0
+      },
+      {
+        "name": "Заклинивание",
+        "value": 0.006
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 14.999998
+      },
+      {
+        "name": "Время перезарядки",
+        "value": 20.000004
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

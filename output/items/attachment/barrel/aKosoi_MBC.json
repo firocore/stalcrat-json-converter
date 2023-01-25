@@ -1,0 +1,25 @@
+{
+  "item_name": "ДТК «Косой»",
+  "key": "item.att.barrel_kosoi.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.019,
+    "other": [
+      {
+        "name": "Отдача",
+        "value": -2.9999971
+      },
+      {
+        "name": "Гориз. отдача",
+        "value": -6.0
+      },
+      {
+        "name": "Разброс",
+        "value": -4.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

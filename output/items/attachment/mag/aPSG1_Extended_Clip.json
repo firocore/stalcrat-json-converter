@@ -1,0 +1,17 @@
+{
+  "item_name": "Увеличенный магазин PSG1",
+  "key": "item.att.mag_psg1.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.24,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

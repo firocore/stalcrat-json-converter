@@ -1,0 +1,25 @@
+{
+  "item_name": "Барабанный магазин AA-12",
+  "key": "item.att.mag_aa1220.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.73,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 20.0
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 20.000004
+      },
+      {
+        "name": "Время перезарядки",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

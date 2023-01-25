@@ -1,0 +1,12 @@
+{
+  "item_name": "Цевье RIS LR-300",
+  "key": "item.att.forend_lr300ris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.25,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,21 @@
+{
+  "item_name": "Магазин 5.56 Pufgun, черный",
+  "key": "item.att.mag_pufgun556b.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.12,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 30.0
+      },
+      {
+        "name": "Время перезарядки",
+        "value": -19.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

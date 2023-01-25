@@ -1,0 +1,12 @@
+{
+  "item_name": "Тактическое ложе для СКС",
+  "key": "item.att.forend_sks.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,25 @@
+{
+  "item_name": "3 Port Mini Compensator",
+  "key": "item.att.barrel_3port.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.025,
+    "other": [
+      {
+        "name": "Отдача",
+        "value": -6.999999
+      },
+      {
+        "name": "Гориз. отдача",
+        "value": -5.000001
+      },
+      {
+        "name": "Разброс",
+        "value": -4.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

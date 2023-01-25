@@ -1,0 +1,17 @@
+{
+  "item_name": "Магазин 30-патронный для АК-308",
+  "key": "item.att.mag_ak30830.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.42,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

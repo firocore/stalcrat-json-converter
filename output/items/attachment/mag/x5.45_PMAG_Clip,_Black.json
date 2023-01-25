@@ -1,0 +1,21 @@
+{
+  "item_name": "Магазин 5.45 PMAG, чёрный",
+  "key": "item.att.mag_pmag545b.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 30.0
+      },
+      {
+        "name": "Время перезарядки",
+        "value": -5.000001
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

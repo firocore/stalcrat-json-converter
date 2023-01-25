@@ -1,0 +1,17 @@
+{
+  "item_name": "Увеличенный магазин ОЦ-14",
+  "key": "item.att.mag_groza30.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.17,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,17 @@
+{
+  "item_name": "Пламегаситель AKademia Тьма",
+  "key": "item.att.barrel_akademia.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.19,
+    "other": [
+      {
+        "name": "Разброс",
+        "value": -12.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}
