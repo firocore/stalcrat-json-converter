@@ -1,0 +1,21 @@
+{
+  "item_name": "Kobra Extended Clip",
+  "key": "item.att.mag_svu15.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.28,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 15.0
+      },
+      {
+        "name": "Reload time",
+        "value": 20.000004
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

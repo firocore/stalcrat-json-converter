@@ -1,0 +1,17 @@
+{
+  "item_name": "Obzor Collimator Sight",
+  "key": "item.att.sight_obzor.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: 1p63@Reticle: dot, red"
+}

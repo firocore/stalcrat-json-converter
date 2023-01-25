@@ -1,0 +1,21 @@
+{
+  "item_name": "5.56 NATO PMAG Clip, Khaki",
+  "key": "item.att.mag_pmag30h.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.14,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      },
+      {
+        "name": "Reload time",
+        "value": -5.000001
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

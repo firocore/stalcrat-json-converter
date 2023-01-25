@@ -1,0 +1,25 @@
+{
+  "item_name": "SCAR-SD Silencer",
+  "key": "item.att.silencer_scarsd.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.56,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -11.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 7.0000052
+      },
+      {
+        "name": "Damage at range",
+        "value": -19.999998
+      }
+    ]
+  },
+  "discription": "ATTENTION: if you use a silencer, the enemy won’t know where you are firing from."
+}

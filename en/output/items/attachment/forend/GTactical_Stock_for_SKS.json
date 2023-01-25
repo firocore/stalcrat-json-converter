@@ -1,0 +1,12 @@
+{
+  "item_name": "Tactical Stock for SKS",
+  "key": "item.att.forend_sks.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,53 @@
+{
+  "item_name": "Coat with Face Covering",
+  "key": "item.arm.kyrtka_pov.name",
+  "category": "armor/clothes",
+  "class": "Clothing",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.1,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 5.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 5.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 5.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 5.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 5.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 5.0
+      }
+    ]
+  },
+  "discription": "A regular polyester coat. Polyester is water resistant, so it can resist the effect of chemical reagents very well, but it cannot withstand high temperatures. It melts and can cause serious harm to whoever is wearing it. The face covering will protect the wearer from any harmful substances in the air. Probably."
+}

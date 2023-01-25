@@ -1,0 +1,52 @@
+{
+  "item_name": "Frozen Ice Pick",
+  "key": "item.melee.iceaxe_f.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.65,
+    "other": [
+      {
+        "name": "Frost damage",
+        "value": 10.0
+      },
+      {
+        "name": "Quick attack (min)",
+        "value": 35.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 45.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 90.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 110.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 55.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 55.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "Covered in ice, this ice pick is used by Frost Hunters."
+}

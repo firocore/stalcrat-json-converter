@@ -1,0 +1,36 @@
+{
+  "item_name": "SN-1 Pancake",
+  "key": "item.misc.cn1.name",
+  "category": "weapon/device",
+  "class": "Devices",
+  "stats": {
+    "weight": 4.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Passive range",
+        "value": 25.0
+      },
+      {
+        "name": "Active range",
+        "value": 10.0
+      },
+      {
+        "name": "Scanning angle",
+        "value": 60.0
+      }
+    ]
+  },
+  "discription": "Standard charge usage, scanning distance: 40 meters."
+}

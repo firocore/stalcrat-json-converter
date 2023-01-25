@@ -1,0 +1,75 @@
+{
+  "item_name": "SMG Nut",
+  "key": "item.wpn.oreh.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 1.9,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "10 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 50.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 24.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 700.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.75
+      },
+      {
+        "name": "Spread",
+        "value": 0.499
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.2
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage to mutants: x2"
+      },
+      {
+        "text": "Burst cutoff rate of fire: 1,200 shots/min"
+      }
+    ]
+  },
+  "discription": "A modification of the base SMG-91 KEDR. It uses a special type of flechette ammo."
+}

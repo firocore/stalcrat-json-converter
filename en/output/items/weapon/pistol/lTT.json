@@ -1,0 +1,76 @@
+{
+  "item_name": "TT",
+  "key": "item.wpn.tt.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.85,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 56.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 8.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 350.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.25
+      },
+      {
+        "name": "Tactical reload",
+        "value": 1.85
+      },
+      {
+        "name": "Spread",
+        "value": 1.314
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.7
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 0.5
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage increases by 1,25% for every % of the target’s health that is missing, to a maximum of +125% damage"
+      }
+    ]
+  },
+  "discription": "The USSR’s first semi-automatic military pistol. It was developed in 1930 by the Soviet designer Fedor Vasilievich Tokarev. It stands out due to its simple construction and, consequently, by its low production cost and ease of maintenance."
+}

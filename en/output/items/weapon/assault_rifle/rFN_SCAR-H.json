@@ -1,0 +1,76 @@
+{
+  "item_name": "FN SCAR-H",
+  "key": "item.wpn.scarh.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 3.62,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 51.7
+      },
+      {
+        "name": "Clip capacity",
+        "value": 20.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 175.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 540.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.2
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.2
+      },
+      {
+        "name": "Spread",
+        "value": 0.283
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.62
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.128
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.35
+      },
+      {
+        "text": "Limb damage: x0.7"
+      }
+    ]
+  },
+  "discription": "The FN SCAR (from the phrase “Special Operations Forces Combat Assault Rifle”) is a weapons system that was developed by the American subdivision of the Belgian company FN Herstal."
+}

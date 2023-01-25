@@ -1,0 +1,76 @@
+{
+  "item_name": "SW1911",
+  "key": "item.wpn.colt.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 1.1,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 61.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 7.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 365.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.25
+      },
+      {
+        "name": "Tactical reload",
+        "value": 1.9
+      },
+      {
+        "name": "Spread",
+        "value": 1.005
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.45
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 0.45
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "An improved model of the M1911, this pistol became a classic automatic weapon and endured all military conflicts of the 20th century with flying colors. As with its predecessor, this modified version is manufactured by the dozens, if not the hundred, to this very day. Its limited magazine capacity might be regarded as its only shortcoming, however this is offset to some extent by its powerful ammo."
+}

@@ -1,0 +1,80 @@
+{
+  "item_name": "Exoskeleton",
+  "key": "item.arm.exo.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 27.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -16.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -3.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 30.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 132.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 133.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 190.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 89.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 70.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 180.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 160.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 60.0
+      }
+    ]
+  },
+  "discription": "At some point, a military invention fell into the hands of a brainy stalker technician, who put a lot of effort into crafting this item. The quality of the piece isn’t particularly high, due to the presence of fatal flaws in the original planning stage."
+}

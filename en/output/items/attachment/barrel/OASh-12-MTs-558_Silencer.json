@@ -1,0 +1,21 @@
+{
+  "item_name": "ASh-12/MTs-558 Silencer",
+  "key": "item.att.silencer_ash12_mc558.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.7,
+    "other": [
+      {
+        "name": "Draw speed",
+        "value": 10.000002
+      },
+      {
+        "name": "Damage at range",
+        "value": -14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

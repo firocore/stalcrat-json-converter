@@ -1,0 +1,28 @@
+{
+  "item_name": "Mirror",
+  "key": "item.art.puzir_zerkalo.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An artifact produced by the Stasis anomaly that possesses shielding properties, and can partially deflect ionizing emissions. It has a negative effect on the nervous system and increases pain tolerance."
+}

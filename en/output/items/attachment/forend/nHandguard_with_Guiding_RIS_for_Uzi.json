@@ -1,0 +1,12 @@
+{
+  "item_name": "Handguard with Guiding RIS for Uzi",
+  "key": "item.att.forend_uziris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.22,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

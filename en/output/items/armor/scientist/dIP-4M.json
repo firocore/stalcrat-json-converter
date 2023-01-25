@@ -1,0 +1,65 @@
+{
+  "item_name": "IP-4M",
+  "key": "item.arm.ip4m.name",
+  "category": "armor/scientist",
+  "class": "Scientist",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 3.3,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -15.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 10.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 15.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 19.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 148.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 148.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 148.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 100.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "This gas mask with an IP-4M closed breathing system is a really handy gizmo. The most comfortable way to wear it is with a hazmat suit. Someone decided to multiply the benefit of wearing this suit a tenfold by creating a lining made of light plates that improve protection against bullets and other forms of physical damage. What they ended up with was a good suit for a novice stalker who has grown out of wearing a jacket, but can’t yet afford a suit like the Zarya model."
+}

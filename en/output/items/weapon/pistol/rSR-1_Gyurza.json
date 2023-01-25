@@ -1,0 +1,76 @@
+{
+  "item_name": "SR-1 Gyurza",
+  "key": "item.wpn.sr1.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.90000004,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 59.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 18.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 57.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 390.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.8
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.7
+      },
+      {
+        "name": "Spread",
+        "value": 1.121
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Draw time",
+        "value": 0.45
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "Serdyukov’s semi-automatic pistol was developed for special forces as part of the Rook research and development program for the use of more effective ammo."
+}

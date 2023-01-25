@@ -1,0 +1,12 @@
+{
+  "item_name": "2nd Generation NVG",
+  "key": "item.device.nvd2.name",
+  "category": "armor/device",
+  "class": "Devices",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 2.0,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

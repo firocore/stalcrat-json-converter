@@ -1,0 +1,12 @@
+{
+  "item_name": "Fab Defense G3-RS Handguard",
+  "key": "item.att.forend_g3.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.326,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,25 @@
+{
+  "item_name": "Magpul AFG Tactical Grip",
+  "key": "item.att.handgrip_magpul.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.08,
+    "other": [
+      {
+        "name": "Horizontal recoil",
+        "value": -14.999998
+      },
+      {
+        "name": "Sway",
+        "value": -14.999998
+      },
+      {
+        "name": "Draw speed",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

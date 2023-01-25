@@ -1,0 +1,26 @@
+{
+  "item_name": "Gauss Rifle Charger",
+  "key": "item.amm.akumulatora.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.06,
+    "other": [
+      {
+        "text": "Armor-piercing ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 62.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 5.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

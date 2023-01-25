@@ -1,0 +1,72 @@
+{
+  "item_name": "МР-133",
+  "key": "item.wpn.mr133.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 3.3000002,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 175.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 4.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 80.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.1
+      },
+      {
+        "name": "Spread",
+        "value": 2.75
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 6.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 2.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.75
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "A Russian smoothbore pump-action shotgun used for various types of hunting, shooting sports, and self-defense, as well as by security personnel."
+}

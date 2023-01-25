@@ -1,0 +1,73 @@
+{
+  "item_name": "HK MP5",
+  "key": "item.wpn.mp5.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 3.21,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 36.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 100.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 800.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.9
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.2
+      },
+      {
+        "name": "Spread",
+        "value": 1.247
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.401
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.26
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.12
+      },
+      {
+        "name": "Draw time",
+        "value": 0.7
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "This submachine gun is extremely popular thanks to its reliability, ease of use and high firing accuracy. The military and police departments of many countries are armed with this gun, which eventually appeared on the black market and made it to the Zone."
+}

@@ -1,0 +1,12 @@
+{
+  "item_name": "Handguard with Guiding RIS for SIG SG 550",
+  "key": "item.att.forend_sigris1.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.35,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

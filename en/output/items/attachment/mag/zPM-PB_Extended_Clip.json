@@ -1,0 +1,17 @@
+{
+  "item_name": "PM/PB Extended Clip",
+  "key": "item.att.mag_pm.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Additional clip size",
+        "value": 2.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

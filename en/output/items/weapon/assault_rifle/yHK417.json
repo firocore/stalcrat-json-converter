@@ -1,0 +1,76 @@
+{
+  "item_name": "HK417",
+  "key": "item.wpn.hk417.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 4.1,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 50.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 20.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 180.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 545.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.05
+      },
+      {
+        "name": "Spread",
+        "value": 0.248
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.6999998
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.6
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.144
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.3
+      },
+      {
+        "text": "Limb damage: x0.7"
+      }
+    ]
+  },
+  "discription": "A 7.62 mm assault rifle designed based on the HK416."
+}

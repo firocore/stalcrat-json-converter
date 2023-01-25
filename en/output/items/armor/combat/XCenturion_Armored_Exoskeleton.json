@@ -1,0 +1,80 @@
+{
+  "item_name": "Centurion Armored Exoskeleton",
+  "key": "item.arm.centurion.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Master",
+    "weight": 40.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -15.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -3.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 25.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 182.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 182.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 251.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 71.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 71.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 71.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 50.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 66.0
+      }
+    ]
+  },
+  "discription": "Virtually the perfect armor for combat. Good protection from bullets and fragmentation, comfortable, the best night-vision goggles—not everyone can afford a masterpiece like this."
+}

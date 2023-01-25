@@ -1,0 +1,30 @@
+{
+  "item_name": "9 mm Silver Ammo",
+  "key": "item.amm.9silver.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.009,
+    "other": [
+      {
+        "text": "Special ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Absolute damage",
+        "value": 10.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 5.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 50.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

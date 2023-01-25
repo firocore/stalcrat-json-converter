@@ -1,0 +1,17 @@
+{
+  "item_name": "Trijicon Collimator Sight",
+  "key": "item.att.sight_srs.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.38,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: SRS-02@Reticle: dot, red"
+}

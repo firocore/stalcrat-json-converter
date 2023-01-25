@@ -1,0 +1,76 @@
+{
+  "item_name": "Trump Exoskeleton",
+  "key": "item.arm.exo_bandit.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 25.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -12.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 30.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 124.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 133.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 190.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 89.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 70.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 180.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 160.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 60.0
+      }
+    ]
+  },
+  "discription": "Ever since chumps started hanging around in exoskeletons, crooks decided not to sit on the sidelines, and ordered their own versions called the Trump. It moves fast with upgraded, lightened servomotors. It helps avoid the riffraff, but its protection against bullets leaves something to be desired."
+}

@@ -1,0 +1,69 @@
+{
+  "item_name": "IMI Mini Uzi",
+  "key": "item.wpn.miniuzi.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 2.8,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 36.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 40.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 85.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 950.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.6
+      },
+      {
+        "name": "Spread",
+        "value": 1.599
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.42
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.17
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "A modification of the Uzi submachine gun. It has reduced weight due to its lighter bolt, shortened barrel, and shorter recoil spring."
+}

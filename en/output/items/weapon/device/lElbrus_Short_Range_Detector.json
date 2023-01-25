@@ -1,0 +1,35 @@
+{
+  "item_name": "Elbrus Short Range Detector",
+  "key": "item.device.dud_elbrus.name",
+  "category": "weapon/device",
+  "class": "Devices",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "text": "Searching for signals"
+      },
+      {
+        "text": "Searching for artifacts"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Range",
+        "value": 120.0
+      }
+    ]
+  },
+  "discription": "A detector used to locate zones of anomalous activity. It is equipped with a screen that can show the source of the signals."
+}

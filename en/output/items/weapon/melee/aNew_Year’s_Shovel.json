@@ -1,0 +1,48 @@
+{
+  "item_name": "New Year’s Shovel",
+  "key": "item.21026.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 55.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 65.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 130.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 150.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 2.0
+      },
+      {
+        "name": "Penetration",
+        "value": 40.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 25.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "For shoveling snowdrifts. Decent in close combat, too."
+}

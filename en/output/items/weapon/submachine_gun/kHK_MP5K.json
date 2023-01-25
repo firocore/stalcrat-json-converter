@@ -1,0 +1,73 @@
+{
+  "item_name": "HK MP5K",
+  "key": "item.wpn.mp5k.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 2.14,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 36.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 85.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 900.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.9
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.2
+      },
+      {
+        "name": "Spread",
+        "value": 1.334
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.28
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.16
+      },
+      {
+        "name": "Draw time",
+        "value": 0.7
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "A compact modification of the MP5 with a shortened barrel. The stock and handguard have been removed, and it has been equipped with an additional handle for holding the weapon."
+}

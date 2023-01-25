@@ -1,0 +1,25 @@
+{
+  "item_name": "Elcan M145 Optical Sight",
+  "key": "item.att.scope_m145.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.69,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x3.4"
+      },
+      {
+        "name": "Aim speed",
+        "value": 10.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Model: SpecterDR DFOV14@An optical sight made by Elcan, a famous Canadian manufacturer of optical tools for the Canadian and US Armies, as well as for the civilian market."
+}

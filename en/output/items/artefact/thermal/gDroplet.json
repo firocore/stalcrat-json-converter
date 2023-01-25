@@ -1,0 +1,28 @@
+{
+  "item_name": "Droplet",
+  "key": "item.art.jarka_kaplya.name",
+  "category": "artefact/thermal",
+  "class": "Thermal",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "It is likely that all these droplets are the product of certain chemicals consumed by the Lighter anomaly. No-one can tell which ones exactly, though."
+}

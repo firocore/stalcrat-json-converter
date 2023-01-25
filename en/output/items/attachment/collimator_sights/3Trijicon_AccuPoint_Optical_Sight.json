@@ -1,0 +1,25 @@
+{
+  "item_name": "Trijicon AccuPoint Optical Sight",
+  "key": "item.att.scope_tr20.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.38,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x8.0"
+      },
+      {
+        "name": "Aim speed",
+        "value": 20.000004
+      },
+      {
+        "name": "Draw speed",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "Model: TR20-2R 3-9x40@This sight uses a dual-illuminated reticle that doesn’t require batteries. Produced by the American company, Trijicon."
+}

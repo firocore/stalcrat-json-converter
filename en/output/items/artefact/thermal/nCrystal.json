@@ -1,0 +1,28 @@
+{
+  "item_name": "Crystal",
+  "key": "item.art.blizzard_crystal.name",
+  "category": "artefact/thermal",
+  "class": "Thermal",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

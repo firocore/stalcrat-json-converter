@@ -1,0 +1,61 @@
+{
+  "item_name": "Houndmaster Protective Suit",
+  "key": "item.arm.dogger.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 8.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 5.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 29.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 84.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 40.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 18.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 18.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 18.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 75.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 75.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 50.0
+      }
+    ]
+  },
+  "discription": "A suit that offers good protection against mutants. It is particularly effective against smaller varieties: rodents, cats, and dogs. The latter are what gave it its name."
+}

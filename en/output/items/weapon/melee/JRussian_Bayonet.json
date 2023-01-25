@@ -1,0 +1,48 @@
+{
+  "item_name": "Russian Bayonet",
+  "key": "item.21012.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.34,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 120.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 2.0
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 2.1
+      },
+      {
+        "name": "Penetration",
+        "value": 40.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 60.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "This bayonet can be attached to Berdan and Mosin’s rifles. Using this blade separately is extremely awkward, so it was equipped with a small wooden handle, which may be of questionable use, but still allowed it to deliver more or less accurate blows."
+}

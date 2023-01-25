@@ -1,0 +1,25 @@
+{
+  "item_name": "Bars Optical Sight",
+  "key": "item.att.scope_bars.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x4.0"
+      },
+      {
+        "name": "Aim speed",
+        "value": 10.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Model: PO1/4"
+}

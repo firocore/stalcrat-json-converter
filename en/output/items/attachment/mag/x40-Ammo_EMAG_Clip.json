@@ -1,0 +1,25 @@
+{
+  "item_name": "40-Ammo EMAG Clip",
+  "key": "item.att.mag_sig40.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.22,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 40.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      },
+      {
+        "name": "Reload time",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,28 @@
+{
+  "item_name": "Stone Blood",
+  "key": "item.art.karousel_bloodstone.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "A red and yellow formation of organic matter. It is possible that it formed from the remains of living beings that fell into a Vortex."
+}

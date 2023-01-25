@@ -1,0 +1,30 @@
+{
+  "item_name": "9 mm SBP Ammo",
+  "key": "item.amm.9sbp.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.009,
+    "other": [
+      {
+        "text": "Armor-piercing ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 15.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 5.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

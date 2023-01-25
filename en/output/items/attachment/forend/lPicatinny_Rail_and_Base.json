@@ -1,0 +1,12 @@
+{
+  "item_name": "Picatinny Rail and Base",
+  "key": "item.att.mount_tozris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.15,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,17 @@
+{
+  "item_name": "Beretta Extended Clip",
+  "key": "item.att.mag_beretta.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.075,
+    "other": [
+      {
+        "name": "Additional clip size",
+        "value": 2.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,28 @@
+{
+  "item_name": "Vodka",
+  "key": "item.med.vodka.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.5,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Weak Radiation Cleansing"
+      },
+      {
+        "name": "Duration",
+        "value": 600.0
+      },
+      {
+        "name": "Poison",
+        "value": 25.0
+      },
+      {
+        "name": "Radiation",
+        "value": -1.5
+      }
+    ]
+  },
+  "discription": "Warms and slowly removes radiation from the body, but has side effects."
+}

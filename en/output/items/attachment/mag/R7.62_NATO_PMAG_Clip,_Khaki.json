@@ -1,0 +1,17 @@
+{
+  "item_name": "7.62 NATO PMAG Clip, Khaki",
+  "key": "item.att.mag_pmag76230h.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.38,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

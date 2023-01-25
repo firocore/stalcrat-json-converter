@@ -1,0 +1,57 @@
+{
+  "item_name": "Stylish Jacket",
+  "key": "item.arm.kyrtka_modnaya.name",
+  "category": "armor/clothes",
+  "class": "Clothing",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 3.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Movement speed",
+        "value": 1.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 9.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 14.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 9.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 5.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 5.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 9.0
+      }
+    ]
+  },
+  "discription": "Well-connected guys like to stand out, too. In unusual ways, sometimes. This jacket model became very popular outside the Zone. The light body armor does not hinder movement and grants additional protection."
+}

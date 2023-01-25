@@ -1,0 +1,75 @@
+{
+  "item_name": "Gauss Rifle",
+  "key": "item.wpn.gauss.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 9.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "Battery"
+      },
+      {
+        "name": "Damage",
+        "value": 150.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 6.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 250.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 35.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.02
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 5.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 2.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.2
+      },
+      {
+        "name": "Draw time",
+        "value": 1.35
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.7
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      },
+      {
+        "text": "Damage to mutants: x2"
+      }
+    ]
+  },
+  "discription": "A sniper rifle that uses a system of electromagnets to accelerate bullets. This system is fed by energy from the Flare artifact. It is also known as “Project 62.”"
+}

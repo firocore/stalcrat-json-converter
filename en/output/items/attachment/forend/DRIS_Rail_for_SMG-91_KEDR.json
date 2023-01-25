@@ -1,0 +1,12 @@
+{
+  "item_name": "RIS Rail for SMG-91 KEDR",
+  "key": "item.att.forend_kedrris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.04,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

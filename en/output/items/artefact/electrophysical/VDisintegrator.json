@@ -1,0 +1,28 @@
+{
+  "item_name": "Disintegrator",
+  "key": "item.art.electra_dezintegrator.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An intriguing electrostatic Moonlight artifact with no covering. If an electrical current interacts with the artifact, it is greatly strengthened, but this can have lethal side effects."
+}

@@ -1,0 +1,69 @@
+{
+  "item_name": "Bandit Suit with Gas Mask",
+  "key": "item.arm.bover_gas.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 3.7,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -4.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 5.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 37.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 40.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 57.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 27.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 27.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 27.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 90.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 120.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Acquiring a good Zarya suit from a stalker or buying a new one gets more difficult every day, and bandits have decided to seek alternatives. Due to its widespread availability and low cost, they opted for the RS-32. PMG gas mask included."
+}

@@ -1,0 +1,25 @@
+{
+  "item_name": "GP-25 Kostyor",
+  "key": "item.att.launcher_gp25.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 1.5,
+    "other": [
+      {
+        "text": "Suitable ammo"
+      },
+      {
+        "text": "VOG-25 Grenade Round"
+      },
+      {
+        "text": "VOG-25 Podkidysh Grenade Round"
+      },
+      {
+        "text": "ASZ-40 Svirel Grenade Round"
+      }
+    ]
+  },
+  "discription": "Russian 40 mm Underbarrel Grenade Launcher"
+}

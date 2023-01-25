@@ -1,0 +1,76 @@
+{
+  "item_name": "Ace Exoskeleton",
+  "key": "item.arm.tuz.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Master",
+    "weight": 32.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -9.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 45.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 149.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 160.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 229.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 107.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 107.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 107.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 80.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 65.0
+      }
+    ]
+  },
+  "discription": "The thieves’ elite decided that they needed an equivalent to the stalker Mule, which is why the Ace Exoskeleton was created. The key difference is that it has increased mobility and weighs less."
+}

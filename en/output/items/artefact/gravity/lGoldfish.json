@@ -1,0 +1,28 @@
+{
+  "item_name": "Goldfish",
+  "key": "item.art.voronka_goldfish.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Many artifact hunters lose their minds at the sight of this artifact. And not in a good way. A member of the gravitational family of artifacts, it can create a small energy field, but you’ll need to somehow protect yourself from the resulting psy-emissions."
+}

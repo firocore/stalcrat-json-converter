@@ -1,0 +1,55 @@
+{
+  "item_name": "Cauterizer",
+  "key": "item.melee.burner.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.72,
+    "other": [
+      {
+        "name": "Fire damage",
+        "value": 20.0
+      },
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 115.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 50.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 45.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      },
+      {
+        "text": "Damage to mutants: x1,2"
+      }
+    ]
+  },
+  "discription": "A small hatchet equipped with a system for heating the blade. It looks stylish and can cook enemies’ wounds into a bloody crisp."
+}

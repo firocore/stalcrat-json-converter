@@ -1,0 +1,52 @@
+{
+  "item_name": "Icy Kukri",
+  "key": "item.melee.kukri_f.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Frost damage",
+        "value": 10.0
+      },
+      {
+        "name": "Quick attack (min)",
+        "value": 45.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 55.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 110.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 130.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 50.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 40.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "Covered in ice, this kukri is used by Frost Hunters."
+}

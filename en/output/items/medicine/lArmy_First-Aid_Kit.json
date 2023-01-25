@@ -1,0 +1,36 @@
+{
+  "item_name": "Army First-Aid Kit",
+  "key": "item.med.apt_a.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Healing"
+      },
+      {
+        "name": "Duration",
+        "value": 10.0
+      },
+      {
+        "name": "Stamina regeneration",
+        "value": 10.0
+      },
+      {
+        "name": "Periodic healing",
+        "value": 6.0
+      },
+      {
+        "name": "Radiation",
+        "value": -5.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -1.5
+      }
+    ]
+  },
+  "discription": "A specialized medical kit for treating physical wounds and bleeding. The kit contains a tourniquet for stopping bleeding, an adrenaline injection, a weak antirad treatment, and a special regeneration drug."
+}

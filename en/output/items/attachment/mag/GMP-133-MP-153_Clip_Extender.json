@@ -1,0 +1,17 @@
+{
+  "item_name": "MP-133/MP-153 Clip Extender",
+  "key": "item.att.mag_mr133.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.124,
+    "other": [
+      {
+        "name": "Additional clip size",
+        "value": 2.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

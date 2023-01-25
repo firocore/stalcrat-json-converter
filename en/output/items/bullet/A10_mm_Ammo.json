@@ -1,0 +1,34 @@
+{
+  "item_name": "10 mm Ammo",
+  "key": "item.amm.10st.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.013,
+    "other": [
+      {
+        "text": "Standard ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Number of projectiles",
+        "value": 5.0
+      },
+      {
+        "name": "Damage",
+        "value": -5.9604645e-06
+      },
+      {
+        "name": "Bleeding",
+        "value": 1.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

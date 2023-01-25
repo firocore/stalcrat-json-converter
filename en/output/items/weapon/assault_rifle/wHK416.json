@@ -1,0 +1,73 @@
+{
+  "item_name": "HK416",
+  "key": "item.wpn.hk416.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 3.1000001,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.56"
+      },
+      {
+        "name": "Damage",
+        "value": 34.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 155.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 850.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.95
+      },
+      {
+        "name": "Spread",
+        "value": 0.6
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.14
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "A German assault rifle that was manufactured by Heckler & Koch. Despite its visual similarity to the M4 carbine, the mechanism of this assault rifle is, in fact, closer to that of the German Н&К G36, and not to that of American AR-type rifles. Originally, this new weapon was intended as a replacement module for installation on the lower part of the receiver of the M4 or M16 carbines. However, it later became a complete assault rifle in and of itself."
+}

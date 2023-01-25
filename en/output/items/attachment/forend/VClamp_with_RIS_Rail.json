@@ -1,0 +1,12 @@
+{
+  "item_name": "Clamp with RIS Rail",
+  "key": "item.att.forend_valris1.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.08,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

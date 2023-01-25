@@ -1,0 +1,25 @@
+{
+  "item_name": "JS Silencer",
+  "key": "item.att.silencer_js.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.12,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -4.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      },
+      {
+        "name": "Damage at range",
+        "value": -30.000002
+      }
+    ]
+  },
+  "discription": "ATTENTION: if you use a silencer, the enemy won’t know where you are firing from."
+}

@@ -1,0 +1,73 @@
+{
+  "item_name": "ASh-12",
+  "key": "item.wpn.ash12.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 5.2999997,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12.7"
+      },
+      {
+        "name": "Damage",
+        "value": 52.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 20.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 180.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 600.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.75
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.25
+      },
+      {
+        "name": "Spread",
+        "value": 0.61
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.6999998
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.8
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.3
+      }
+    ]
+  },
+  "discription": "A Russian large-caliber assault rifle created to meet the needs of the Russian Federal Security Service’s special ops units."
+}

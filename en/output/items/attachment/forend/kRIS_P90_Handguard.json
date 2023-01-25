@@ -1,0 +1,12 @@
+{
+  "item_name": "RIS P90 Handguard",
+  "key": "item.att.forend_p90ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.3,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

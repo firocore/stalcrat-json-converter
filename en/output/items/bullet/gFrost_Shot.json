@@ -1,0 +1,30 @@
+{
+  "item_name": "Frost Shot",
+  "key": "item.amm.12frz.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.015,
+    "other": [
+      {
+        "text": "Standard ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Number of projectiles",
+        "value": 10.0
+      },
+      {
+        "name": "Damage",
+        "value": 2.3841858e-05
+      },
+      {
+        "name": "Stopping power",
+        "value": 50.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

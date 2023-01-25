@@ -1,0 +1,12 @@
+{
+  "item_name": "Night-Vision Goggles",
+  "key": "item.25501.name",
+  "category": "armor/device",
+  "class": "Devices",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 1.5,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

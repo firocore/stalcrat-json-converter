@@ -1,0 +1,28 @@
+{
+  "item_name": "3rd Class Antidote",
+  "key": "item.med.antidot_3.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Bioinfection Protection"
+      },
+      {
+        "name": "Duration",
+        "value": 240.0
+      },
+      {
+        "name": "Poison",
+        "value": 50.0
+      },
+      {
+        "name": "Bioinfection resistance",
+        "value": 50.0
+      }
+    ]
+  },
+  "discription": "A first-aid treatment used for chemical burns of the larynx and lungs, or chemical poisoning. Does not protect against the direct effects of acid on the body."
+}

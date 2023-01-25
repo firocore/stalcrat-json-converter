@@ -1,0 +1,29 @@
+{
+  "item_name": "X-5 Drum Clip",
+  "key": "item.att.mag_x550.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.64,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 50.0
+      },
+      {
+        "name": "Jamming",
+        "value": 0.005
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      },
+      {
+        "name": "Reload time",
+        "value": 20.000004
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

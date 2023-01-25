@@ -1,0 +1,49 @@
+{
+  "item_name": "Bandit Coat",
+  "key": "item.arm.kyrtka_bandit.name",
+  "category": "armor/clothes",
+  "class": "Clothing",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 6.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 11.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 6.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 11.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 11.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 11.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 7.0
+      }
+    ]
+  },
+  "discription": "A black leather coat. When combined with striped pants, it creates a distinct, recognizable image."
+}

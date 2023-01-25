@@ -1,0 +1,28 @@
+{
+  "item_name": "Rubik",
+  "key": "item.art.special_rubik.name",
+  "category": "artefact/other_arts",
+  "class": "Other",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "A mysterious artifact born from the Underbelly, which can have unpredictable attributes when under raised potential."
+}

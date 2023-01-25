@@ -1,0 +1,48 @@
+{
+  "item_name": "Crowbar",
+  "key": "item.21002.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 1.2,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 60.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 70.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 130.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 150.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 2.0
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 2.0
+      },
+      {
+        "name": "Penetration",
+        "value": 40.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 25.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A small pry bar that people call a “crowbar” or “jemmy.” Can easily smash an enemy’s skull."
+}

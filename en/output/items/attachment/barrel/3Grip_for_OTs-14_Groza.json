@@ -1,0 +1,33 @@
+{
+  "item_name": "Grip for OTs-14 Groza",
+  "key": "item.att.handgrip_groza.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Horizontal recoil",
+        "value": -14.999998
+      },
+      {
+        "name": "Spread",
+        "value": -10.000002
+      },
+      {
+        "name": "Sway",
+        "value": -14.999998
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      },
+      {
+        "name": "Damage at range",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,28 @@
+{
+  "item_name": "Morphine",
+  "key": "item.med.morphin.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Short-Term Boost"
+      },
+      {
+        "name": "Duration",
+        "value": 90.0
+      },
+      {
+        "name": "Poison",
+        "value": 50.0
+      },
+      {
+        "name": "Vitality",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "A medicinal substance of synthetic origin intended to relieve pain. Side effects include drowsiness and difficulty paying attention. Frequent use can lead to addiction."
+}

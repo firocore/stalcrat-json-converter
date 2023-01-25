@@ -1,0 +1,69 @@
+{
+  "item_name": "SMG-91 KEDR",
+  "key": "item.wpn.kedr.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.64,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 34.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 90.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 800.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.55
+      },
+      {
+        "name": "Spread",
+        "value": 1.618
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.401
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.32
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.17
+      },
+      {
+        "name": "Draw time",
+        "value": 0.75
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "The SMG-91 KEDR (designed by Yevgeny Dragunov) is a submachine gun developed in the early 1990s, on orders from the Ministry of Internal Affairs of the USSR. It was based on an earlier SMG-71, also designed by Dragunov. The first 40 preproduction prototypes were made in 1992 at the Izhevsk Mechanical Plant. Mass production began in 1993, at the Zlatoust Machine-Building Plant."
+}

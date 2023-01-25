@@ -1,0 +1,76 @@
+{
+  "item_name": "ALK-22 Dragonfly",
+  "key": "item.wpn.alk22.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 3.8,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.56"
+      },
+      {
+        "name": "Damage",
+        "value": 33.3
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 155.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 750.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.0
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.58
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.6999998
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      },
+      {
+        "text": "Initial rate of fire: 500 shots/min@Final rate of fire: 1,000 shots/min@Shots to accelerate: 10"
+      }
+    ]
+  },
+  "discription": "An assault rifle with variable rate of fire and a block of spinning barrels. The rate of fire increases gradually in automatic firing mode."
+}

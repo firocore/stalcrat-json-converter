@@ -1,0 +1,41 @@
+{
+  "item_name": "Hellboy Backpack",
+  "key": "item.bag.hellboy.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 4.1,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 60.000004
+      },
+      {
+        "name": "Effectiveness",
+        "value": 80.0
+      },
+      {
+        "name": "Capacity",
+        "value": 2.0
+      },
+      {
+        "name": "Stamina",
+        "value": 20.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 28.0
+      }
+    ]
+  },
+  "discription": "A fairly spacious backpack that comes equipped with two average-sized artifact containers. It gets its name from its visual similarity to the character of the same name."
+}

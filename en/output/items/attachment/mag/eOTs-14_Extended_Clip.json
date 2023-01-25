@@ -1,0 +1,17 @@
+{
+  "item_name": "OTs-14 Extended Clip",
+  "key": "item.att.mag_groza30.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.17,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

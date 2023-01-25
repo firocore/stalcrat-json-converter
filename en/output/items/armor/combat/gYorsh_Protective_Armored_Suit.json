@@ -1,0 +1,80 @@
+{
+  "item_name": "Yorsh Protective Armored Suit",
+  "key": "item.arm.yorsh.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 32.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -15.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -3.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 25.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 103.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 236.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 133.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 593.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 59.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 59.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 40.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 180.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 71.0
+      }
+    ]
+  },
+  "discription": "A multipurpose platform made from various types of components and modules. Assembled by tinkerers from the remains of broken armor sets. Surprisingly, this system came out very well, although it’s not particularly reliable. The main engineering feature of this set is the external electrical impulse dissipation system. Made up of external bolt surge dischargers combined into a single system, it creates a kind of Faraday cage. The bolts sticking out on top also provide excellent protection from most local fauna and give this suit a unique and eye-catching appearance."
+}

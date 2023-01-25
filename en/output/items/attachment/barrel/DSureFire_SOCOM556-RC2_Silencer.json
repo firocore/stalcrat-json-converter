@@ -1,0 +1,25 @@
+{
+  "item_name": "SureFire SOCOM556-RC2 Silencer",
+  "key": "item.att.silencer_socom556.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.48,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -9.000004
+      },
+      {
+        "name": "Draw speed",
+        "value": 10.000002
+      },
+      {
+        "name": "Damage at range",
+        "value": -22.000004
+      }
+    ]
+  },
+  "discription": "ATTENTION: if you use a silencer, the enemy won’t know where you are firing from."
+}

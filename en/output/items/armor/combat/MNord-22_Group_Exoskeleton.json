@@ -1,0 +1,76 @@
+{
+  "item_name": "Nord-22 Group Exoskeleton",
+  "key": "item.arm.ny22_exomod.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Master",
+    "weight": 38.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -10.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 40.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 160.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 182.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 229.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 89.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 65.0
+      }
+    ]
+  },
+  "discription": "An exoskeleton modification made by an unknown craftsman. By all appearances, this model was upgraded using anomalous tools and acquired unique capabilities. Among the various upgrades, the advanced servomotors, the unlimited freedom of movement, the cutting-edge NVG and the upgraded shielding helmet stand out."
+}

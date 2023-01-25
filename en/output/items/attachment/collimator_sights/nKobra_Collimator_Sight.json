@@ -1,0 +1,17 @@
+{
+  "item_name": "Kobra Collimator Sight",
+  "key": "item.att.sight_cobra.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.41,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: EKP-8, dovetail@Reticle: T-shaped, red"
+}

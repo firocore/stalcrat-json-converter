@@ -1,0 +1,69 @@
+{
+  "item_name": "CD-2 Armored Suit",
+  "key": "item.arm.kz2.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 7.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -5.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 8.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 60.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 76.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 86.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 53.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 53.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 53.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 100.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 60.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 150.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 44.0
+      }
+    ]
+  },
+  "discription": "An upgraded version of the standard Horizon clan suit. A cheap gas mask and improved protection from physical damage make this suit good for search operations in areas with average levels of anomalous activity."
+}

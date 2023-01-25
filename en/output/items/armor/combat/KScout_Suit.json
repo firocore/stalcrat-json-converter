@@ -1,0 +1,61 @@
+{
+  "item_name": "Scout Suit",
+  "key": "item.arm.scout.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 6.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 3.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 45.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 45.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 63.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 18.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 18.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 18.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 45.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 45.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 32.0
+      }
+    ]
+  },
+  "discription": "A suit that is purchased by mercenaries on the Mainland. It is popular due to its lightness and comfort. It isn’t well suited to the conditions of the Zone, but it offers good protection against bullets."
+}

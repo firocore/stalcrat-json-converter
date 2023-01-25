@@ -1,0 +1,44 @@
+{
+  "item_name": "Epinephrine",
+  "key": "item.med.epinephrine.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Short-Term Boost"
+      },
+      {
+        "name": "Duration",
+        "value": 60.0
+      },
+      {
+        "name": "Poison",
+        "value": 50.0
+      },
+      {
+        "name": "Stamina",
+        "value": 100.0
+      },
+      {
+        "name": "Movement speed",
+        "value": 5.0
+      },
+      {
+        "name": "Stamina regeneration",
+        "value": 10.0
+      },
+      {
+        "name": "Healing effectiveness",
+        "value": 25.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": -25.0
+      }
+    ]
+  },
+  "discription": "Adrenaline of synthetic origin. The main hormone of the adrenal medulla, as well as a neurotransmitter. Raises blood pressure, which increases both efficacy of healing treatments and the risk of serious bleeding if injured."
+}

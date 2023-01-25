@@ -1,0 +1,32 @@
+{
+  "item_name": "Candle Short Range Detector",
+  "key": "item.device.dud_svecha.name",
+  "category": "weapon/device",
+  "class": "Devices",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.7,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "text": "Searching for signals"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Range",
+        "value": 50.0
+      }
+    ]
+  },
+  "discription": "A detector used to locate zones of anomalous activity. It is equipped with a basic tracking device. The wire glows brighter when aimed in the right direction, and it gives off an alarm when in close proximity to a source."
+}

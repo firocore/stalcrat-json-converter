@@ -1,0 +1,84 @@
+{
+  "item_name": "Alpine TPG-1",
+  "key": "item.wpn.alpine.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 7.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 95.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 210.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 39.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.75
+      },
+      {
+        "name": "Spread",
+        "value": 0.04
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 5.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 2.2
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.7
+      },
+      {
+        "name": "Draw time",
+        "value": 1.25
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.5
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 7.5000005
+      },
+      {
+        "name": "Bleeding",
+        "value": 95.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 180.0
+      },
+      {
+        "text": "Headshot damage: x2"
+      }
+    ]
+  },
+  "discription": "The Unique Alpine TPG-1 is an Austrian sniper rifle. When firing, ammo is fed from a detachable box magazine that holds five rounds."
+}

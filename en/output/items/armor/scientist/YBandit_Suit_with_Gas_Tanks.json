@@ -1,0 +1,65 @@
+{
+  "item_name": "Bandit Suit with Gas Tanks",
+  "key": "item.arm.bover_balon.name",
+  "category": "armor/scientist",
+  "class": "Scientist",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 5.2,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 21.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 24.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 29.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 178.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 178.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 178.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 120.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 105.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 180.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 90.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 18.0
+      }
+    ]
+  },
+  "discription": "Getting an undamaged Zarya-A from a stalker is pretty difficult, so the kingpins decided to order a shipment of RS-33s, which are more resistant to the effects of anomalies, on the black market. A PMG gas mask and oxygen tanks are included in the suit. To compensate for the weight of the tanks, they decided to use lighter materials for the body armor."
+}

@@ -1,0 +1,17 @@
+{
+  "item_name": "RK-3 Grip",
+  "key": "item.att.handle_rk3.name",
+  "category": "attachment/pistol_handle",
+  "class": "Pistol Grips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.225,
+    "other": [
+      {
+        "name": "Reload time",
+        "value": -1.9999981
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

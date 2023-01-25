@@ -1,0 +1,34 @@
+{
+  "item_name": "Large-Caliber Silver Ammo",
+  "key": "item.amm.12silver2.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "text": "Special ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Absolute damage",
+        "value": 20.0
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 60.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 100.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

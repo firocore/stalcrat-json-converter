@@ -1,0 +1,69 @@
+{
+  "item_name": "Walther MPK",
+  "key": "item.wpn.mpk.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 3.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 39.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 32.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 100.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 550.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.6
+      },
+      {
+        "name": "Spread",
+        "value": 1.344
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.3
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.14
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      }
+    ]
+  },
+  "discription": "The Walther MPK is a German submachine gun developed by Walther. It is good for concealed carry."
+}

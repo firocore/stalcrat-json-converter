@@ -1,0 +1,4388 @@
+[
+  {
+    "name": "Детектор узкого диапазона «Свеча»",
+    "key": "item.device.dud_svecha.name",
+    "data": "/items/weapon/device/BДетектор_узкого_диапазона_Свеча.json",
+    "icon": "/icons/weapon/device/Детектор_узкого_диапазона_Свеча.png"
+  },
+  {
+    "name": "Детектор узкого диапазона «Бурят»",
+    "key": "item.device.dud_buryat.name",
+    "data": "/items/weapon/device/yДетектор_узкого_диапазона_Бурят.json",
+    "icon": "/icons/weapon/device/Детектор_узкого_диапазона_Бурят.png"
+  },
+  {
+    "name": "Детектор узкого диапазона «Эльбрус»",
+    "key": "item.device.dud_elbrus.name",
+    "data": "/items/weapon/device/lДетектор_узкого_диапазона_Эльбрус.json",
+    "icon": "/icons/weapon/device/Детектор_узкого_диапазона_Эльбрус.png"
+  },
+  {
+    "name": "СН-1 «Блин»",
+    "key": "item.misc.cn1.name",
+    "data": "/items/weapon/device/VСН-1_Блин.json",
+    "icon": "/icons/weapon/device/СН-1_Блин.png"
+  },
+  {
+    "name": "СН-1у «Блинчик»",
+    "key": "item.misc.cn1u.name",
+    "data": "/items/weapon/device/nСН-1у_Блинчик.json",
+    "icon": "/icons/weapon/device/СН-1у_Блинчик.png"
+  },
+  {
+    "name": "СН-2 «Нога»",
+    "key": "item.misc.cn2.name",
+    "data": "/items/weapon/device/gСН-2_Нога.json",
+    "icon": "/icons/weapon/device/СН-2_Нога.png"
+  },
+  {
+    "name": "СН-2у «Ножка»",
+    "key": "item.misc.cn2u.name",
+    "data": "/items/weapon/device/0СН-2у_Ножка.json",
+    "icon": "/icons/weapon/device/СН-2у_Ножка.png"
+  },
+  {
+    "name": "Частотный кристалл",
+    "key": "item.art.electra_crystal.name",
+    "data": "/items/artefact/electrophysical/BЧастотный_кристалл.json",
+    "icon": "/icons/artefact/electrophysical/Частотный_кристалл.png"
+  },
+  {
+    "name": "Бенгальский огонь",
+    "key": "item.art.electra_bengal.name",
+    "data": "/items/artefact/electrophysical/yБенгальский_огонь.json",
+    "icon": "/icons/artefact/electrophysical/Бенгальский_огонь.png"
+  },
+  {
+    "name": "Вспышка",
+    "key": "item.art.electra_vspyshka.name",
+    "data": "/items/artefact/electrophysical/lВспышка.json",
+    "icon": "/icons/artefact/electrophysical/Вспышка.png"
+  },
+  {
+    "name": "Батарейка",
+    "key": "item.art.electra_batareyka.name",
+    "data": "/items/artefact/electrophysical/KБатарейка.json",
+    "icon": "/icons/artefact/electrophysical/Батарейка.png"
+  },
+  {
+    "name": "Снежинка",
+    "key": "item.art.electra_snowflake.name",
+    "data": "/items/artefact/electrophysical/kСнежинка.json",
+    "icon": "/icons/artefact/electrophysical/Снежинка.png"
+  },
+  {
+    "name": "Пустышка",
+    "key": "item.art.electra_pustishka.name",
+    "data": "/items/artefact/electrophysical/3Пустышка.json",
+    "icon": "/icons/artefact/electrophysical/Пустышка.png"
+  },
+  {
+    "name": "Дезинтегратор",
+    "key": "item.art.electra_dezintegrator.name",
+    "data": "/items/artefact/electrophysical/VДезинтегратор.json",
+    "icon": "/icons/artefact/electrophysical/Дезинтегратор.png"
+  },
+  {
+    "name": "Лунный свет",
+    "key": "item.art.electra_moonlight.name",
+    "data": "/items/artefact/electrophysical/nЛунный_свет.json",
+    "icon": "/icons/artefact/electrophysical/Лунный_свет.png"
+  },
+  {
+    "name": "Гелий",
+    "key": "item.art.electra_helium.name",
+    "data": "/items/artefact/electrophysical/gГелий.json",
+    "icon": "/icons/artefact/electrophysical/Гелий.png"
+  },
+  {
+    "name": "Кристалл",
+    "key": "item.art.jarka_crystal.name",
+    "data": "/items/artefact/thermal/VКристалл.json",
+    "icon": "/icons/artefact/thermal/Кристалл.png"
+  },
+  {
+    "name": "Огненный шар",
+    "key": "item.art.jarka_fireball.name",
+    "data": "/items/artefact/thermal/nОгненный_шар.json",
+    "icon": "/icons/artefact/thermal/Огненный_шар.png"
+  },
+  {
+    "name": "Капля",
+    "key": "item.art.jarka_kaplya.name",
+    "data": "/items/artefact/thermal/gКапля.json",
+    "icon": "/icons/artefact/thermal/Капля.png"
+  },
+  {
+    "name": "Волчьи слёзы",
+    "key": "item.art.jarka_vslezy.name",
+    "data": "/items/artefact/thermal/0Волчьи_слёзы.json",
+    "icon": "/icons/artefact/thermal/Волчьи_слёзы.png"
+  },
+  {
+    "name": "Мамины бусы",
+    "key": "item.art.jarka_mamybusi.name",
+    "data": "/items/artefact/thermal/RМамины_бусы.json",
+    "icon": "/icons/artefact/thermal/Мамины_бусы.png"
+  },
+  {
+    "name": "Глаз",
+    "key": "item.art.jarka_glaz.name",
+    "data": "/items/artefact/thermal/2Глаз.json",
+    "icon": "/icons/artefact/thermal/Глаз.png"
+  },
+  {
+    "name": "Пламя",
+    "key": "item.art.jarka_plamya.name",
+    "data": "/items/artefact/thermal/JПламя.json",
+    "icon": "/icons/artefact/thermal/Пламя.png"
+  },
+  {
+    "name": "Солнце",
+    "key": "item.art.jarka_solnce.name",
+    "data": "/items/artefact/thermal/PСолнце.json",
+    "icon": "/icons/artefact/thermal/Солнце.png"
+  },
+  {
+    "name": "Кровь камня",
+    "key": "item.art.karousel_bloodstone.name",
+    "data": "/items/artefact/gravity/BКровь_камня.json",
+    "icon": "/icons/artefact/gravity/Кровь_камня.png"
+  },
+  {
+    "name": "Ломоть мяса",
+    "key": "item.art.karousel_lomot.name",
+    "data": "/items/artefact/gravity/yЛомоть_мяса.json",
+    "icon": "/icons/artefact/gravity/Ломоть_мяса.png"
+  },
+  {
+    "name": "Желчь камня",
+    "key": "item.art.karousel_jelch.name",
+    "data": "/items/artefact/gravity/lЖелчь_камня.json",
+    "icon": "/icons/artefact/gravity/Желчь_камня.png"
+  },
+  {
+    "name": "Болотный гнилец",
+    "key": "item.art.karousel_gnilec.name",
+    "data": "/items/artefact/gravity/KБолотный_гнилец.json",
+    "icon": "/icons/artefact/gravity/Болотный_гнилец.png"
+  },
+  {
+    "name": "Душа",
+    "key": "item.art.karousel_dusha.name",
+    "data": "/items/artefact/gravity/kДуша.json",
+    "icon": "/icons/artefact/gravity/Душа.png"
+  },
+  {
+    "name": "Пружина",
+    "key": "item.art.karousel_prujina.name",
+    "data": "/items/artefact/gravity/3Пружина.json",
+    "icon": "/icons/artefact/gravity/Пружина.png"
+  },
+  {
+    "name": "Остов",
+    "key": "item.art.karousel_ostov.name",
+    "data": "/items/artefact/gravity/VОстов.json",
+    "icon": "/icons/artefact/gravity/Остов.png"
+  },
+  {
+    "name": "Кислый кристалл",
+    "key": "item.art.kisel_crystal.name",
+    "data": "/items/artefact/biochemical/VКислый_кристалл.json",
+    "icon": "/icons/artefact/biochemical/Кислый_кристалл.png"
+  },
+  {
+    "name": "Кисель",
+    "key": "item.art.kisel_kisel.name",
+    "data": "/items/artefact/biochemical/nКисель.json",
+    "icon": "/icons/artefact/biochemical/Кисель.png"
+  },
+  {
+    "name": "Слизь",
+    "key": "item.art.kisel_sliz.name",
+    "data": "/items/artefact/biochemical/gСлизь.json",
+    "icon": "/icons/artefact/biochemical/Слизь.png"
+  },
+  {
+    "name": "Слизняк",
+    "key": "item.art.kisel_sliznyak.name",
+    "data": "/items/artefact/biochemical/0Слизняк.json",
+    "icon": "/icons/artefact/biochemical/Слизняк.png"
+  },
+  {
+    "name": "Слюда",
+    "key": "item.art.kisel_slyda.name",
+    "data": "/items/artefact/biochemical/RСлюда.json",
+    "icon": "/icons/artefact/biochemical/Слюда.png"
+  },
+  {
+    "name": "Светляк",
+    "key": "item.art.kisel_svetlyak.name",
+    "data": "/items/artefact/biochemical/2Светляк.json",
+    "icon": "/icons/artefact/biochemical/Светляк.png"
+  },
+  {
+    "name": "Улитка",
+    "key": "item.art.kisel_ulitka.name",
+    "data": "/items/artefact/biochemical/JУлитка.json",
+    "icon": "/icons/artefact/biochemical/Улитка.png"
+  },
+  {
+    "name": "Пузырь",
+    "key": "item.art.kisel_puzir.name",
+    "data": "/items/artefact/biochemical/PПузырь.json",
+    "icon": "/icons/artefact/biochemical/Пузырь.png"
+  },
+  {
+    "name": "Плёнка",
+    "key": "item.art.kisel_plenka.name",
+    "data": "/items/artefact/biochemical/NПлёнка.json",
+    "icon": "/icons/artefact/biochemical/Плёнка.png"
+  },
+  {
+    "name": "Многогранник",
+    "key": "item.art.kisel_poly.name",
+    "data": "/items/artefact/biochemical/DМногогранник.json",
+    "icon": "/icons/artefact/biochemical/Многогранник.png"
+  },
+  {
+    "name": "Колючка",
+    "key": "item.art.puh_koluchka.name",
+    "data": "/items/artefact/biochemical/BКолючка.json",
+    "icon": "/icons/artefact/biochemical/Колючка.png"
+  },
+  {
+    "name": "Кристальная колючка",
+    "key": "item.art.puh_kkoluchka.name",
+    "data": "/items/artefact/biochemical/yКристальная_колючка.json",
+    "icon": "/icons/artefact/biochemical/Кристальная_колючка.png"
+  },
+  {
+    "name": "Морской ёж",
+    "key": "item.art.puh_ej.name",
+    "data": "/items/artefact/biochemical/lМорской_ёж.json",
+    "icon": "/icons/artefact/biochemical/Морской_ёж.png"
+  },
+  {
+    "name": "Колобок",
+    "key": "item.art.puh_kolobok.name",
+    "data": "/items/artefact/biochemical/KКолобок.json",
+    "icon": "/icons/artefact/biochemical/Колобок.png"
+  },
+  {
+    "name": "Стальной колобок",
+    "key": "item.art.puh_steelkolobok.name",
+    "data": "/items/artefact/biochemical/kСтальной_колобок.json",
+    "icon": "/icons/artefact/biochemical/Стальной_колобок.png"
+  },
+  {
+    "name": "Каменный цветок",
+    "key": "item.art.trampoline_kamencvet.name",
+    "data": "/items/artefact/gravity/VКаменный_цветок.json",
+    "icon": "/icons/artefact/gravity/Каменный_цветок.png"
+  },
+  {
+    "name": "Медуза",
+    "key": "item.art.trampoline_meduza.name",
+    "data": "/items/artefact/gravity/nМедуза.json",
+    "icon": "/icons/artefact/gravity/Медуза.png"
+  },
+  {
+    "name": "Тёмная медуза",
+    "key": "item.art.trampoline_darkmeduza.name",
+    "data": "/items/artefact/gravity/gТёмная_медуза.json",
+    "icon": "/icons/artefact/gravity/Тёмная_медуза.png"
+  },
+  {
+    "name": "Жильник",
+    "key": "item.art.trampoline_jilnik.name",
+    "data": "/items/artefact/gravity/0Жильник.json",
+    "icon": "/icons/artefact/gravity/Жильник.png"
+  },
+  {
+    "name": "Ночная звезда",
+    "key": "item.art.trampoline_nightstar.name",
+    "data": "/items/artefact/gravity/RНочная_звезда.json",
+    "icon": "/icons/artefact/gravity/Ночная_звезда.png"
+  },
+  {
+    "name": "Протомедуза",
+    "key": "item.art.trampoline_protomeduza.name",
+    "data": "/items/artefact/gravity/2Протомедуза.json",
+    "icon": "/icons/artefact/gravity/Протомедуза.png"
+  },
+  {
+    "name": "Браслет",
+    "key": "item.art.trampoline_braslet.name",
+    "data": "/items/artefact/gravity/JБраслет.json",
+    "icon": "/icons/artefact/gravity/Браслет.png"
+  },
+  {
+    "name": "Выверт",
+    "key": "item.art.voronka_vivert.name",
+    "data": "/items/artefact/gravity/BВыверт.json",
+    "icon": "/icons/artefact/gravity/Выверт.png"
+  },
+  {
+    "name": "Грави",
+    "key": "item.art.voronka_gravi.name",
+    "data": "/items/artefact/gravity/yГрави.json",
+    "icon": "/icons/artefact/gravity/Грави.png"
+  },
+  {
+    "name": "Золотая рыбка",
+    "key": "item.art.voronka_goldfish.name",
+    "data": "/items/artefact/gravity/lЗолотая_рыбка.json",
+    "icon": "/icons/artefact/gravity/Золотая_рыбка.png"
+  },
+  {
+    "name": "Золотистый грави",
+    "key": "item.art.voronka_goldgravi.name",
+    "data": "/items/artefact/gravity/KЗолотистый_грави.json",
+    "icon": "/icons/artefact/gravity/Золотистый_грави.png"
+  },
+  {
+    "name": "Янтарник",
+    "key": "item.art.voronka_yantar.name",
+    "data": "/items/artefact/gravity/kЯнтарник.json",
+    "icon": "/icons/artefact/gravity/Янтарник.png"
+  },
+  {
+    "name": "Криоген",
+    "key": "item.art.voronka_kriogen.name",
+    "data": "/items/artefact/gravity/3Криоген.json",
+    "icon": "/icons/artefact/gravity/Криоген.png"
+  },
+  {
+    "name": "Чёрный кристалл",
+    "key": "item.art.voronka_crystal.name",
+    "data": "/items/artefact/gravity/VЧёрный_кристалл.json",
+    "icon": "/icons/artefact/gravity/Чёрный_кристалл.png"
+  },
+  {
+    "name": "Спираль",
+    "key": "item.art.puzir_spiral.name",
+    "data": "/items/artefact/electrophysical/VСпираль.json",
+    "icon": "/icons/artefact/electrophysical/Спираль.png"
+  },
+  {
+    "name": "Зеркало",
+    "key": "item.art.puzir_zerkalo.name",
+    "data": "/items/artefact/electrophysical/nЗеркало.json",
+    "icon": "/icons/artefact/electrophysical/Зеркало.png"
+  },
+  {
+    "name": "Осколок",
+    "key": "item.art.puzir_oskolok.name",
+    "data": "/items/artefact/electrophysical/gОсколок.json",
+    "icon": "/icons/artefact/electrophysical/Осколок.png"
+  },
+  {
+    "name": "Призма",
+    "key": "item.art.puzir_prisma.name",
+    "data": "/items/artefact/electrophysical/0Призма.json",
+    "icon": "/icons/artefact/electrophysical/Призма.png"
+  },
+  {
+    "name": "Атом",
+    "key": "item.art.puzir_atom.name",
+    "data": "/items/artefact/electrophysical/RАтом.json",
+    "icon": "/icons/artefact/electrophysical/Атом.png"
+  },
+  {
+    "name": "Иней",
+    "key": "item.art.blizzard_frost.name",
+    "data": "/items/artefact/thermal/VИней.json",
+    "icon": "/icons/artefact/thermal/Иней.png"
+  },
+  {
+    "name": "Хрусталь",
+    "key": "item.art.blizzard_crystal.name",
+    "data": "/items/artefact/thermal/nХрусталь.json",
+    "icon": "/icons/artefact/thermal/Хрусталь.png"
+  },
+  {
+    "name": "Корка",
+    "key": "item.art.blizzard_crust.name",
+    "data": "/items/artefact/thermal/gКорка.json",
+    "icon": "/icons/artefact/thermal/Корка.png"
+  },
+  {
+    "name": "Вихрь",
+    "key": "item.art.blizzard_vortex.name",
+    "data": "/items/artefact/thermal/0Вихрь.json",
+    "icon": "/icons/artefact/thermal/Вихрь.png"
+  },
+  {
+    "name": "Фаренгейт",
+    "key": "item.art.blizzard_fahrenheit.name",
+    "data": "/items/artefact/thermal/RФаренгейт.json",
+    "icon": "/icons/artefact/thermal/Фаренгейт.png"
+  },
+  {
+    "name": "Бритва",
+    "key": "item.11455.name",
+    "data": "/items/artefact/thermal/2Бритва.json",
+    "icon": "/icons/artefact/thermal/Бритва.png"
+  },
+  {
+    "name": "Каблук",
+    "key": "item.art.blizzard_heel.name",
+    "data": "/items/artefact/thermal/JКаблук.json",
+    "icon": "/icons/artefact/thermal/Каблук.png"
+  },
+  {
+    "name": "Куриный бог",
+    "key": "item.art.blizzard_chickengod.name",
+    "data": "/items/artefact/thermal/PКуриный_бог.json",
+    "icon": "/icons/artefact/thermal/Куриный_бог.png"
+  },
+  {
+    "name": "Глаз бури",
+    "key": "item.art.blizzard_stormeye.name",
+    "data": "/items/artefact/thermal/NГлаз_бури.json",
+    "icon": "/icons/artefact/thermal/Глаз_бури.png"
+  },
+  {
+    "name": "Рубик",
+    "key": "item.art.special_rubik.name",
+    "data": "/items/artefact/other_arts/BРубик.json",
+    "icon": "/icons/artefact/other_arts/Рубик.png"
+  },
+  {
+    "name": "Контейнер «КЗС-1»",
+    "key": "item.cont.kzs1.name",
+    "data": "/items/containers/BКонтейнер_КЗС-1.json",
+    "icon": "/icons/containers/Контейнер_КЗС-1.png"
+  },
+  {
+    "name": "Контейнер «КЗС-1у»",
+    "key": "item.cont.kzs1d.name",
+    "data": "/items/containers/3Контейнер_КЗС-1у.json",
+    "icon": "/icons/containers/Контейнер_КЗС-1у.png"
+  },
+  {
+    "name": "«КЗС-2»",
+    "key": "item.cont.kzs2.name",
+    "data": "/items/containers/RКЗС-2.json",
+    "icon": "/icons/containers/КЗС-2.png"
+  },
+  {
+    "name": "Рюкзак «Hellboy»",
+    "key": "item.bag.hellboy.name",
+    "data": "/items/containers/2Рюкзак_Hellboy.json",
+    "icon": "/icons/containers/Рюкзак_Hellboy.png"
+  },
+  {
+    "name": "«КЗС-2у»",
+    "key": "item.cont.kzs2d.name",
+    "data": "/items/containers/DКЗС-2у.json",
+    "icon": "/icons/containers/КЗС-2у.png"
+  },
+  {
+    "name": "Рюкзак «Hellboy» укрепленный",
+    "key": "item.bag.hellboyd.name",
+    "data": "/items/containers/QРюкзак_Hellboy_укрепленный.json",
+    "icon": "/icons/containers/Рюкзак_Hellboy_укрепленный.png"
+  },
+  {
+    "name": "Контейнер «ИУ-2»",
+    "key": "item.cont.iu2.name",
+    "data": "/items/containers/mКонтейнер_ИУ-2.json",
+    "icon": "/icons/containers/Контейнер_ИУ-2.png"
+  },
+  {
+    "name": "«КЗС-3»",
+    "key": "item.cont.kzs3.name",
+    "data": "/items/containers/zКЗС-3.json",
+    "icon": "/icons/containers/КЗС-3.png"
+  },
+  {
+    "name": "«КЗС-3у»",
+    "key": "item.cont.kzs3d.name",
+    "data": "/items/containers/MКЗС-3у.json",
+    "icon": "/icons/containers/КЗС-3у.png"
+  },
+  {
+    "name": "Контейнер «Холодильник»",
+    "key": "item.cont.fridge.name",
+    "data": "/items/containers/aКонтейнер_Холодильник.json",
+    "icon": "/icons/containers/Контейнер_Холодильник.png"
+  },
+  {
+    "name": "Сумка «Вьюк»",
+    "key": "item.cont.pouch.name",
+    "data": "/items/containers/oСумка_Вьюк.json",
+    "icon": "/icons/containers/Сумка_Вьюк.png"
+  },
+  {
+    "name": "Контейнер «Берлога-4»",
+    "key": "item.cont.bear4.name",
+    "data": "/items/containers/dКонтейнер_Берлога-4.json",
+    "icon": "/icons/containers/Контейнер_Берлога-4.png"
+  },
+  {
+    "name": "«КЗС-4»",
+    "key": "item.cont.kzs4.name",
+    "data": "/items/containers/7КЗС-4.json",
+    "icon": "/icons/containers/КЗС-4.png"
+  },
+  {
+    "name": "Контейнер «Кокон»",
+    "key": "item.cont.cocoon.name",
+    "data": "/items/containers/jКонтейнер_Кокон.json",
+    "icon": "/icons/containers/Контейнер_Кокон.png"
+  },
+  {
+    "name": "Контейнер «Добытчик»",
+    "key": "item.cont.getter.name",
+    "data": "/items/containers/9Контейнер_Добытчик.json",
+    "icon": "/icons/containers/Контейнер_Добытчик.png"
+  },
+  {
+    "name": "Контейнер «КСМ»",
+    "key": "item.cont.ksm.name",
+    "data": "/items/containers/rКонтейнер_КСМ.json",
+    "icon": "/icons/containers/Контейнер_КСМ.png"
+  },
+  {
+    "name": "Контейнер «Берлога-4у»",
+    "key": "item.cont.bear4d.name",
+    "data": "/items/containers/XКонтейнер_Берлога-4у.json",
+    "icon": "/icons/containers/Контейнер_Берлога-4у.png"
+  },
+  {
+    "name": "«КЗС-4у»",
+    "key": "item.cont.kzs4d.name",
+    "data": "/items/containers/ZКЗС-4у.json",
+    "icon": "/icons/containers/КЗС-4у.png"
+  },
+  {
+    "name": "Ягдташ",
+    "key": "item.bag.tasche.name",
+    "data": "/items/containers/OЯгдташ.json",
+    "icon": "/icons/containers/Ягдташ.png"
+  },
+  {
+    "name": "Контейнер «Колотун»",
+    "key": "item.cont.kolotun.name",
+    "data": "/items/containers/qКонтейнер_Колотун.json",
+    "icon": "/icons/containers/Контейнер_Колотун.png"
+  },
+  {
+    "name": "«КЗС-5»",
+    "key": "item.cont.kzs5.name",
+    "data": "/items/containers/AКЗС-5.json",
+    "icon": "/icons/containers/КЗС-5.png"
+  },
+  {
+    "name": "Контейнер «Улей»",
+    "key": "item.cont.hive.name",
+    "data": "/items/containers/EКонтейнер_Улей.json",
+    "icon": "/icons/containers/Контейнер_Улей.png"
+  },
+  {
+    "name": "«КЗС-5у»",
+    "key": "item.cont.kzs5d.name",
+    "data": "/items/containers/yКЗС-5у.json",
+    "icon": "/icons/containers/КЗС-5у.png"
+  },
+  {
+    "name": "Контейнер «Берлога-6»",
+    "key": "item.cont.bear6.name",
+    "data": "/items/containers/VКонтейнер_Берлога-6.json",
+    "icon": "/icons/containers/Контейнер_Берлога-6.png"
+  },
+  {
+    "name": "Контейнер «Берлога-6у»",
+    "key": "item.cont.bear6d.name",
+    "data": "/items/containers/2Контейнер_Берлога-6у.json",
+    "icon": "/icons/containers/Контейнер_Берлога-6у.png"
+  },
+  {
+    "name": "Сумка-трансформер",
+    "key": "item.bag.transformer.name",
+    "data": "/items/containers/RСумка-трансформер.json",
+    "icon": "/icons/containers/Сумка-трансформер.png"
+  },
+  {
+    "name": "Спортивная сумка",
+    "key": "item.bag.sports.name",
+    "data": "/items/containers/DСпортивная_сумка.json",
+    "icon": "/icons/containers/Спортивная_сумка.png"
+  },
+  {
+    "name": "Рюкзак Errand Junior",
+    "key": "item.bag.errand.name",
+    "data": "/items/containers/GРюкзак_Errand_Junior.json",
+    "icon": "/icons/containers/Рюкзак_Errand_Junior.png"
+  },
+  {
+    "name": "Рюкзак MBSS",
+    "key": "item.bag.mbss.name",
+    "data": "/items/containers/MРюкзак_MBSS.json",
+    "icon": "/icons/containers/Рюкзак_MBSS.png"
+  },
+  {
+    "name": "Штурмовой рюкзак Tri-Zip",
+    "key": "item.bag.trizip.name",
+    "data": "/items/containers/XШтурмовой_рюкзак_Tri-Zip.json",
+    "icon": "/icons/containers/Штурмовой_рюкзак_Tri-Zip.png"
+  },
+  {
+    "name": "Рюкзак NPA",
+    "key": "item.bag.npa.name",
+    "data": "/items/containers/AРюкзак_NPA.json",
+    "icon": "/icons/containers/Рюкзак_NPA.png"
+  },
+  {
+    "name": "РГН",
+    "key": "item.exp.rgn.name",
+    "data": "/items/grenade/rРГН.json",
+    "icon": "/icons/grenade/РГН.png"
+  },
+  {
+    "name": "РГО",
+    "key": "item.exp.rgo.name",
+    "data": "/items/grenade/XРГО.json",
+    "icon": "/icons/grenade/РГО.png"
+  },
+  {
+    "name": "СЗГ «Вспышка»",
+    "key": "item.exp.vspishka.name",
+    "data": "/items/grenade/AСЗГ_Вспышка.json",
+    "icon": "/icons/grenade/СЗГ_Вспышка.png"
+  },
+  {
+    "name": "M84",
+    "key": "item.exp.m84.name",
+    "data": "/items/grenade/EM84.json",
+    "icon": "/icons/grenade/M84.png"
+  },
+  {
+    "name": "M84 QD",
+    "key": "item.exp.m84qd.name",
+    "data": "/items/grenade/LM84_QD.json",
+    "icon": "/icons/grenade/M84_QD.png"
+  },
+  {
+    "name": "РГД-5",
+    "key": "item.exp.rgd5.name",
+    "data": "/items/grenade/5РГД-5.json",
+    "icon": "/icons/grenade/РГД-5.png"
+  },
+  {
+    "name": "Ф-1",
+    "key": "item.exp.f1.name",
+    "data": "/items/grenade/BФ-1.json",
+    "icon": "/icons/grenade/Ф-1.png"
+  },
+  {
+    "name": "M67",
+    "key": "item.exp.m67.name",
+    "data": "/items/grenade/yM67.json",
+    "icon": "/icons/grenade/M67.png"
+  },
+  {
+    "name": "V40 Mini-Grenade",
+    "key": "item.exp.v40.name",
+    "data": "/items/grenade/lV40_Mini-Grenade.json",
+    "icon": "/icons/grenade/V40_Mini-Grenade.png"
+  },
+  {
+    "name": "Выстрел гранатомётный ВОГ-25",
+    "key": "item.exp.vog25.name",
+    "data": "/items/grenade/KВыстрел_гранатомётный_ВОГ-25.json",
+    "icon": "/icons/grenade/Выстрел_гранатомётный_ВОГ-25.png"
+  },
+  {
+    "name": "Выстрел гранатомётный ВОГ-25П «Подкидыш»",
+    "key": "item.exp.vog25p.name",
+    "data": "/items/grenade/kВыстрел_гранатомётный_ВОГ-25П_Подкидыш.json",
+    "icon": "/icons/grenade/Выстрел_гранатомётный_ВОГ-25П_Подкидыш.png"
+  },
+  {
+    "name": "Выстрел гранатомётный M381",
+    "key": "item.exp.m381.name",
+    "data": "/items/grenade/3Выстрел_гранатомётный_M381.json",
+    "icon": "/icons/grenade/Выстрел_гранатомётный_M381.png"
+  },
+  {
+    "name": "Выстрел гранатомётный M397",
+    "key": "item.exp.m397.name",
+    "data": "/items/grenade/VВыстрел_гранатомётный_M397.json",
+    "icon": "/icons/grenade/Выстрел_гранатомётный_M397.png"
+  },
+  {
+    "name": "Выстрел гранатомётный M2",
+    "key": "item.exp.m381_2.name",
+    "data": "/items/grenade/aВыстрел_гранатомётный_M2.json",
+    "icon": "/icons/grenade/Выстрел_гранатомётный_M2.png"
+  },
+  {
+    "name": "Патрон 9 мм",
+    "key": "item.amm.9st.name",
+    "data": "/items/bullet/BПатрон_9_мм.json",
+    "icon": "/icons/bullet/Патрон_9_мм.png"
+  },
+  {
+    "name": "Патрон 9 мм бронебойный",
+    "key": "item.amm.9bb.name",
+    "data": "/items/bullet/yПатрон_9_мм_бронебойный.json",
+    "icon": "/icons/bullet/Патрон_9_мм_бронебойный.png"
+  },
+  {
+    "name": "Патрон 9 мм экспансивный",
+    "key": "item.amm.9exp.name",
+    "data": "/items/bullet/lПатрон_9_мм_экспансивный.json",
+    "icon": "/icons/bullet/Патрон_9_мм_экспансивный.png"
+  },
+  {
+    "name": "Патрон 9 мм зажигательный",
+    "key": "item.amm.9inc.name",
+    "data": "/items/bullet/KПатрон_9_мм_зажигательный.json",
+    "icon": "/icons/bullet/Патрон_9_мм_зажигательный.png"
+  },
+  {
+    "name": "Патрон 9 мм СБП",
+    "key": "item.amm.9sbp.name",
+    "data": "/items/bullet/kПатрон_9_мм_СБП.json",
+    "icon": "/icons/bullet/Патрон_9_мм_СБП.png"
+  },
+  {
+    "name": "Морозный выстрел",
+    "key": "item.amm.12frz.name",
+    "data": "/items/bullet/gМорозный_выстрел.json",
+    "icon": "/icons/bullet/Морозный_выстрел.png"
+  },
+  {
+    "name": "Зажигательные 12 калибра",
+    "key": "item.amm.12inc.name",
+    "data": "/items/bullet/0Зажигательные_12_калибра.json",
+    "icon": "/icons/bullet/Зажигательные_12_калибра.png"
+  },
+  {
+    "name": "Картечь 12 калибра",
+    "key": "item.amm.12kar.name",
+    "data": "/items/bullet/RКартечь_12_калибра.json",
+    "icon": "/icons/bullet/Картечь_12_калибра.png"
+  },
+  {
+    "name": "Дробь 12 калибра",
+    "key": "item.amm.12drob.name",
+    "data": "/items/bullet/2Дробь_12_калибра.json",
+    "icon": "/icons/bullet/Дробь_12_калибра.png"
+  },
+  {
+    "name": "Охотничья пуля 12 калибра",
+    "key": "item.amm.12slug.name",
+    "data": "/items/bullet/JОхотничья_пуля_12_калибра.json",
+    "icon": "/icons/bullet/Охотничья_пуля_12_калибра.png"
+  },
+  {
+    "name": "Боевая пуля 12 калибра",
+    "key": "item.amm.12dart.name",
+    "data": "/items/bullet/PБоевая_пуля_12_калибра.json",
+    "icon": "/icons/bullet/Боевая_пуля_12_калибра.png"
+  },
+  {
+    "name": "Патрон 5.45 мм",
+    "key": "item.amm.545st.name",
+    "data": "/items/bullet/NПатрон_5.45_мм.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм.png"
+  },
+  {
+    "name": "Патрон 5.45 мм бронебойный",
+    "key": "item.amm.545bb.name",
+    "data": "/items/bullet/DПатрон_5.45_мм_бронебойный.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм_бронебойный.png"
+  },
+  {
+    "name": "Патрон 5.45 мм экспансивный",
+    "key": "item.amm.545exp.name",
+    "data": "/items/bullet/QПатрон_5.45_мм_экспансивный.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм_экспансивный.png"
+  },
+  {
+    "name": "Патрон 5.45 мм зажигательный",
+    "key": "item.amm.545inc.name",
+    "data": "/items/bullet/mПатрон_5.45_мм_зажигательный.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм_зажигательный.png"
+  },
+  {
+    "name": "Патрон 5.45 мм СБП",
+    "key": "item.amm.545sbp.name",
+    "data": "/items/bullet/6Патрон_5.45_мм_СБП.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм_СБП.png"
+  },
+  {
+    "name": "Патрон 5.56 мм",
+    "key": "item.amm.556st.name",
+    "data": "/items/bullet/xПатрон_5.56_мм.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм.png"
+  },
+  {
+    "name": "Патрон 5.56 мм бронебойный",
+    "key": "item.amm.556bb.name",
+    "data": "/items/bullet/zПатрон_5.56_мм_бронебойный.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм_бронебойный.png"
+  },
+  {
+    "name": "Патрон 5.56 мм экспансивный",
+    "key": "item.amm.556exp.name",
+    "data": "/items/bullet/8Патрон_5.56_мм_экспансивный.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм_экспансивный.png"
+  },
+  {
+    "name": "Патрон 5.56 мм зажигательный",
+    "key": "item.amm.556inc.name",
+    "data": "/items/bullet/GПатрон_5.56_мм_зажигательный.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм_зажигательный.png"
+  },
+  {
+    "name": "Патрон 5.56 мм СБП",
+    "key": "item.amm.556sbp.name",
+    "data": "/items/bullet/wПатрон_5.56_мм_СБП.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм_СБП.png"
+  },
+  {
+    "name": "Патрон 7.62 мм",
+    "key": "item.amm.762st.name",
+    "data": "/items/bullet/MПатрон_7.62_мм.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм.png"
+  },
+  {
+    "name": "Патрон 7.62 мм бронебойный",
+    "key": "item.amm.762bb.name",
+    "data": "/items/bullet/aПатрон_7.62_мм_бронебойный.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_бронебойный.png"
+  },
+  {
+    "name": "Патрон 7.62 мм экспансивный",
+    "key": "item.amm.762exp.name",
+    "data": "/items/bullet/oПатрон_7.62_мм_экспансивный.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_экспансивный.png"
+  },
+  {
+    "name": "Патрон 7.62 мм зажигательный",
+    "key": "item.amm.762inc.name",
+    "data": "/items/bullet/1Патрон_7.62_мм_зажигательный.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_зажигательный.png"
+  },
+  {
+    "name": "Патрон 7.62 мм СБП",
+    "key": "item.amm.762sbp.name",
+    "data": "/items/bullet/bПатрон_7.62_мм_СБП.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_СБП.png"
+  },
+  {
+    "name": "Патрон 9x39 мм СП-5",
+    "key": "item.amm.939st.name",
+    "data": "/items/bullet/dПатрон_9x39_мм_СП-5.json",
+    "icon": "/icons/bullet/Патрон_9x39_мм_СП-5.png"
+  },
+  {
+    "name": "Патрон 9x39 мм СП-6",
+    "key": "item.amm.939bb.name",
+    "data": "/items/bullet/7Патрон_9x39_мм_СП-6.json",
+    "icon": "/icons/bullet/Патрон_9x39_мм_СП-6.png"
+  },
+  {
+    "name": "Патрон 9x39 мм БП",
+    "key": "item.amm.939sbp.name",
+    "data": "/items/bullet/jПатрон_9x39_мм_БП.json",
+    "icon": "/icons/bullet/Патрон_9x39_мм_БП.png"
+  },
+  {
+    "name": "Крупнокалиберный патрон",
+    "key": "item.amm.12st.name",
+    "data": "/items/bullet/9Крупнокалиберный_патрон.json",
+    "icon": "/icons/bullet/Крупнокалиберный_патрон.png"
+  },
+  {
+    "name": "Патрон 7.62 мм снайперский",
+    "key": "item.amm.762snp.name",
+    "data": "/items/bullet/XПатрон_7.62_мм_снайперский.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_снайперский.png"
+  },
+  {
+    "name": "Аккумулятор для гаусс-пушки",
+    "key": "item.amm.akumulatora.name",
+    "data": "/items/bullet/OАккумулятор_для_гаусс-пушки.json",
+    "icon": "/icons/bullet/Аккумулятор_для_гаусс-пушки.png"
+  },
+  {
+    "name": "Патрон 10 мм",
+    "key": "item.amm.10st.name",
+    "data": "/items/bullet/AПатрон_10_мм.json",
+    "icon": "/icons/bullet/Патрон_10_мм.png"
+  },
+  {
+    "name": "Патрон 10 мм зажигательный",
+    "key": "item.amm.10inc.name",
+    "data": "/items/bullet/EПатрон_10_мм_зажигательный.json",
+    "icon": "/icons/bullet/Патрон_10_мм_зажигательный.png"
+  },
+  {
+    "name": "Баллон с горючей смесью",
+    "key": "item.amm.gas.name",
+    "data": "/items/bullet/LБаллон_с_горючей_смесью.json",
+    "icon": "/icons/bullet/Баллон_с_горючей_смесью.png"
+  },
+  {
+    "name": "Баллон с горючей смесью",
+    "key": "item.amm.gas_small.name",
+    "data": "/items/bullet/BБаллон_с_горючей_смесью.json",
+    "icon": "/icons/bullet/Баллон_с_горючей_смесью.png"
+  },
+  {
+    "name": "Патрон 12.7x55 мм",
+    "key": "item.amm.127st.name",
+    "data": "/items/bullet/yПатрон_12.7x55_мм.json",
+    "icon": "/icons/bullet/Патрон_12.7x55_мм.png"
+  },
+  {
+    "name": "Патрон 12.7x55 мм ПП",
+    "key": "item.amm.127bb.name",
+    "data": "/items/bullet/lПатрон_12.7x55_мм_ПП.json",
+    "icon": "/icons/bullet/Патрон_12.7x55_мм_ПП.png"
+  },
+  {
+    "name": "Патрон 12.7x55 мм снайперский",
+    "key": "item.amm.127snp.name",
+    "data": "/items/bullet/KПатрон_12.7x55_мм_снайперский.json",
+    "icon": "/icons/bullet/Патрон_12.7x55_мм_снайперский.png"
+  },
+  {
+    "name": "Патрон 9 мм серебрёный",
+    "key": "item.amm.9silver.name",
+    "data": "/items/bullet/BПатрон_9_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_9_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 12 калибра серебрёный",
+    "key": "item.amm.12slugsilver.name",
+    "data": "/items/bullet/yПатрон_12_калибра_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_12_калибра_серебрёный.png"
+  },
+  {
+    "name": "Патрон 5.45 мм серебрёный",
+    "key": "item.amm.545silver.name",
+    "data": "/items/bullet/lПатрон_5.45_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 5.56 мм серебрёный",
+    "key": "item.amm.556silver.name",
+    "data": "/items/bullet/KПатрон_5.56_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 7.62 мм серебрёный",
+    "key": "item.amm.762silver.name",
+    "data": "/items/bullet/kПатрон_7.62_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 9x39 мм серебрёный",
+    "key": "item.amm.939silver.name",
+    "data": "/items/bullet/3Патрон_9x39_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_9x39_мм_серебрёный.png"
+  },
+  {
+    "name": "Крупнокалиберный серебрёный патрон",
+    "key": "item.amm.12silver.name",
+    "data": "/items/bullet/VКрупнокалиберный_серебрёный_патрон.json",
+    "icon": "/icons/bullet/Крупнокалиберный_серебрёный_патрон.png"
+  },
+  {
+    "name": "Патрон 12.7x55 мм серебрёный",
+    "key": "item.amm.127silver.name",
+    "data": "/items/bullet/nПатрон_12.7x55_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_12.7x55_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 9 мм серебрёный",
+    "key": "item.amm.9silver2.name",
+    "data": "/items/bullet/RПатрон_9_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_9_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 12 калибра серебрёный",
+    "key": "item.amm.12slugsilver2.name",
+    "data": "/items/bullet/2Патрон_12_калибра_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_12_калибра_серебрёный.png"
+  },
+  {
+    "name": "Патрон 5.45 мм серебрёный",
+    "key": "item.amm.545silver2.name",
+    "data": "/items/bullet/JПатрон_5.45_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_5.45_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 5.56 мм серебрёный",
+    "key": "item.amm.556silver2.name",
+    "data": "/items/bullet/PПатрон_5.56_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_5.56_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 7.62 мм серебрёный",
+    "key": "item.amm.762silver2.name",
+    "data": "/items/bullet/NПатрон_7.62_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_7.62_мм_серебрёный.png"
+  },
+  {
+    "name": "Патрон 9x39 мм серебрёный",
+    "key": "item.amm.939silver2.name",
+    "data": "/items/bullet/DПатрон_9x39_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_9x39_мм_серебрёный.png"
+  },
+  {
+    "name": "Крупнокалиберный серебрёный патрон",
+    "key": "item.amm.12silver2.name",
+    "data": "/items/bullet/QКрупнокалиберный_серебрёный_патрон.json",
+    "icon": "/icons/bullet/Крупнокалиберный_серебрёный_патрон.png"
+  },
+  {
+    "name": "Патрон 12.7x55 мм серебрёный",
+    "key": "item.amm.127silver2.name",
+    "data": "/items/bullet/mПатрон_12.7x55_мм_серебрёный.json",
+    "icon": "/icons/bullet/Патрон_12.7x55_мм_серебрёный.png"
+  },
+  {
+    "name": "ГП-25 «Костёр»",
+    "key": "item.att.launcher_gp25.name",
+    "data": "/items/attachment/other/BГП-25_Костёр.json",
+    "icon": "/icons/attachment/other/ГП-25_Костёр.png"
+  },
+  {
+    "name": "M203",
+    "key": "item.att.launcher_m203.name",
+    "data": "/items/attachment/other/yM203.json",
+    "icon": "/icons/attachment/other/M203.png"
+  },
+  {
+    "name": "Гранатомёт для ОЦ-14 «Гроза»",
+    "key": "item.att.launcher_groza.name",
+    "data": "/items/attachment/other/lГранатомёт_для_ОЦ-14_Гроза.json",
+    "icon": "/icons/attachment/other/Гранатомёт_для_ОЦ-14_Гроза.png"
+  },
+  {
+    "name": "Гранатомёт FN EGLM",
+    "key": "item.att.launcher_eglm.name",
+    "data": "/items/attachment/other/kГранатомёт_FN_EGLM.json",
+    "icon": "/icons/attachment/other/Гранатомёт_FN_EGLM.png"
+  },
+  {
+    "name": "ПП-91 «Кедр»",
+    "key": "item.wpn.kedr.name",
+    "data": "/items/weapon/submachine_gun/BПП-91_Кедр.json",
+    "icon": "/icons/weapon/submachine_gun/ПП-91_Кедр.png"
+  },
+  {
+    "name": "HK MP5",
+    "key": "item.wpn.mp5.name",
+    "data": "/items/weapon/submachine_gun/yHK_MP5.json",
+    "icon": "/icons/weapon/submachine_gun/HK_MP5.png"
+  },
+  {
+    "name": "IMI Uzi",
+    "key": "item.wpn.uzi.name",
+    "data": "/items/weapon/submachine_gun/lIMI_Uzi.json",
+    "icon": "/icons/weapon/submachine_gun/IMI_Uzi.png"
+  },
+  {
+    "name": "АЕК-919К «Каштан»",
+    "key": "item.wpn.kashtan.name",
+    "data": "/items/weapon/submachine_gun/KАЕК-919К_Каштан.json",
+    "icon": "/icons/weapon/submachine_gun/АЕК-919К_Каштан.png"
+  },
+  {
+    "name": "АКС-74У",
+    "key": "item.wpn.aksu.name",
+    "data": "/items/weapon/assault_rifle/kАКС-74У.json",
+    "icon": "/icons/weapon/assault_rifle/АКС-74У.png"
+  },
+  {
+    "name": "Walther MPK",
+    "key": "item.wpn.mpk.name",
+    "data": "/items/weapon/submachine_gun/3Walther_MPK.json",
+    "icon": "/icons/weapon/submachine_gun/Walther_MPK.png"
+  },
+  {
+    "name": "АКС-74",
+    "key": "item.wpn.aks74.name",
+    "data": "/items/weapon/assault_rifle/MАКС-74.json",
+    "icon": "/icons/weapon/assault_rifle/АКС-74.png"
+  },
+  {
+    "name": "L85A1",
+    "key": "item.wpn.l85.name",
+    "data": "/items/weapon/assault_rifle/aL85A1.json",
+    "icon": "/icons/weapon/assault_rifle/L85A1.png"
+  },
+  {
+    "name": "ПП-19 «Бизон-2-01»",
+    "key": "item.wpn.bizon.name",
+    "data": "/items/weapon/submachine_gun/oПП-19_Бизон-2-01.json",
+    "icon": "/icons/weapon/submachine_gun/ПП-19_Бизон-2-01.png"
+  },
+  {
+    "name": "АКМ",
+    "key": "item.wpn.akm.name",
+    "data": "/items/weapon/assault_rifle/1АКМ.json",
+    "icon": "/icons/weapon/assault_rifle/АКМ.png"
+  },
+  {
+    "name": "ПП-19-01 «Витязь»",
+    "key": "item.wpn.vityaz.name",
+    "data": "/items/weapon/submachine_gun/bПП-19-01_Витязь.json",
+    "icon": "/icons/weapon/submachine_gun/ПП-19-01_Витязь.png"
+  },
+  {
+    "name": "M4A1",
+    "key": "item.wpn.m4.name",
+    "data": "/items/weapon/assault_rifle/nM4A1.json",
+    "icon": "/icons/weapon/assault_rifle/M4A1.png"
+  },
+  {
+    "name": "FN P90",
+    "key": "item.wpn.p90.name",
+    "data": "/items/weapon/submachine_gun/gFN_P90.json",
+    "icon": "/icons/weapon/submachine_gun/FN_P90.png"
+  },
+  {
+    "name": "АС «Вал»",
+    "key": "item.wpn.val.name",
+    "data": "/items/weapon/assault_rifle/0АС_Вал.json",
+    "icon": "/icons/weapon/assault_rifle/АС_Вал.png"
+  },
+  {
+    "name": "SIG SG 550",
+    "key": "item.wpn.sig.name",
+    "data": "/items/weapon/assault_rifle/RSIG_SG_550.json",
+    "icon": "/icons/weapon/assault_rifle/SIG_SG_550.png"
+  },
+  {
+    "name": "ПП-2000",
+    "key": "item.wpn.pp2000.name",
+    "data": "/items/weapon/submachine_gun/2ПП-2000.json",
+    "icon": "/icons/weapon/submachine_gun/ПП-2000.png"
+  },
+  {
+    "name": "СР-2М «Вереск»",
+    "key": "item.wpn.sr2.name",
+    "data": "/items/weapon/submachine_gun/JСР-2М_Вереск.json",
+    "icon": "/icons/weapon/submachine_gun/СР-2М_Вереск.png"
+  },
+  {
+    "name": "Spectre M4",
+    "key": "item.wpn.spectre.name",
+    "data": "/items/weapon/submachine_gun/PSpectre_M4.json",
+    "icon": "/icons/weapon/submachine_gun/Spectre_M4.png"
+  },
+  {
+    "name": "M16A3",
+    "key": "item.wpn.m16a3.name",
+    "data": "/items/weapon/assault_rifle/NM16A3.json",
+    "icon": "/icons/weapon/assault_rifle/M16A3.png"
+  },
+  {
+    "name": "M4 LB",
+    "key": "item.wpn.m4_lb.name",
+    "data": "/items/weapon/assault_rifle/DM4_LB.json",
+    "icon": "/icons/weapon/assault_rifle/M4_LB.png"
+  },
+  {
+    "name": "АН-94 «Абакан»",
+    "key": "item.wpn.abakan.name",
+    "data": "/items/weapon/assault_rifle/QАН-94_Абакан.json",
+    "icon": "/icons/weapon/assault_rifle/АН-94_Абакан.png"
+  },
+  {
+    "name": "M16A2",
+    "key": "item.wpn.m16a2.name",
+    "data": "/items/weapon/assault_rifle/xM16A2.json",
+    "icon": "/icons/weapon/assault_rifle/M16A2.png"
+  },
+  {
+    "name": "АК-103",
+    "key": "item.wpn.ak103.name",
+    "data": "/items/weapon/assault_rifle/aАК-103.json",
+    "icon": "/icons/weapon/assault_rifle/АК-103.png"
+  },
+  {
+    "name": "АЛК-22 «Стрекоза»",
+    "key": "item.wpn.alk22.name",
+    "data": "/items/weapon/assault_rifle/1АЛК-22_Стрекоза.json",
+    "icon": "/icons/weapon/assault_rifle/АЛК-22_Стрекоза.png"
+  },
+  {
+    "name": "HK G36C",
+    "key": "item.wpn.g36c.name",
+    "data": "/items/weapon/assault_rifle/7HK_G36C.json",
+    "icon": "/icons/weapon/assault_rifle/HK_G36C.png"
+  },
+  {
+    "name": "ОЦ-14 «Гроза»",
+    "key": "item.wpn.groza.name",
+    "data": "/items/weapon/assault_rifle/jОЦ-14_Гроза.json",
+    "icon": "/icons/weapon/assault_rifle/ОЦ-14_Гроза.png"
+  },
+  {
+    "name": "TDI KRISS Vector",
+    "key": "item.wpn.kriss.name",
+    "data": "/items/weapon/submachine_gun/9TDI_KRISS_Vector.json",
+    "icon": "/icons/weapon/submachine_gun/TDI_KRISS_Vector.png"
+  },
+  {
+    "name": "А-545",
+    "key": "item.wpn.a545.name",
+    "data": "/items/weapon/assault_rifle/rА-545.json",
+    "icon": "/icons/weapon/assault_rifle/А-545.png"
+  },
+  {
+    "name": "HK G3A1",
+    "key": "item.wpn.g3a1.name",
+    "data": "/items/weapon/assault_rifle/XHK_G3A1.json",
+    "icon": "/icons/weapon/assault_rifle/HK_G3A1.png"
+  },
+  {
+    "name": "FN F2000 Tactical",
+    "key": "item.wpn.f2000.name",
+    "data": "/items/weapon/assault_rifle/ZFN_F2000_Tactical.json",
+    "icon": "/icons/weapon/assault_rifle/FN_F2000_Tactical.png"
+  },
+  {
+    "name": "АЕК-971",
+    "key": "item.wpn.aek971.name",
+    "data": "/items/weapon/assault_rifle/qАЕК-971.json",
+    "icon": "/icons/weapon/assault_rifle/АЕК-971.png"
+  },
+  {
+    "name": "АШ-12",
+    "key": "item.wpn.ash12.name",
+    "data": "/items/weapon/assault_rifle/YАШ-12.json",
+    "icon": "/icons/weapon/assault_rifle/АШ-12.png"
+  },
+  {
+    "name": "FN F2000",
+    "key": "item.wpn.f2000-1.name",
+    "data": "/items/weapon/assault_rifle/yFN_F2000.json",
+    "icon": "/icons/weapon/assault_rifle/FN_F2000.png"
+  },
+  {
+    "name": "ДП",
+    "key": "item.wpn.dp.name",
+    "data": "/items/weapon/machine_gun/MДП.json",
+    "icon": "/icons/weapon/machine_gun/ДП.png"
+  },
+  {
+    "name": "РПК-74",
+    "key": "item.wpn.rpk74.name",
+    "data": "/items/weapon/machine_gun/aРПК-74.json",
+    "icon": "/icons/weapon/machine_gun/РПК-74.png"
+  },
+  {
+    "name": "L86A1",
+    "key": "item.wpn.l86.name",
+    "data": "/items/weapon/machine_gun/VL86A1.json",
+    "icon": "/icons/weapon/machine_gun/L86A1.png"
+  },
+  {
+    "name": "РПД",
+    "key": "item.wpn.rpd.name",
+    "data": "/items/weapon/machine_gun/nРПД.json",
+    "icon": "/icons/weapon/machine_gun/РПД.png"
+  },
+  {
+    "name": "ПКП «Печенег»",
+    "key": "item.wpn.pkp.name",
+    "data": "/items/weapon/machine_gun/7ПКП_Печенег.json",
+    "icon": "/icons/weapon/machine_gun/ПКП_Печенег.png"
+  },
+  {
+    "name": "MG 42",
+    "key": "item.wpn.mg42.name",
+    "data": "/items/weapon/machine_gun/jMG_42.json",
+    "icon": "/icons/weapon/machine_gun/MG_42.png"
+  },
+  {
+    "name": "Карабин Мосина",
+    "key": "item.wpn.mosinkar.name",
+    "data": "/items/weapon/sniper_rifle/yКарабин_Мосина.json",
+    "icon": "/icons/weapon/sniper_rifle/Карабин_Мосина.png"
+  },
+  {
+    "name": "СКС",
+    "key": "item.wpn.sks.name",
+    "data": "/items/weapon/sniper_rifle/lСКС.json",
+    "icon": "/icons/weapon/sniper_rifle/СКС.png"
+  },
+  {
+    "name": "Winchester M70",
+    "key": "item.wpn.winchester.name",
+    "data": "/items/weapon/sniper_rifle/aWinchester_M70.json",
+    "icon": "/icons/weapon/sniper_rifle/Winchester_M70.png"
+  },
+  {
+    "name": "СВТ-40",
+    "key": "item.wpn.svt40.name",
+    "data": "/items/weapon/sniper_rifle/dСВТ-40.json",
+    "icon": "/icons/weapon/sniper_rifle/СВТ-40.png"
+  },
+  {
+    "name": "Steyr Scout",
+    "key": "item.wpn.scout.name",
+    "data": "/items/weapon/sniper_rifle/7Steyr_Scout.json",
+    "icon": "/icons/weapon/sniper_rifle/Steyr_Scout.png"
+  },
+  {
+    "name": "СВД",
+    "key": "item.wpn.svd.name",
+    "data": "/items/weapon/sniper_rifle/VСВД.json",
+    "icon": "/icons/weapon/sniper_rifle/СВД.png"
+  },
+  {
+    "name": "ВСС «Винторез»",
+    "key": "item.wpn.vss.name",
+    "data": "/items/weapon/sniper_rifle/nВСС_Винторез.json",
+    "icon": "/icons/weapon/sniper_rifle/ВСС_Винторез.png"
+  },
+  {
+    "name": "M40A5",
+    "key": "item.wpn.m40.name",
+    "data": "/items/weapon/sniper_rifle/gM40A5.json",
+    "icon": "/icons/weapon/sniper_rifle/M40A5.png"
+  },
+  {
+    "name": "Alpine TPG-1",
+    "key": "item.wpn.alpine.name",
+    "data": "/items/weapon/sniper_rifle/RAlpine_TPG-1.json",
+    "icon": "/icons/weapon/sniper_rifle/Alpine_TPG-1.png"
+  },
+  {
+    "name": "FG-42 «Хлыст»",
+    "key": "item.wpn.fg42.name",
+    "data": "/items/weapon/sniper_rifle/NFG-42_Хлыст.json",
+    "icon": "/icons/weapon/sniper_rifle/FG-42_Хлыст.png"
+  },
+  {
+    "name": "M1A FA",
+    "key": "item.wpn.m1a.name",
+    "data": "/items/weapon/sniper_rifle/7M1A_FA.json",
+    "icon": "/icons/weapon/sniper_rifle/M1A_FA.png"
+  },
+  {
+    "name": "СВУ",
+    "key": "item.wpn.svu.name",
+    "data": "/items/weapon/sniper_rifle/jСВУ.json",
+    "icon": "/icons/weapon/sniper_rifle/СВУ.png"
+  },
+  {
+    "name": "WA2000",
+    "key": "item.wpn.wa2000.name",
+    "data": "/items/weapon/sniper_rifle/9WA2000.json",
+    "icon": "/icons/weapon/sniper_rifle/WA2000.png"
+  },
+  {
+    "name": "L96A1",
+    "key": "item.wpn.l96.name",
+    "data": "/items/weapon/sniper_rifle/rL96A1.json",
+    "icon": "/icons/weapon/sniper_rifle/L96A1.png"
+  },
+  {
+    "name": "МЦ-558",
+    "key": "item.wpn.mc558.name",
+    "data": "/items/weapon/sniper_rifle/OМЦ-558.json",
+    "icon": "/icons/weapon/sniper_rifle/МЦ-558.png"
+  },
+  {
+    "name": "ОТЛ-03 «Карбач»",
+    "key": "item.wpn.otl.name",
+    "data": "/items/weapon/sniper_rifle/AОТЛ-03_Карбач.json",
+    "icon": "/icons/weapon/sniper_rifle/ОТЛ-03_Карбач.png"
+  },
+  {
+    "name": "Обрез БМ-16",
+    "key": "item.wpn.obrezbm16.name",
+    "data": "/items/weapon/shotgun_rifle/BОбрез_БМ-16.json",
+    "icon": "/icons/weapon/shotgun_rifle/Обрез_БМ-16.png"
+  },
+  {
+    "name": "БМ-16",
+    "key": "item.wpn.bm16.name",
+    "data": "/items/weapon/shotgun_rifle/MБМ-16.json",
+    "icon": "/icons/weapon/shotgun_rifle/БМ-16.png"
+  },
+  {
+    "name": "ТОЗ-34",
+    "key": "item.wpn.toz.name",
+    "data": "/items/weapon/shotgun_rifle/VТОЗ-34.json",
+    "icon": "/icons/weapon/shotgun_rifle/ТОЗ-34.png"
+  },
+  {
+    "name": "Mossberg 590A1",
+    "key": "item.wpn.mossberg.name",
+    "data": "/items/weapon/shotgun_rifle/nMossberg_590A1.json",
+    "icon": "/icons/weapon/shotgun_rifle/Mossberg_590A1.png"
+  },
+  {
+    "name": "Shorty 590",
+    "key": "item.wpn.shorty.name",
+    "data": "/items/weapon/shotgun_rifle/gShorty_590.json",
+    "icon": "/icons/weapon/shotgun_rifle/Shorty_590.png"
+  },
+  {
+    "name": "МР-133",
+    "key": "item.wpn.mr133.name",
+    "data": "/items/weapon/shotgun_rifle/0МР-133.json",
+    "icon": "/icons/weapon/shotgun_rifle/МР-133.png"
+  },
+  {
+    "name": "РМО-93",
+    "key": "item.wpn.rmo93.name",
+    "data": "/items/weapon/shotgun_rifle/RРМО-93.json",
+    "icon": "/icons/weapon/shotgun_rifle/РМО-93.png"
+  },
+  {
+    "name": "Chiappa Triple Crown",
+    "key": "item.wpn.triple.name",
+    "data": "/items/weapon/shotgun_rifle/PChiappa_Triple_Crown.json",
+    "icon": "/icons/weapon/shotgun_rifle/Chiappa_Triple_Crown.png"
+  },
+  {
+    "name": "Franchi SPAS-12",
+    "key": "item.wpn.spas.name",
+    "data": "/items/weapon/shotgun_rifle/7Franchi_SPAS-12.json",
+    "icon": "/icons/weapon/shotgun_rifle/Franchi_SPAS-12.png"
+  },
+  {
+    "name": "Сайга-12К",
+    "key": "item.wpn.saiga.name",
+    "data": "/items/weapon/shotgun_rifle/jСайга-12К.json",
+    "icon": "/icons/weapon/shotgun_rifle/Сайга-12К.png"
+  },
+  {
+    "name": "МР-153",
+    "key": "item.wpn.mr153.name",
+    "data": "/items/weapon/shotgun_rifle/9МР-153.json",
+    "icon": "/icons/weapon/shotgun_rifle/МР-153.png"
+  },
+  {
+    "name": "Protecta",
+    "key": "item.wpn.protecta.name",
+    "data": "/items/weapon/shotgun_rifle/XProtecta.json",
+    "icon": "/icons/weapon/shotgun_rifle/Protecta.png"
+  },
+  {
+    "name": "ОЦ-62",
+    "key": "item.wpn.ots62.name",
+    "data": "/items/weapon/shotgun_rifle/qОЦ-62.json",
+    "icon": "/icons/weapon/shotgun_rifle/ОЦ-62.png"
+  },
+  {
+    "name": "ПБ",
+    "key": "item.wpn.pb.name",
+    "data": "/items/weapon/pistol/BПБ.json",
+    "icon": "/icons/weapon/pistol/ПБ.png"
+  },
+  {
+    "name": "ПМ",
+    "key": "item.wpn.pm.name",
+    "data": "/items/weapon/pistol/yПМ.json",
+    "icon": "/icons/weapon/pistol/ПМ.png"
+  },
+  {
+    "name": "ТТ",
+    "key": "item.wpn.tt.name",
+    "data": "/items/weapon/pistol/lТТ.json",
+    "icon": "/icons/weapon/pistol/ТТ.png"
+  },
+  {
+    "name": "Форт-12",
+    "key": "item.wpn.fort12.name",
+    "data": "/items/weapon/pistol/MФорт-12.json",
+    "icon": "/icons/weapon/pistol/Форт-12.png"
+  },
+  {
+    "name": "Walther P99",
+    "key": "item.wpn.p99.name",
+    "data": "/items/weapon/pistol/aWalther_P99.json",
+    "icon": "/icons/weapon/pistol/Walther_P99.png"
+  },
+  {
+    "name": "Р-92",
+    "key": "item.wpn.r92.name",
+    "data": "/items/weapon/pistol/oР-92.json",
+    "icon": "/icons/weapon/pistol/Р-92.png"
+  },
+  {
+    "name": "Beretta 92FS",
+    "key": "item.wpn.beretta.name",
+    "data": "/items/weapon/pistol/VBeretta_92FS.json",
+    "icon": "/icons/weapon/pistol/Beretta_92FS.png"
+  },
+  {
+    "name": "Browning Hi-Power",
+    "key": "item.wpn.hp.name",
+    "data": "/items/weapon/pistol/nBrowning_Hi-Power.json",
+    "icon": "/icons/weapon/pistol/Browning_Hi-Power.png"
+  },
+  {
+    "name": "Mauser C96",
+    "key": "item.wpn.mauser.name",
+    "data": "/items/weapon/pistol/gMauser_C96.json",
+    "icon": "/icons/weapon/pistol/Mauser_C96.png"
+  },
+  {
+    "name": "Beretta 93R",
+    "key": "item.wpn.beretta93.name",
+    "data": "/items/weapon/pistol/0Beretta_93R.json",
+    "icon": "/icons/weapon/pistol/Beretta_93R.png"
+  },
+  {
+    "name": "SW1911",
+    "key": "item.wpn.colt.name",
+    "data": "/items/weapon/pistol/7SW1911.json",
+    "icon": "/icons/weapon/pistol/SW1911.png"
+  },
+  {
+    "name": "Glock 17",
+    "key": "item.wpn.glock17.name",
+    "data": "/items/weapon/pistol/jGlock_17.json",
+    "icon": "/icons/weapon/pistol/Glock_17.png"
+  },
+  {
+    "name": "Desert Eagle Mark XIX",
+    "key": "item.wpn.deagle.name",
+    "data": "/items/weapon/pistol/9Desert_Eagle_Mark_XIX.json",
+    "icon": "/icons/weapon/pistol/Desert_Eagle_Mark_XIX.png"
+  },
+  {
+    "name": "СР-1 «Гюрза»",
+    "key": "item.wpn.sr1.name",
+    "data": "/items/weapon/pistol/rСР-1_Гюрза.json",
+    "icon": "/icons/weapon/pistol/СР-1_Гюрза.png"
+  },
+  {
+    "name": "ОЦ-33 «Пернач»",
+    "key": "item.wpn.oc33.name",
+    "data": "/items/weapon/pistol/XОЦ-33_Пернач.json",
+    "icon": "/icons/weapon/pistol/ОЦ-33_Пернач.png"
+  },
+  {
+    "name": "Colt Python",
+    "key": "item.wpn.python.name",
+    "data": "/items/weapon/pistol/ZColt_Python.json",
+    "icon": "/icons/weapon/pistol/Colt_Python.png"
+  },
+  {
+    "name": "РШ-12",
+    "key": "item.wpn.rsh12.name",
+    "data": "/items/weapon/pistol/YРШ-12.json",
+    "icon": "/icons/weapon/pistol/РШ-12.png"
+  },
+  {
+    "name": "HK UMP9",
+    "key": "item.wpn.ump.name",
+    "data": "/items/weapon/submachine_gun/BHK_UMP9.json",
+    "icon": "/icons/weapon/submachine_gun/HK_UMP9.png"
+  },
+  {
+    "name": "IMI Mini Uzi",
+    "key": "item.wpn.miniuzi.name",
+    "data": "/items/weapon/submachine_gun/yIMI_Mini_Uzi.json",
+    "icon": "/icons/weapon/submachine_gun/IMI_Mini_Uzi.png"
+  },
+  {
+    "name": "IMI Micro Uzi",
+    "key": "item.wpn.microuzi.name",
+    "data": "/items/weapon/pistol/lIMI_Micro_Uzi.json",
+    "icon": "/icons/weapon/pistol/IMI_Micro_Uzi.png"
+  },
+  {
+    "name": "ПММ",
+    "key": "item.wpn.pmm.name",
+    "data": "/items/weapon/pistol/KПММ.json",
+    "icon": "/icons/weapon/pistol/ПММ.png"
+  },
+  {
+    "name": "HK MP5K",
+    "key": "item.wpn.mp5k.name",
+    "data": "/items/weapon/submachine_gun/kHK_MP5K.json",
+    "icon": "/icons/weapon/submachine_gun/HK_MP5K.png"
+  },
+  {
+    "name": "Ingram MAC-10",
+    "key": "item.wpn.mac10.name",
+    "data": "/items/weapon/pistol/3Ingram_MAC-10.json",
+    "icon": "/icons/weapon/pistol/Ingram_MAC-10.png"
+  },
+  {
+    "name": "Kbk wz. 88 Tantal",
+    "key": "item.wpn.wz88.name",
+    "data": "/items/weapon/assault_rifle/MKbk_wz._88_Tantal.json",
+    "icon": "/icons/weapon/assault_rifle/Kbk_wz._88_Tantal.png"
+  },
+  {
+    "name": "Винтовка Мосина",
+    "key": "item.wpn.mosin.name",
+    "data": "/items/weapon/sniper_rifle/aВинтовка_Мосина.json",
+    "icon": "/icons/weapon/sniper_rifle/Винтовка_Мосина.png"
+  },
+  {
+    "name": "Cobray Terminator",
+    "key": "item.wpn.terminator.name",
+    "data": "/items/weapon/shotgun_rifle/oCobray_Terminator.json",
+    "icon": "/icons/weapon/shotgun_rifle/Cobray_Terminator.png"
+  },
+  {
+    "name": "СОК-94",
+    "key": "item.wpn.sok94.name",
+    "data": "/items/weapon/sniper_rifle/1СОК-94.json",
+    "icon": "/icons/weapon/sniper_rifle/СОК-94.png"
+  },
+  {
+    "name": "АПС",
+    "key": "item.wpn.aps.name",
+    "data": "/items/weapon/pistol/VАПС.json",
+    "icon": "/icons/weapon/pistol/АПС.png"
+  },
+  {
+    "name": "АК-105",
+    "key": "item.wpn.ak105.name",
+    "data": "/items/weapon/assault_rifle/nАК-105.json",
+    "icon": "/icons/weapon/assault_rifle/АК-105.png"
+  },
+  {
+    "name": "LR-300",
+    "key": "item.wpn.lr300.name",
+    "data": "/items/weapon/assault_rifle/gLR-300.json",
+    "icon": "/icons/weapon/assault_rifle/LR-300.png"
+  },
+  {
+    "name": "FN SCAR-L",
+    "key": "item.wpn.scarl.name",
+    "data": "/items/weapon/assault_rifle/0FN_SCAR-L.json",
+    "icon": "/icons/weapon/assault_rifle/FN_SCAR-L.png"
+  },
+  {
+    "name": "РПК",
+    "key": "item.wpn.rpk.name",
+    "data": "/items/weapon/machine_gun/RРПК.json",
+    "icon": "/icons/weapon/machine_gun/РПК.png"
+  },
+  {
+    "name": "ОЦ-14М «Шторм»",
+    "key": "item.wpn.storm.name",
+    "data": "/items/weapon/assault_rifle/2ОЦ-14М_Шторм.json",
+    "icon": "/icons/weapon/assault_rifle/ОЦ-14М_Шторм.png"
+  },
+  {
+    "name": "СВ-98",
+    "key": "item.wpn.sv98.name",
+    "data": "/items/weapon/sniper_rifle/JСВ-98.json",
+    "icon": "/icons/weapon/sniper_rifle/СВ-98.png"
+  },
+  {
+    "name": "AA-12",
+    "key": "item.wpn.aa12.name",
+    "data": "/items/weapon/shotgun_rifle/PAA-12.json",
+    "icon": "/icons/weapon/shotgun_rifle/AA-12.png"
+  },
+  {
+    "name": "Glock 18C",
+    "key": "item.wpn.glock18c.name",
+    "data": "/items/weapon/pistol/NGlock_18C.json",
+    "icon": "/icons/weapon/pistol/Glock_18C.png"
+  },
+  {
+    "name": "M1014",
+    "key": "item.wpn.m1014.name",
+    "data": "/items/weapon/shotgun_rifle/DM1014.json",
+    "icon": "/icons/weapon/shotgun_rifle/M1014.png"
+  },
+  {
+    "name": "M249 SAW",
+    "key": "item.wpn.m249.name",
+    "data": "/items/weapon/machine_gun/QM249_SAW.json",
+    "icon": "/icons/weapon/machine_gun/M249_SAW.png"
+  },
+  {
+    "name": "9А-91",
+    "key": "item.wpn.9a91.name",
+    "data": "/items/weapon/assault_rifle/m9А-91.json",
+    "icon": "/icons/weapon/assault_rifle/9А-91.png"
+  },
+  {
+    "name": "ВСК-94",
+    "key": "item.wpn.vsk94.name",
+    "data": "/items/weapon/sniper_rifle/6ВСК-94.json",
+    "icon": "/icons/weapon/sniper_rifle/ВСК-94.png"
+  },
+  {
+    "name": "Steyr AUG 9mm",
+    "key": "item.wpn.aug9mm.name",
+    "data": "/items/weapon/submachine_gun/xSteyr_AUG_9mm.json",
+    "icon": "/icons/weapon/submachine_gun/Steyr_AUG_9mm.png"
+  },
+  {
+    "name": "МР-412",
+    "key": "item.wpn.mr412.name",
+    "data": "/items/weapon/pistol/zМР-412.json",
+    "icon": "/icons/weapon/pistol/МР-412.png"
+  },
+  {
+    "name": "Steyr AUG A1",
+    "key": "item.wpn.aug.name",
+    "data": "/items/weapon/assault_rifle/8Steyr_AUG_A1.json",
+    "icon": "/icons/weapon/assault_rifle/Steyr_AUG_A1.png"
+  },
+  {
+    "name": "HK416",
+    "key": "item.wpn.hk416.name",
+    "data": "/items/weapon/assault_rifle/wHK416.json",
+    "icon": "/icons/weapon/assault_rifle/HK416.png"
+  },
+  {
+    "name": "РПК-16",
+    "key": "item.wpn.rpk16.name",
+    "data": "/items/weapon/machine_gun/eРПК-16.json",
+    "icon": "/icons/weapon/machine_gun/РПК-16.png"
+  },
+  {
+    "name": "ТКБ-0146М",
+    "key": "item.wpn.tkb.name",
+    "data": "/items/weapon/assault_rifle/MТКБ-0146М.json",
+    "icon": "/icons/weapon/assault_rifle/ТКБ-0146М.png"
+  },
+  {
+    "name": "МЦ-116М",
+    "key": "item.wpn.mc116.name",
+    "data": "/items/weapon/sniper_rifle/aМЦ-116М.json",
+    "icon": "/icons/weapon/sniper_rifle/МЦ-116М.png"
+  },
+  {
+    "name": "Grizzly 8.5",
+    "key": "item.wpn.grizzly.name",
+    "data": "/items/weapon/shotgun_rifle/oGrizzly_8.5.json",
+    "icon": "/icons/weapon/shotgun_rifle/Grizzly_8.5.png"
+  },
+  {
+    "name": "Steyr AUG A2",
+    "key": "item.wpn.aug2.name",
+    "data": "/items/weapon/assault_rifle/1Steyr_AUG_A2.json",
+    "icon": "/icons/weapon/assault_rifle/Steyr_AUG_A2.png"
+  },
+  {
+    "name": "Steyr AUG A3",
+    "key": "item.wpn.aug3.name",
+    "data": "/items/weapon/assault_rifle/bSteyr_AUG_A3.json",
+    "icon": "/icons/weapon/assault_rifle/Steyr_AUG_A3.png"
+  },
+  {
+    "name": "АК-12",
+    "key": "item.wpn.ak12.name",
+    "data": "/items/weapon/assault_rifle/dАК-12.json",
+    "icon": "/icons/weapon/assault_rifle/АК-12.png"
+  },
+  {
+    "name": "SIG SG 550 Sniper",
+    "key": "item.wpn.sigsniper.name",
+    "data": "/items/weapon/sniper_rifle/7SIG_SG_550_Sniper.json",
+    "icon": "/icons/weapon/sniper_rifle/SIG_SG_550_Sniper.png"
+  },
+  {
+    "name": "FN FAL",
+    "key": "item.wpn.fal.name",
+    "data": "/items/weapon/assault_rifle/jFN_FAL.json",
+    "icon": "/icons/weapon/assault_rifle/FN_FAL.png"
+  },
+  {
+    "name": "HK XM8",
+    "key": "item.wpn.xm8.name",
+    "data": "/items/weapon/assault_rifle/9HK_XM8.json",
+    "icon": "/icons/weapon/assault_rifle/HK_XM8.png"
+  },
+  {
+    "name": "FN SCAR-H",
+    "key": "item.wpn.scarh.name",
+    "data": "/items/weapon/assault_rifle/rFN_SCAR-H.json",
+    "icon": "/icons/weapon/assault_rifle/FN_SCAR-H.png"
+  },
+  {
+    "name": "ПТРД-М",
+    "key": "item.wpn.ptrd.name",
+    "data": "/items/weapon/heavy/XПТРД-М.json",
+    "icon": "/icons/weapon/heavy/ПТРД-М.png"
+  },
+  {
+    "name": "Гаусс-пушка",
+    "key": "item.wpn.gauss.name",
+    "data": "/items/weapon/sniper_rifle/ZГаусс-пушка.json",
+    "icon": "/icons/weapon/sniper_rifle/Гаусс-пушка.png"
+  },
+  {
+    "name": "FN SCAR SSR",
+    "key": "item.wpn.scarssr.name",
+    "data": "/items/weapon/sniper_rifle/OFN_SCAR_SSR.json",
+    "icon": "/icons/weapon/sniper_rifle/FN_SCAR_SSR.png"
+  },
+  {
+    "name": "FAMAS G2",
+    "key": "item.wpn.famas.name",
+    "data": "/items/weapon/assault_rifle/qFAMAS_G2.json",
+    "icon": "/icons/weapon/assault_rifle/FAMAS_G2.png"
+  },
+  {
+    "name": "McMillan CS5",
+    "key": "item.wpn.mcmillan.name",
+    "data": "/items/weapon/sniper_rifle/AMcMillan_CS5.json",
+    "icon": "/icons/weapon/sniper_rifle/McMillan_CS5.png"
+  },
+  {
+    "name": "Crye Precision SIX12",
+    "key": "item.wpn.six12.name",
+    "data": "/items/weapon/shotgun_rifle/ECrye_Precision_SIX12.json",
+    "icon": "/icons/weapon/shotgun_rifle/Crye_Precision_SIX12.png"
+  },
+  {
+    "name": "HK PSG1",
+    "key": "item.wpn.psg.name",
+    "data": "/items/weapon/sniper_rifle/5HK_PSG1.json",
+    "icon": "/icons/weapon/sniper_rifle/HK_PSG1.png"
+  },
+  {
+    "name": "HK XM8S",
+    "key": "item.wpn.xm8s.name",
+    "data": "/items/weapon/assault_rifle/BHK_XM8S.json",
+    "icon": "/icons/weapon/assault_rifle/HK_XM8S.png"
+  },
+  {
+    "name": "HK417",
+    "key": "item.wpn.hk417.name",
+    "data": "/items/weapon/assault_rifle/yHK417.json",
+    "icon": "/icons/weapon/assault_rifle/HK417.png"
+  },
+  {
+    "name": "DSA-58",
+    "key": "item.wpn.dsa58.name",
+    "data": "/items/weapon/assault_rifle/lDSA-58.json",
+    "icon": "/icons/weapon/assault_rifle/DSA-58.png"
+  },
+  {
+    "name": "АК-308",
+    "key": "item.wpn.ak308.name",
+    "data": "/items/weapon/assault_rifle/KАК-308.json",
+    "icon": "/icons/weapon/assault_rifle/АК-308.png"
+  },
+  {
+    "name": "IWI Tavor X95",
+    "key": "item.wpn.x95.name",
+    "data": "/items/weapon/assault_rifle/kIWI_Tavor_X95.json",
+    "icon": "/icons/weapon/assault_rifle/IWI_Tavor_X95.png"
+  },
+  {
+    "name": "«Цунами»",
+    "key": "item.wpn.kedr_mod.name",
+    "data": "/items/weapon/submachine_gun/BЦунами.json",
+    "icon": "/icons/weapon/submachine_gun/Цунами.png"
+  },
+  {
+    "name": "«Гадюка»",
+    "key": "item.wpn.mp5_mod.name",
+    "data": "/items/weapon/submachine_gun/yГадюка.json",
+    "icon": "/icons/weapon/submachine_gun/Гадюка.png"
+  },
+  {
+    "name": "«Рапира»",
+    "key": "item.wpn.aks74_mod.name",
+    "data": "/items/weapon/assault_rifle/JРапира.json",
+    "icon": "/icons/weapon/assault_rifle/Рапира.png"
+  },
+  {
+    "name": "ПП «Орех»",
+    "key": "item.wpn.oreh.name",
+    "data": "/items/weapon/submachine_gun/NПП_Орех.json",
+    "icon": "/icons/weapon/submachine_gun/ПП_Орех.png"
+  },
+  {
+    "name": "АВТ-40",
+    "key": "item.wpn.svt40_mod.name",
+    "data": "/items/weapon/sniper_rifle/VАВТ-40.json",
+    "icon": "/icons/weapon/sniper_rifle/АВТ-40.png"
+  },
+  {
+    "name": "«Лавина»",
+    "key": "item.wpn.svu_mod.name",
+    "data": "/items/weapon/sniper_rifle/JЛавина.json",
+    "icon": "/icons/weapon/sniper_rifle/Лавина.png"
+  },
+  {
+    "name": "ПМ вечного новичка",
+    "key": "item.wpn.pm_mod.name",
+    "data": "/items/weapon/pistol/yПМ_вечного_новичка.json",
+    "icon": "/icons/weapon/pistol/ПМ_вечного_новичка.png"
+  },
+  {
+    "name": "«Пчела»",
+    "key": "item.wpn.p99_mod.name",
+    "data": "/items/weapon/pistol/JПчела.json",
+    "icon": "/icons/weapon/pistol/Пчела.png"
+  },
+  {
+    "name": "«Мечта»",
+    "key": "item.wpn.hp_mod.name",
+    "data": "/items/weapon/pistol/aМечта.json",
+    "icon": "/icons/weapon/pistol/Мечта.png"
+  },
+  {
+    "name": "РГ-6",
+    "key": "item.wpn.rg6.name",
+    "data": "/items/weapon/heavy/VРГ-6.json",
+    "icon": "/icons/weapon/heavy/РГ-6.png"
+  },
+  {
+    "name": "Огнемёт",
+    "key": "item.wpn.flamethrower.name",
+    "data": "/items/weapon/heavy/nОгнемёт.json",
+    "icon": "/icons/weapon/heavy/Огнемёт.png"
+  },
+  {
+    "name": "«Огниво»",
+    "key": "item.wpn.flamepistol.name",
+    "data": "/items/weapon/heavy/RОгниво.json",
+    "icon": "/icons/weapon/heavy/Огниво.png"
+  },
+  {
+    "name": "РПГ-7",
+    "key": "item.wpn.rpg7.name",
+    "data": "/items/weapon/heavy/7РПГ-7.json",
+    "icon": "/icons/weapon/heavy/РПГ-7.png"
+  },
+  {
+    "name": "Охотничий нож",
+    "key": "item.21000.name",
+    "data": "/items/weapon/melee/BОхотничий_нож.json",
+    "icon": "/icons/weapon/melee/Охотничий_нож.png"
+  },
+  {
+    "name": "Изделие 6Х4",
+    "key": "item.21001.name",
+    "data": "/items/weapon/melee/yИзделие_6Х4.json",
+    "icon": "/icons/weapon/melee/Изделие_6Х4.png"
+  },
+  {
+    "name": "Монтировка",
+    "key": "item.21002.name",
+    "data": "/items/weapon/melee/lМонтировка.json",
+    "icon": "/icons/weapon/melee/Монтировка.png"
+  },
+  {
+    "name": "ОЦ-04",
+    "key": "item.melee.oc04.name",
+    "data": "/items/weapon/melee/KОЦ-04.json",
+    "icon": "/icons/weapon/melee/ОЦ-04.png"
+  },
+  {
+    "name": "Glock Feldmesser 78",
+    "key": "item.21004.name",
+    "data": "/items/weapon/melee/kGlock_Feldmesser_78.json",
+    "icon": "/icons/weapon/melee/Glock_Feldmesser_78.png"
+  },
+  {
+    "name": "Gerber Downrange Tomahawk",
+    "key": "item.melee.downrange.name",
+    "data": "/items/weapon/melee/3Gerber_Downrange_Tomahawk.json",
+    "icon": "/icons/weapon/melee/Gerber_Downrange_Tomahawk.png"
+  },
+  {
+    "name": "КО-1",
+    "key": "item.21006.name",
+    "data": "/items/weapon/melee/VКО-1.json",
+    "icon": "/icons/weapon/melee/КО-1.png"
+  },
+  {
+    "name": "Кукри",
+    "key": "item.melee.kukri.name",
+    "data": "/items/weapon/melee/nКукри.json",
+    "icon": "/icons/weapon/melee/Кукри.png"
+  },
+  {
+    "name": "Jagdkommando",
+    "key": "item.21008.name",
+    "data": "/items/weapon/melee/gJagdkommando.json",
+    "icon": "/icons/weapon/melee/Jagdkommando.png"
+  },
+  {
+    "name": "Сапёрная лопата",
+    "key": "item.21009.name",
+    "data": "/items/weapon/melee/0Сапёрная_лопата.json",
+    "icon": "/icons/weapon/melee/Сапёрная_лопата.png"
+  },
+  {
+    "name": "Танто с кольцом",
+    "key": "item.21010.name",
+    "data": "/items/weapon/melee/RТанто_с_кольцом.json",
+    "icon": "/icons/weapon/melee/Танто_с_кольцом.png"
+  },
+  {
+    "name": "Охотничий мачете",
+    "key": "item.21011.name",
+    "data": "/items/weapon/melee/2Охотничий_мачете.json",
+    "icon": "/icons/weapon/melee/Охотничий_мачете.png"
+  },
+  {
+    "name": "Русский штык",
+    "key": "item.21012.name",
+    "data": "/items/weapon/melee/JРусский_штык.json",
+    "icon": "/icons/weapon/melee/Русский_штык.png"
+  },
+  {
+    "name": "Ледоруб",
+    "key": "item.21013.name",
+    "data": "/items/weapon/melee/PЛедоруб.json",
+    "icon": "/icons/weapon/melee/Ледоруб.png"
+  },
+  {
+    "name": "Топор",
+    "key": "item.21014.name",
+    "data": "/items/weapon/melee/NТопор.json",
+    "icon": "/icons/weapon/melee/Топор.png"
+  },
+  {
+    "name": "Молоток",
+    "key": "item.21015.name",
+    "data": "/items/weapon/melee/DМолоток.json",
+    "icon": "/icons/weapon/melee/Молоток.png"
+  },
+  {
+    "name": "Мачете «ЭМЧес»",
+    "key": "item.21016.name",
+    "data": "/items/weapon/melee/QМачете_ЭМЧес.json",
+    "icon": "/icons/weapon/melee/Мачете_ЭМЧес.png"
+  },
+  {
+    "name": "Штык-нож M9",
+    "key": "item.21017.name",
+    "data": "/items/weapon/melee/mШтык-нож_M9.json",
+    "icon": "/icons/weapon/melee/Штык-нож_M9.png"
+  },
+  {
+    "name": "M48 Tomahawk",
+    "key": "item.21018.name",
+    "data": "/items/weapon/melee/6M48_Tomahawk.json",
+    "icon": "/icons/weapon/melee/M48_Tomahawk.png"
+  },
+  {
+    "name": "Телескопическая дубинка",
+    "key": "item.21019.name",
+    "data": "/items/weapon/melee/xТелескопическая_дубинка.json",
+    "icon": "/icons/weapon/melee/Телескопическая_дубинка.png"
+  },
+  {
+    "name": "Бита с гвоздями",
+    "key": "item.21020.name",
+    "data": "/items/weapon/melee/zБита_с_гвоздями.json",
+    "icon": "/icons/weapon/melee/Бита_с_гвоздями.png"
+  },
+  {
+    "name": "Алюминиевая бита",
+    "key": "item.21021.name",
+    "data": "/items/weapon/melee/8Алюминиевая_бита.json",
+    "icon": "/icons/weapon/melee/Алюминиевая_бита.png"
+  },
+  {
+    "name": "Тесак",
+    "key": "item.21022.name",
+    "data": "/items/weapon/melee/GТесак.json",
+    "icon": "/icons/weapon/melee/Тесак.png"
+  },
+  {
+    "name": "Мачете Survival SP8 Ontario",
+    "key": "item.21023.name",
+    "data": "/items/weapon/melee/wМачете_Survival_SP8_Ontario.json",
+    "icon": "/icons/weapon/melee/Мачете_Survival_SP8_Ontario.png"
+  },
+  {
+    "name": "Кусок трубы",
+    "key": "item.21024.name",
+    "data": "/items/weapon/melee/eКусок_трубы.json",
+    "icon": "/icons/weapon/melee/Кусок_трубы.png"
+  },
+  {
+    "name": "Старый серп",
+    "key": "item.21025.name",
+    "data": "/items/weapon/melee/MСтарый_серп.json",
+    "icon": "/icons/weapon/melee/Старый_серп.png"
+  },
+  {
+    "name": "Новогодняя лопата",
+    "key": "item.21026.name",
+    "data": "/items/weapon/melee/aНовогодняя_лопата.json",
+    "icon": "/icons/weapon/melee/Новогодняя_лопата.png"
+  },
+  {
+    "name": "Бритва",
+    "key": "item.melee.britva.name",
+    "data": "/items/weapon/melee/oБритва.json",
+    "icon": "/icons/weapon/melee/Бритва.png"
+  },
+  {
+    "name": "Огненная бритва",
+    "key": "item.melee.britva_fire.name",
+    "data": "/items/weapon/melee/1Огненная_бритва.json",
+    "icon": "/icons/weapon/melee/Огненная_бритва.png"
+  },
+  {
+    "name": "Кислотная бритва",
+    "key": "item.melee.britva_acid.name",
+    "data": "/items/weapon/melee/bКислотная_бритва.json",
+    "icon": "/icons/weapon/melee/Кислотная_бритва.png"
+  },
+  {
+    "name": "Прижигатель",
+    "key": "item.melee.burner.name",
+    "data": "/items/weapon/melee/dПрижигатель.json",
+    "icon": "/icons/weapon/melee/Прижигатель.png"
+  },
+  {
+    "name": "Нож из шипа",
+    "key": "item.21031.name",
+    "data": "/items/weapon/melee/7Нож_из_шипа.json",
+    "icon": "/icons/weapon/melee/Нож_из_шипа.png"
+  },
+  {
+    "name": "Ледяной кукри",
+    "key": "item.melee.kukri_f.name",
+    "data": "/items/weapon/melee/jЛедяной_кукри.json",
+    "icon": "/icons/weapon/melee/Ледяной_кукри.png"
+  },
+  {
+    "name": "Ледяной ледоруб",
+    "key": "item.melee.iceaxe_f.name",
+    "data": "/items/weapon/melee/9Ледяной_ледоруб.json",
+    "icon": "/icons/weapon/melee/Ледяной_ледоруб.png"
+  },
+  {
+    "name": "Тесак военсталов",
+    "key": "item.21034.name",
+    "data": "/items/weapon/melee/rТесак_военсталов.json",
+    "icon": "/icons/weapon/melee/Тесак_военсталов.png"
+  },
+  {
+    "name": "Твичер",
+    "key": "item.21035.name",
+    "data": "/items/weapon/melee/XТвичер.json",
+    "icon": "/icons/weapon/melee/Твичер.png"
+  },
+  {
+    "name": "Нож 6Х9",
+    "key": "item.21036.name",
+    "data": "/items/weapon/melee/ZНож_6Х9.json",
+    "icon": "/icons/weapon/melee/Нож_6Х9.png"
+  },
+  {
+    "name": "УВСР",
+    "key": "item.melee.uvsr.name",
+    "data": "/items/weapon/melee/OУВСР.json",
+    "icon": "/icons/weapon/melee/УВСР.png"
+  },
+  {
+    "name": "НР-43",
+    "key": "item.21038.name",
+    "data": "/items/weapon/melee/qНР-43.json",
+    "icon": "/icons/weapon/melee/НР-43.png"
+  },
+  {
+    "name": "Диверсионный нож",
+    "key": "item.21039.name",
+    "data": "/items/weapon/melee/YДиверсионный_нож.json",
+    "icon": "/icons/weapon/melee/Диверсионный_нож.png"
+  },
+  {
+    "name": "Керамбит из когтя",
+    "key": "item.21040.name",
+    "data": "/items/weapon/melee/AКерамбит_из_когтя.json",
+    "icon": "/icons/weapon/melee/Керамбит_из_когтя.png"
+  },
+  {
+    "name": "Шипастая дубинка",
+    "key": "item.21041.name",
+    "data": "/items/weapon/melee/EШипастая_дубинка.json",
+    "icon": "/icons/weapon/melee/Шипастая_дубинка.png"
+  },
+  {
+    "name": "«Друг болотника»",
+    "key": "item.melee.bolotnik.name",
+    "data": "/items/weapon/melee/5Друг_болотника.json",
+    "icon": "/icons/weapon/melee/Друг_болотника.png"
+  },
+  {
+    "name": "Классический M9",
+    "key": "item.21044.name",
+    "data": "/items/weapon/melee/BКлассический_M9.json",
+    "icon": "/icons/weapon/melee/Классический_M9.png"
+  },
+  {
+    "name": "Мясницкий нож",
+    "key": "item.21045.name",
+    "data": "/items/weapon/melee/yМясницкий_нож.json",
+    "icon": "/icons/weapon/melee/Мясницкий_нож.png"
+  },
+  {
+    "name": "Нож с обратным хватом",
+    "key": "item.21046.name",
+    "data": "/items/weapon/melee/lНож_с_обратным_хватом.json",
+    "icon": "/icons/weapon/melee/Нож_с_обратным_хватом.png"
+  },
+  {
+    "name": "Едкая пила",
+    "key": "item.21047.name",
+    "data": "/items/weapon/melee/KЕдкая_пила.json",
+    "icon": "/icons/weapon/melee/Едкая_пила.png"
+  },
+  {
+    "name": "«Рвач»",
+    "key": "item.21048.name",
+    "data": "/items/weapon/melee/kРвач.json",
+    "icon": "/icons/weapon/melee/Рвач.png"
+  },
+  {
+    "name": "Мясницкий крюк",
+    "key": "item.21049.name",
+    "data": "/items/weapon/melee/3Мясницкий_крюк.json",
+    "icon": "/icons/weapon/melee/Мясницкий_крюк.png"
+  },
+  {
+    "name": "Ритуальный топор",
+    "key": "item.melee.raxe.name",
+    "data": "/items/weapon/melee/QРитуальный_топор.json",
+    "icon": "/icons/weapon/melee/Ритуальный_топор.png"
+  },
+  {
+    "name": "«Пламенный привет»",
+    "key": "item.melee.fireknuckle.name",
+    "data": "/items/weapon/melee/mПламенный_привет.json",
+    "icon": "/icons/weapon/melee/Пламенный_привет.png"
+  },
+  {
+    "name": "Костяной нож",
+    "key": "item.melee.boneknife.name",
+    "data": "/items/weapon/melee/6Костяной_нож.json",
+    "icon": "/icons/weapon/melee/Костяной_нож.png"
+  },
+  {
+    "name": "Мизерикорд",
+    "key": "item.melee.misery.name",
+    "data": "/items/weapon/melee/xМизерикорд.json",
+    "icon": "/icons/weapon/melee/Мизерикорд.png"
+  },
+  {
+    "name": "Керамбит Steel Tiger",
+    "key": "item.melee.steeltiger.name",
+    "data": "/items/weapon/melee/zКерамбит_Steel_Tiger.json",
+    "icon": "/icons/weapon/melee/Керамбит_Steel_Tiger.png"
+  },
+  {
+    "name": "Боевой нож «Катран-1»",
+    "key": "item.melee.katran.name",
+    "data": "/items/weapon/melee/8Боевой_нож_Катран-1.json",
+    "icon": "/icons/weapon/melee/Боевой_нож_Катран-1.png"
+  },
+  {
+    "name": "Казачья шашка",
+    "key": "item.melee.shashka.name",
+    "data": "/items/weapon/melee/GКазачья_шашка.json",
+    "icon": "/icons/weapon/melee/Казачья_шашка.png"
+  },
+  {
+    "name": "Тактический нож Ka-Bar BKR3",
+    "key": "item.melee.bkr3.name",
+    "data": "/items/weapon/melee/wТактический_нож_Ka-Bar_BKR3.json",
+    "icon": "/icons/weapon/melee/Тактический_нож_Ka-Bar_BKR3.png"
+  },
+  {
+    "name": "«Эндшпиль»",
+    "key": "item.melee.endgame.name",
+    "data": "/items/weapon/melee/aЭндшпиль.json",
+    "icon": "/icons/weapon/melee/Эндшпиль.png"
+  },
+  {
+    "name": "«Флюорит»",
+    "key": "item.melee.fluorite.name",
+    "data": "/items/weapon/melee/oФлюорит.json",
+    "icon": "/icons/weapon/melee/Флюорит.png"
+  },
+  {
+    "name": "Цевьё RIS L85",
+    "key": "item.att.forend_l85.name",
+    "data": "/items/attachment/forend/BЦевьё_RIS_L85.json",
+    "icon": "/icons/attachment/forend/Цевьё_RIS_L85.png"
+  },
+  {
+    "name": "Цевье RIS M4A1",
+    "key": "item.att.forend_m4ris.name",
+    "data": "/items/attachment/forend/yЦевье_RIS_M4A1.json",
+    "icon": "/icons/attachment/forend/Цевье_RIS_M4A1.png"
+  },
+  {
+    "name": "Цевье RIS M16",
+    "key": "item.att.forend_m16ris.name",
+    "data": "/items/attachment/forend/lЦевье_RIS_M16.json",
+    "icon": "/icons/attachment/forend/Цевье_RIS_M16.png"
+  },
+  {
+    "name": "Цевьё MP5 с планками Пикатинни",
+    "key": "item.att.forend_mp5ris.name",
+    "data": "/items/attachment/forend/KЦевьё_MP5_с_планками_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Цевьё_MP5_с_планками_Пикатинни.png"
+  },
+  {
+    "name": "Цевьё RIS P90",
+    "key": "item.att.forend_p90ris.name",
+    "data": "/items/attachment/forend/kЦевьё_RIS_P90.json",
+    "icon": "/icons/attachment/forend/Цевьё_RIS_P90.png"
+  },
+  {
+    "name": "Fal Quad Rail",
+    "key": "item.att.forend_falris.name",
+    "data": "/items/attachment/forend/3Fal_Quad_Rail.json",
+    "icon": "/icons/attachment/forend/Fal_Quad_Rail.png"
+  },
+  {
+    "name": "SIG SG 550 Handguard 4x NAR",
+    "key": "item.att.forend_sigris4.name",
+    "data": "/items/attachment/forend/VSIG_SG_550_Handguard_4x_NAR.json",
+    "icon": "/icons/attachment/forend/SIG_SG_550_Handguard_4x_NAR.png"
+  },
+  {
+    "name": "Цевьё с направляющей RIS для Uzi",
+    "key": "item.att.forend_uziris.name",
+    "data": "/items/attachment/forend/nЦевьё_с_направляющей_RIS_для_Uzi.json",
+    "icon": "/icons/attachment/forend/Цевьё_с_направляющей_RIS_для_Uzi.png"
+  },
+  {
+    "name": "Цевьё с направляющей RIS для SIG SG 550",
+    "key": "item.att.forend_sigris1.name",
+    "data": "/items/attachment/forend/gЦевьё_с_направляющей_RIS_для_SIG_SG_550.json",
+    "icon": "/icons/attachment/forend/Цевьё_с_направляющей_RIS_для_SIG_SG_550.png"
+  },
+  {
+    "name": "Цевье M1A с планкой Пикатинни",
+    "key": "item.att.forend_m1ris1.name",
+    "data": "/items/attachment/forend/0Цевье_M1A_с_планкой_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Цевье_M1A_с_планкой_Пикатинни.png"
+  },
+  {
+    "name": "Ложе M1A с планками Пикатинни",
+    "key": "item.att.forend_m1ris2.name",
+    "data": "/items/attachment/forend/RЛоже_M1A_с_планками_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Ложе_M1A_с_планками_Пикатинни.png"
+  },
+  {
+    "name": "Цевье RIS LR-300",
+    "key": "item.att.forend_lr300ris.name",
+    "data": "/items/attachment/forend/2Цевье_RIS_LR-300.json",
+    "icon": "/icons/attachment/forend/Цевье_RIS_LR-300.png"
+  },
+  {
+    "name": "Цевьё Fab Defence G3-RS",
+    "key": "item.att.forend_g3.name",
+    "data": "/items/attachment/forend/JЦевьё_Fab_Defence_G3-RS.json",
+    "icon": "/icons/attachment/forend/Цевьё_Fab_Defence_G3-RS.png"
+  },
+  {
+    "name": "Ложе Springfield M1A PACS",
+    "key": "item.att.forend_m1pacs.name",
+    "data": "/items/attachment/forend/PЛоже_Springfield_M1A_PACS.json",
+    "icon": "/icons/attachment/forend/Ложе_Springfield_M1A_PACS.png"
+  },
+  {
+    "name": "Цевьё Б-11 с верхней планкой",
+    "key": "item.att.forend_b11.name",
+    "data": "/items/attachment/forend/nЦевьё_Б-11_с_верхней_планкой.json",
+    "icon": "/icons/attachment/forend/Цевьё_Б-11_с_верхней_планкой.png"
+  },
+  {
+    "name": "Цевье деревянное АКМ, чёрное",
+    "key": "item.att.forend_akmblack.name",
+    "data": "/items/attachment/forend/gЦевье_деревянное_АКМ,_чёрное.json",
+    "icon": "/icons/attachment/forend/Цевье_деревянное_АКМ,_чёрное.png"
+  },
+  {
+    "name": "Цевье Fab Defence АК",
+    "key": "item.att.forend_akfb.name",
+    "data": "/items/attachment/forend/0Цевье_Fab_Defence_АК.json",
+    "icon": "/icons/attachment/forend/Цевье_Fab_Defence_АК.png"
+  },
+  {
+    "name": "Цевье CAA RS-21",
+    "key": "item.att.forend_caars.name",
+    "data": "/items/attachment/forend/RЦевье_CAA_RS-21.json",
+    "icon": "/icons/attachment/forend/Цевье_CAA_RS-21.png"
+  },
+  {
+    "name": "Цевье Б-10М и крышка ствольной коробки Б-33",
+    "key": "item.att.forend_b10b33.name",
+    "data": "/items/attachment/forend/2Цевье_Б-10М_и_крышка_ствольной_коробки_Б-33.json",
+    "icon": "/icons/attachment/forend/Цевье_Б-10М_и_крышка_ствольной_коробки_Б-33.png"
+  },
+  {
+    "name": "Крышка ствольной коробки ПКП с планкой Пикатинни",
+    "key": "item.att.forend_pkp.name",
+    "data": "/items/attachment/forend/JКрышка_ствольной_коробки_ПКП_с_планкой_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Крышка_ствольной_коробки_ПКП_с_планкой_Пикатинни.png"
+  },
+  {
+    "name": "Цевьё «Удав» АН-94",
+    "key": "item.att.forend_an94.name",
+    "data": "/items/attachment/forend/NЦевьё_Удав_АН-94.json",
+    "icon": "/icons/attachment/forend/Цевьё_Удав_АН-94.png"
+  },
+  {
+    "name": "Цевьё для Сайга-12К",
+    "key": "item.att.forend_saiga.name",
+    "data": "/items/attachment/forend/DЦевьё_для_Сайга-12К.json",
+    "icon": "/icons/attachment/forend/Цевьё_для_Сайга-12К.png"
+  },
+  {
+    "name": "Тактическая накладка СКС",
+    "key": "item.att.forend_skstop.name",
+    "data": "/items/attachment/forend/QТактическая_накладка_СКС.json",
+    "icon": "/icons/attachment/forend/Тактическая_накладка_СКС.png"
+  },
+  {
+    "name": "Цевье Б-21М",
+    "key": "item.att.forend_b21m.name",
+    "data": "/items/attachment/forend/mЦевье_Б-21М.json",
+    "icon": "/icons/attachment/forend/Цевье_Б-21М.png"
+  },
+  {
+    "name": "Цевье Б-10М (нижняя планка)",
+    "key": "item.att.forend_b10m.name",
+    "data": "/items/attachment/forend/6Цевье_Б-10М_(нижняя_планка).json",
+    "icon": "/icons/attachment/forend/Цевье_Б-10М_(нижняя_планка).png"
+  },
+  {
+    "name": "Тактическое цевьё РПД",
+    "key": "item.att.forend_rpd.name",
+    "data": "/items/attachment/forend/xТактическое_цевьё_РПД.json",
+    "icon": "/icons/attachment/forend/Тактическое_цевьё_РПД.png"
+  },
+  {
+    "name": "Тактическое ложе для СКС",
+    "key": "item.att.forend_sks.name",
+    "data": "/items/attachment/forend/GТактическое_ложе_для_СКС.json",
+    "icon": "/icons/attachment/forend/Тактическое_ложе_для_СКС.png"
+  },
+  {
+    "name": "Тактическая накладка ОЦ-14",
+    "key": "item.att.forend_groza.name",
+    "data": "/items/attachment/forend/wТактическая_накладка_ОЦ-14.json",
+    "icon": "/icons/attachment/forend/Тактическая_накладка_ОЦ-14.png"
+  },
+  {
+    "name": "Крышка ствольной коробки ВАЛ/ВСС",
+    "key": "item.att.forend_val.name",
+    "data": "/items/attachment/forend/eКрышка_ствольной_коробки_ВАЛ-ВСС.json",
+    "icon": "/icons/attachment/forend/Крышка_ствольной_коробки_ВАЛ-ВСС.png"
+  },
+  {
+    "name": "Тактическая рукоятка Magpul AFG",
+    "key": "item.att.handgrip_magpul.name",
+    "data": "/items/attachment/other/BТактическая_рукоятка_Magpul_AFG.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_Magpul_AFG.png"
+  },
+  {
+    "name": "Тактическая рукоятка PCLRS",
+    "key": "item.att.handgrip_pclrs.name",
+    "data": "/items/attachment/other/yТактическая_рукоятка_PCLRS.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_PCLRS.png"
+  },
+  {
+    "name": "Вертикальная рукоятка ANG4",
+    "key": "item.att.handgrip_ang4.name",
+    "data": "/items/attachment/other/lВертикальная_рукоятка_ANG4.json",
+    "icon": "/icons/attachment/other/Вертикальная_рукоятка_ANG4.png"
+  },
+  {
+    "name": "Тактическая рукоятка REG Fab Defence, хаки",
+    "key": "item.att.handgrip_regfbh.name",
+    "data": "/items/attachment/other/KТактическая_рукоятка_REG_Fab_Defence,_хаки.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_REG_Fab_Defence,_хаки.png"
+  },
+  {
+    "name": "Тактическая рукоятка REG Fab Defence, серый",
+    "key": "item.att.handgrip_regfbb.name",
+    "data": "/items/attachment/other/kТактическая_рукоятка_REG_Fab_Defence,_серый.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_REG_Fab_Defence,_серый.png"
+  },
+  {
+    "name": "Рукоятка для ОЦ-14 «Гроза»",
+    "key": "item.att.handgrip_groza.name",
+    "data": "/items/attachment/barrel/3Рукоятка_для_ОЦ-14_Гроза.json",
+    "icon": "/icons/attachment/barrel/Рукоятка_для_ОЦ-14_Гроза.png"
+  },
+  {
+    "name": "Тактическая рукоятка Fortis SHIFT Vertical, оранжевая",
+    "key": "item.att.handgrip_fortiso.name",
+    "data": "/items/attachment/other/gТактическая_рукоятка_Fortis_SHIFT_Vertical,_оранжевая.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_Fortis_SHIFT_Vertical,_оранжевая.png"
+  },
+  {
+    "name": "Тактическая рукоятка Fortis SHIFT Vertical, черная",
+    "key": "item.att.handgrip_fortisb.name",
+    "data": "/items/attachment/other/0Тактическая_рукоятка_Fortis_SHIFT_Vertical,_черная.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_Fortis_SHIFT_Vertical,_черная.png"
+  },
+  {
+    "name": "Рукоять переноса огня FMA DARK EARTH",
+    "key": "item.att.handgrip_fmade.name",
+    "data": "/items/attachment/other/RРукоять_переноса_огня_FMA_DARK_EARTH.json",
+    "icon": "/icons/attachment/other/Рукоять_переноса_огня_FMA_DARK_EARTH.png"
+  },
+  {
+    "name": "Тактическая рукоятка FMA TD Grip",
+    "key": "item.att.handgrip_fmatd.name",
+    "data": "/items/attachment/other/2Тактическая_рукоятка_FMA_TD_Grip.json",
+    "icon": "/icons/attachment/other/Тактическая_рукоятка_FMA_TD_Grip.png"
+  },
+  {
+    "name": "Вертикальная рукоятка Tapco",
+    "key": "item.att.handgrip_tapco.name",
+    "data": "/items/attachment/other/JВертикальная_рукоятка_Tapco.json",
+    "icon": "/icons/attachment/other/Вертикальная_рукоятка_Tapco.png"
+  },
+  {
+    "name": "Прицел оптический SUSAT",
+    "key": "item.att.scope_susat.name",
+    "data": "/items/attachment/collimator_sights/BПрицел_оптический_SUSAT.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_SUSAT.png"
+  },
+  {
+    "name": "Прицел оптический Leupold",
+    "key": "item.att.scope_hamr.name",
+    "data": "/items/attachment/collimator_sights/yПрицел_оптический_Leupold.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Leupold.png"
+  },
+  {
+    "name": "Прицел оптический Elcan",
+    "key": "item.att.scope_elcan4.name",
+    "data": "/items/attachment/collimator_sights/lПрицел_оптический_Elcan.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Elcan.png"
+  },
+  {
+    "name": "Прицел оптический Trijicon ACOG",
+    "key": "item.att.scope_acog6.name",
+    "data": "/items/attachment/collimator_sights/KПрицел_оптический_Trijicon_ACOG.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Trijicon_ACOG.png"
+  },
+  {
+    "name": "Прицел оптический Sig Sauer",
+    "key": "item.att.scope_bravo.name",
+    "data": "/items/attachment/collimator_sights/kПрицел_оптический_Sig_Sauer.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Sig_Sauer.png"
+  },
+  {
+    "name": "Прицел оптический Trijicon AccuPoint",
+    "key": "item.att.scope_tr20.name",
+    "data": "/items/attachment/collimator_sights/3Прицел_оптический_Trijicon_AccuPoint.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Trijicon_AccuPoint.png"
+  },
+  {
+    "name": "Прицел оптический Trijicon ACOG",
+    "key": "item.att.scope_acog4.name",
+    "data": "/items/attachment/collimator_sights/VПрицел_оптический_Trijicon_ACOG.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Trijicon_ACOG.png"
+  },
+  {
+    "name": "Прицел оптический Elcan M145",
+    "key": "item.att.scope_m145.name",
+    "data": "/items/attachment/collimator_sights/nПрицел_оптический_Elcan_M145.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Elcan_M145.png"
+  },
+  {
+    "name": "Прицел оптический Elcan",
+    "key": "item.att.scope_elcan6.name",
+    "data": "/items/attachment/collimator_sights/0Прицел_оптический_Elcan.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Elcan.png"
+  },
+  {
+    "name": "Прицел оптический Барс",
+    "key": "item.att.scope_bars.name",
+    "data": "/items/attachment/collimator_sights/RПрицел_оптический_Барс.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Барс.png"
+  },
+  {
+    "name": "Прицел оптический Acecare",
+    "key": "item.att.scope_acecare.name",
+    "data": "/items/attachment/collimator_sights/2Прицел_оптический_Acecare.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Acecare.png"
+  },
+  {
+    "name": "Прицел широкоугольный «Ракурс»",
+    "key": "item.att.scope_rakurs.name",
+    "data": "/items/attachment/collimator_sights/VПрицел_широкоугольный_Ракурс.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_широкоугольный_Ракурс.png"
+  },
+  {
+    "name": "Прицел оптический ПСО",
+    "key": "item.att.scope_pso1.name",
+    "data": "/items/attachment/collimator_sights/nПрицел_оптический_ПСО.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_ПСО.png"
+  },
+  {
+    "name": "Прицел оптический 1П77",
+    "key": "item.att.scope_1p77.name",
+    "data": "/items/attachment/collimator_sights/gПрицел_оптический_1П77.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_1П77.png"
+  },
+  {
+    "name": "Прицел оптический ПОСП",
+    "key": "item.att.scope_psop.name",
+    "data": "/items/attachment/collimator_sights/0Прицел_оптический_ПОСП.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_ПОСП.png"
+  },
+  {
+    "name": "Прицел оптический ПУ на боковой кронштейн",
+    "key": "item.att.scope_pu.name",
+    "data": "/items/attachment/collimator_sights/RПрицел_оптический_ПУ_на_боковой_кронштейн.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_ПУ_на_боковой_кронштейн.png"
+  },
+  {
+    "name": "Прицел оптический ПСО",
+    "key": "item.att.scope_pso3.name",
+    "data": "/items/attachment/collimator_sights/2Прицел_оптический_ПСО.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_ПСО.png"
+  },
+  {
+    "name": "Прицел оптический ПУ для СВТ",
+    "key": "item.att.scope_svt.name",
+    "data": "/items/attachment/collimator_sights/JПрицел_оптический_ПУ_для_СВТ.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_ПУ_для_СВТ.png"
+  },
+  {
+    "name": "Прицел оптический «Тюльпан»",
+    "key": "item.att.scope_1p29.name",
+    "data": "/items/attachment/collimator_sights/PПрицел_оптический_Тюльпан.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Тюльпан.png"
+  },
+  {
+    "name": "Прицел оптический Пилад 3.5х20",
+    "key": "item.att.scope_pilad.name",
+    "data": "/items/attachment/collimator_sights/NПрицел_оптический_Пилад_3.5х20.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_оптический_Пилад_3.5х20.png"
+  },
+  {
+    "name": "Прицел коллиматорный Micro",
+    "key": "item.att.sight_microt1.name",
+    "data": "/items/attachment/collimator_sights/BПрицел_коллиматорный_Micro.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Micro.png"
+  },
+  {
+    "name": "Прицел коллиматорный EoTech",
+    "key": "item.att.sight_eoth.name",
+    "data": "/items/attachment/collimator_sights/yПрицел_коллиматорный_EoTech.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_EoTech.png"
+  },
+  {
+    "name": "Прицел коллиматорный EoTech",
+    "key": "item.att.sight_eotb.name",
+    "data": "/items/attachment/collimator_sights/lПрицел_коллиматорный_EoTech.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_EoTech.png"
+  },
+  {
+    "name": "Прицел коллиматорный Trijicon",
+    "key": "item.att.sight_rmr.name",
+    "data": "/items/attachment/collimator_sights/KПрицел_коллиматорный_Trijicon.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Trijicon.png"
+  },
+  {
+    "name": "Прицел коллиматорный LaRue",
+    "key": "item.att.sight_irondot.name",
+    "data": "/items/attachment/collimator_sights/kПрицел_коллиматорный_LaRue.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_LaRue.png"
+  },
+  {
+    "name": "Прицел коллиматорный ОКП-7",
+    "key": "item.att.sight_okp.name",
+    "data": "/items/attachment/collimator_sights/3Прицел_коллиматорный_ОКП-7.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_ОКП-7.png"
+  },
+  {
+    "name": "Прицел коллиматорный BSA Reflex",
+    "key": "item.att.sight_bsa.name",
+    "data": "/items/attachment/collimator_sights/VПрицел_коллиматорный_BSA_Reflex.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_BSA_Reflex.png"
+  },
+  {
+    "name": "Прицел коллиматорный «Валдай»",
+    "key": "item.att.sight_valdai.name",
+    "data": "/items/attachment/collimator_sights/nПрицел_коллиматорный_Валдай.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Валдай.png"
+  },
+  {
+    "name": "Прицел коллиматорный Barska",
+    "key": "item.att.sight_barska_open.name",
+    "data": "/items/attachment/collimator_sights/gПрицел_коллиматорный_Barska.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Barska.png"
+  },
+  {
+    "name": "Прицел коллиматорный Barska",
+    "key": "item.att.sight_barska_closed.name",
+    "data": "/items/attachment/collimator_sights/RПрицел_коллиматорный_Barska.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Barska.png"
+  },
+  {
+    "name": "Прицел коллиматорный «Bering OPTICS»",
+    "key": "item.att.sight_bering.name",
+    "data": "/items/attachment/collimator_sights/2Прицел_коллиматорный_Bering_OPTICS.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Bering_OPTICS.png"
+  },
+  {
+    "name": "Прицел коллиматорный «Bering OPTICS»",
+    "key": "item.att.sight_bering2.name",
+    "data": "/items/attachment/collimator_sights/JПрицел_коллиматорный_Bering_OPTICS.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Bering_OPTICS.png"
+  },
+  {
+    "name": "Прицел коллиматорный Vortex",
+    "key": "item.att.sight_uh1.name",
+    "data": "/items/attachment/collimator_sights/PПрицел_коллиматорный_Vortex.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Vortex.png"
+  },
+  {
+    "name": "Прицел коллиматорный Vortex",
+    "key": "item.att.sight_vortex2.name",
+    "data": "/items/attachment/collimator_sights/NПрицел_коллиматорный_Vortex.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Vortex.png"
+  },
+  {
+    "name": "Прицел коллиматорный Trijicon",
+    "key": "item.att.sight_srs.name",
+    "data": "/items/attachment/collimator_sights/DПрицел_коллиматорный_Trijicon.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Trijicon.png"
+  },
+  {
+    "name": "Прицел коллиматорный Trijicon",
+    "key": "item.att.sight_1x42.name",
+    "data": "/items/attachment/collimator_sights/QПрицел_коллиматорный_Trijicon.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Trijicon.png"
+  },
+  {
+    "name": "Прицел коллиматорный Sig Sauer",
+    "key": "item.att.sight_romeo3.name",
+    "data": "/items/attachment/collimator_sights/mПрицел_коллиматорный_Sig_Sauer.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Sig_Sauer.png"
+  },
+  {
+    "name": "Прицел коллиматорный ПК-01(Т)",
+    "key": "item.att.sight_pk01t.name",
+    "data": "/items/attachment/collimator_sights/6Прицел_коллиматорный_ПК-01(Т).json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_ПК-01(Т).png"
+  },
+  {
+    "name": "Прицел коллиматорный ПК-01(Т/З)",
+    "key": "item.att.sight_pk01tz.name",
+    "data": "/items/attachment/collimator_sights/xПрицел_коллиматорный_ПК-01(Т-З).json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_ПК-01(Т-З).png"
+  },
+  {
+    "name": "Прицел коллиматорный РУСАК",
+    "key": "item.att.sight_rusak.name",
+    "data": "/items/attachment/collimator_sights/zПрицел_коллиматорный_РУСАК.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_РУСАК.png"
+  },
+  {
+    "name": "Прицел коллиматорный DM",
+    "key": "item.att.sight_dm51.name",
+    "data": "/items/attachment/collimator_sights/8Прицел_коллиматорный_DM.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_DM.png"
+  },
+  {
+    "name": "Прицел коллиматорный «Кобра»",
+    "key": "item.att.sight_cobra_pik.name",
+    "data": "/items/attachment/collimator_sights/GПрицел_коллиматорный_Кобра.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Кобра.png"
+  },
+  {
+    "name": "Прицел коллиматорный Панорама",
+    "key": "item.att.sight_panorama.name",
+    "data": "/items/attachment/collimator_sights/wПрицел_коллиматорный_Панорама.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Панорама.png"
+  },
+  {
+    "name": "Прицел коллиматорный «Обзор»",
+    "key": "item.att.sight_obzor.name",
+    "data": "/items/attachment/collimator_sights/VПрицел_коллиматорный_Обзор.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Обзор.png"
+  },
+  {
+    "name": "Прицел коллиматорный «Кобра»",
+    "key": "item.att.sight_cobra.name",
+    "data": "/items/attachment/collimator_sights/nПрицел_коллиматорный_Кобра.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_Кобра.png"
+  },
+  {
+    "name": "Прицел коллиматорный «ПК-АС»",
+    "key": "item.att.sight_pkas.name",
+    "data": "/items/attachment/collimator_sights/gПрицел_коллиматорный_ПК-АС.json",
+    "icon": "/icons/attachment/collimator_sights/Прицел_коллиматорный_ПК-АС.png"
+  },
+  {
+    "name": "Лазерный целеуказатель «Клещ-2ПС»",
+    "key": "item.att.lcu_compact.name",
+    "data": "/items/attachment/other/nЛазерный_целеуказатель_Клещ-2ПС.json",
+    "icon": "/icons/attachment/other/Лазерный_целеуказатель_Клещ-2ПС.png"
+  },
+  {
+    "name": "Тактический блок AN/PEQ 15, хаки",
+    "key": "item.att.lcu_anpeqh.name",
+    "data": "/items/attachment/other/gТактический_блок_AN-PEQ_15,_хаки.json",
+    "icon": "/icons/attachment/other/Тактический_блок_AN-PEQ_15,_хаки.png"
+  },
+  {
+    "name": "Тактический блок AN/PEQ 15, чёрный",
+    "key": "item.att.lcu_anpeqb.name",
+    "data": "/items/attachment/other/0Тактический_блок_AN-PEQ_15,_чёрный.json",
+    "icon": "/icons/attachment/other/Тактический_блок_AN-PEQ_15,_чёрный.png"
+  },
+  {
+    "name": "Тактический блок AN/PEQ 15, чёрный (зелёный лазер)",
+    "key": "item.att.lcu_anpeqbg.name",
+    "data": "/items/attachment/other/NТактический_блок_AN-PEQ_15,_чёрный_(зелёный_лазер).json",
+    "icon": "/icons/attachment/other/Тактический_блок_AN-PEQ_15,_чёрный_(зелёный_лазер).png"
+  },
+  {
+    "name": "HQ ISSUE Mini Laser Sight (зелёный лазер)",
+    "key": "item.att.lcu_hqi.name",
+    "data": "/items/attachment/other/DHQ_ISSUE_Mini_Laser_Sight_(зелёный_лазер).json",
+    "icon": "/icons/attachment/other/HQ_ISSUE_Mini_Laser_Sight_(зелёный_лазер).png"
+  },
+  {
+    "name": "HQ ISSUE Low-Profile Laser Sight (красный лазер)",
+    "key": "item.att.lcu_lowp.name",
+    "data": "/items/attachment/other/QHQ_ISSUE_Low-Profile_Laser_Sight_(красный_лазер).json",
+    "icon": "/icons/attachment/other/HQ_ISSUE_Low-Profile_Laser_Sight_(красный_лазер).png"
+  },
+  {
+    "name": "Пламегаситель Noveske KX3",
+    "key": "item.att.barrel_noveske.name",
+    "data": "/items/attachment/barrel/BПламегаситель_Noveske_KX3.json",
+    "icon": "/icons/attachment/barrel/Пламегаситель_Noveske_KX3.png"
+  },
+  {
+    "name": "Diamondhead Compensator",
+    "key": "item.att.barrel_diamondhead.name",
+    "data": "/items/attachment/barrel/yDiamondhead_Compensator.json",
+    "icon": "/icons/attachment/barrel/Diamondhead_Compensator.png"
+  },
+  {
+    "name": "Resistance Armament Compensator",
+    "key": "item.att.barrel_resistance.name",
+    "data": "/items/attachment/barrel/lResistance_Armament_Compensator.json",
+    "icon": "/icons/attachment/barrel/Resistance_Armament_Compensator.png"
+  },
+  {
+    "name": "Hera Arms CC Compensator",
+    "key": "item.att.barrel_heracc.name",
+    "data": "/items/attachment/barrel/KHera_Arms_CC_Compensator.json",
+    "icon": "/icons/attachment/barrel/Hera_Arms_CC_Compensator.png"
+  },
+  {
+    "name": "Пламегаситель LoneWolf",
+    "key": "item.att.barrel_lonewolf.name",
+    "data": "/items/attachment/barrel/kПламегаситель_LoneWolf.json",
+    "icon": "/icons/attachment/barrel/Пламегаситель_LoneWolf.png"
+  },
+  {
+    "name": "3 Port Mini Compensator",
+    "key": "item.att.barrel_3port.name",
+    "data": "/items/attachment/barrel/33_Port_Mini_Compensator.json",
+    "icon": "/icons/attachment/barrel/3_Port_Mini_Compensator.png"
+  },
+  {
+    "name": "VG6 EPSILON 556 Muzzle Brake",
+    "key": "item.att.barrel_vg6556.name",
+    "data": "/items/attachment/barrel/VVG6_EPSILON_556_Muzzle_Brake.json",
+    "icon": "/icons/attachment/barrel/VG6_EPSILON_556_Muzzle_Brake.png"
+  },
+  {
+    "name": "VG6 EPSILON 762 Muzzle Brake",
+    "key": "item.att.barrel_vg6762.name",
+    "data": "/items/attachment/barrel/nVG6_EPSILON_762_Muzzle_Brake.json",
+    "icon": "/icons/attachment/barrel/VG6_EPSILON_762_Muzzle_Brake.png"
+  },
+  {
+    "name": "Удлиненный ствол D-Eagle",
+    "key": "item.att.barrel_longdeagle.name",
+    "data": "/items/attachment/barrel/wУдлиненный_ствол_D-Eagle.json",
+    "icon": "/icons/attachment/barrel/Удлиненный_ствол_D-Eagle.png"
+  },
+  {
+    "name": "Пламегаситель AKademia Тьма",
+    "key": "item.att.barrel_akademia.name",
+    "data": "/items/attachment/barrel/MПламегаситель_AKademia_Тьма.json",
+    "icon": "/icons/attachment/barrel/Пламегаситель_AKademia_Тьма.png"
+  },
+  {
+    "name": "ДТК «Косой»",
+    "key": "item.att.barrel_kosoi.name",
+    "data": "/items/attachment/barrel/aДТК_Косой.json",
+    "icon": "/icons/attachment/barrel/ДТК_Косой.png"
+  },
+  {
+    "name": "ДТК «Вихрь»",
+    "key": "item.att.barrel_vihr.name",
+    "data": "/items/attachment/barrel/oДТК_Вихрь.json",
+    "icon": "/icons/attachment/barrel/ДТК_Вихрь.png"
+  },
+  {
+    "name": "ДТК-1",
+    "key": "item.att.barrel_dtk1.name",
+    "data": "/items/attachment/barrel/1ДТК-1.json",
+    "icon": "/icons/attachment/barrel/ДТК-1.png"
+  },
+  {
+    "name": "ДТК Цитадель 5.45",
+    "key": "item.att.barrel_citadel.name",
+    "data": "/items/attachment/barrel/bДТК_Цитадель_5.45.json",
+    "icon": "/icons/attachment/barrel/ДТК_Цитадель_5.45.png"
+  },
+  {
+    "name": "Удлиненный ствол 9 мм",
+    "key": "item.att.barrel_extension9mm.name",
+    "data": "/items/attachment/barrel/dУдлиненный_ствол_9_мм.json",
+    "icon": "/icons/attachment/barrel/Удлиненный_ствол_9_мм.png"
+  },
+  {
+    "name": "Стандартный ствол АШ-12",
+    "key": "item.att.barrel_ash12.name",
+    "data": "/items/attachment/barrel/7Стандартный_ствол_АШ-12.json",
+    "icon": "/icons/attachment/barrel/Стандартный_ствол_АШ-12.png"
+  },
+  {
+    "name": "Глушитель JS",
+    "key": "item.att.silencer_js.name",
+    "data": "/items/attachment/barrel/VГлушитель_JS.json",
+    "icon": "/icons/attachment/barrel/Глушитель_JS.png"
+  },
+  {
+    "name": "Глушитель Osprey",
+    "key": "item.att.silencer_osprey.name",
+    "data": "/items/attachment/barrel/nГлушитель_Osprey.json",
+    "icon": "/icons/attachment/barrel/Глушитель_Osprey.png"
+  },
+  {
+    "name": "Глушитель SCAR-SD",
+    "key": "item.att.silencer_scarsd.name",
+    "data": "/items/attachment/barrel/gГлушитель_SCAR-SD.json",
+    "icon": "/icons/attachment/barrel/Глушитель_SCAR-SD.png"
+  },
+  {
+    "name": "Глушитель FA556 Mini",
+    "key": "item.att.silencer_fa556.name",
+    "data": "/items/attachment/barrel/0Глушитель_FA556_Mini.json",
+    "icon": "/icons/attachment/barrel/Глушитель_FA556_Mini.png"
+  },
+  {
+    "name": "Глушитель Salvo 12",
+    "key": "item.att.silencer_salvo12.name",
+    "data": "/items/attachment/barrel/RГлушитель_Salvo_12.json",
+    "icon": "/icons/attachment/barrel/Глушитель_Salvo_12.png"
+  },
+  {
+    "name": "Глушитель KAC Style QD",
+    "key": "item.att.silencer_kacqd.name",
+    "data": "/items/attachment/barrel/2Глушитель_KAC_Style_QD.json",
+    "icon": "/icons/attachment/barrel/Глушитель_KAC_Style_QD.png"
+  },
+  {
+    "name": "Глушитель SureFire SOCOM556-RC2",
+    "key": "item.att.silencer_socom556.name",
+    "data": "/items/attachment/barrel/DГлушитель_SureFire_SOCOM556-RC2.json",
+    "icon": "/icons/attachment/barrel/Глушитель_SureFire_SOCOM556-RC2.png"
+  },
+  {
+    "name": "ПБС-4",
+    "key": "item.att.silencer_pbs4.name",
+    "data": "/items/attachment/barrel/jПБС-4.json",
+    "icon": "/icons/attachment/barrel/ПБС-4.png"
+  },
+  {
+    "name": "Глушитель АТГ",
+    "key": "item.att.silencer_atg.name",
+    "data": "/items/attachment/barrel/9Глушитель_АТГ.json",
+    "icon": "/icons/attachment/barrel/Глушитель_АТГ.png"
+  },
+  {
+    "name": "Глушитель для ОЦ-14 «Гроза»",
+    "key": "item.att.silencer_groza.name",
+    "data": "/items/attachment/barrel/rГлушитель_для_ОЦ-14_Гроза.json",
+    "icon": "/icons/attachment/barrel/Глушитель_для_ОЦ-14_Гроза.png"
+  },
+  {
+    "name": "Iмкас ПСУЗВ–11ТМ.12",
+    "key": "item.att.silencer_imkas.name",
+    "data": "/items/attachment/barrel/XIмкас_ПСУЗВ–11ТМ.12.json",
+    "icon": "/icons/attachment/barrel/Iмкас_ПСУЗВ–11ТМ.12.png"
+  },
+  {
+    "name": "Глушитель АШ-12/МЦ-558",
+    "key": "item.att.silencer_ash12_mc558.name",
+    "data": "/items/attachment/barrel/OГлушитель_АШ-12-МЦ-558.json",
+    "icon": "/icons/attachment/barrel/Глушитель_АШ-12-МЦ-558.png"
+  },
+  {
+    "name": "Глушитель МЦ-558",
+    "key": "item.att.silencer_mc558.name",
+    "data": "/items/attachment/barrel/qГлушитель_МЦ-558.json",
+    "icon": "/icons/attachment/barrel/Глушитель_МЦ-558.png"
+  },
+  {
+    "name": "Приклад Mossberg",
+    "key": "item.22600.name",
+    "data": "/items/attachment/butt/BПриклад_Mossberg.json",
+    "icon": "/icons/attachment/butt/Приклад_Mossberg.png"
+  },
+  {
+    "name": "Приклад MP5 нескладной",
+    "key": "item.22603.name",
+    "data": "/items/attachment/butt/KПриклад_MP5_нескладной.json",
+    "icon": "/icons/attachment/butt/Приклад_MP5_нескладной.png"
+  },
+  {
+    "name": "Приклад-весло M4",
+    "key": "item.22604.name",
+    "data": "/items/attachment/butt/kПриклад-весло_M4.json",
+    "icon": "/icons/attachment/butt/Приклад-весло_M4.png"
+  },
+  {
+    "name": "Облегчённый приклад M4",
+    "key": "item.22605.name",
+    "data": "/items/attachment/butt/3Облегчённый_приклад_M4.json",
+    "icon": "/icons/attachment/butt/Облегчённый_приклад_M4.png"
+  },
+  {
+    "name": "Приклад Ижмаш деревянный",
+    "key": "item.22650.name",
+    "data": "/items/attachment/butt/VПриклад_Ижмаш_деревянный.json",
+    "icon": "/icons/attachment/butt/Приклад_Ижмаш_деревянный.png"
+  },
+  {
+    "name": "Приклад Ижмаш полимерный",
+    "key": "item.att.butt_ak_p.name",
+    "data": "/items/attachment/butt/nПриклад_Ижмаш_полимерный.json",
+    "icon": "/icons/attachment/butt/Приклад_Ижмаш_полимерный.png"
+  },
+  {
+    "name": "Приклад деревянный рамочный",
+    "key": "item.22652.name",
+    "data": "/items/attachment/butt/gПриклад_деревянный_рамочный.json",
+    "icon": "/icons/attachment/butt/Приклад_деревянный_рамочный.png"
+  },
+  {
+    "name": "Приклад M4 Buttstock",
+    "key": "item.22653.name",
+    "data": "/items/attachment/butt/0Приклад_M4_Buttstock.json",
+    "icon": "/icons/attachment/butt/Приклад_M4_Buttstock.png"
+  },
+  {
+    "name": "Приклад ZM High Standard AK",
+    "key": "item.22654.name",
+    "data": "/items/attachment/butt/RПриклад_ZM_High_Standard_AK.json",
+    "icon": "/icons/attachment/butt/Приклад_ZM_High_Standard_AK.png"
+  },
+  {
+    "name": "Приклад АПС",
+    "key": "item.22655.name",
+    "data": "/items/attachment/butt/2Приклад_АПС.json",
+    "icon": "/icons/attachment/butt/Приклад_АПС.png"
+  },
+  {
+    "name": "Пластиковый приклад РПД",
+    "key": "item.22656.name",
+    "data": "/items/attachment/butt/JПластиковый_приклад_РПД.json",
+    "icon": "/icons/attachment/butt/Пластиковый_приклад_РПД.png"
+  },
+  {
+    "name": "Приклад ОЦ-33",
+    "key": "item.22657.name",
+    "data": "/items/attachment/butt/PПриклад_ОЦ-33.json",
+    "icon": "/icons/attachment/butt/Приклад_ОЦ-33.png"
+  },
+  {
+    "name": "Магазин 5.56 NATO STANAG",
+    "key": "item.att.mag_stanag20.name",
+    "data": "/items/attachment/mag/BМагазин_5.56_NATO_STANAG.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_NATO_STANAG.png"
+  },
+  {
+    "name": "Магазин 5.56 NATO STANAG",
+    "key": "item.att.mag_stanag30.name",
+    "data": "/items/attachment/mag/yМагазин_5.56_NATO_STANAG.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_NATO_STANAG.png"
+  },
+  {
+    "name": "Магазин 5.56 NATO PMAG, хаки",
+    "key": "item.att.mag_pmag30h.name",
+    "data": "/items/attachment/mag/lМагазин_5.56_NATO_PMAG,_хаки.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_NATO_PMAG,_хаки.png"
+  },
+  {
+    "name": "Магазин 5.56 NATO PMAG, чёрный",
+    "key": "item.att.mag_pmag30b.name",
+    "data": "/items/attachment/mag/KМагазин_5.56_NATO_PMAG,_чёрный.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_NATO_PMAG,_чёрный.png"
+  },
+  {
+    "name": "Магазин 5.56 NATO STANAG",
+    "key": "item.att.mag_stanag40.name",
+    "data": "/items/attachment/mag/kМагазин_5.56_NATO_STANAG.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_NATO_STANAG.png"
+  },
+  {
+    "name": "Магазин 5.56 NATO STANAG",
+    "key": "item.att.mag_stanag60.name",
+    "data": "/items/attachment/mag/3Магазин_5.56_NATO_STANAG.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_NATO_STANAG.png"
+  },
+  {
+    "name": "Барабанный магазин 5.56 NATO, хаки",
+    "key": "item.att.mag_cmag100h.name",
+    "data": "/items/attachment/mag/VБарабанный_магазин_5.56_NATO,_хаки.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_5.56_NATO,_хаки.png"
+  },
+  {
+    "name": "Барабанный магазин 5.56 NATO чёрный",
+    "key": "item.att.mag_cmag100b.name",
+    "data": "/items/attachment/mag/nБарабанный_магазин_5.56_NATO_чёрный.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_5.56_NATO_чёрный.png"
+  },
+  {
+    "name": "Барабанный магазин X-5",
+    "key": "item.att.mag_x550.name",
+    "data": "/items/attachment/mag/gБарабанный_магазин_X-5.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_X-5.png"
+  },
+  {
+    "name": "Барабанный магазин AA-12",
+    "key": "item.att.mag_aa1220.name",
+    "data": "/items/attachment/mag/0Барабанный_магазин_AA-12.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_AA-12.png"
+  },
+  {
+    "name": "Магазин 7.62 NATO PMAG, хаки",
+    "key": "item.att.mag_pmag76230h.name",
+    "data": "/items/attachment/mag/RМагазин_7.62_NATO_PMAG,_хаки.json",
+    "icon": "/icons/attachment/mag/Магазин_7.62_NATO_PMAG,_хаки.png"
+  },
+  {
+    "name": "Магазин 7.62 NATO PMAG, чёрный",
+    "key": "item.att.mag_pmag76230b.name",
+    "data": "/items/attachment/mag/2Магазин_7.62_NATO_PMAG,_чёрный.json",
+    "icon": "/icons/attachment/mag/Магазин_7.62_NATO_PMAG,_чёрный.png"
+  },
+  {
+    "name": "Барабанный магазин 5.56 NATO EMAG",
+    "key": "item.att.mag_emag55660.name",
+    "data": "/items/attachment/mag/JБарабанный_магазин_5.56_NATO_EMAG.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_5.56_NATO_EMAG.png"
+  },
+  {
+    "name": "Магазин 5.56 Pufgun, черный",
+    "key": "item.att.mag_pufgun556b.name",
+    "data": "/items/attachment/mag/PМагазин_5.56_Pufgun,_черный.json",
+    "icon": "/icons/attachment/mag/Магазин_5.56_Pufgun,_черный.png"
+  },
+  {
+    "name": "Увеличенный магазин Browning",
+    "key": "item.att.mag_browning.name",
+    "data": "/items/attachment/mag/NУвеличенный_магазин_Browning.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_Browning.png"
+  },
+  {
+    "name": "Увеличенный магазин Colt",
+    "key": "item.att.mag_colt.name",
+    "data": "/items/attachment/mag/DУвеличенный_магазин_Colt.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_Colt.png"
+  },
+  {
+    "name": "Увеличенный магазин Beretta",
+    "key": "item.att.mag_beretta.name",
+    "data": "/items/attachment/mag/QУвеличенный_магазин_Beretta.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_Beretta.png"
+  },
+  {
+    "name": "Барабанный магазин G3/M1A",
+    "key": "item.att.mag_g350.name",
+    "data": "/items/attachment/mag/mБарабанный_магазин_G3-M1A.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_G3-M1A.png"
+  },
+  {
+    "name": "Магазин 40-патронный EMAG",
+    "key": "item.att.mag_sig40.name",
+    "data": "/items/attachment/mag/xМагазин_40-патронный_EMAG.json",
+    "icon": "/icons/attachment/mag/Магазин_40-патронный_EMAG.png"
+  },
+  {
+    "name": "Бакелитовый магазин 5.45",
+    "key": "item.att.mag_rumag54545b.name",
+    "data": "/items/attachment/mag/gБакелитовый_магазин_5.45.json",
+    "icon": "/icons/attachment/mag/Бакелитовый_магазин_5.45.png"
+  },
+  {
+    "name": "Пластиковый магазин 5.45",
+    "key": "item.att.mag_rumag54545p.name",
+    "data": "/items/attachment/mag/0Пластиковый_магазин_5.45.json",
+    "icon": "/icons/attachment/mag/Пластиковый_магазин_5.45.png"
+  },
+  {
+    "name": "Магазин 5.45",
+    "key": "item.att.mag_rumag54560.name",
+    "data": "/items/attachment/mag/RМагазин_5.45.json",
+    "icon": "/icons/attachment/mag/Магазин_5.45.png"
+  },
+  {
+    "name": "Барабанный магазин 5.45",
+    "key": "item.att.mag_rumag54575.name",
+    "data": "/items/attachment/mag/2Барабанный_магазин_5.45.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_5.45.png"
+  },
+  {
+    "name": "Барабанный магазин для ПМ",
+    "key": "item.att.mag_pmdrum.name",
+    "data": "/items/attachment/mag/JБарабанный_магазин_для_ПМ.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_для_ПМ.png"
+  },
+  {
+    "name": "Магазин эргономичный для ВСС/Вал",
+    "key": "item.att.mag_vss20.name",
+    "data": "/items/attachment/mag/PМагазин_эргономичный_для_ВСС-Вал.json",
+    "icon": "/icons/attachment/mag/Магазин_эргономичный_для_ВСС-Вал.png"
+  },
+  {
+    "name": "Магазин ПП-91",
+    "key": "item.att.mag_kedr40.name",
+    "data": "/items/attachment/mag/NМагазин_ПП-91.json",
+    "icon": "/icons/attachment/mag/Магазин_ПП-91.png"
+  },
+  {
+    "name": "Увеличенный магазин «Кобра»",
+    "key": "item.att.mag_svu15.name",
+    "data": "/items/attachment/mag/DУвеличенный_магазин_Кобра.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_Кобра.png"
+  },
+  {
+    "name": "Магазин ПП-2000",
+    "key": "item.att.mag_pp200040.name",
+    "data": "/items/attachment/mag/QМагазин_ПП-2000.json",
+    "icon": "/icons/attachment/mag/Магазин_ПП-2000.png"
+  },
+  {
+    "name": "Пластиковый магазин 7.62",
+    "key": "item.att.mag_rumag762p.name",
+    "data": "/items/attachment/mag/mПластиковый_магазин_7.62.json",
+    "icon": "/icons/attachment/mag/Пластиковый_магазин_7.62.png"
+  },
+  {
+    "name": "Бакелитовый магазин 7.62",
+    "key": "item.att.mag_rumag762b.name",
+    "data": "/items/attachment/mag/6Бакелитовый_магазин_7.62.json",
+    "icon": "/icons/attachment/mag/Бакелитовый_магазин_7.62.png"
+  },
+  {
+    "name": "Магазин 5.45 PMAG, чёрный",
+    "key": "item.att.mag_pmag545b.name",
+    "data": "/items/attachment/mag/xМагазин_5.45_PMAG,_чёрный.json",
+    "icon": "/icons/attachment/mag/Магазин_5.45_PMAG,_чёрный.png"
+  },
+  {
+    "name": "Увеличенный магазин ПМ/ПБ",
+    "key": "item.att.mag_pm.name",
+    "data": "/items/attachment/mag/zУвеличенный_магазин_ПМ-ПБ.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_ПМ-ПБ.png"
+  },
+  {
+    "name": "Увеличенный магазин Форт-12",
+    "key": "item.att.mag_fort12.name",
+    "data": "/items/attachment/mag/8Увеличенный_магазин_Форт-12.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_Форт-12.png"
+  },
+  {
+    "name": "Удлинитель магазина МР-133/МР-153",
+    "key": "item.att.mag_mr133.name",
+    "data": "/items/attachment/mag/GУдлинитель_магазина_МР-133-МР-153.json",
+    "icon": "/icons/attachment/mag/Удлинитель_магазина_МР-133-МР-153.png"
+  },
+  {
+    "name": "Магазин 30-патронный для ВСС/Вал",
+    "key": "item.att.mag_val30.name",
+    "data": "/items/attachment/mag/wМагазин_30-патронный_для_ВСС-Вал.json",
+    "icon": "/icons/attachment/mag/Магазин_30-патронный_для_ВСС-Вал.png"
+  },
+  {
+    "name": "Увеличенный магазин ОЦ-14",
+    "key": "item.att.mag_groza30.name",
+    "data": "/items/attachment/mag/eУвеличенный_магазин_ОЦ-14.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_ОЦ-14.png"
+  },
+  {
+    "name": "Увеличенный магазин для МЦ-558",
+    "key": "item.att.mag_mc55810.name",
+    "data": "/items/attachment/mag/MУвеличенный_магазин_для_МЦ-558.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_для_МЦ-558.png"
+  },
+  {
+    "name": "Увеличенный магазин PSG1",
+    "key": "item.att.mag_psg1.name",
+    "data": "/items/attachment/mag/aУвеличенный_магазин_PSG1.json",
+    "icon": "/icons/attachment/mag/Увеличенный_магазин_PSG1.png"
+  },
+  {
+    "name": "Магазин 30-патронный для АК-308",
+    "key": "item.att.mag_ak30830.name",
+    "data": "/items/attachment/mag/1Магазин_30-патронный_для_АК-308.json",
+    "icon": "/icons/attachment/mag/Магазин_30-патронный_для_АК-308.png"
+  },
+  {
+    "name": "Барабанный магазин 7.62x39",
+    "key": "item.att.mag_rumag76275.name",
+    "data": "/items/attachment/mag/bБарабанный_магазин_7.62x39.json",
+    "icon": "/icons/attachment/mag/Барабанный_магазин_7.62x39.png"
+  },
+  {
+    "name": "Защитная планка, олива",
+    "key": "item.att.other_deflongg.name",
+    "data": "/items/attachment/other/BЗащитная_планка,_олива.json",
+    "icon": "/icons/attachment/other/Защитная_планка,_олива.png"
+  },
+  {
+    "name": "Защитная планка, хаки",
+    "key": "item.att.other_deflongh.name",
+    "data": "/items/attachment/other/yЗащитная_планка,_хаки.json",
+    "icon": "/icons/attachment/other/Защитная_планка,_хаки.png"
+  },
+  {
+    "name": "Защитная планка, чёрная",
+    "key": "item.att.other_deflongb.name",
+    "data": "/items/attachment/other/lЗащитная_планка,_чёрная.json",
+    "icon": "/icons/attachment/other/Защитная_планка,_чёрная.png"
+  },
+  {
+    "name": "Компактная защитная планка, олива",
+    "key": "item.att.other_defg.name",
+    "data": "/items/attachment/other/KКомпактная_защитная_планка,_олива.json",
+    "icon": "/icons/attachment/other/Компактная_защитная_планка,_олива.png"
+  },
+  {
+    "name": "Компактная защитная планка, хаки",
+    "key": "item.att.other_defh.name",
+    "data": "/items/attachment/other/kКомпактная_защитная_планка,_хаки.json",
+    "icon": "/icons/attachment/other/Компактная_защитная_планка,_хаки.png"
+  },
+  {
+    "name": "Компактная защитная планка,чёрная",
+    "key": "item.att.other_defb.name",
+    "data": "/items/attachment/other/3Компактная_защитная_планка,чёрная.json",
+    "icon": "/icons/attachment/other/Компактная_защитная_планка,чёрная.png"
+  },
+  {
+    "name": "Надствольное крепление БМ",
+    "key": "item.att.forend_bm.name",
+    "data": "/items/attachment/forend/BНадствольное_крепление_БМ.json",
+    "icon": "/icons/attachment/forend/Надствольное_крепление_БМ.png"
+  },
+  {
+    "name": "Кронштейн-планка RIS",
+    "key": "item.att.mount_mp5ris.name",
+    "data": "/items/attachment/forend/yКронштейн-планка_RIS.json",
+    "icon": "/icons/attachment/forend/Кронштейн-планка_RIS.png"
+  },
+  {
+    "name": "Планка с базой Пикатинни",
+    "key": "item.att.mount_tozris.name",
+    "data": "/items/attachment/forend/lПланка_с_базой_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Планка_с_базой_Пикатинни.png"
+  },
+  {
+    "name": "Боковой кронштейн с планкой Пикатинни",
+    "key": "item.att.mount_lastris.name",
+    "data": "/items/attachment/forend/KБоковой_кронштейн_с_планкой_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Боковой_кронштейн_с_планкой_Пикатинни.png"
+  },
+  {
+    "name": "Планка RIS XM8",
+    "key": "item.att.mount_xm8ris.name",
+    "data": "/items/attachment/forend/kПланка_RIS_XM8.json",
+    "icon": "/icons/attachment/forend/Планка_RIS_XM8.png"
+  },
+  {
+    "name": "Направляющая RIS для дробовиков",
+    "key": "item.att.mount_shotgunris.name",
+    "data": "/items/attachment/forend/3Направляющая_RIS_для_дробовиков.json",
+    "icon": "/icons/attachment/forend/Направляющая_RIS_для_дробовиков.png"
+  },
+  {
+    "name": "Хомут с планкой RIS",
+    "key": "item.att.forend_valris1.name",
+    "data": "/items/attachment/forend/VХомут_с_планкой_RIS.json",
+    "icon": "/icons/attachment/forend/Хомут_с_планкой_RIS.png"
+  },
+  {
+    "name": "Хомут с тремя планками RIS",
+    "key": "item.att.forend_valris3.name",
+    "data": "/items/attachment/forend/nХомут_с_тремя_планками_RIS.json",
+    "icon": "/icons/attachment/forend/Хомут_с_тремя_планками_RIS.png"
+  },
+  {
+    "name": "Кронштейн СКС - ласточкин хвост",
+    "key": "item.att.mount_skslast.name",
+    "data": "/items/attachment/forend/0Кронштейн_СКС_-_ласточкин_хвост.json",
+    "icon": "/icons/attachment/forend/Кронштейн_СКС_-_ласточкин_хвост.png"
+  },
+  {
+    "name": "Кронштейн Кочетова «Патриот» с планкой Пикатинни",
+    "key": "item.att.mount_mosinris.name",
+    "data": "/items/attachment/forend/NКронштейн_Кочетова_Патриот_с_планкой_Пикатинни.json",
+    "icon": "/icons/attachment/forend/Кронштейн_Кочетова_Патриот_с_планкой_Пикатинни.png"
+  },
+  {
+    "name": "Планка RIS на ПП-91 «Кедр»",
+    "key": "item.att.forend_kedrris.name",
+    "data": "/items/attachment/forend/DПланка_RIS_на_ПП-91_Кедр.json",
+    "icon": "/icons/attachment/forend/Планка_RIS_на_ПП-91_Кедр.png"
+  },
+  {
+    "name": "Адаптивная планка RIS для ДП",
+    "key": "item.att.mount_dpris.name",
+    "data": "/items/attachment/forend/mАдаптивная_планка_RIS_для_ДП.json",
+    "icon": "/icons/attachment/forend/Адаптивная_планка_RIS_для_ДП.png"
+  },
+  {
+    "name": "Крепление прицела для M16A2",
+    "key": "item.att.mount_m16ris.name",
+    "data": "/items/attachment/forend/6Крепление_прицела_для_M16A2.json",
+    "icon": "/icons/attachment/forend/Крепление_прицела_для_M16A2.png"
+  },
+  {
+    "name": "Повышающая RIS-планка",
+    "key": "item.att.mount_riselevator.name",
+    "data": "/items/attachment/forend/xПовышающая_RIS-планка.json",
+    "icon": "/icons/attachment/forend/Повышающая_RIS-планка.png"
+  },
+  {
+    "name": "Планка Пикатинни для СВТ",
+    "key": "item.att.mount_svt.name",
+    "data": "/items/attachment/forend/zПланка_Пикатинни_для_СВТ.json",
+    "icon": "/icons/attachment/forend/Планка_Пикатинни_для_СВТ.png"
+  },
+  {
+    "name": "Рукоять РК-3",
+    "key": "item.att.handle_rk3.name",
+    "data": "/items/attachment/pistol_handle/BРукоять_РК-3.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_РК-3.png"
+  },
+  {
+    "name": "Рукоять Fab defence AG-47, чёрный",
+    "key": "item.att.handle_ag47b.name",
+    "data": "/items/attachment/pistol_handle/yРукоять_Fab_defence_AG-47,_чёрный.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_Fab_defence_AG-47,_чёрный.png"
+  },
+  {
+    "name": "Рукоять Fab defence AG-47, зелёный",
+    "key": "item.att.handle_ag47g.name",
+    "data": "/items/attachment/pistol_handle/lРукоять_Fab_defence_AG-47,_зелёный.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_Fab_defence_AG-47,_зелёный.png"
+  },
+  {
+    "name": "Рукоять Fab defence AG-47, хаки",
+    "key": "item.att.handle_ag47h.name",
+    "data": "/items/attachment/pistol_handle/KРукоять_Fab_defence_AG-47,_хаки.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_Fab_defence_AG-47,_хаки.png"
+  },
+  {
+    "name": "Рукоять Fab defence AGR-43, чёрный",
+    "key": "item.att.handle_agr43b.name",
+    "data": "/items/attachment/pistol_handle/VРукоять_Fab_defence_AGR-43,_чёрный.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_Fab_defence_AGR-43,_чёрный.png"
+  },
+  {
+    "name": "Рукоять Fab defence AGR-43, зелёный",
+    "key": "item.att.handle_agr43g.name",
+    "data": "/items/attachment/pistol_handle/nРукоять_Fab_defence_AGR-43,_зелёный.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_Fab_defence_AGR-43,_зелёный.png"
+  },
+  {
+    "name": "Рукоять Fab defence AGR-43, хаки",
+    "key": "item.att.handle_agr43h.name",
+    "data": "/items/attachment/pistol_handle/gРукоять_Fab_defence_AGR-43,_хаки.json",
+    "icon": "/icons/attachment/pistol_handle/Рукоять_Fab_defence_AGR-43,_хаки.png"
+  },
+  {
+    "name": "Куртка",
+    "key": "item.arm.kyrtka.name",
+    "data": "/items/armor/clothes/BКуртка.json",
+    "icon": "/icons/armor/clothes/Куртка.png"
+  },
+  {
+    "name": "Куртка с повязкой",
+    "key": "item.arm.kyrtka_pov.name",
+    "data": "/items/armor/clothes/yКуртка_с_повязкой.json",
+    "icon": "/icons/armor/clothes/Куртка_с_повязкой.png"
+  },
+  {
+    "name": "Бандитская куртка",
+    "key": "item.arm.kyrtka_bandit.name",
+    "data": "/items/armor/clothes/lБандитская_куртка.json",
+    "icon": "/icons/armor/clothes/Бандитская_куртка.png"
+  },
+  {
+    "name": "Кожаная куртка",
+    "key": "item.arm.kyrtka_koj.name",
+    "data": "/items/armor/clothes/kКожаная_куртка.json",
+    "icon": "/icons/armor/clothes/Кожаная_куртка.png"
+  },
+  {
+    "name": "Дождевик",
+    "key": "item.arm.raincoat.name",
+    "data": "/items/armor/scientist/VДождевик.json",
+    "icon": "/icons/armor/scientist/Дождевик.png"
+  },
+  {
+    "name": "Куртка с бронежилетом",
+    "key": "item.arm.bronj.name",
+    "data": "/items/armor/combat/nКуртка_с_бронежилетом.json",
+    "icon": "/icons/armor/combat/Куртка_с_бронежилетом.png"
+  },
+  {
+    "name": "Броня репортера",
+    "key": "item.arm.bronj_press.name",
+    "data": "/items/armor/combat/gБроня_репортера.json",
+    "icon": "/icons/armor/combat/Броня_репортера.png"
+  },
+  {
+    "name": "Костюм «Горка-3»",
+    "key": "item.arm.gorka.name",
+    "data": "/items/armor/discoverer/JКостюм_Горка-3.json",
+    "icon": "/icons/armor/discoverer/Костюм_Горка-3.png"
+  },
+  {
+    "name": "Охотничий плащ",
+    "key": "item.arm.vestcoat.name",
+    "data": "/items/armor/combat/xОхотничий_плащ.json",
+    "icon": "/icons/armor/combat/Охотничий_плащ.png"
+  },
+  {
+    "name": "Защитный костюм «Ворса»",
+    "key": "item.arm.vorsa.name",
+    "data": "/items/armor/combat/zЗащитный_костюм_Ворса.json",
+    "icon": "/icons/armor/combat/Защитный_костюм_Ворса.png"
+  },
+  {
+    "name": "Бронекостюм «Гоплит»",
+    "key": "item.arm.goplit.name",
+    "data": "/items/armor/combat/8Бронекостюм_Гоплит.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Гоплит.png"
+  },
+  {
+    "name": "Костюм «Траппер»",
+    "key": "item.arm.trapper.name",
+    "data": "/items/armor/combat/GКостюм_Траппер.json",
+    "icon": "/icons/armor/combat/Костюм_Траппер.png"
+  },
+  {
+    "name": "ИП-4м",
+    "key": "item.arm.ip4m.name",
+    "data": "/items/armor/scientist/dИП-4м.json",
+    "icon": "/icons/armor/scientist/ИП-4м.png"
+  },
+  {
+    "name": "Плащ",
+    "key": "item.arm.longcoat.name",
+    "data": "/items/armor/combat/7Плащ.json",
+    "icon": "/icons/armor/combat/Плащ.png"
+  },
+  {
+    "name": "Бандитский плащ",
+    "key": "item.arm.longcoat_bandit.name",
+    "data": "/items/armor/combat/jБандитский_плащ.json",
+    "icon": "/icons/armor/combat/Бандитский_плащ.png"
+  },
+  {
+    "name": "Комбинезон «Заря»",
+    "key": "item.arm.zarya.name",
+    "data": "/items/armor/discoverer/9Комбинезон_Заря.json",
+    "icon": "/icons/armor/discoverer/Комбинезон_Заря.png"
+  },
+  {
+    "name": "Комбинезон «Заря» с противогазом",
+    "key": "item.arm.zarya_gas.name",
+    "data": "/items/armor/discoverer/rКомбинезон_Заря_с_противогазом.json",
+    "icon": "/icons/armor/discoverer/Комбинезон_Заря_с_противогазом.png"
+  },
+  {
+    "name": "Комбинезон «Заря-Б»",
+    "key": "item.arm.zarya_balon.name",
+    "data": "/items/armor/scientist/XКомбинезон_Заря-Б.json",
+    "icon": "/icons/armor/scientist/Комбинезон_Заря-Б.png"
+  },
+  {
+    "name": "Комбинезон «Турист»",
+    "key": "item.arm.turist.name",
+    "data": "/items/armor/discoverer/ZКомбинезон_Турист.json",
+    "icon": "/icons/armor/discoverer/Комбинезон_Турист.png"
+  },
+  {
+    "name": "Бандитский костюм",
+    "key": "item.arm.bover.name",
+    "data": "/items/armor/discoverer/OБандитский_костюм.json",
+    "icon": "/icons/armor/discoverer/Бандитский_костюм.png"
+  },
+  {
+    "name": "Бандитский костюм с противогазом",
+    "key": "item.arm.bover_gas.name",
+    "data": "/items/armor/discoverer/qБандитский_костюм_с_противогазом.json",
+    "icon": "/icons/armor/discoverer/Бандитский_костюм_с_противогазом.png"
+  },
+  {
+    "name": "Бандитский костюм с баллонами",
+    "key": "item.arm.bover_balon.name",
+    "data": "/items/armor/scientist/YБандитский_костюм_с_баллонами.json",
+    "icon": "/icons/armor/scientist/Бандитский_костюм_с_баллонами.png"
+  },
+  {
+    "name": "Костюм «Клептоман»",
+    "key": "item.arm.klepto.name",
+    "data": "/items/armor/discoverer/AКостюм_Клептоман.json",
+    "icon": "/icons/armor/discoverer/Костюм_Клептоман.png"
+  },
+  {
+    "name": "Бронекостюм «Берилл-5М»",
+    "key": "item.arm.berill.name",
+    "data": "/items/armor/combat/EБронекостюм_Берилл-5М.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Берилл-5М.png"
+  },
+  {
+    "name": "Бронекостюм «Червь»",
+    "key": "item.arm.berill_bandit.name",
+    "data": "/items/armor/combat/LБронекостюм_Червь.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Червь.png"
+  },
+  {
+    "name": "Лечебный Берилл",
+    "key": "item.arm.berill_lech.name",
+    "data": "/items/armor/combat/5Лечебный_Берилл.json",
+    "icon": "/icons/armor/combat/Лечебный_Берилл.png"
+  },
+  {
+    "name": "Костюм АО-1 «Бродяга»",
+    "key": "item.arm.ao1.name",
+    "data": "/items/armor/combined/BКостюм_АО-1_Бродяга.json",
+    "icon": "/icons/armor/combined/Костюм_АО-1_Бродяга.png"
+  },
+  {
+    "name": "Маскировочный костюм «Смородина»",
+    "key": "item.arm.smorodina.name",
+    "data": "/items/armor/combat/yМаскировочный_костюм_Смородина.json",
+    "icon": "/icons/armor/combat/Маскировочный_костюм_Смородина.png"
+  },
+  {
+    "name": "Защитный костюм «Псарь»",
+    "key": "item.arm.dogger.name",
+    "data": "/items/armor/combat/lЗащитный_костюм_Псарь.json",
+    "icon": "/icons/armor/combat/Защитный_костюм_Псарь.png"
+  },
+  {
+    "name": "Костюм «Скаут»",
+    "key": "item.arm.scout.name",
+    "data": "/items/armor/combat/KКостюм_Скаут.json",
+    "icon": "/icons/armor/combat/Костюм_Скаут.png"
+  },
+  {
+    "name": "Бронекостюм «Страйкер»",
+    "key": "item.arm.striker.name",
+    "data": "/items/armor/combat/kБронекостюм_Страйкер.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Страйкер.png"
+  },
+  {
+    "name": "ЗК-1 «Отмычка»",
+    "key": "item.arm.picklock.name",
+    "data": "/items/armor/combined/3ЗК-1_Отмычка.json",
+    "icon": "/icons/armor/combined/ЗК-1_Отмычка.png"
+  },
+  {
+    "name": "Комбинезон «СЕВА»",
+    "key": "item.arm.seva.name",
+    "data": "/items/armor/scientist/VКомбинезон_СЕВА.json",
+    "icon": "/icons/armor/scientist/Комбинезон_СЕВА.png"
+  },
+  {
+    "name": "Комбинезон «ЖНЕЦ»",
+    "key": "item.arm.jnec.name",
+    "data": "/items/armor/scientist/nКомбинезон_ЖНЕЦ.json",
+    "icon": "/icons/armor/scientist/Комбинезон_ЖНЕЦ.png"
+  },
+  {
+    "name": "Tяжелый бронекостюм «Восход»",
+    "key": "item.arm.voshod.name",
+    "data": "/items/armor/discoverer/gTяжелый_бронекостюм_Восход.json",
+    "icon": "/icons/armor/discoverer/Tяжелый_бронекостюм_Восход.png"
+  },
+  {
+    "name": "Tяжелый бронекостюм «Громила»",
+    "key": "item.arm.gromila.name",
+    "data": "/items/armor/discoverer/0Tяжелый_бронекостюм_Громила.json",
+    "icon": "/icons/armor/discoverer/Tяжелый_бронекостюм_Громила.png"
+  },
+  {
+    "name": "КИМ-99 «Янтарь»",
+    "key": "item.arm.yantar.name",
+    "data": "/items/armor/scientist/RКИМ-99_Янтарь.json",
+    "icon": "/icons/armor/scientist/КИМ-99_Янтарь.png"
+  },
+  {
+    "name": "КИМ-99М «Малахит»",
+    "key": "item.arm.kimm.name",
+    "data": "/items/armor/scientist/2КИМ-99М_Малахит.json",
+    "icon": "/icons/armor/scientist/КИМ-99М_Малахит.png"
+  },
+  {
+    "name": "Бронекостюм «Сокол»",
+    "key": "item.arm.sokol.name",
+    "data": "/items/armor/discoverer/JБронекостюм_Сокол.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_Сокол.png"
+  },
+  {
+    "name": "Бронекостюм «Пересмешник»",
+    "key": "item.arm.mocking.name",
+    "data": "/items/armor/discoverer/PБронекостюм_Пересмешник.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_Пересмешник.png"
+  },
+  {
+    "name": "Костюм АО-2 «Странник»",
+    "key": "item.arm.ao2.name",
+    "data": "/items/armor/combined/NКостюм_АО-2_Странник.json",
+    "icon": "/icons/armor/combined/Костюм_АО-2_Странник.png"
+  },
+  {
+    "name": "Костюм АО-3 «Искатель»",
+    "key": "item.arm.ao3.name",
+    "data": "/items/armor/combined/DКостюм_АО-3_Искатель.json",
+    "icon": "/icons/armor/combined/Костюм_АО-3_Искатель.png"
+  },
+  {
+    "name": "КИМ-105 «Топаз»",
+    "key": "item.arm.topaz.name",
+    "data": "/items/armor/scientist/QКИМ-105_Топаз.json",
+    "icon": "/icons/armor/scientist/КИМ-105_Топаз.png"
+  },
+  {
+    "name": "КИМ-113 «Иолит»",
+    "key": "item.arm.iolit.name",
+    "data": "/items/armor/scientist/mКИМ-113_Иолит.json",
+    "icon": "/icons/armor/scientist/КИМ-113_Иолит.png"
+  },
+  {
+    "name": "КИМ-116 «Изумруд»",
+    "key": "item.arm.izumrud.name",
+    "data": "/items/armor/scientist/6КИМ-116_Изумруд.json",
+    "icon": "/icons/armor/scientist/КИМ-116_Изумруд.png"
+  },
+  {
+    "name": "КИМ-122 «Аметист»",
+    "key": "item.arm.ametist.name",
+    "data": "/items/armor/scientist/xКИМ-122_Аметист.json",
+    "icon": "/icons/armor/scientist/КИМ-122_Аметист.png"
+  },
+  {
+    "name": "КИМ-Х «АТЛАС»",
+    "key": "item.arm.atlas.name",
+    "data": "/items/armor/scientist/zКИМ-Х_АТЛАС.json",
+    "icon": "/icons/armor/scientist/КИМ-Х_АТЛАС.png"
+  },
+  {
+    "name": "УКАЗ АО-4 «Рейдер»",
+    "key": "item.arm.ao4.name",
+    "data": "/items/armor/combined/8УКАЗ_АО-4_Рейдер.json",
+    "icon": "/icons/armor/combined/УКАЗ_АО-4_Рейдер.png"
+  },
+  {
+    "name": "УКАЗ АО-5 «Пилигрим»",
+    "key": "item.arm.ao5.name",
+    "data": "/items/armor/combined/GУКАЗ_АО-5_Пилигрим.json",
+    "icon": "/icons/armor/combined/УКАЗ_АО-5_Пилигрим.png"
+  },
+  {
+    "name": "Защитный костюм «Ош»",
+    "key": "item.arm.osh.name",
+    "data": "/items/armor/combat/wЗащитный_костюм_Ош.json",
+    "icon": "/icons/armor/combat/Защитный_костюм_Ош.png"
+  },
+  {
+    "name": "Экзоброня «Егерь»",
+    "key": "item.arm.eger.name",
+    "data": "/items/armor/combat/eЭкзоброня_Егерь.json",
+    "icon": "/icons/armor/combat/Экзоброня_Егерь.png"
+  },
+  {
+    "name": "Бронекостюм «СКАТ-9б»",
+    "key": "item.arm.skat9b.name",
+    "data": "/items/armor/discoverer/MБронекостюм_СКАТ-9б.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_СКАТ-9б.png"
+  },
+  {
+    "name": "Экзоскелет",
+    "key": "item.arm.exo.name",
+    "data": "/items/armor/discoverer/aЭкзоскелет.json",
+    "icon": "/icons/armor/discoverer/Экзоскелет.png"
+  },
+  {
+    "name": "Экзоскелет «Масть»",
+    "key": "item.arm.exo_bandit.name",
+    "data": "/items/armor/discoverer/oЭкзоскелет_Масть.json",
+    "icon": "/icons/armor/discoverer/Экзоскелет_Масть.png"
+  },
+  {
+    "name": "Бронекостюм ПСЗ-10",
+    "key": "item.arm.bulat.name",
+    "data": "/items/armor/discoverer/7Бронекостюм_ПСЗ-10.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_ПСЗ-10.png"
+  },
+  {
+    "name": "Бронекостюм «Пахан»",
+    "key": "item.arm.pahan.name",
+    "data": "/items/armor/discoverer/jБронекостюм_Пахан.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_Пахан.png"
+  },
+  {
+    "name": "Бронекостюм «СКАТ-9м»",
+    "key": "item.arm.skat9m.name",
+    "data": "/items/armor/discoverer/9Бронекостюм_СКАТ-9м.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_СКАТ-9м.png"
+  },
+  {
+    "name": "Тяжелый бронекостюм «Легионер»",
+    "key": "item.arm.legion.name",
+    "data": "/items/armor/combat/rТяжелый_бронекостюм_Легионер.json",
+    "icon": "/icons/armor/combat/Тяжелый_бронекостюм_Легионер.png"
+  },
+  {
+    "name": "Бронескелет «Центурион»",
+    "key": "item.arm.centurion.name",
+    "data": "/items/armor/combat/XБронескелет_Центурион.json",
+    "icon": "/icons/armor/combat/Бронескелет_Центурион.png"
+  },
+  {
+    "name": "Бронекостюм «СКАТ-10»",
+    "key": "item.arm.skat10.name",
+    "data": "/items/armor/discoverer/NБронекостюм_СКАТ-10.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_СКАТ-10.png"
+  },
+  {
+    "name": "Защитный бронекостюм «Йорш»",
+    "key": "item.arm.yorsh.name",
+    "data": "/items/armor/combat/gЗащитный_бронекостюм_Йорш.json",
+    "icon": "/icons/armor/combat/Защитный_бронекостюм_Йорш.png"
+  },
+  {
+    "name": "УКАЗ «Спаннер»",
+    "key": "item.arm.spanner.name",
+    "data": "/items/armor/combined/0УКАЗ_Спаннер.json",
+    "icon": "/icons/armor/combined/УКАЗ_Спаннер.png"
+  },
+  {
+    "name": "КИМ-85Д",
+    "key": "item.arm.kim85.name",
+    "data": "/items/armor/scientist/RКИМ-85Д.json",
+    "icon": "/icons/armor/scientist/КИМ-85Д.png"
+  },
+  {
+    "name": "Бронекостюм «Рысь»",
+    "key": "item.arm.ris.name",
+    "data": "/items/armor/combat/JБронекостюм_Рысь.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Рысь.png"
+  },
+  {
+    "name": "Экзоскелет «Медведь»",
+    "key": "item.arm.bear.name",
+    "data": "/items/armor/combat/PЭкзоскелет_Медведь.json",
+    "icon": "/icons/armor/combat/Экзоскелет_Медведь.png"
+  },
+  {
+    "name": "Бронекостюм «Призрачный охотник»",
+    "key": "item.arm.ghost.name",
+    "data": "/items/armor/combat/NБронекостюм_Призрачный_охотник.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Призрачный_охотник.png"
+  },
+  {
+    "name": "Штурмовик группы «Норд»",
+    "key": "item.arm.ny_heavy.name",
+    "data": "/items/armor/combined/DШтурмовик_группы_Норд.json",
+    "icon": "/icons/armor/combined/Штурмовик_группы_Норд.png"
+  },
+  {
+    "name": "Экзоскелет группы «Норд»",
+    "key": "item.arm.ny_exomod.name",
+    "data": "/items/armor/combat/QЭкзоскелет_группы_Норд.json",
+    "icon": "/icons/armor/combat/Экзоскелет_группы_Норд.png"
+  },
+  {
+    "name": "Костюм «Экспедиция»",
+    "key": "item.arm.expedition.name",
+    "data": "/items/armor/combined/mКостюм_Экспедиция.json",
+    "icon": "/icons/armor/combined/Костюм_Экспедиция.png"
+  },
+  {
+    "name": "ZIVCAS группы «Хорс»",
+    "key": "item.arm.dr_zivcas.name",
+    "data": "/items/armor/combined/6ZIVCAS_группы_Хорс.json",
+    "icon": "/icons/armor/combined/ZIVCAS_группы_Хорс.png"
+  },
+  {
+    "name": "Танк группы «Хорс»",
+    "key": "item.arm.dr_tank.name",
+    "data": "/items/armor/combat/xТанк_группы_Хорс.json",
+    "icon": "/icons/armor/combat/Танк_группы_Хорс.png"
+  },
+  {
+    "name": "Экзоброня «Крысолов»",
+    "key": "item.arm.ratcatcher.name",
+    "data": "/items/armor/combat/8Экзоброня_Крысолов.json",
+    "icon": "/icons/armor/combat/Экзоброня_Крысолов.png"
+  },
+  {
+    "name": "Маскировочный костюм",
+    "key": "item.arm.ghillie.name",
+    "data": "/items/armor/combat/wМаскировочный_костюм.json",
+    "icon": "/icons/armor/combat/Маскировочный_костюм.png"
+  },
+  {
+    "name": "Штурмовик группы «Норд-22»",
+    "key": "item.arm.ny22_heavy.name",
+    "data": "/items/armor/combined/eШтурмовик_группы_Норд-22.json",
+    "icon": "/icons/armor/combined/Штурмовик_группы_Норд-22.png"
+  },
+  {
+    "name": "Экзоскелет группы «Норд-22»",
+    "key": "item.arm.ny22_exomod.name",
+    "data": "/items/armor/combat/MЭкзоскелет_группы_Норд-22.json",
+    "icon": "/icons/armor/combat/Экзоскелет_группы_Норд-22.png"
+  },
+  {
+    "name": "«Идущий в метели» группы «Норд-22»",
+    "key": "item.arm.ny22_frostwalker.name",
+    "data": "/items/armor/combat/aИдущий_в_метели_группы_Норд-22.json",
+    "icon": "/icons/armor/combat/Идущий_в_метели_группы_Норд-22.png"
+  },
+  {
+    "name": "Бронекостюм «Армай»",
+    "key": "item.arm.armai.name",
+    "data": "/items/armor/discoverer/bБронекостюм_Армай.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_Армай.png"
+  },
+  {
+    "name": "Экзоскелет «Гренадер»",
+    "key": "item.arm.grenadier.name",
+    "data": "/items/armor/discoverer/dЭкзоскелет_Гренадер.json",
+    "icon": "/icons/armor/discoverer/Экзоскелет_Гренадер.png"
+  },
+  {
+    "name": "Модная куртка",
+    "key": "item.arm.kyrtka_modnaya.name",
+    "data": "/items/armor/clothes/BМодная_куртка.json",
+    "icon": "/icons/armor/clothes/Модная_куртка.png"
+  },
+  {
+    "name": "Комбинезон «КЗ-1»",
+    "key": "item.arm.kz1.name",
+    "data": "/items/armor/combat/VКомбинезон_КЗ-1.json",
+    "icon": "/icons/armor/combat/Комбинезон_КЗ-1.png"
+  },
+  {
+    "name": "Бронекостюм «КЗ-2»",
+    "key": "item.arm.kz2.name",
+    "data": "/items/armor/combat/nБронекостюм_КЗ-2.json",
+    "icon": "/icons/armor/combat/Бронекостюм_КЗ-2.png"
+  },
+  {
+    "name": "Укреплённый плащ",
+    "key": "item.arm.longcoat_donate.name",
+    "data": "/items/armor/clothes/gУкреплённый_плащ.json",
+    "icon": "/icons/armor/clothes/Укреплённый_плащ.png"
+  },
+  {
+    "name": "Пальто со шляпой",
+    "key": "item.arm.palto.name",
+    "data": "/items/armor/clothes/0Пальто_со_шляпой.json",
+    "icon": "/icons/armor/clothes/Пальто_со_шляпой.png"
+  },
+  {
+    "name": "Продвинутый ОЗК",
+    "key": "item.arm.ozk.name",
+    "data": "/items/armor/scientist/BПродвинутый_ОЗК.json",
+    "icon": "/icons/armor/scientist/Продвинутый_ОЗК.png"
+  },
+  {
+    "name": "Комбинезон «Магнит»",
+    "key": "item.arm.magnit.name",
+    "data": "/items/armor/combined/yКомбинезон_Магнит.json",
+    "icon": "/icons/armor/combined/Комбинезон_Магнит.png"
+  },
+  {
+    "name": "Бронекостюм «КЗ-3а»",
+    "key": "item.arm.kz3a.name",
+    "data": "/items/armor/combat/lБронекостюм_КЗ-3а.json",
+    "icon": "/icons/armor/combat/Бронекостюм_КЗ-3а.png"
+  },
+  {
+    "name": "Комплект «Алтын»",
+    "key": "item.arm.altyn.name",
+    "data": "/items/armor/combat/KКомплект_Алтын.json",
+    "icon": "/icons/armor/combat/Комплект_Алтын.png"
+  },
+  {
+    "name": "Бронекостюм «КЗ-3б»",
+    "key": "item.arm.kz3b.name",
+    "data": "/items/armor/combat/kБронекостюм_КЗ-3б.json",
+    "icon": "/icons/armor/combat/Бронекостюм_КЗ-3б.png"
+  },
+  {
+    "name": "Тяжелый бронекостюм «Туманный охотник»",
+    "key": "item.arm.smog.name",
+    "data": "/items/armor/combat/3Тяжелый_бронекостюм_Туманный_охотник.json",
+    "icon": "/icons/armor/combat/Тяжелый_бронекостюм_Туманный_охотник.png"
+  },
+  {
+    "name": "Тяжелый комплект «Алтын-Т»",
+    "key": "item.arm.heavyaltyn.name",
+    "data": "/items/armor/combat/VТяжелый_комплект_Алтын-Т.json",
+    "icon": "/icons/armor/combat/Тяжелый_комплект_Алтын-Т.png"
+  },
+  {
+    "name": "Комбинезон «Тонга»",
+    "key": "item.arm.tonga.name",
+    "data": "/items/armor/combined/nКомбинезон_Тонга.json",
+    "icon": "/icons/armor/combined/Комбинезон_Тонга.png"
+  },
+  {
+    "name": "Бронескелет «Альбатрос-Разведчик»",
+    "key": "item.arm.albatros_scout.name",
+    "data": "/items/armor/combined/gБронескелет_Альбатрос-Разведчик.json",
+    "icon": "/icons/armor/combined/Бронескелет_Альбатрос-Разведчик.png"
+  },
+  {
+    "name": "Тяжелый бронекостюм «Идущий в метели»",
+    "key": "item.arm.frostwalker.name",
+    "data": "/items/armor/combat/0Тяжелый_бронекостюм_Идущий_в_метели.json",
+    "icon": "/icons/armor/combat/Тяжелый_бронекостюм_Идущий_в_метели.png"
+  },
+  {
+    "name": "Экзоброня JD ZIVCAS 2A",
+    "key": "item.arm.zivcas.name",
+    "data": "/items/armor/combined/VЭкзоброня_JD_ZIVCAS_2A.json",
+    "icon": "/icons/armor/combined/Экзоброня_JD_ZIVCAS_2A.png"
+  },
+  {
+    "name": "Бронескелет «Альбатрос-Лазутчик»",
+    "key": "item.arm.albatros_light.name",
+    "data": "/items/armor/combined/nБронескелет_Альбатрос-Лазутчик.json",
+    "icon": "/icons/armor/combined/Бронескелет_Альбатрос-Лазутчик.png"
+  },
+  {
+    "name": "Модифицированный экзоскелет",
+    "key": "item.arm.exo_mod.name",
+    "data": "/items/armor/combat/gМодифицированный_экзоскелет.json",
+    "icon": "/icons/armor/combat/Модифицированный_экзоскелет.png"
+  },
+  {
+    "name": "SBA TANK",
+    "key": "item.arm.tank.name",
+    "data": "/items/armor/combat/0SBA_TANK.json",
+    "icon": "/icons/armor/combat/SBA_TANK.png"
+  },
+  {
+    "name": "Бронескелет «Альбатрос-Штурмовик»",
+    "key": "item.arm.albatros_heavy.name",
+    "data": "/items/armor/combined/RБронескелет_Альбатрос-Штурмовик.json",
+    "icon": "/icons/armor/combined/Бронескелет_Альбатрос-Штурмовик.png"
+  },
+  {
+    "name": "Комбинезон «Ригель»",
+    "key": "item.arm.rigel.name",
+    "data": "/items/armor/combined/JКомбинезон_Ригель.json",
+    "icon": "/icons/armor/combined/Комбинезон_Ригель.png"
+  },
+  {
+    "name": "Бронекостюм «КЗ-4»",
+    "key": "item.arm.kz4.name",
+    "data": "/items/armor/combat/PБронекостюм_КЗ-4.json",
+    "icon": "/icons/armor/combat/Бронекостюм_КЗ-4.png"
+  },
+  {
+    "name": "КИМ-100 «Гранат»",
+    "key": "item.arm.granat.name",
+    "data": "/items/armor/scientist/QКИМ-100_Гранат.json",
+    "icon": "/icons/armor/scientist/КИМ-100_Гранат.png"
+  },
+  {
+    "name": "КИМ-102 «Циркон»",
+    "key": "item.arm.cirkon.name",
+    "data": "/items/armor/scientist/mКИМ-102_Циркон.json",
+    "icon": "/icons/armor/scientist/КИМ-102_Циркон.png"
+  },
+  {
+    "name": "Комбинезон «Сатурн»",
+    "key": "item.arm.saturn.name",
+    "data": "/items/armor/scientist/zКомбинезон_Сатурн.json",
+    "icon": "/icons/armor/scientist/Комбинезон_Сатурн.png"
+  },
+  {
+    "name": "Экзоскелет «Мул»",
+    "key": "item.arm.mule.name",
+    "data": "/items/armor/discoverer/aЭкзоскелет_Мул.json",
+    "icon": "/icons/armor/discoverer/Экзоскелет_Мул.png"
+  },
+  {
+    "name": "Экзоскелет «Туз»",
+    "key": "item.arm.tuz.name",
+    "data": "/items/armor/discoverer/oЭкзоскелет_Туз.json",
+    "icon": "/icons/armor/discoverer/Экзоскелет_Туз.png"
+  },
+  {
+    "name": "УКАЗ АО-6 «Кочевник»",
+    "key": "item.arm.ao6.name",
+    "data": "/items/armor/combined/1УКАЗ_АО-6_Кочевник.json",
+    "icon": "/icons/armor/combined/УКАЗ_АО-6_Кочевник.png"
+  },
+  {
+    "name": "Экзоброня «Зверобой»",
+    "key": "item.arm.zveroboi.name",
+    "data": "/items/armor/combat/dЭкзоброня_Зверобой.json",
+    "icon": "/icons/armor/combat/Экзоброня_Зверобой.png"
+  },
+  {
+    "name": "Сверхтяжелый бронекостюм «Апостол»",
+    "key": "item.arm.apostle.name",
+    "data": "/items/armor/combat/XСверхтяжелый_бронекостюм_Апостол.json",
+    "icon": "/icons/armor/combat/Сверхтяжелый_бронекостюм_Апостол.png"
+  },
+  {
+    "name": "Экзокостюм «Гончий»",
+    "key": "item.arm.hound.name",
+    "data": "/items/armor/combined/ZЭкзокостюм_Гончий.json",
+    "icon": "/icons/armor/combined/Экзокостюм_Гончий.png"
+  },
+  {
+    "name": "Бронекостюм «Авангард»",
+    "key": "item.arm.vanguard.name",
+    "data": "/items/armor/combat/OБронекостюм_Авангард.json",
+    "icon": "/icons/armor/combat/Бронекостюм_Авангард.png"
+  },
+  {
+    "name": "Бронекостюм «Каратель»",
+    "key": "item.arm.punisher.name",
+    "data": "/items/armor/discoverer/qБронекостюм_Каратель.json",
+    "icon": "/icons/armor/discoverer/Бронекостюм_Каратель.png"
+  },
+  {
+    "name": "Кустарный ПНВ",
+    "key": "item.25500.name",
+    "data": "/items/armor/device/BКустарный_ПНВ.json",
+    "icon": "/icons/armor/device/Кустарный_ПНВ.png"
+  },
+  {
+    "name": "Прибор ночного видения",
+    "key": "item.25501.name",
+    "data": "/items/armor/device/yПрибор_ночного_видения.json",
+    "icon": "/icons/armor/device/Прибор_ночного_видения.png"
+  },
+  {
+    "name": "ПНВ 2-го поколения",
+    "key": "item.device.nvd2.name",
+    "data": "/items/armor/device/lПНВ_2-го_поколения.json",
+    "icon": "/icons/armor/device/ПНВ_2-го_поколения.png"
+  },
+  {
+    "name": "NVD-11 Export",
+    "key": "item.25504.name",
+    "data": "/items/armor/device/kNVD-11_Export.json",
+    "icon": "/icons/armor/device/NVD-11_Export.png"
+  },
+  {
+    "name": "ПНВ О1М",
+    "key": "item.device.nvdo.name",
+    "data": "/items/armor/device/3ПНВ_О1М.json",
+    "icon": "/icons/armor/device/ПНВ_О1М.png"
+  },
+  {
+    "name": "Аптечка индивидуальная",
+    "key": "item.med.apt_i.name",
+    "data": "/items/medicine/BАптечка_индивидуальная.json",
+    "icon": "/icons/medicine/Аптечка_индивидуальная.png"
+  },
+  {
+    "name": "Аптечка научная",
+    "key": "item.med.apt_s.name",
+    "data": "/items/medicine/yАптечка_научная.json",
+    "icon": "/icons/medicine/Аптечка_научная.png"
+  },
+  {
+    "name": "Аптечка армейская",
+    "key": "item.med.apt_a.name",
+    "data": "/items/medicine/lАптечка_армейская.json",
+    "icon": "/icons/medicine/Аптечка_армейская.png"
+  },
+  {
+    "name": "Бинт",
+    "key": "item.med.bandage.name",
+    "data": "/items/medicine/KБинт.json",
+    "icon": "/icons/medicine/Бинт.png"
+  },
+  {
+    "name": "«Барвинок»",
+    "key": "item.med.barvinok.name",
+    "data": "/items/medicine/kБарвинок.json",
+    "icon": "/icons/medicine/Барвинок.png"
+  },
+  {
+    "name": "Антирад первого класса",
+    "key": "item.med.antirad_1.name",
+    "data": "/items/medicine/3Антирад_первого_класса.json",
+    "icon": "/icons/medicine/Антирад_первого_класса.png"
+  },
+  {
+    "name": "Антирад второго класса",
+    "key": "item.med.antirad_2.name",
+    "data": "/items/medicine/VАнтирад_второго_класса.json",
+    "icon": "/icons/medicine/Антирад_второго_класса.png"
+  },
+  {
+    "name": "Антирад третьего класса",
+    "key": "item.med.antirad_3.name",
+    "data": "/items/medicine/nАнтирад_третьего_класса.json",
+    "icon": "/icons/medicine/Антирад_третьего_класса.png"
+  },
+  {
+    "name": "«Пси-блокада» второго класса",
+    "key": "item.med.psiblock_2.name",
+    "data": "/items/medicine/gПси-блокада_второго_класса.json",
+    "icon": "/icons/medicine/Пси-блокада_второго_класса.png"
+  },
+  {
+    "name": "Антидот второго класса",
+    "key": "item.med.antidot_2.name",
+    "data": "/items/medicine/0Антидот_второго_класса.json",
+    "icon": "/icons/medicine/Антидот_второго_класса.png"
+  },
+  {
+    "name": "«Термобарьер» второго класса",
+    "key": "item.med.thermobarier_2.name",
+    "data": "/items/medicine/RТермобарьер_второго_класса.json",
+    "icon": "/icons/medicine/Термобарьер_второго_класса.png"
+  },
+  {
+    "name": "Энергетик «Жидень EXTRA»",
+    "key": "item.med.jiden.name",
+    "data": "/items/medicine/2Энергетик_Жидень_EXTRA.json",
+    "icon": "/icons/medicine/Энергетик_Жидень_EXTRA.png"
+  },
+  {
+    "name": "«Геркулес»",
+    "key": "item.med.gerkules.name",
+    "data": "/items/medicine/JГеркулес.json",
+    "icon": "/icons/medicine/Геркулес.png"
+  },
+  {
+    "name": "Морфин",
+    "key": "item.med.morphin.name",
+    "data": "/items/medicine/mМорфин.json",
+    "icon": "/icons/medicine/Морфин.png"
+  },
+  {
+    "name": "Эпинефрин",
+    "key": "item.med.epinephrine.name",
+    "data": "/items/medicine/6Эпинефрин.json",
+    "icon": "/icons/medicine/Эпинефрин.png"
+  },
+  {
+    "name": "«ClearMind+»",
+    "key": "item.med.clearmind.name",
+    "data": "/items/medicine/xClearMind+.json",
+    "icon": "/icons/medicine/ClearMind+.png"
+  },
+  {
+    "name": "Водка",
+    "key": "item.med.vodka.name",
+    "data": "/items/medicine/8Водка.json",
+    "icon": "/icons/medicine/Водка.png"
+  },
+  {
+    "name": "Аптечка проводника",
+    "key": "item.med.apt_p.name",
+    "data": "/items/medicine/GАптечка_проводника.json",
+    "icon": "/icons/medicine/Аптечка_проводника.png"
+  },
+  {
+    "name": "«УДАР»",
+    "key": "item.med.strike.name",
+    "data": "/items/medicine/wУДАР.json",
+    "icon": "/icons/medicine/УДАР.png"
+  },
+  {
+    "name": "«Астрикцин»",
+    "key": "item.med.astrikcin.name",
+    "data": "/items/medicine/MАстрикцин.json",
+    "icon": "/icons/medicine/Астрикцин.png"
+  },
+  {
+    "name": "Анаболик «ATLAS»",
+    "key": "item.med.atlas.name",
+    "data": "/items/medicine/aАнаболик_ATLAS.json",
+    "icon": "/icons/medicine/Анаболик_ATLAS.png"
+  },
+  {
+    "name": "«Пси-блокада» третьего класса",
+    "key": "item.med.psiblock_3.name",
+    "data": "/items/medicine/9Пси-блокада_третьего_класса.json",
+    "icon": "/icons/medicine/Пси-блокада_третьего_класса.png"
+  },
+  {
+    "name": "Антидот первого класса",
+    "key": "item.med.antidot_1.name",
+    "data": "/items/medicine/rАнтидот_первого_класса.json",
+    "icon": "/icons/medicine/Антидот_первого_класса.png"
+  },
+  {
+    "name": "Антидот третьего класса",
+    "key": "item.med.antidot_3.name",
+    "data": "/items/medicine/XАнтидот_третьего_класса.json",
+    "icon": "/icons/medicine/Антидот_третьего_класса.png"
+  },
+  {
+    "name": "«Термобарьер» первого класса",
+    "key": "item.med.thermobarier_1.name",
+    "data": "/items/medicine/ZТермобарьер_первого_класса.json",
+    "icon": "/icons/medicine/Термобарьер_первого_класса.png"
+  },
+  {
+    "name": "«Термобарьер» третьего класса",
+    "key": "item.med.thermobarier_3.name",
+    "data": "/items/medicine/OТермобарьер_третьего_класса.json",
+    "icon": "/icons/medicine/Термобарьер_третьего_класса.png"
+  },
+  {
+    "name": "«Пси-блокада» первого класса",
+    "key": "item.med.psiblock_1.name",
+    "data": "/items/medicine/qПси-блокада_первого_класса.json",
+    "icon": "/icons/medicine/Пси-блокада_первого_класса.png"
+  },
+  {
+    "name": "Мобильный лагерь",
+    "key": "item.clan.ffa_camp.name",
+    "data": "/items/backpack/yМобильный_лагерь.json",
+    "icon": "/icons/backpack/Мобильный_лагерь.png"
+  }
+]

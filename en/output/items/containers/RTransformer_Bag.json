@@ -1,0 +1,21 @@
+{
+  "item_name": "Transformer Bag",
+  "key": "item.bag.transformer.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.0,
+    "other": [
+      {
+        "name": "Stamina",
+        "value": 10.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 15.0
+      }
+    ]
+  },
+  "discription": "Light Backpack"
+}

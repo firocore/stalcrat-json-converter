@@ -1,0 +1,28 @@
+{
+  "item_name": "Pellicle",
+  "key": "item.art.kisel_plenka.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.03,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "The only artifact that scientists have been able to replicate in laboratory conditions. It envelops nearby surfaces and neutralizes chemical reagents upon contact."
+}

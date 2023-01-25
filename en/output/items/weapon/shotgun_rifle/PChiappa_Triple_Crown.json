@@ -1,0 +1,72 @@
+{
+  "item_name": "Chiappa Triple Crown",
+  "key": "item.wpn.triple.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 3.7,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 200.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 3.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 70.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 500.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.25
+      },
+      {
+        "name": "Spread",
+        "value": 2.975
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.75
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 8.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 2.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.7
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.3
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "An Italian-made triple-barrel, break-action shotgun. The barrels are arranged in a triangular configuration, with one at the top, and two underneath."
+}

@@ -1,0 +1,25 @@
+{
+  "item_name": "Pilad 3.5x20 Optical Sight",
+  "key": "item.att.scope_pilad.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.55,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x3.5"
+      },
+      {
+        "name": "Aim speed",
+        "value": 10.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Model: R-3520-T"
+}

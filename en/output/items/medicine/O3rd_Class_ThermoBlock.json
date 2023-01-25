@@ -1,0 +1,28 @@
+{
+  "item_name": "3rd Class ThermoBlock",
+  "key": "item.med.thermobarier_3.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Thermal Protection"
+      },
+      {
+        "name": "Duration",
+        "value": 240.0
+      },
+      {
+        "name": "Poison",
+        "value": 50.0
+      },
+      {
+        "name": "Thermal resistance",
+        "value": 50.0
+      }
+    ]
+  },
+  "discription": "A first-aid treatment used for burns of the larynx and lungs in high-temperature environments. Does not protect against the direct effects of open flame on the body."
+}

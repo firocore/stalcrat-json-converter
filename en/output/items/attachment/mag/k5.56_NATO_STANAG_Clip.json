@@ -1,0 +1,25 @@
+{
+  "item_name": "5.56 NATO STANAG Clip",
+  "key": "item.att.mag_stanag40.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 40.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      },
+      {
+        "name": "Reload time",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

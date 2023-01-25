@@ -1,0 +1,28 @@
+{
+  "item_name": "Jellyfish",
+  "key": "item.art.trampoline_meduza.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "The protective field formed by this gravitational artifact is not remarkably strong, but it slightly reduces bullet damage. A side effect is that gravity has a stronger impact on the owner’s body, which can lead to fatigue more quickly."
+}

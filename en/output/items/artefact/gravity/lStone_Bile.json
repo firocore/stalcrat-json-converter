@@ -1,0 +1,28 @@
+{
+  "item_name": "Stone Bile",
+  "key": "item.art.karousel_jelch.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "This artifact takes the form of a bluish formation of compressed and fossilized plants, soil and animal remains. It possesses the ability to partially neutralize substances that are harmful to humans, and when it comes in contact with acid, it releases a gas that increases the body’s regeneration ability."
+}

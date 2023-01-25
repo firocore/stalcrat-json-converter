@@ -1,0 +1,25 @@
+{
+  "item_name": "FN EGLM Grenade Launcher",
+  "key": "item.att.launcher_eglm.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 1.35,
+    "other": [
+      {
+        "text": "Suitable ammo"
+      },
+      {
+        "text": "M381 Grenade Round"
+      },
+      {
+        "text": "M397 Grenade Round"
+      },
+      {
+        "text": "M704 Grenade Round"
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

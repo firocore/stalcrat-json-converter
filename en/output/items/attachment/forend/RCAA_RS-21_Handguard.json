@@ -1,0 +1,12 @@
+{
+  "item_name": "CAA RS-21 Handguard",
+  "key": "item.att.forend_caars.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.43,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

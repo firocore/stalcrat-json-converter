@@ -1,0 +1,25 @@
+{
+  "item_name": "Citadel 5.45 MBC",
+  "key": "item.att.barrel_citadel.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.096,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -1.9999981
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -11.000002
+      },
+      {
+        "name": "Spread",
+        "value": -22.000004
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

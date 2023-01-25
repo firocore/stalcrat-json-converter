@@ -1,0 +1,21 @@
+{
+  "item_name": "HQ ISSUE Low-Profile Laser Sight (Red Laser)",
+  "key": "item.att.lcu_lowp.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.042,
+    "other": [
+      {
+        "name": "Hip-fire spread",
+        "value": -25.0
+      },
+      {
+        "name": "Stabilization",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Laser color: red"
+}

@@ -1,0 +1,48 @@
+{
+  "item_name": "Cossack Shashka",
+  "key": "item.melee.shashka.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.76,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 50.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 60.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 120.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 140.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 80.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 45.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A classic Cossack shashka. A long, heavy blade intended for offensive combat. Excellent for chopping off limbs!"
+}

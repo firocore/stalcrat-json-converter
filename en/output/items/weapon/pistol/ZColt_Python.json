@@ -1,0 +1,72 @@
+{
+  "item_name": "Colt Python",
+  "key": "item.wpn.python.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 1.34,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 76.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 6.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 70.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 500.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.8
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.9
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.6
+      },
+      {
+        "name": "Draw time",
+        "value": 0.4
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      },
+      {
+        "text": "Damage increases by 1,5% for every % of the target’s health that is missing, to a maximum of +150% damage"
+      }
+    ]
+  },
+  "discription": "A six-shot .357 caliber Magnum revolver. It is built according to an I-frame design and boasts a smooth trigger and high accuracy."
+}

@@ -1,0 +1,28 @@
+{
+  "item_name": "Slug",
+  "key": "item.art.kisel_sliznyak.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "A Slime artifact that has been exposed to the effects of external forces. It still has the same properties and the same unpleasant texture, just a little bit more solid."
+}

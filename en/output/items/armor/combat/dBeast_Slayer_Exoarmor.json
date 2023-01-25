@@ -1,0 +1,73 @@
+{
+  "item_name": "Beast Slayer Exoarmor",
+  "key": "item.arm.zveroboi.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Master",
+    "weight": 32.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -10.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 25.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 116.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 335.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 160.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 71.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 71.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 71.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 50.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 240.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 220.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 80.0
+      }
+    ]
+  },
+  "discription": "Beast Slayer"
+}

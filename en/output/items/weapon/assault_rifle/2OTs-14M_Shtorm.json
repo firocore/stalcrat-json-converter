@@ -1,0 +1,72 @@
+{
+  "item_name": "OTs-14M Shtorm",
+  "key": "item.wpn.storm.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 4.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.45"
+      },
+      {
+        "name": "Damage",
+        "value": 36.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 150.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 750.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.75
+      },
+      {
+        "name": "Spread",
+        "value": 0.629
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.34
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.14
+      },
+      {
+        "name": "Draw time",
+        "value": 0.95
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      },
+      {
+        "text": "Storm cut-off: a short burst of 6 shots with a firing rate of 1,000 shots/min @Delay between bursts: 1.25 s"
+      }
+    ]
+  },
+  "discription": "A modification of the Groza with an integrated grenade launcher. It has been converted to take 5.45 mm ammo. It is unknown who produced these modifications, but the sheer number of these weapons that can be seen around would suggest that they were mass-produced."
+}

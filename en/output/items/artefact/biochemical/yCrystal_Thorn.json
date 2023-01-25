@@ -1,0 +1,28 @@
+{
+  "item_name": "Crystal Thorn",
+  "key": "item.art.puh_kkoluchka.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.4,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An artifact that is made by the Burnt Fuzz anomaly. A small sphere made of matte crystal, covered in cracks and needle-like growths. When worn, it cleanses the body of radiation fairly quickly. During use, this artifact increases the risk of bleeding when injured, similarly to a regular Thorn."
+}

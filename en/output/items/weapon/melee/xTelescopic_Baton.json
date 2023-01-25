@@ -1,0 +1,48 @@
+{
+  "item_name": "Telescopic Baton",
+  "key": "item.21019.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.34,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 55.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 65.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 125.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 145.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.8
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.8
+      },
+      {
+        "name": "Penetration",
+        "value": 30.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 25.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A telescopic, two-section baton. It is a means of self-defense in dangerous and unforeseen circumstances. It consists of two parts that are folded into the handle. In its extended configuration, it is 50 cm in length."
+}

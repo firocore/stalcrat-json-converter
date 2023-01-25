@@ -1,0 +1,69 @@
+{
+  "item_name": "FN P90",
+  "key": "item.wpn.p90.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 2.78,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 36.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 50.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 110.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 800.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.25
+      },
+      {
+        "name": "Spread",
+        "value": 0.749
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.25
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.22
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.12
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      }
+    ]
+  },
+  "discription": "The FN P90 is a Belgian submachine gun developed in 1986–1987 by FN Herstal. The 5.7x28 mm ammo type was developed specially for the P90, and has high penetration. However, due to the low popularity of the ammo, P90s which reach the Zone have been converted to use 9 mm ammo. This submachine gun has become fairly popular among well-to-do stalkers and thrill-seekers on tour."
+}

@@ -1,0 +1,30 @@
+{
+  "item_name": "12 Caliber Canister Shot",
+  "key": "item.amm.12kar.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.03,
+    "other": [
+      {
+        "text": "Standard ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Number of projectiles",
+        "value": 8.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 1.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

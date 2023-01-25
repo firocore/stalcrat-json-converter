@@ -1,0 +1,80 @@
+{
+  "item_name": "Vanguard Armored Suit",
+  "key": "item.arm.vanguard.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Master",
+    "weight": 30.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -25.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -6.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 25.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 192.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 255.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 229.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 44.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 44.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 44.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 50.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 69.2
+      }
+    ]
+  },
+  "discription": "A set of army gear adapted to Duty’s requirements. The Vanguard Armored Suit provides exceptional protection from mutants’ claws and teeth, and good bullet resistance makes it a reliable aid in the war for influence in the Zone."
+}

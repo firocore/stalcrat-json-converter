@@ -1,0 +1,72 @@
+{
+  "item_name": "Franchi SPAS-12",
+  "key": "item.wpn.spas.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 4.4,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 160.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 8.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 200.0
+      },
+      {
+        "name": "Reload",
+        "value": 5.9
+      },
+      {
+        "name": "Spread",
+        "value": 3.4
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 4.5
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "The Franchi SPAS-12 (which is short for “Special Purpose Automatic Shotgun”) is an Italian shotgun that was developed at the end of the 1970s."
+}

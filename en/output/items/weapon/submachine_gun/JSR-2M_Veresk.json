@@ -1,0 +1,69 @@
+{
+  "item_name": "SR-2M Veresk",
+  "key": "item.wpn.sr2.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 1.6500001,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 40.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 96.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 900.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.6
+      },
+      {
+        "name": "Spread",
+        "value": 1.024
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.34
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.14
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "The SR-2M Veresk is a Russian submachine gun that was intended as an antipersonnel close-quarters weapon for use against opponents who use personal protective equipment."
+}

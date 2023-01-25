@@ -1,0 +1,73 @@
+{
+  "item_name": "Bear Exoskeleton",
+  "key": "item.arm.bear.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 35.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -10.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -4.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 35.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 144.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 161.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 199.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 47.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 47.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 47.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 100.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 75.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 63.0
+      }
+    ]
+  },
+  "discription": "The Lynx armored suit, equipped with a heavy exoskeleton with additional armoring."
+}

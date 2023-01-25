@@ -1,0 +1,17 @@
+{
+  "item_name": "BSA Reflex Collimator Sight",
+  "key": "item.att.sight_bsa.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.255,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: Red Dot Sight@Reticle: circle with rays, dot in the center, red"
+}

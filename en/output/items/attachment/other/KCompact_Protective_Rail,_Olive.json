@@ -1,0 +1,11 @@
+{
+  "item_name": "Compact Protective Rail, Olive",
+  "key": "item.att.other_defg.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

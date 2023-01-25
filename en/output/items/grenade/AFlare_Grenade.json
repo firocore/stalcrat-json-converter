@@ -1,0 +1,24 @@
+{
+  "item_name": "Flare Grenade",
+  "key": "item.exp.vspishka.name",
+  "category": "grenade",
+  "class": "Grenades",
+  "stats": {
+    "weight": 0.17,
+    "other": [
+      {
+        "name": "Range",
+        "value": 9.0
+      },
+      {
+        "name": "Max. blindness duration",
+        "value": 4.0
+      },
+      {
+        "name": "Time until activation",
+        "value": 2.5
+      }
+    ]
+  },
+  "discription": "A flash grenade produced in the Zone. It is popular due to its price and lightness, and it allows you to scare small mutants."
+}

@@ -1,0 +1,21 @@
+{
+  "item_name": "Errand Junior Backpack",
+  "key": "item.bag.errand.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 1.6,
+    "other": [
+      {
+        "name": "Stamina",
+        "value": 20.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 27.0
+      }
+    ]
+  },
+  "discription": "Common Backpack"
+}

@@ -1,0 +1,33 @@
+{
+  "item_name": "7.62x39 Drum Clip",
+  "key": "item.att.mag_rumag76275.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.9,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 75.0
+      },
+      {
+        "name": "Jamming",
+        "value": 0.0075
+      },
+      {
+        "name": "Rate of fire",
+        "value": -0.99999905
+      },
+      {
+        "name": "Draw speed",
+        "value": 23.000002
+      },
+      {
+        "name": "Reload time",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,17 @@
+{
+  "item_name": "Panorama Collimator Sight",
+  "key": "item.att.sight_panorama.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.15,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.5"
+      }
+    ]
+  },
+  "discription": "Reticle: incomplete crosshair, yellow"
+}

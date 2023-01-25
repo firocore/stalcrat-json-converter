@@ -1,0 +1,32 @@
+{
+  "item_name": "“Hercules”",
+  "key": "item.med.gerkules.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Strength Improvement"
+      },
+      {
+        "name": "Duration",
+        "value": 300.0
+      },
+      {
+        "name": "Poison",
+        "value": 15.0
+      },
+      {
+        "name": "Stamina",
+        "value": 100.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 15.0
+      }
+    ]
+  },
+  "discription": "The main component is an artificial steroid with a chemical make-up similar to testosterone. Used by stalkers for long journeys to increase muscle fatigue tolerance."
+}

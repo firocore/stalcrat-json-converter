@@ -1,0 +1,51 @@
+{
+  "item_name": "M48 Tomahawk",
+  "key": "item.21018.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.61,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 45.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 55.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 120.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 140.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.8
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 2.0
+      },
+      {
+        "name": "Penetration",
+        "value": 70.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 45.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      },
+      {
+        "text": "Damage to mutants: x1,2"
+      }
+    ]
+  },
+  "discription": "This tactical tomahawk is made of stainless steel. It is quite light and easy to handle."
+}

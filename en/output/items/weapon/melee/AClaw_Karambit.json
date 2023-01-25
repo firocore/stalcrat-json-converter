@@ -1,0 +1,48 @@
+{
+  "item_name": "Claw Karambit",
+  "key": "item.21040.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.34,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 120.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.7
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.8
+      },
+      {
+        "name": "Penetration",
+        "value": 60.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 55.0
+      },
+      {
+        "text": "Backstab damage: x1,3"
+      }
+    ]
+  },
+  "discription": "A karambit made from a mutant’s claw. It can penetrate any protection."
+}

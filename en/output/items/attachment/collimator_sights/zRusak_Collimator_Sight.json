@@ -1,0 +1,17 @@
+{
+  "item_name": "Rusak Collimator Sight",
+  "key": "item.att.sight_rusak.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.13,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Reticle: chevron, red"
+}

@@ -1,0 +1,83 @@
+{
+  "item_name": "RSh-12",
+  "key": "item.wpn.rsh12.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Master",
+    "weight": 2.2,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12.7"
+      },
+      {
+        "name": "Damage",
+        "value": 81.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 120.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 150.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.25
+      },
+      {
+        "name": "Spread",
+        "value": 0.3
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 2.5
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.55
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "name": "Bleeding",
+        "value": 95.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 100.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      },
+      {
+        "text": "Damage increases by 1,5% for every % of the target’s health that is missing, to a maximum of +150% damage"
+      }
+    ]
+  },
+  "discription": "The RSh-12 revolver has an integral metal frame and barrel for five rounds that ejects to the left."
+}

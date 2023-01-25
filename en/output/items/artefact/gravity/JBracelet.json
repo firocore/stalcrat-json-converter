@@ -1,0 +1,28 @@
+{
+  "item_name": "Bracelet",
+  "key": "item.art.trampoline_braslet.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.15,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An artifact that looks like a bracelet on a wrist, which is where it gets its name. It helps keep the body energized and increases regeneration speed after exertion, while also positively affecting the psyche. You might say that, to some extent, the effects are similar to a weak anabolic steroid."
+}

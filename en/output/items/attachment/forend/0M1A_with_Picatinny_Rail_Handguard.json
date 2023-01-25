@@ -1,0 +1,12 @@
+{
+  "item_name": "M1A with Picatinny Rail Handguard",
+  "key": "item.att.forend_m1ris1.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.12,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

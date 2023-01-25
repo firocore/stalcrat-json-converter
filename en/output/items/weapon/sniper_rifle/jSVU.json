@@ -1,0 +1,76 @@
+{
+  "item_name": "SVU",
+  "key": "item.wpn.svu.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 5.2000003,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 90.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 10.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 195.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 200.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.75
+      },
+      {
+        "name": "Spread",
+        "value": 0.062
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.75
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 1.15
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.5
+      },
+      {
+        "name": "Stopping power",
+        "value": 60.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      }
+    ]
+  },
+  "discription": "A more modern version of the SVD sniper rifle in a bullpup layout in order to reduce its dimensions. It has a higher rate of fire and lower weight than its predecessor, and at short and medium range, its accuracy remains broadly the same. Nowadays, it enjoys thoroughly well-deserved popularity both in the military and among stalkers."
+}

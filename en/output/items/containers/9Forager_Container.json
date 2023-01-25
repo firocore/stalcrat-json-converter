@@ -1,0 +1,41 @@
+{
+  "item_name": "Forager Container",
+  "key": "item.cont.getter.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 6.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 70.0
+      },
+      {
+        "name": "Effectiveness",
+        "value": 80.0
+      },
+      {
+        "name": "Capacity",
+        "value": 4.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -2.0
+      },
+      {
+        "name": "Radiation",
+        "value": -2.0
+      }
+    ]
+  },
+  "discription": "Standard Container"
+}

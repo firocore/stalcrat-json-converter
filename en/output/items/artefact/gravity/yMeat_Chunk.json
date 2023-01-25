@@ -1,0 +1,28 @@
+{
+  "item_name": "Meat Chunk",
+  "key": "item.art.karousel_lomot.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "This artifact has the consistency of a medium-cooked steak—but don’t get any ideas about tasting it! It may be the degraded form of Stone Blood."
+}

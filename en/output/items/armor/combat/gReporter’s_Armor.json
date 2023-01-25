@@ -1,0 +1,77 @@
+{
+  "item_name": "Reporter’s Armor",
+  "key": "item.arm.bronj_press.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 10.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -8.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -1.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 5.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 106.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 106.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 147.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 41.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 41.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 41.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 170.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 20.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 140.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 75.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 52.0
+      }
+    ]
+  },
+  "discription": "Protection set for reporters."
+}

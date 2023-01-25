@@ -1,0 +1,84 @@
+{
+  "item_name": "McMillan CS5",
+  "key": "item.wpn.mcmillan.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 5.3,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 106.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 230.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 40.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.03
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 1.6
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 1.2
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.45
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 12.5
+      },
+      {
+        "name": "Bleeding",
+        "value": 95.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 200.0
+      },
+      {
+        "text": "Headshot damage: x2"
+      }
+    ]
+  },
+  "discription": "An American sniper rifle that uses 7.62x51 NATO ammo. It was developed specifically to be a powerful, compact, quiet, and accurate weapon for covert use by the army and security forces at close range, mainly in urban situations."
+}

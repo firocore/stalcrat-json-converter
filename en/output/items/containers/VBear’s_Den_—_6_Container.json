@@ -1,0 +1,37 @@
+{
+  "item_name": "Bear’s Den — 6 Container",
+  "key": "item.cont.bear6.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Master",
+    "weight": 7.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 60.000004
+      },
+      {
+        "name": "Effectiveness",
+        "value": 70.0
+      },
+      {
+        "name": "Capacity",
+        "value": 6.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -2.0
+      }
+    ]
+  },
+  "discription": "A widely-used artifact container model. Has weak shielding capabilities but is easy to produce, reliable, and lets you carry six artifacts. These factors had a strong influence on this model’s popularity."
+}

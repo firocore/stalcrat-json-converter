@@ -1,0 +1,28 @@
+{
+  "item_name": "Firefly",
+  "key": "item.art.kisel_svetlyak.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Affects the owner’s nervous system, thereby increasing pain tolerance. However, it has a negative effect on the human mind, damaging mental stability."
+}

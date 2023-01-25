@@ -1,0 +1,32 @@
+{
+  "item_name": "VOG-25 Podkidysh Grenade Round",
+  "key": "item.exp.vog25p.name",
+  "category": "grenade",
+  "class": "Grenades",
+  "stats": {
+    "weight": 0.275,
+    "other": [
+      {
+        "name": "Damage at center",
+        "value": 500.0
+      },
+      {
+        "name": "Minimum damage",
+        "value": 35.0
+      },
+      {
+        "name": "Time until detonation",
+        "value": 8.0
+      },
+      {
+        "name": "Damage range",
+        "value": 8.0
+      },
+      {
+        "name": "Fuse time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "A fragmentation round for the GP-25 Kostyor grenade launcher. It bounces when it lands, increasing the area damaged by the fragments."
+}

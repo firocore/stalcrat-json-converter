@@ -1,0 +1,48 @@
+{
+  "item_name": "Guide’s First-Aid Kit",
+  "key": "item.med.apt_p.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Healing"
+      },
+      {
+        "name": "Duration",
+        "value": 10.0
+      },
+      {
+        "name": "Stamina regeneration",
+        "value": 15.0
+      },
+      {
+        "name": "Periodic healing",
+        "value": 6.5
+      },
+      {
+        "name": "Radiation resistance",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection resistance",
+        "value": 30.0
+      },
+      {
+        "name": "Radiation",
+        "value": -5.0
+      },
+      {
+        "name": "Biological infection",
+        "value": -5.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -1.5
+      }
+    ]
+  },
+  "discription": "A first-aid kit with items assembled by an experienced stalker. Contains the most useful treatments in the right doses and is suitable for any situation."
+}

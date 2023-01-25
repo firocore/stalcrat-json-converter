@@ -1,0 +1,28 @@
+{
+  "item_name": "Sun",
+  "key": "item.art.jarka_solnce.name",
+  "category": "artefact/thermal",
+  "class": "Thermal",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "A fairly rare artifact that increases pain tolerance. However, its high thermal radiation levels can make it dangerous to use."
+}

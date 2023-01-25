@@ -1,0 +1,44 @@
+{
+  "item_name": "Scientific First-Aid Kit",
+  "key": "item.med.apt_s.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Healing"
+      },
+      {
+        "name": "Duration",
+        "value": 12.0
+      },
+      {
+        "name": "Periodic healing",
+        "value": 5.0
+      },
+      {
+        "name": "Radiation resistance",
+        "value": 25.0
+      },
+      {
+        "name": "Bioinfection resistance",
+        "value": 25.0
+      },
+      {
+        "name": "Radiation",
+        "value": -10.0
+      },
+      {
+        "name": "Biological infection",
+        "value": -10.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -1.0
+      }
+    ]
+  },
+  "discription": "A medical kit developed especially for use in Zone conditions."
+}

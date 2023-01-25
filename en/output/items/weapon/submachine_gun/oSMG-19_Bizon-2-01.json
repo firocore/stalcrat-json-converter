@@ -1,0 +1,69 @@
+{
+  "item_name": "SMG-19 Bizon-2-01",
+  "key": "item.wpn.bizon.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 3.24,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 37.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 53.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 105.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 700.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.15
+      },
+      {
+        "name": "Spread",
+        "value": 1.081
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.3
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.13
+      },
+      {
+        "name": "Draw time",
+        "value": 0.9
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      }
+    ]
+  },
+  "discription": "A 19 model submachine gun developed in 1993 by Viktor Kalashnikov (son of Mikhail Kalashnikov) and Aleksey Dragunov (son of Yevgeny Dragunov) at the request of the Russian Ministry of Internal Affairs."
+}

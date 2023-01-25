@@ -1,0 +1,73 @@
+{
+  "item_name": "Viper",
+  "key": "item.wpn.mp5_mod.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 3.43,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 40.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 40.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 125.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 680.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.9
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.2
+      },
+      {
+        "name": "Spread",
+        "value": 0.7
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 1.9000001
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.28
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.14
+      },
+      {
+        "name": "Draw time",
+        "value": 1.2
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "Replacing some parts and enlarging the magazine might sound like minor modifications, but this MP5 has become a decent weapon for a scout."
+}

@@ -1,0 +1,17 @@
+{
+  "item_name": "Vortex Collimator Sight",
+  "key": "item.att.sight_uh1.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.335,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: Razor AMG UH-1@Reticle: dot, red"
+}

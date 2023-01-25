@@ -1,0 +1,33 @@
+{
+  "item_name": "KZS-1u Container",
+  "key": "item.cont.kzs1d.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 1.75,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 75.0
+      },
+      {
+        "name": "Effectiveness",
+        "value": 100.0
+      },
+      {
+        "name": "Capacity",
+        "value": 1.0
+      }
+    ]
+  },
+  "discription": "A reinforced container model. Contains only 1 artifact slot but has good shielding capabilities. Widespread and inexpensive."
+}

@@ -1,0 +1,69 @@
+{
+  "item_name": "Tourist Suit",
+  "key": "item.arm.turist.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 4.3,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 8.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 56.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 60.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 86.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 40.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 40.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 40.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 105.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 60.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 140.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 60.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 38.0
+      }
+    ]
+  },
+  "discription": "An example of the Zarya series that has been reworked by some freak or other. The upgraded body armor provides additional protection against bullets and the smartly chosen utility vest allows the wearer to carry a lot of weight."
+}

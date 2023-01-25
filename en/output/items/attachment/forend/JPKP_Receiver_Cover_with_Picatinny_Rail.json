@@ -1,0 +1,12 @@
+{
+  "item_name": "PKP Receiver Cover with Picatinny Rail",
+  "key": "item.att.forend_pkp.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.28,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

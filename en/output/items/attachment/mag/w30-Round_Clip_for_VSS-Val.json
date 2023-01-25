@@ -1,0 +1,17 @@
+{
+  "item_name": "30-Round Clip for VSS/Val",
+  "key": "item.att.mag_val30.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.45,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}
