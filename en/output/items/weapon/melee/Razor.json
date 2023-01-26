@@ -1,0 +1,49 @@
+{
+  "id": "oqbX",
+  "name": "Razor",
+  "key": "item.melee.britva.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.35,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 50.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 60.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 120.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 140.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.7
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.7
+      },
+      {
+        "name": "Penetration",
+        "value": 60.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 40.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "61KD",
+  "name": "Цевье Б-10М (нижняя планка)",
+  "key": "item.att.forend_b10m.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.12,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

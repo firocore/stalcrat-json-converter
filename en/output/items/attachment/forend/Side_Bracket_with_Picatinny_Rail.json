@@ -1,0 +1,13 @@
+{
+  "id": "K5MK",
+  "name": "Side Bracket with Picatinny Rail",
+  "key": "item.att.mount_lastris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.26,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

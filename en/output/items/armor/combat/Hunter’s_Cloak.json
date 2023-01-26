@@ -1,0 +1,66 @@
+{
+  "id": "xQ1j",
+  "name": "Hunter’s Cloak",
+  "key": "item.arm.vestcoat.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 3.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -5.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 5.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 24.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 73.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 33.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 15.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 15.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 15.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 42.0
+      }
+    ]
+  },
+  "discription": "Over this thick, waterproof cloak, one can wear a large utility vest with body armor, which allows you to increase the amount of resources that can be carried."
+}

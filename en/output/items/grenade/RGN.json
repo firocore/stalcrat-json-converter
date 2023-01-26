@@ -1,0 +1,33 @@
+{
+  "id": "rB2d",
+  "name": "RGN",
+  "key": "item.exp.rgn.name",
+  "category": "grenade",
+  "class": "Grenades",
+  "stats": {
+    "weight": 0.29,
+    "other": [
+      {
+        "name": "Damage at center",
+        "value": 450.0
+      },
+      {
+        "name": "Minimum damage",
+        "value": 25.0
+      },
+      {
+        "name": "Time until detonation",
+        "value": 3.25
+      },
+      {
+        "name": "Damage range",
+        "value": 6.0
+      },
+      {
+        "name": "Fuse time",
+        "value": 0.5
+      }
+    ]
+  },
+  "discription": "A Russian offensive impact fragmentation grenade."
+}

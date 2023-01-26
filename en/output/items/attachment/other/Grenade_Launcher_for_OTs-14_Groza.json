@@ -1,0 +1,26 @@
+{
+  "id": "lkn1",
+  "name": "Grenade Launcher for OTs-14 Groza",
+  "key": "item.att.launcher_groza.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 1.6,
+    "other": [
+      {
+        "text": "Suitable ammo"
+      },
+      {
+        "text": "VOG-25 Grenade Round"
+      },
+      {
+        "text": "VOG-25 Podkidysh Grenade Round"
+      },
+      {
+        "text": "ASZ-40 Svirel Grenade Round"
+      }
+    ]
+  },
+  "discription": "Russian 40 mm Underbarrel Grenade Launcher"
+}

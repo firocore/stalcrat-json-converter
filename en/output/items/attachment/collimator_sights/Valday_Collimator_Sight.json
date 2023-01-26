@@ -1,0 +1,18 @@
+{
+  "id": "nxP3",
+  "name": "Valday Collimator Sight",
+  "key": "item.att.sight_valdai.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.298,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: 1P87@Reticle: crosshair, dot in the center, red"
+}

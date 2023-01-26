@@ -1,0 +1,26 @@
+{
+  "id": "0gYJ",
+  "name": "FA556 Mini Silencer",
+  "key": "item.att.silencer_fa556.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.4,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -13.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 7.0000052
+      },
+      {
+        "name": "Damage at range",
+        "value": -18.0
+      }
+    ]
+  },
+  "discription": "ATTENTION: if you use a silencer, the enemy won’t know where you are firing from."
+}

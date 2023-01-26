@@ -1,0 +1,29 @@
+{
+  "id": "kxB1",
+  "name": "M4 Paddle Stock",
+  "key": "item.22604.name",
+  "category": "attachment/butt",
+  "class": "Stocks",
+  "stats": {
+    "weight": 0.35,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -2.9999971
+      },
+      {
+        "name": "Sway",
+        "value": -14.999998
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      },
+      {
+        "name": "Stabilization",
+        "value": 20.000004
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

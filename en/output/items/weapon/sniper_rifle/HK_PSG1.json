@@ -1,0 +1,77 @@
+{
+  "id": "5DwQ",
+  "name": "HK PSG1",
+  "key": "item.wpn.psg.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 7.39,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 90.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 190.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 180.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Spread",
+        "value": 0.052
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.9
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Draw time",
+        "value": 1.2
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.55
+      },
+      {
+        "name": "Stopping power",
+        "value": 60.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      }
+    ]
+  },
+  "discription": "The HK PSG1 sniper rifle was developed at the start of the 1980s by the German company Heckler & Koch in collaboration with various anti-terrorist organizations, including the German GSG9 and the British SAS. The rifle was created based on the regular Bundeswehr HK G3 assault rifle and was intended primarily for use by the police."
+}

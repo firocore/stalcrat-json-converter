@@ -1,0 +1,29 @@
+{
+  "id": "k58D",
+  "name": "Amberite",
+  "key": "item.art.voronka_yantar.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "The next step of development for the evolutionary branch of the Quirk family of gravitational regulator artifacts. It creates a spherical anti-gravity field that reduces the effective weight of any item. Formed in sites of superinteraction of several gravitational fields with exceptionally high intensity levels, which makes it extremely rare. It emits a mixed type of radiation, so you should be careful when using it."
+}

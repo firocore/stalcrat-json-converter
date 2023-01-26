@@ -1,0 +1,77 @@
+{
+  "id": "QBwb",
+  "name": "AN-94 Abakan",
+  "key": "item.wpn.abakan.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 4.052,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.45"
+      },
+      {
+        "name": "Damage",
+        "value": 37.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 150.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 600.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.95
+      },
+      {
+        "name": "Spread",
+        "value": 0.644
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0010002
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.38
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.17
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Burst rate of fire: 1,200 shots/min"
+      }
+    ]
+  },
+  "discription": "A modern assault rifle developed to replace the then-aging AK-74. One of its main features is the ability to fire bursts of two shots with high accuracy (at a range of 100 meters, both bullets hit the same point). This substantially increases the chances of taking down a target thanks to the combined penetrative and stopping power of the bullets."
+}

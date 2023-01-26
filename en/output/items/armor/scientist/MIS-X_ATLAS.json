@@ -1,0 +1,85 @@
+{
+  "id": "zxzq",
+  "name": "MIS-X ATLAS",
+  "key": "item.arm.atlas.name",
+  "category": "armor/scientist",
+  "class": "Scientist",
+  "stats": {
+    "rank": "Master",
+    "weight": 9.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -15.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 4.0
+      },
+      {
+        "name": "Radiation",
+        "value": -2.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -0.5
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 64.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 81.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 80.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 840.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 840.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 840.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 385.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 370.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 400.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 310.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 35.0
+      }
+    ]
+  },
+  "discription": "The result of long, arduous work on the MIS series. A multi-functional suit that protects from the majority of anomalous effects. Judging from the marks on the armor, this suit belonged to someone."
+}

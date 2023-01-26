@@ -1,0 +1,49 @@
+{
+  "id": "nq1k",
+  "name": "Kukri",
+  "key": "item.melee.kukri.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.6,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 50.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 60.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 120.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 140.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 60.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 40.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A legendary combination of an ax, knife, and machete. The kukri’s distinguishing feature is the curved shape of its blade and the front-heavy center of gravity."
+}

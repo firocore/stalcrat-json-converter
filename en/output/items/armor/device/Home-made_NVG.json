@@ -1,0 +1,13 @@
+{
+  "id": "BL7r",
+  "name": "Home-made NVG",
+  "key": "item.25500.name",
+  "category": "armor/device",
+  "class": "Devices",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.25,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

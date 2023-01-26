@@ -1,0 +1,26 @@
+{
+  "id": "Romn",
+  "name": "Salvo 12 Silencer",
+  "key": "item.att.silencer_salvo12.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.96,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -11.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 10.000002
+      },
+      {
+        "name": "Damage at range",
+        "value": -25.0
+      }
+    ]
+  },
+  "discription": "ATTENTION: if you use a silencer, the enemy won’t know where you are firing from."
+}

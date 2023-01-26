@@ -1,0 +1,85 @@
+{
+  "id": "aVPB",
+  "name": "MTs-116M",
+  "key": "item.wpn.mc116.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 6.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 100.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 10.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 200.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 60.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.12
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 2.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.6
+      },
+      {
+        "name": "Draw time",
+        "value": 1.25
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.4
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 7.5000005
+      },
+      {
+        "name": "Bleeding",
+        "value": 95.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 100.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      }
+    ]
+  },
+  "discription": "A Russian magazine-fed sniper rifle designed based on the single-shot MTs-116 sports rifle."
+}

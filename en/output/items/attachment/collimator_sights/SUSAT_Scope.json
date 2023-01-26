@@ -1,0 +1,18 @@
+{
+  "id": "Bkwr",
+  "name": "SUSAT Scope",
+  "key": "item.att.scope_susat.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.417,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.5"
+      }
+    ]
+  },
+  "discription": "Model: L9A1@An optical sight produced in NATO countries. Installed using the NATO-standard Picatinny rail. Produced by the Avimo company and United Scientific Instruments."
+}

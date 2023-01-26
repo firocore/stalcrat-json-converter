@@ -1,0 +1,38 @@
+{
+  "id": "j6nm",
+  "name": "Cocoon Container",
+  "key": "item.cont.cocoon.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 7.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 90.0
+      },
+      {
+        "name": "Effectiveness",
+        "value": 80.0
+      },
+      {
+        "name": "Capacity",
+        "value": 3.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -1.5
+      }
+    ]
+  },
+  "discription": "An alternative version of the Hive, with fewer artifact slots but greater internal protection and reliability."
+}

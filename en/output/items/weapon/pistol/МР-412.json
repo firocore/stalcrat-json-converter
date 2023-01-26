@@ -1,0 +1,73 @@
+{
+  "id": "z1jL",
+  "name": "МР-412",
+  "key": "item.wpn.mr412.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.9,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 73.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 6.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 65.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 500.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.0
+      },
+      {
+        "name": "Spread",
+        "value": 1.142
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.25
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.75
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.5
+      },
+      {
+        "name": "Draw time",
+        "value": 0.3
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage increases by 1,5% for every % of the target’s health that is missing, to a maximum of +150% damage"
+      }
+    ]
+  },
+  "discription": "A Russian-made revolver that uses .357 Smith & Wesson Magnum ammo (9x33 mm). It was developed at the Izhevsk Mechanical Plant at the end of the 1990s."
+}

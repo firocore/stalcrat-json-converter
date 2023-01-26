@@ -1,0 +1,18 @@
+{
+  "id": "DV8V",
+  "name": "Увеличенный магазин Colt",
+  "key": "item.att.mag_colt.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.24,
+    "other": [
+      {
+        "name": "Доп. размер магазина",
+        "value": 3.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

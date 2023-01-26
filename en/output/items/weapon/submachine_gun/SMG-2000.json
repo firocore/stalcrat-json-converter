@@ -1,0 +1,70 @@
+{
+  "id": "20g1",
+  "name": "SMG-2000",
+  "key": "item.wpn.pp2000.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 1.88,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 38.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 20.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 90.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 800.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.6
+      },
+      {
+        "name": "Spread",
+        "value": 1.363
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.28
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.12
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "A Russian 9 mm submachine gun developed by a team of designers from the KBP Instrument Design Bureau."
+}

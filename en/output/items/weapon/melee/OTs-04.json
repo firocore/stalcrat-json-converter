@@ -1,0 +1,49 @@
+{
+  "id": "KPYA",
+  "name": "OTs-04",
+  "key": "item.melee.oc04.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.28,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 120.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.8
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 60.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 65.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A knife intended for special units of the MIA’s internal troops. It stands out due to its aggressive, contemporary design. This blade allows you to deal substantial stab damage, although slashing strikes are less effective."
+}

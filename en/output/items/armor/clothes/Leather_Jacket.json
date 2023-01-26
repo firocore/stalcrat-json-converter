@@ -1,0 +1,50 @@
+{
+  "id": "k9D9",
+  "name": "Leather Jacket",
+  "key": "item.arm.kyrtka_koj.name",
+  "category": "armor/clothes",
+  "class": "Clothing",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 6.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 11.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 6.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 11.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 11.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 11.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 7.0
+      }
+    ]
+  },
+  "discription": "A sturdy leather jacket. Keeps you safe from prickly bushes and the teeth of small rodents."
+}

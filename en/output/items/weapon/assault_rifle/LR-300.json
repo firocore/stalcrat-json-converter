@@ -1,0 +1,74 @@
+{
+  "id": "g9xG",
+  "name": "LR-300",
+  "key": "item.wpn.lr300.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 3.1,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.56"
+      },
+      {
+        "name": "Damage",
+        "value": 35.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 145.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 950.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.95
+      },
+      {
+        "name": "Spread",
+        "value": 0.653
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.32
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.13
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "A new stage of development in this well-known series of weapons. In reality, the alterations only affected the upper half of the receiver, with the barrel, gas vent, and breech, which resulted in an improvement to the ergonomics and reliability of the weapon, while its weight, on the other hand, decreased."
+}

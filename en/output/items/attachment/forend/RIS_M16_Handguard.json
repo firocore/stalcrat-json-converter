@@ -1,0 +1,13 @@
+{
+  "id": "lz3w",
+  "name": "RIS M16 Handguard",
+  "key": "item.att.forend_m16ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.25,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

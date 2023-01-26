@@ -1,0 +1,70 @@
+{
+  "id": "lOdr",
+  "name": "IMI Uzi",
+  "key": "item.wpn.uzi.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 3.65,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 37.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 40.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 96.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 600.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.6
+      },
+      {
+        "name": "Spread",
+        "value": 1.241
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.15
+      },
+      {
+        "name": "Draw time",
+        "value": 0.5
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "One of the most famous submachine guns of the modern era. Cheap to produce and reliable."
+}

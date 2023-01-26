@@ -1,0 +1,77 @@
+{
+  "id": "MO0D",
+  "name": "Fort-12",
+  "key": "item.wpn.fort12.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.83,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 51.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 12.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 55.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 400.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.0
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.25
+      },
+      {
+        "name": "Spread",
+        "value": 1.452
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.3
+      },
+      {
+        "name": "Draw time",
+        "value": 0.4
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "A Ukrainian-made pistol primarily intended for use by law enforcement agencies and security forces. It has better accuracy, ease-of-use, and clip capacity than the PM. It mainly ends up in the Zone amidst the recalls that are widely being carried out here, but there is nonetheless good demand for it among stalkers due to its fairly admirable combat performance."
+}

@@ -1,0 +1,84 @@
+{
+  "id": "nqe9",
+  "name": "Flamethrower",
+  "key": "item.wpn.flamethrower.name",
+  "category": "weapon/heavy",
+  "class": "Other Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 16.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "Flammable Mixture"
+      },
+      {
+        "name": "Damage",
+        "value": 10.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 150.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 10.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 600.0
+      },
+      {
+        "name": "Reload",
+        "value": 11.25
+      },
+      {
+        "name": "Tactical reload",
+        "value": 9.6
+      },
+      {
+        "name": "Spread",
+        "value": 2.0
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.05
+      },
+      {
+        "name": "Draw time",
+        "value": 1.35
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.45
+      },
+      {
+        "text": "Damage to mutants: x2"
+      },
+      {
+        "text": "Every hit on a single target deals +2,5% damage, to a maximum of +100% damage. The hit counter resets after 5 sec. Each new hit refreshes the timer."
+      },
+      {
+        "name": "Fire damage",
+        "value": 66.66667
+      },
+      {
+        "name": "Absolute damage",
+        "value": 33.333336
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "xEOl",
+  "name": "Misericorde",
+  "key": "item.melee.misery.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.32,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 120.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.8
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 80.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 70.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A dagger with a diamond-shaped blade. In the Medieval Ages, these weapons were used to kill wounded enemies and for piercing in-between the plates of their armor. That doesn’t mean it can’t be used to do the same thing now..."
+}

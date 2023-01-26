@@ -1,0 +1,13 @@
+{
+  "id": "VoDA",
+  "name": "SIG SG 550 Handguard 4x NAR",
+  "key": "item.att.forend_sigris4.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.66,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

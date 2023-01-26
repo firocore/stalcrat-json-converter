@@ -1,0 +1,22 @@
+{
+  "id": "nx59",
+  "name": "Рукоять Fab defence AGR-43, зелёный",
+  "key": "item.att.handle_agr43g.name",
+  "category": "attachment/pistol_handle",
+  "class": "Пистолетные рукояти",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.096,
+    "other": [
+      {
+        "name": "Покачивание",
+        "value": -1.9999981
+      },
+      {
+        "name": "Время перезарядки",
+        "value": -1.9999981
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

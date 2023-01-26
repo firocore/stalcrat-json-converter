@@ -1,0 +1,22 @@
+{
+  "id": "gJ5w",
+  "name": "Тактический блок AN/PEQ 15, хаки",
+  "key": "item.att.lcu_anpeqh.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.21,
+    "other": [
+      {
+        "name": "Разброс от бедра",
+        "value": -25.0
+      },
+      {
+        "name": "Стабилизация",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Цвет лазера - зелёный"
+}

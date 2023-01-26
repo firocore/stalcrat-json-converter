@@ -1,0 +1,12 @@
+{
+  "id": "3Z5l",
+  "name": "NVG O1M",
+  "key": "item.device.nvdo.name",
+  "category": "armor/device",
+  "class": "Devices",
+  "stats": {
+    "weight": 1.6,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

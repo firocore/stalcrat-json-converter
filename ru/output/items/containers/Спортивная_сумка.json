@@ -1,0 +1,22 @@
+{
+  "id": "DNVZ",
+  "name": "Спортивная сумка",
+  "key": "item.bag.sports.name",
+  "category": "containers",
+  "class": "Рюкзаки и Контейнеры",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 1.5,
+    "other": [
+      {
+        "name": "Выносливость",
+        "value": 15.0
+      },
+      {
+        "name": "Переносимый вес",
+        "value": 20.0
+      }
+    ]
+  },
+  "discription": "Легкий рюкзак"
+}

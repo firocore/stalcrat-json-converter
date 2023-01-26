@@ -1,0 +1,49 @@
+{
+  "id": "DMqX",
+  "name": "Hammer",
+  "key": "item.21015.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.35,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 55.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 65.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 125.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 145.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.8
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.8
+      },
+      {
+        "name": "Penetration",
+        "value": 10.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 20.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "This tool is for hammering nails, but it can be used for other things too."
+}

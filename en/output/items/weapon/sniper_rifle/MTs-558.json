@@ -1,0 +1,89 @@
+{
+  "id": "OOR6",
+  "name": "MTs-558",
+  "key": "item.wpn.mc558.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 5.3,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12.7"
+      },
+      {
+        "name": "Damage",
+        "value": 114.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 220.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 65.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.0
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.5
+      },
+      {
+        "name": "Spread",
+        "value": 0.1
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 1.5
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.6
+      },
+      {
+        "name": "Draw time",
+        "value": 1.1
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.4
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 10.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 95.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 100.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      }
+    ]
+  },
+  "discription": "The large-caliber MTs-558 carbine is a manual reload hunting rifle in the bullpup configuration. It is based on the construction of the special “Vykhlop” (meaning “Exhaust”) VSSK silenced rifle."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "N5yN",
+  "name": "Магазин ПП-91",
+  "key": "item.att.mag_kedr40.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 0.128,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 40.0
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 4.999995
+      },
+      {
+        "name": "Время перезарядки",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

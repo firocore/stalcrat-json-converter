@@ -1,0 +1,29 @@
+{
+  "id": "KLG8",
+  "name": "Bandage",
+  "key": "item.med.bandage.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Bleeding Elimination"
+      },
+      {
+        "name": "Instant healing",
+        "value": 5.0
+      },
+      {
+        "name": "Duration",
+        "value": 3.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -20.0
+      }
+    ]
+  },
+  "discription": "Material for dressing wounds. Helps stop bleeding."
+}

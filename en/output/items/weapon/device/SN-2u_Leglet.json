@@ -1,0 +1,37 @@
+{
+  "id": "0Qd7",
+  "name": "SN-2u Leglet",
+  "key": "item.misc.cn2u.name",
+  "category": "weapon/device",
+  "class": "Devices",
+  "stats": {
+    "weight": 3.2,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Passive range",
+        "value": 25.0
+      },
+      {
+        "name": "Active range",
+        "value": 25.0
+      },
+      {
+        "name": "Scanning angle",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Lesser charge usage during active scanning compared to the standard model, but the scanning distance is also decreased."
+}

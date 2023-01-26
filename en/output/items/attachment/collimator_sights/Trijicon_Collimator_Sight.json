@@ -1,0 +1,52 @@
+{
+  "id": "K5bq",
+  "name": "Trijicon Collimator Sight",
+  "key": "item.att.sight_rmr.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.067,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: RMR@Reticle: triangle, green"
+}{
+  "id": "DVam",
+  "name": "Trijicon Collimator Sight",
+  "key": "item.att.sight_srs.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.38,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: SRS-02@Reticle: dot, red"
+}{
+  "id": "Q80r",
+  "name": "Trijicon Collimator Sight",
+  "key": "item.att.sight_1x42.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.23,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: 1x42@Reticle: dot, green"
+}

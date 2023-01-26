@@ -1,0 +1,77 @@
+{
+  "id": "aVXV",
+  "name": "Walther P99",
+  "key": "item.wpn.p99.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.7,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 48.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 16.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 50.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 430.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.4
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.1
+      },
+      {
+        "name": "Spread",
+        "value": 1.368
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.2
+      },
+      {
+        "name": "Draw time",
+        "value": 0.6
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "An excellent pistol manufactured in the West. It stands out due to its high reliability, large clip capacity, good accuracy, and its ergonomics, which are arguably the best in its class. When it arrived in the Zone, it became one of the most widely used pistols, both among professionals and among newbies who can afford it."
+}

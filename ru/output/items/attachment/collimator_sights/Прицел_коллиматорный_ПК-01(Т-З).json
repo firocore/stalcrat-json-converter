@@ -1,0 +1,18 @@
+{
+  "id": "xL7L",
+  "name": "Прицел коллиматорный ПК-01(Т/З)",
+  "key": "item.att.sight_pk01tz.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.25,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Метка - неполное перекрестие, желтое"
+}

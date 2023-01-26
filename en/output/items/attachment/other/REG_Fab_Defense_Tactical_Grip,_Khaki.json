@@ -1,0 +1,26 @@
+{
+  "id": "K5GA",
+  "name": "REG Fab Defense Tactical Grip, Khaki",
+  "key": "item.att.handgrip_regfbh.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.12,
+    "other": [
+      {
+        "name": "Horizontal recoil",
+        "value": -22.000004
+      },
+      {
+        "name": "Sway",
+        "value": -35.000004
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "PRKE",
+  "name": "Bubble",
+  "key": "item.art.kisel_puzir.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "This artifact takes the shape of several hollow formations of an organic nature, combined into one. It releases a gas-like substance that can neutralize radioactive particles in the human body. When used actively, it starts to overheat."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "MZ7E",
+  "name": "MBSS Backpack",
+  "key": "item.bag.mbss.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 2.0,
+    "other": [
+      {
+        "name": "Stamina",
+        "value": 25.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Common Backpack"
+}

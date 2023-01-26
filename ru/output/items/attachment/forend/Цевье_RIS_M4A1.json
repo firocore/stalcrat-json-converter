@@ -1,0 +1,13 @@
+{
+  "id": "yEm6",
+  "name": "Цевье RIS M4A1",
+  "key": "item.att.forend_m4ris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.2,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

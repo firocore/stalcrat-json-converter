@@ -1,0 +1,74 @@
+{
+  "id": "KP0X",
+  "name": "AEK-919K Kashtan",
+  "key": "item.wpn.kashtan.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 1.78,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 32.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 90.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 900.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.3
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.8
+      },
+      {
+        "name": "Spread",
+        "value": 1.834
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.4
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.36
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.13
+      },
+      {
+        "name": "Draw time",
+        "value": 0.75
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "A submachine gun developed in the mid-1990s by members of the Special Design Bureau at the Kovrov Mechanical Plant. The Austrian Steyr MPi-69 was used as a model, but after releasing a test run of AEK-919s, some flaws were discovered that led to changes to the base design. The updated model was given the index AEK-919K."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gJEn",
+  "name": "AKM Wooden Handguard, Black",
+  "key": "item.att.forend_akmblack.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.2,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

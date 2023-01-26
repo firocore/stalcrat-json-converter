@@ -1,0 +1,77 @@
+{
+  "id": "NQo2",
+  "name": "Phantom Hunter Armored Suit",
+  "key": "item.arm.ghost.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 14.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -10.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 10.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 121.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 127.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 181.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 127.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 127.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 127.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 60.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 135.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 64.0
+      }
+    ]
+  },
+  "discription": "A reworked Shade Hunter which adds both increased mobility and more cutting-edge NVG."
+}

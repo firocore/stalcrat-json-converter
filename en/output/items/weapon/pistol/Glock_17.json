@@ -1,0 +1,77 @@
+{
+  "id": "jaZK",
+  "name": "Glock 17",
+  "key": "item.wpn.glock17.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.625,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 54.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 17.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 62.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 450.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.25
+      },
+      {
+        "name": "Tactical reload",
+        "value": 1.9
+      },
+      {
+        "name": "Spread",
+        "value": 0.991
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Draw time",
+        "value": 0.45
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "An Austrian pistol developed by Glock for the army. It was the first weapon developed by the company. The resulting example proved to be quite successful and easy to use, and it was consequently entered into service by the Austrian army. Thanks to its combat capabilities and reliability, it was widely adopted as a means of civilian self-defense."
+}

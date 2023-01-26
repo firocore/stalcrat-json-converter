@@ -1,0 +1,22 @@
+{
+  "id": "Q8VJ",
+  "name": "HQ ISSUE Low-Profile Laser Sight (красный лазер)",
+  "key": "item.att.lcu_lowp.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.042,
+    "other": [
+      {
+        "name": "Разброс от бедра",
+        "value": -25.0
+      },
+      {
+        "name": "Стабилизация",
+        "value": 39.999996
+      }
+    ]
+  },
+  "discription": "Цвет лазера - красный"
+}

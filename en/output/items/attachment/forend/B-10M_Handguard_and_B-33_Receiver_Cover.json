@@ -1,0 +1,13 @@
+{
+  "id": "2RQR",
+  "name": "B-10M Handguard and B-33 Receiver Cover",
+  "key": "item.att.forend_b10b33.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.435,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

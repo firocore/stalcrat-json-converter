@@ -1,0 +1,89 @@
+{
+  "id": "gD6n",
+  "name": "Albatross Scout Armored Exoskeleton",
+  "key": "item.arm.albatros_scout.name",
+  "category": "armor/combined",
+  "class": "Combo",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 18.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Movement speed",
+        "value": 15.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 20.0
+      },
+      {
+        "name": "Radiation",
+        "value": -1.0
+      },
+      {
+        "name": "Psy-emissions",
+        "value": -1.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -0.5
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 73.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 121.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 124.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 278.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 278.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 278.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 240.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 300.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 240.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 56.0
+      }
+    ]
+  },
+  "discription": "Use of cheaper protection made it possible to lower the cost of the main Albatross series. The first modification to this armored exoskeleton was the Albatross Scout."
+}

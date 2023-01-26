@@ -1,0 +1,70 @@
+{
+  "id": "PQxn",
+  "name": "Mockingbird Armored Suit",
+  "key": "item.arm.mocking.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 9.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 10.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 83.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 89.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 120.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 104.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 104.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 104.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 180.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 90.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 180.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 140.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 47.0
+      }
+    ]
+  },
+  "discription": "The stalker’s Hawk, but instead of the regular suit, this is a hunter’s suit. Other pieces of gear are chosen to match. A true bandit has to look stylish."
+}

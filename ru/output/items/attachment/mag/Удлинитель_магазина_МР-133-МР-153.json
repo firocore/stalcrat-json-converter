@@ -1,0 +1,18 @@
+{
+  "id": "G0o9",
+  "name": "Удлинитель магазина МР-133/МР-153",
+  "key": "item.att.mag_mr133.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.124,
+    "other": [
+      {
+        "name": "Доп. размер магазина",
+        "value": 2.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

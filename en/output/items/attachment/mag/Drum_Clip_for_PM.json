@@ -1,0 +1,26 @@
+{
+  "id": "JAd1",
+  "name": "Drum Clip for PM",
+  "key": "item.att.mag_pmdrum.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.364,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 84.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 20.000004
+      },
+      {
+        "name": "Reload time",
+        "value": 60.000004
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

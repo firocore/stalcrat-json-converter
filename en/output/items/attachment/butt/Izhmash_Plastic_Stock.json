@@ -1,0 +1,29 @@
+{
+  "id": "nxlA",
+  "name": "Izhmash Plastic Stock",
+  "key": "item.att.butt_ak_p.name",
+  "category": "attachment/butt",
+  "class": "Stocks",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -1.9999981
+      },
+      {
+        "name": "Sway",
+        "value": -14.999998
+      },
+      {
+        "name": "Draw speed",
+        "value": 2.9999971
+      },
+      {
+        "name": "Stabilization",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

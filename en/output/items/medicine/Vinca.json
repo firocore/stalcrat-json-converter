@@ -1,0 +1,33 @@
+{
+  "id": "kqyG",
+  "name": "Vinca",
+  "key": "item.med.barvinok.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Bleeding Protection"
+      },
+      {
+        "name": "Duration",
+        "value": 300.0
+      },
+      {
+        "name": "Poison",
+        "value": 20.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 10.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -0.5
+      }
+    ]
+  },
+  "discription": "A medicinal drug that helps thicken the blood. Use before situations where intense bleeding may occur (and before fights, just in case)."
+}

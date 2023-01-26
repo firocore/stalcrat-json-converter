@@ -1,0 +1,73 @@
+{
+  "id": "PLOA",
+  "name": "AA-12",
+  "key": "item.wpn.aa12.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 3.2,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 130.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 8.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 350.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Spread",
+        "value": 3.281
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 4.3
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.95
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "The AA-12 (Auto Assault-12) is an automatic shotgun that was created by Maxwell Atchisson, based on the prior development of the Atchisson Assault Shotgun."
+}

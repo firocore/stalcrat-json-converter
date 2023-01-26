@@ -1,0 +1,29 @@
+{
+  "id": "NMaj",
+  "name": "Глаз бури",
+  "key": "item.art.blizzard_stormeye.name",
+  "category": "artefact/thermal",
+  "class": "Термические",
+  "stats": {
+    "weight": 0.15,
+    "other": [
+      {
+        "name": "Обычный",
+        "value": "Не исследовано"
+      },
+      {
+        "name": "Свежесть",
+        "value": "III"
+      },
+      {
+        "name": "Заряд",
+        "value": 100.0
+      },
+      {
+        "name": "Макс. заряд",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

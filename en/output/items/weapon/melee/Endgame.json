@@ -1,0 +1,53 @@
+{
+  "id": "aVNN",
+  "name": "Endgame",
+  "key": "item.melee.endgame.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.8,
+    "other": [
+      {
+        "name": "Absolute damage",
+        "value": 10.0
+      },
+      {
+        "name": "Quick attack (min)",
+        "value": 45.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 55.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 110.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 130.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 50.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 40.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "This imposing weapon is filled with anomalous energy from the Underbelly. Rumor has it that anyone killed with this blade is reborn as a ghost in the Underbelly."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2DON",
+  "name": "Berloga-6u Container",
+  "key": "item.cont.bear6d.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Master",
+    "weight": 7.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 60.000004
+      },
+      {
+        "name": "Effectiveness",
+        "value": 80.0
+      },
+      {
+        "name": "Capacity",
+        "value": 6.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -2.0
+      }
+    ]
+  },
+  "discription": "A reinforced artifact container model. Has weak shielding capabilities but is easy to produce, reliable, and lets you carry six artifacts. These factors had a strong influence on this model’s popularity."
+}

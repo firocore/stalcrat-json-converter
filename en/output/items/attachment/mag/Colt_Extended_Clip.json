@@ -1,0 +1,18 @@
+{
+  "id": "DV8V",
+  "name": "Colt Extended Clip",
+  "key": "item.att.mag_colt.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.24,
+    "other": [
+      {
+        "name": "Additional clip size",
+        "value": 3.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

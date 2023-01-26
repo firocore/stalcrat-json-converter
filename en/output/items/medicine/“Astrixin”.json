@@ -1,0 +1,37 @@
+{
+  "id": "MYek",
+  "name": "“Astrixin”",
+  "key": "item.med.astrikcin.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Bleeding Protection"
+      },
+      {
+        "name": "Duration",
+        "value": 300.0
+      },
+      {
+        "name": "Poison",
+        "value": 25.0
+      },
+      {
+        "name": "Health regeneration",
+        "value": 2.5
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 15.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -1.0
+      }
+    ]
+  },
+  "discription": "A medicinal drug that replaced Vinca, which comprehensively contributes to the coagulation and clotting of the blood. Actively used by soldiers, it gets good reviews as it is less toxic."
+}

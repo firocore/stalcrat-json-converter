@@ -1,0 +1,26 @@
+{
+  "id": "wDjk",
+  "name": "D-Eagle Barrel Extension",
+  "key": "item.att.barrel_longdeagle.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.96,
+    "other": [
+      {
+        "name": "Distance",
+        "value": 20.000004
+      },
+      {
+        "name": "Recoil",
+        "value": 25.0
+      },
+      {
+        "name": "Spread",
+        "value": -10.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

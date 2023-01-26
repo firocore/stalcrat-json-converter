@@ -1,0 +1,26 @@
+{
+  "id": "3m8G",
+  "name": "3 Port Mini Compensator",
+  "key": "item.att.barrel_3port.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.025,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -6.999999
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -5.000001
+      },
+      {
+        "name": "Spread",
+        "value": -4.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

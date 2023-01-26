@@ -1,0 +1,29 @@
+{
+  "id": "2XMR",
+  "name": "Eye",
+  "key": "item.art.jarka_glaz.name",
+  "category": "artefact/thermal",
+  "class": "Thermal",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "This artifact improves the metabolism of its owner, which means that they recover quicker after damage. Some of the more superstitious stalkers believe that it keeps “watch” over its owner, providing protection against serious injuries—as bullets and fragments won’t hit any vital organs."
+}

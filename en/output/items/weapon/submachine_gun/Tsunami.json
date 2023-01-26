@@ -1,0 +1,70 @@
+{
+  "id": "BMyl",
+  "name": "Tsunami",
+  "key": "item.wpn.kedr_mod.name",
+  "category": "weapon/submachine_gun",
+  "class": "Submachine Guns",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 1.74,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 35.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 80.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 1000.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.55
+      },
+      {
+        "name": "Spread",
+        "value": 1.618
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.401
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.32
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.17
+      },
+      {
+        "name": "Draw time",
+        "value": 0.75
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      }
+    ]
+  },
+  "discription": "Upgraded SMG-91 KEDR. Thanks to its improved ammo feeding system and lighter breech mechanism, it has a higher firing rate and close-range stopping power, but it is less effective at range."
+}

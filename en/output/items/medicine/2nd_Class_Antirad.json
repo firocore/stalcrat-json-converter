@@ -1,0 +1,33 @@
+{
+  "id": "VYeJ",
+  "name": "2nd Class Antirad",
+  "key": "item.med.antirad_2.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Radiation Cleansing"
+      },
+      {
+        "name": "Duration",
+        "value": 5.0
+      },
+      {
+        "name": "Poison",
+        "value": 25.0
+      },
+      {
+        "name": "Radiation resistance",
+        "value": 75.0
+      },
+      {
+        "name": "Radiation",
+        "value": -50.0
+      }
+    ]
+  },
+  "discription": "Removes radiation from the body."
+}

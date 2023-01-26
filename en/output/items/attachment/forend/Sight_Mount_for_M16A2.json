@@ -1,0 +1,13 @@
+{
+  "id": "61k0",
+  "name": "Sight Mount for M16A2",
+  "key": "item.att.mount_m16ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.05,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "jaKq",
+  "name": "OTs-14 Groza",
+  "key": "item.wpn.groza.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 2.5500002,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9x39"
+      },
+      {
+        "name": "Damage",
+        "value": 43.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 20.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 150.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 700.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.75
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.1
+      },
+      {
+        "name": "Spread",
+        "value": 0.581
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.6999998
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.17
+      },
+      {
+        "name": "Draw time",
+        "value": 0.95
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      }
+    ]
+  },
+  "discription": "A combination of an assault rifle and a grenade launcher, 70% based on AK-74-type assault rifles (the main differences are the 9x39 mm caliber, the bullpup configuration, and greater possibilities for modernization). It was developed as an armament for rapid reaction units. It is highly valued by stalkers and soldiers, due to the fact that it is capable of reliably eliminating an opponent in body armor, even behind cover."
+}

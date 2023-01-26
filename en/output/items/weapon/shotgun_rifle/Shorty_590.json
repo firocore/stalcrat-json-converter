@@ -1,0 +1,73 @@
+{
+  "id": "g9VX",
+  "name": "Shorty 590",
+  "key": "item.wpn.shorty.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 1.75,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 170.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 3.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 30.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 80.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.4
+      },
+      {
+        "name": "Spread",
+        "value": 2.86
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 5.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.55
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "A shortened version of the widely used pump-action shotgun. It is equipped with a folding tactical grip."
+}

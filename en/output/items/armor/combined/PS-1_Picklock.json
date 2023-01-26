@@ -1,0 +1,70 @@
+{
+  "id": "3j7Z",
+  "name": "PS-1 Picklock",
+  "key": "item.arm.picklock.name",
+  "category": "armor/combined",
+  "class": "Combo",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 4.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -5.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 3.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 17.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 21.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 27.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 89.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 89.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 100.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 12.0
+      }
+    ]
+  },
+  "discription": "Rejected or irreparable Zarya suits often get a second life as a kind of protective suit. Of course, their bullet resistance leaves something to be desired, but you won’t find better protection from radiation for this price."
+}

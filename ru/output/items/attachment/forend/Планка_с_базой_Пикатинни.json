@@ -1,0 +1,13 @@
+{
+  "id": "lzG2",
+  "name": "Планка с базой Пикатинни",
+  "key": "item.att.mount_tozris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.15,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

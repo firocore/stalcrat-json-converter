@@ -1,0 +1,73 @@
+{
+  "id": "ja2O",
+  "name": "Saiga-12K",
+  "key": "item.wpn.saiga.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 3.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 150.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 8.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 55.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 320.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Spread",
+        "value": 3.713
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.501
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 3.2
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.95
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "A semi-automatic shotgun developed at the Izhevsk Machine-Building Plant based on the Kalashnikov assault rifle. It was intended for commercial and amateur hunting of small and medium-sized animals and birds in regions with any climatic conditions. The Saiga inherited the general configuration and structure of the AK, with a gas dissipation mechanism and rotating bolt."
+}

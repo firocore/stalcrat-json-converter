@@ -1,0 +1,22 @@
+{
+  "id": "xLRK",
+  "name": "5.45 PMAG Clip, Black",
+  "key": "item.att.mag_pmag545b.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      },
+      {
+        "name": "Reload time",
+        "value": -5.000001
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

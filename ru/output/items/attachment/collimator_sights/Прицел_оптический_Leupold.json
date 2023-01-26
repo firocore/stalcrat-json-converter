@@ -1,0 +1,26 @@
+{
+  "id": "yEJ5",
+  "name": "Прицел оптический Leupold",
+  "key": "item.att.scope_hamr.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.42,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x2.4"
+      },
+      {
+        "name": "Скорость прицеливания",
+        "value": 10.000002
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Модель: HAMR Mark 4 2.8x24mm@HAMR — High Accuracy Multi-range Riflescope (высокоточный прицел для @различных дистанций). Прицел достаточно компактен и идеально подходит для установки на планку Пикатинни. Производится американской компанией Leupold Optics, производящей прицелы для охоты и спорта."
+}

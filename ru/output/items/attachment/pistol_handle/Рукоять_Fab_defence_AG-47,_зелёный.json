@@ -1,0 +1,22 @@
+{
+  "id": "lzVw",
+  "name": "Рукоять Fab defence AG-47, зелёный",
+  "key": "item.att.handle_ag47g.name",
+  "category": "attachment/pistol_handle",
+  "class": "Пистолетные рукояти",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.093,
+    "other": [
+      {
+        "name": "Покачивание",
+        "value": -1.9999981
+      },
+      {
+        "name": "Время перезарядки",
+        "value": -1.9999981
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

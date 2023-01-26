@@ -1,0 +1,13 @@
+{
+  "id": "y805",
+  "name": "Прибор ночного видения",
+  "key": "item.25501.name",
+  "category": "armor/device",
+  "class": "Устройства",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 1.5,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

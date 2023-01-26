@@ -1,0 +1,38 @@
+{
+  "id": "MZDY",
+  "name": "KZS-3u",
+  "key": "item.cont.kzs3d.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 5.25,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 75.0
+      },
+      {
+        "name": "Effectiveness",
+        "value": 100.0
+      },
+      {
+        "name": "Capacity",
+        "value": 3.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -1.0
+      }
+    ]
+  },
+  "discription": "A set of three KZS-1u containers. Lets you carry three artifacts and, obviously, has good shielding capabilities."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "RoKb",
+  "name": "Магазин 7.62 NATO PMAG, хаки",
+  "key": "item.att.mag_pmag76230h.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.38,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

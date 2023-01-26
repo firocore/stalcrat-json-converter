@@ -1,0 +1,13 @@
+{
+  "id": "yEXY",
+  "name": "RIS Bracket-Rail",
+  "key": "item.att.mount_mp5ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.11,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

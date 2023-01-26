@@ -1,0 +1,18 @@
+{
+  "id": "Bk3j",
+  "name": "Рукоять РК-3",
+  "key": "item.att.handle_rk3.name",
+  "category": "attachment/pistol_handle",
+  "class": "Пистолетные рукояти",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.225,
+    "other": [
+      {
+        "name": "Время перезарядки",
+        "value": -1.9999981
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

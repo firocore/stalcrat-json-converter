@@ -1,0 +1,18 @@
+{
+  "id": "VoPg",
+  "name": "Rakurs Wide-Angle Sight",
+  "key": "item.att.scope_rakurs.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.47,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.5"
+      }
+    ]
+  },
+  "discription": "Model: PO1x20"
+}

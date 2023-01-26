@@ -1,0 +1,22 @@
+{
+  "id": "P8KA",
+  "name": "Магазин эргономичный для ВСС/Вал",
+  "key": "item.att.mag_vss20.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 20.0
+      },
+      {
+        "name": "Время перезарядки",
+        "value": -25.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

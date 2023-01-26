@@ -1,0 +1,70 @@
+{
+  "id": "k939",
+  "name": "Striker Armored Suit",
+  "key": "item.arm.striker.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 9.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -3.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 3.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 68.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 68.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 94.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 27.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 27.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 27.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 90.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 42.0
+      }
+    ]
+  },
+  "discription": "The direct successor to the Berill. This widely-available soldier’s suit has ended up with various syndicates via the black market. They put together a complete set of gear for their soldiers based on this attire, with upgraded body armor, limb protection, and a more comfortable uniform. The helmet remained unchanged."
+}

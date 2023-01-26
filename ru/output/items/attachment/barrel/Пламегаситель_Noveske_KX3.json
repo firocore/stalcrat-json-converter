@@ -1,0 +1,18 @@
+{
+  "id": "BkX2",
+  "name": "Пламегаситель Noveske KX3",
+  "key": "item.att.barrel_noveske.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Разброс",
+        "value": -13.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

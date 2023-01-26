@@ -1,0 +1,26 @@
+{
+  "id": "0gkQ",
+  "name": "5.45 Plastic Clip",
+  "key": "item.att.mag_rumag54545p.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 45.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 20.000004
+      },
+      {
+        "name": "Reload time",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

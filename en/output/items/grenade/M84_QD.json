@@ -1,0 +1,25 @@
+{
+  "id": "Lm3Z",
+  "name": "M84 QD",
+  "key": "item.exp.m84qd.name",
+  "category": "grenade",
+  "class": "Grenades",
+  "stats": {
+    "weight": 0.24,
+    "other": [
+      {
+        "name": "Range",
+        "value": 12.0
+      },
+      {
+        "name": "Max. blindness duration",
+        "value": 5.0
+      },
+      {
+        "name": "Time until activation",
+        "value": 1.5
+      }
+    ]
+  },
+  "discription": "An American flashbang grenade with a short detonation time."
+}

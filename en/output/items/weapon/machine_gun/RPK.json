@@ -1,0 +1,77 @@
+{
+  "id": "Ry5b",
+  "name": "RPK",
+  "key": "item.wpn.rpk.name",
+  "category": "weapon/machine_gun",
+  "class": "Machine Guns",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 3.1100001,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 41.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 40.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 165.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 650.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.8
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.658
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.8
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.55
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.2
+      },
+      {
+        "name": "Draw time",
+        "value": 1.15
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.35
+      },
+      {
+        "text": "Every hit on a single target deals +2% damage, to a maximum of +50% damage. The hit counter resets after 3 sec. Each new hit refreshes the timer."
+      }
+    ]
+  },
+  "discription": "A Soviet light machine gun based on the AKM assault rifle. When it was entered into service, and indeed for a long time afterwards, it was the lightest machine gun in the world, and established itself as a highly effective weapon compact, simple, and convenient to use."
+}

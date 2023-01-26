@@ -1,0 +1,26 @@
+{
+  "id": "rwnB",
+  "name": "Silencer for OTs-14 Groza",
+  "key": "item.att.silencer_groza.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.48,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -9.000004
+      },
+      {
+        "name": "Draw speed",
+        "value": 4.999995
+      },
+      {
+        "name": "Damage at range",
+        "value": -10.000002
+      }
+    ]
+  },
+  "discription": "ATTENTION: if you use a silencer, the enemy won’t know where you are firing from."
+}

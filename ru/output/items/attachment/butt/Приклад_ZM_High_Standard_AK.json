@@ -1,0 +1,29 @@
+{
+  "id": "RokO",
+  "name": "Приклад ZM High Standard AK",
+  "key": "item.22654.name",
+  "category": "attachment/butt",
+  "class": "Приклады",
+  "stats": {
+    "weight": 0.47,
+    "other": [
+      {
+        "name": "Отдача",
+        "value": -2.9999971
+      },
+      {
+        "name": "Покачивание",
+        "value": -14.999998
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 4.999995
+      },
+      {
+        "name": "Стабилизация",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ePQX",
+  "name": "Val/VSS Receiver Cover",
+  "key": "item.att.forend_val.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.13,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "amPr",
+  "name": "Kosoi MBC",
+  "key": "item.att.barrel_kosoi.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.019,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -2.9999971
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -6.0
+      },
+      {
+        "name": "Spread",
+        "value": -4.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

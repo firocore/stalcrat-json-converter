@@ -1,0 +1,22 @@
+{
+  "id": "o7jn",
+  "name": "ДТК «Вихрь»",
+  "key": "item.att.barrel_vihr.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.227,
+    "other": [
+      {
+        "name": "Гориз. отдача",
+        "value": -6.0
+      },
+      {
+        "name": "Разброс",
+        "value": -14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

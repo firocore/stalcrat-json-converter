@@ -1,0 +1,26 @@
+{
+  "id": "61RE",
+  "name": "7.62 Bakelite Clip",
+  "key": "item.att.mag_rumag762b.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.32,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 40.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 20.000004
+      },
+      {
+        "name": "Reload time",
+        "value": 4.999995
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

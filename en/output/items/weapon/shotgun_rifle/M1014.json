@@ -1,0 +1,73 @@
+{
+  "id": "DMXV",
+  "name": "M1014",
+  "key": "item.wpn.m1014.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 3.8000002,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 160.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 6.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 55.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 200.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.5
+      },
+      {
+        "name": "Spread",
+        "value": 3.57
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 4.8
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.5
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "The Benelli M4 Super 90, better known as the M1014, is a smoothbore, semi-automatic, magazine-fed shotgun that was developed by the Italian firm Benelli Armi S. p. A."
+}

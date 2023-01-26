@@ -1,0 +1,18 @@
+{
+  "id": "1039",
+  "name": "30-Round Clip for AK-308",
+  "key": "item.att.mag_ak30830.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.42,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

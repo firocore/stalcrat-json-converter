@@ -1,0 +1,35 @@
+{
+  "id": "gJg3",
+  "name": "Barska Collimator Sight",
+  "key": "item.att.sight_barska_open.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.115,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: Multi-reticle Panoramic Sight@Reticle: incomplete crosshair, red"
+}{
+  "id": "RoRz",
+  "name": "Barska Collimator Sight",
+  "key": "item.att.sight_barska_closed.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.386,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: Multi-reticle AR-X 1x35@Reticle: circle with cutaways, dot in the center, red"
+}

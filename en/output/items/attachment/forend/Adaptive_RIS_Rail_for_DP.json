@@ -1,0 +1,13 @@
+{
+  "id": "mxwo",
+  "name": "Adaptive RIS Rail for DP",
+  "key": "item.att.mount_dpris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

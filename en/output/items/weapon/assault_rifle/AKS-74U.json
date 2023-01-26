@@ -1,0 +1,74 @@
+{
+  "id": "kaON",
+  "name": "AKS-74U",
+  "key": "item.wpn.aksu.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 2.71,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.45"
+      },
+      {
+        "name": "Damage",
+        "value": 34.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 130.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 650.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.0
+      },
+      {
+        "name": "Spread",
+        "value": 1.021
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.5
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.2
+      },
+      {
+        "name": "Draw time",
+        "value": 0.9
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.2
+      }
+    ]
+  },
+  "discription": "A shortened version of the AK-74 that was developed in the late 1970s and early 1980s for armed crews of combat vehicles, airborne infantry, gun crews and paratroopers. It was also used by the Ministry of Internal Affairs and security forces, thanks to its compact size."
+}

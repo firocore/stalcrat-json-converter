@@ -1,0 +1,77 @@
+{
+  "id": "eamJ",
+  "name": "RPK-16",
+  "key": "item.wpn.rpk16.name",
+  "category": "weapon/machine_gun",
+  "class": "Machine Guns",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 4.7799997,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.45"
+      },
+      {
+        "name": "Damage",
+        "value": 38.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 96.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 170.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 700.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.25
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.95
+      },
+      {
+        "name": "Spread",
+        "value": 0.48
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.8
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.14
+      },
+      {
+        "name": "Draw time",
+        "value": 1.15
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.35
+      },
+      {
+        "text": "Every hit on a single target deals +2% damage, to a maximum of +50% damage. The hit counter resets after 3 sec. Each new hit refreshes the timer."
+      }
+    ]
+  },
+  "discription": "A Russian 5.45x39 mm caliber light machine gun. This machine gun is being developed as a potential replacement for the RPK-74 Kalashnikov light machine gun, both for regular troops and for special ops units."
+}

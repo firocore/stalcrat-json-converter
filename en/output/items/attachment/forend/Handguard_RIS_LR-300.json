@@ -1,0 +1,13 @@
+{
+  "id": "2R6R",
+  "name": "Handguard RIS LR-300",
+  "key": "item.att.forend_lr300ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.25,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

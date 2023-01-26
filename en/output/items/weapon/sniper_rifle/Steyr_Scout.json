@@ -1,0 +1,81 @@
+{
+  "id": "75z9",
+  "name": "Steyr Scout",
+  "key": "item.wpn.scout.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 3.3,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 76.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 170.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 55.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.08
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 1.8
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 0.75
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.4
+      },
+      {
+        "name": "Bleeding",
+        "value": 95.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 110.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      }
+    ]
+  },
+  "discription": "An Austrian sniper rifle produced by the Steyr company. It belongs to a special class of multi-purpose scout rifles that are intended both for hunting and for self-defense and combat."
+}

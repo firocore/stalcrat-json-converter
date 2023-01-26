@@ -1,0 +1,35 @@
+{
+  "id": "yEOl",
+  "name": "EoTech Collimator Sight",
+  "key": "item.att.sight_eoth.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: 552, khaki@Reticle: circle with rays, dot in the center, green"
+}{
+  "id": "lz2M",
+  "name": "EoTech Collimator Sight",
+  "key": "item.att.sight_eotb.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: 552, black@Reticle: circle with rays, dot in the center, red"
+}

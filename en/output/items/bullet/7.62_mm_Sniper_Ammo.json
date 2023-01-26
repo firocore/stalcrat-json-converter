@@ -1,0 +1,31 @@
+{
+  "id": "X9AX",
+  "name": "7.62 mm Sniper Ammo",
+  "key": "item.amm.762snp.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.022,
+    "other": [
+      {
+        "text": "Armor-piercing ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 27.5
+      },
+      {
+        "name": "Bleeding",
+        "value": 5.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 25.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

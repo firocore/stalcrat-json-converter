@@ -1,0 +1,73 @@
+{
+  "id": "ja9X",
+  "name": "MG 42",
+  "key": "item.wpn.mg42.name",
+  "category": "weapon/machine_gun",
+  "class": "Machine Guns",
+  "stats": {
+    "rank": "Master",
+    "weight": 11.57,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 41.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 50.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 180.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 900.0
+      },
+      {
+        "name": "Reload",
+        "value": 7.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.63
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.8000002
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.7
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.3
+      },
+      {
+        "name": "Draw time",
+        "value": 1.4
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.3
+      },
+      {
+        "text": "Every hit on a single target deals +1% damage, to a maximum of +50% damage. The hit counter resets after 3 sec. Each new hit refreshes the timer."
+      }
+    ]
+  },
+  "discription": "A German general-purpose machine gun from the period of the Second World War. This version uses 7.62x51 NATO rounds."
+}

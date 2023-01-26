@@ -1,0 +1,22 @@
+{
+  "id": "JAye",
+  "name": "PU Optical Sight for SVT",
+  "key": "item.att.scope_svt.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.27,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x3.5"
+      },
+      {
+        "name": "Aim speed",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "A Soviet optical sight first created in 1940 for use with the sniper model of the Tokarev semi-automatic rifle."
+}

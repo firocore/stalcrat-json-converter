@@ -1,0 +1,26 @@
+{
+  "id": "10Y7",
+  "name": "MBC-1",
+  "key": "item.att.barrel_dtk1.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.128,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -5.000001
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -7.999998
+      },
+      {
+        "name": "Spread",
+        "value": -7.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

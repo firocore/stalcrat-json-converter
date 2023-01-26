@@ -1,0 +1,77 @@
+{
+  "id": "9jOO",
+  "name": "SKAT-9m Armored Suit",
+  "key": "item.arm.skat9m.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Master",
+    "weight": 12.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -6.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 10.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 130.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 140.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 189.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 326.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 326.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 326.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 150.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 210.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 58.0
+      }
+    ]
+  },
+  "discription": "A modern army armored suit for assault operations in zones of anomalous activity. Components: PSZ-12p series heavy body armor, Sphere-12m helmet, equipped with induction field suppression, an anomalous protection suit and pressure suit."
+}

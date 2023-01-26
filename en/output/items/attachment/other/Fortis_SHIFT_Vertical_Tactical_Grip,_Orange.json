@@ -1,0 +1,34 @@
+{
+  "id": "gJ1N",
+  "name": "Fortis SHIFT Vertical Tactical Grip, Orange",
+  "key": "item.att.handgrip_fortiso.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.09,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -5.000001
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -14.999998
+      },
+      {
+        "name": "Sway",
+        "value": -26.0
+      },
+      {
+        "name": "Aim speed",
+        "value": -14.999998
+      },
+      {
+        "name": "Draw speed",
+        "value": -5.000001
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

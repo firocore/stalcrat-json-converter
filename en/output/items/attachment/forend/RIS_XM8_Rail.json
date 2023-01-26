@@ -1,0 +1,13 @@
+{
+  "id": "kx8X",
+  "name": "RIS XM8 Rail",
+  "key": "item.att.mount_xm8ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.13,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

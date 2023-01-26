@@ -1,0 +1,26 @@
+{
+  "id": "lz1d",
+  "name": "ANG4 Vertical Grip",
+  "key": "item.att.handgrip_ang4.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Horizontal recoil",
+        "value": -19.999998
+      },
+      {
+        "name": "Sway",
+        "value": -30.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

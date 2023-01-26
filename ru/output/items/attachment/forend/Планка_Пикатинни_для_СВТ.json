@@ -1,0 +1,12 @@
+{
+  "id": "z5Bd",
+  "name": "Планка Пикатинни для СВТ",
+  "key": "item.att.mount_svt.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "weight": 0.12,
+    "other": []
+  },
+  "discription": "Планка Пикатинни для установки прицелов на СВТ"
+}

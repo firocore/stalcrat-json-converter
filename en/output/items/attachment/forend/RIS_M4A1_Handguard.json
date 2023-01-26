@@ -1,0 +1,13 @@
+{
+  "id": "yEm6",
+  "name": "RIS M4A1 Handguard",
+  "key": "item.att.forend_m4ris.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.2,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

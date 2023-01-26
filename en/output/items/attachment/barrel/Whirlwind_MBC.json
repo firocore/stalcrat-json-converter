@@ -1,0 +1,22 @@
+{
+  "id": "o7jn",
+  "name": "Whirlwind MBC",
+  "key": "item.att.barrel_vihr.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.227,
+    "other": [
+      {
+        "name": "Horizontal recoil",
+        "value": -6.0
+      },
+      {
+        "name": "Spread",
+        "value": -14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

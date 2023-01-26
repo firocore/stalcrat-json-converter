@@ -1,0 +1,29 @@
+{
+  "id": "0QZb",
+  "name": "Whirlwind",
+  "key": "item.art.blizzard_vortex.name",
+  "category": "artefact/thermal",
+  "class": "Thermal",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M7Bk",
+  "name": "MTs-558 Extended Clip",
+  "key": "item.att.mag_mc55810.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.35,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "P8yA",
+  "name": "5.56 Pufgun Clip, Black",
+  "key": "item.att.mag_pufgun556b.name",
+  "category": "attachment/mag",
+  "class": "Clips",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.12,
+    "other": [
+      {
+        "name": "Clip size",
+        "value": 30.0
+      },
+      {
+        "name": "Reload time",
+        "value": -19.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

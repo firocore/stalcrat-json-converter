@@ -1,0 +1,53 @@
+{
+  "id": "1gqO",
+  "name": "Fire Razor",
+  "key": "item.melee.britva_fire.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.35,
+    "other": [
+      {
+        "name": "Fire damage",
+        "value": 20.0
+      },
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 115.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.7
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.7
+      },
+      {
+        "name": "Penetration",
+        "value": 50.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 40.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

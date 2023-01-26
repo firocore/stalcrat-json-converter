@@ -1,0 +1,66 @@
+{
+  "id": "Bn3l",
+  "name": "AH-1 Drifter Suit",
+  "key": "item.arm.ao1.name",
+  "category": "armor/combined",
+  "class": "Combo",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 4.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 26.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 31.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 37.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 178.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 178.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 178.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 100.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 100.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 20.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 21.0
+      }
+    ]
+  },
+  "discription": "An artifact hunter’s suit, offering decent protection from damage and the effect of anomalies."
+}

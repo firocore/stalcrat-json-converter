@@ -1,0 +1,13 @@
+{
+  "id": "BkQw",
+  "name": "Надствольное крепление БМ",
+  "key": "item.att.forend_bm.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 0.18,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

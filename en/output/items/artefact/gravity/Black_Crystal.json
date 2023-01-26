@@ -1,0 +1,29 @@
+{
+  "id": "Vz5w",
+  "name": "Black Crystal",
+  "key": "item.art.voronka_crystal.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.4,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "This artifact appears infrequently in old anomalies. It has a powerful gravitational effect formed by crystal artifacts being caught in a Blackhole. Unlike other artifacts of this type, this crystal gives the owner increased chances of survival in combat situations."
+}

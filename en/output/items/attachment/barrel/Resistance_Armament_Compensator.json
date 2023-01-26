@@ -1,0 +1,26 @@
+{
+  "id": "lze1",
+  "name": "Resistance Armament Compensator",
+  "key": "item.att.barrel_resistance.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.113,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -2.9999971
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -6.0
+      },
+      {
+        "name": "Spread",
+        "value": -4.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

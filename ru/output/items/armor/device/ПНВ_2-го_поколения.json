@@ -1,0 +1,13 @@
+{
+  "id": "l6or",
+  "name": "ПНВ 2-го поколения",
+  "key": "item.device.nvd2.name",
+  "category": "armor/device",
+  "class": "Устройства",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 2.0,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

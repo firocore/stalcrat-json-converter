@@ -1,0 +1,13 @@
+{
+  "id": "wDG7",
+  "name": "OTs-14 Tactical Grip",
+  "key": "item.att.forend_groza.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.11,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Bkon",
+  "name": "Тактическая рукоятка Magpul AFG",
+  "key": "item.att.handgrip_magpul.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.08,
+    "other": [
+      {
+        "name": "Гориз. отдача",
+        "value": -14.999998
+      },
+      {
+        "name": "Покачивание",
+        "value": -14.999998
+      },
+      {
+        "name": "Скорость доставания",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

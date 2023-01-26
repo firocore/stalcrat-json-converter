@@ -1,0 +1,33 @@
+{
+  "id": "3grl",
+  "name": "M381 Grenade Round",
+  "key": "item.exp.m381.name",
+  "category": "grenade",
+  "class": "Grenades",
+  "stats": {
+    "weight": 0.23,
+    "other": [
+      {
+        "name": "Damage at center",
+        "value": 450.0
+      },
+      {
+        "name": "Minimum damage",
+        "value": 25.0
+      },
+      {
+        "name": "Time until detonation",
+        "value": 8.0
+      },
+      {
+        "name": "Damage range",
+        "value": 6.0
+      },
+      {
+        "name": "Fuse time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "A fragmentation round for the M203 grenade launcher."
+}

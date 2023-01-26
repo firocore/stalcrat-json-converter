@@ -1,0 +1,37 @@
+{
+  "id": "gKnN",
+  "name": "SN-2 Leg",
+  "key": "item.misc.cn2.name",
+  "category": "weapon/device",
+  "class": "Devices",
+  "stats": {
+    "weight": 4.2,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Passive range",
+        "value": 30.0
+      },
+      {
+        "name": "Active range",
+        "value": 30.0
+      },
+      {
+        "name": "Scanning angle",
+        "value": 30.0
+      }
+    ]
+  },
+  "discription": "Standard charge usage, scanning distance: 60 meters."
+}

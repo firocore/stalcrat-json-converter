@@ -1,0 +1,25 @@
+{
+  "id": "P8lx",
+  "name": "OTs-33 Stock",
+  "key": "item.22657.name",
+  "category": "attachment/butt",
+  "class": "Stocks",
+  "stats": {
+    "weight": 0.27,
+    "other": [
+      {
+        "name": "Sway",
+        "value": -25.0
+      },
+      {
+        "name": "Draw speed",
+        "value": 35.000004
+      },
+      {
+        "name": "Stabilization",
+        "value": 25.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

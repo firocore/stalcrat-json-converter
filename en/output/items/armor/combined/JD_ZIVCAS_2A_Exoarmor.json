@@ -1,0 +1,81 @@
+{
+  "id": "VYEA",
+  "name": "JD ZIVCAS 2A Exoarmor",
+  "key": "item.arm.zivcas.name",
+  "category": "armor/combined",
+  "class": "Combo",
+  "stats": {
+    "rank": "Master",
+    "weight": 26.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -10.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 25.0
+      },
+      {
+        "name": "Periodic healing",
+        "value": 4.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 102.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 116.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 183.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 533.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 533.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 1244.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 240.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 240.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 300.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 240.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 55.0
+      }
+    ]
+  },
+  "discription": "One version of the legendary exoarmor prototype. Combines all the benefits of cutting-edge research suits and army armored exoskeleton. Comes with a special covering that prevents damage from chemical substances."
+}

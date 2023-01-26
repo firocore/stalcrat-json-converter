@@ -1,0 +1,13 @@
+{
+  "id": "DVdZ",
+  "name": "Handguard for Saiga-12K",
+  "key": "item.att.forend_saiga.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.2,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

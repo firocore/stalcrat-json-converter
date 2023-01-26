@@ -1,0 +1,35 @@
+{
+  "id": "PbJx",
+  "name": "12 Caliber Live Ammo",
+  "key": "item.amm.12dart.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.03,
+    "other": [
+      {
+        "text": "Armor-piercing ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 20.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 10.0
+      },
+      {
+        "name": "Spread",
+        "value": -60.000004
+      },
+      {
+        "name": "Stopping power",
+        "value": 75.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

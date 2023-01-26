@@ -1,0 +1,12 @@
+{
+  "id": "kqQN",
+  "name": "NVD-11 Export",
+  "key": "item.25504.name",
+  "category": "armor/device",
+  "class": "Устройства",
+  "stats": {
+    "weight": 1.75,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

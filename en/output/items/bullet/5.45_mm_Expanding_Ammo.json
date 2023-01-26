@@ -1,0 +1,35 @@
+{
+  "id": "QAEj",
+  "name": "5.45 mm Expanding Ammo",
+  "key": "item.amm.545exp.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.01,
+    "other": [
+      {
+        "text": "Expanding ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Damage",
+        "value": 10.000002
+      },
+      {
+        "name": "Armor-penetration",
+        "value": -20.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 15.000001
+      },
+      {
+        "name": "Stopping power",
+        "value": 40.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

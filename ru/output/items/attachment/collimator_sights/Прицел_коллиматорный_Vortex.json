@@ -1,0 +1,35 @@
+{
+  "id": "P8gR",
+  "name": "Прицел коллиматорный Vortex",
+  "key": "item.att.sight_uh1.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.335,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: Razor AMG UH-1@Метка - точка, красная"
+}{
+  "id": "N5Vb",
+  "name": "Прицел коллиматорный Vortex",
+  "key": "item.att.sight_vortex2.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.335,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x2.0"
+      }
+    ]
+  },
+  "discription": "Модель: STRIKEFIRE II@Метка - точка, красная"
+}

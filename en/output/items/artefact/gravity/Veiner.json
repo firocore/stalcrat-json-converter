@@ -1,0 +1,29 @@
+{
+  "id": "0Qak",
+  "name": "Veiner",
+  "key": "item.art.trampoline_jilnik.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An extremely rare artifact. Like other “jellyfish,” it is formed in the Trampoline anomaly. For a long time, this artifact was thought not to exist at all. Its properties place it somewhere between a Dark Jellyfish and a Night Star, but it is not radioactive. While it has a positive effect on the mind, rumor has it that the side effects lead to a decrease in pain tolerance."
+}

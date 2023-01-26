@@ -1,0 +1,18 @@
+{
+  "id": "BkPQ",
+  "name": "Прицел коллиматорный Micro",
+  "key": "item.att.sight_microt1.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 0.18,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: T1@Метка - точка, красная"
+}

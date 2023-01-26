@@ -1,0 +1,73 @@
+{
+  "id": "Ry7n",
+  "name": "RMB-93",
+  "key": "item.wpn.rmo93.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 2.7,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 195.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 7.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 80.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.8
+      },
+      {
+        "name": "Spread",
+        "value": 2.75
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 4.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 4.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.5
+      },
+      {
+        "name": "Draw time",
+        "value": 0.75
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "The hunting version of the combat pump-action shotgun. It was developed in 1993 for special units of Russia’s law-enforcement agencies."
+}

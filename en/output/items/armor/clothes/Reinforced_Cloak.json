@@ -1,0 +1,62 @@
+{
+  "id": "gDj2",
+  "name": "Reinforced Cloak",
+  "key": "item.arm.longcoat_donate.name",
+  "category": "armor/clothes",
+  "class": "Clothing",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 2.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -5.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 14.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 54.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 17.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 9.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 9.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 9.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 30.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 34.0
+      }
+    ]
+  },
+  "discription": "Beneath this thick waterproof cloak is a sweater, which conceals light body armor."
+}

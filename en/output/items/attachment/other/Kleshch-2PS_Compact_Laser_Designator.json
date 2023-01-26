@@ -1,0 +1,22 @@
+{
+  "id": "nxYx",
+  "name": "Kleshch-2PS Compact Laser Designator",
+  "key": "item.att.lcu_compact.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.14,
+    "other": [
+      {
+        "name": "Hip-fire spread",
+        "value": -19.999998
+      },
+      {
+        "name": "Stabilization",
+        "value": 29.999996
+      }
+    ]
+  },
+  "discription": "Laser color: red"
+}

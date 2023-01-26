@@ -1,0 +1,26 @@
+{
+  "id": "wDjk",
+  "name": "Удлиненный ствол D-Eagle",
+  "key": "item.att.barrel_longdeagle.name",
+  "category": "attachment/barrel",
+  "class": "Надульники и глушители",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.96,
+    "other": [
+      {
+        "name": "Дистанция",
+        "value": 20.000004
+      },
+      {
+        "name": "Отдача",
+        "value": 25.0
+      },
+      {
+        "name": "Разброс",
+        "value": -10.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

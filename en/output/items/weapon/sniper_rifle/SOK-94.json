@@ -1,0 +1,77 @@
+{
+  "id": "1gE9",
+  "name": "SOK-94",
+  "key": "item.wpn.sok94.name",
+  "category": "weapon/sniper_rifle",
+  "class": "Sniper Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 4.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 50.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 10.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 180.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 400.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Spread",
+        "value": 0.209
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.75
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.6
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Draw time",
+        "value": 1.05
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.45
+      },
+      {
+        "name": "Stopping power",
+        "value": 40.0
+      },
+      {
+        "text": "Headshot damage: x1,5"
+      }
+    ]
+  },
+  "discription": "A semi-automatic rifled carbine developed based on the RPK machine gun in 1995. It was intended for commercial and amateur hunting of medium-sized and large animals."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "MOqq",
+  "name": "Old Sickle",
+  "key": "item.21025.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.52,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 40.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 50.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 100.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 120.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 30.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 45.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      }
+    ]
+  },
+  "discription": "A blade used for harvesting crops. As a weapon, it’s not great; the curved shape of the blade lets it down, but it can nonetheless deal serious puncture wounds when it strikes."
+}

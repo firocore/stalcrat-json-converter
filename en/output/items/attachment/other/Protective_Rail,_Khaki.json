@@ -1,0 +1,12 @@
+{
+  "id": "yEz9",
+  "name": "Protective Rail, Khaki",
+  "key": "item.att.other_deflongh.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "yg92",
+  "name": "KZS-5y",
+  "key": "item.cont.kzs5d.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 9.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 75.0
+      },
+      {
+        "name": "Effectiveness",
+        "value": 100.0
+      },
+      {
+        "name": "Capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -3.0
+      }
+    ]
+  },
+  "discription": "A set of five KZS-1u containers. Lets you carry five artifacts and, obviously, has good shielding capabilities."
+}

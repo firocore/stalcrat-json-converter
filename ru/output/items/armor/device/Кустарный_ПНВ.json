@@ -1,0 +1,13 @@
+{
+  "id": "BL7r",
+  "name": "Кустарный ПНВ",
+  "key": "item.25500.name",
+  "category": "armor/device",
+  "class": "Устройства",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 1.25,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

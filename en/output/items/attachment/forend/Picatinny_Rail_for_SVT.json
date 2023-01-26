@@ -1,0 +1,12 @@
+{
+  "id": "z5Bd",
+  "name": "Picatinny Rail for SVT",
+  "key": "item.att.mount_svt.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "weight": 0.12,
+    "other": []
+  },
+  "discription": "Picatinny rail for mounting sights on an SVT"
+}

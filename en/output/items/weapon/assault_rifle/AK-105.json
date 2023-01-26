@@ -1,0 +1,74 @@
+{
+  "id": "nqa2",
+  "name": "AK-105",
+  "key": "item.wpn.ak105.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 3.15,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.45"
+      },
+      {
+        "name": "Damage",
+        "value": 37.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 150.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 700.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.692
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.38
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.16
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "The AK-105 is a modification of the AK-101, AK-103, and the AK-74M, with a barrel that has been shortened to 101 mm in length. The intermediate barrel length (between that of the AK-74M and the AK-74U) allowed the size of the weapon to be reduced, while leaving the gas chamber in the same place in relation to the face of the breech, as in the AK-74M, and not moving it backward (as with the AKS-74U). This further unified the entire “AK-10x” family of rifles."
+}

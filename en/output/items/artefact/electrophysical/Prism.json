@@ -1,0 +1,29 @@
+{
+  "id": "0QKe",
+  "name": "Prism",
+  "key": "item.art.puzir_prisma.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "This artifact gets its name both from its appearance and its ability to distort the space around the owner, creating a fluctuating energy field that absorbs projectiles. However, at certain points it might cause the owner to receive deeper bleeding wounds."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "G7E7",
+  "name": "5.56 mm Incendiary Ammo",
+  "key": "item.amm.556inc.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.006,
+    "other": [
+      {
+        "text": "Incendiary ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Armor-penetration",
+        "value": 8.0
+      },
+      {
+        "name": "Bleeding",
+        "value": -45.0
+      },
+      {
+        "name": "Burning",
+        "value": 50.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 40.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

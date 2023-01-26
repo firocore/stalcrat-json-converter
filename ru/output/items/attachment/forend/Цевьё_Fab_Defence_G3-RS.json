@@ -1,0 +1,13 @@
+{
+  "id": "JAKQ",
+  "name": "Цевьё Fab Defence G3-RS",
+  "key": "item.att.forend_g3.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Ветеран",
+    "weight": 0.326,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

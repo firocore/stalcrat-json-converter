@@ -1,0 +1,77 @@
+{
+  "id": "jqkN",
+  "name": "Kingpin Armored Suit",
+  "key": "item.arm.pahan.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 9.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Stamina",
+        "value": -4.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 10.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 106.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 115.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 154.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 267.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 267.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 267.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 90.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 200.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 160.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 53.0
+      }
+    ]
+  },
+  "discription": "The bandit version of the PSZ-10. Comes in a stylish shade of black."
+}

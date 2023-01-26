@@ -1,0 +1,18 @@
+{
+  "id": "M7Bk",
+  "name": "Увеличенный магазин для МЦ-558",
+  "key": "item.att.mag_mc55810.name",
+  "category": "attachment/mag",
+  "class": "Магазины",
+  "stats": {
+    "rank": "Мастер",
+    "weight": 0.35,
+    "other": [
+      {
+        "name": "Размер магазина",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xLGN",
+  "name": "RPD Tactical Handguard",
+  "key": "item.att.forend_rpd.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.24,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

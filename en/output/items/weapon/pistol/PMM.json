@@ -1,0 +1,77 @@
+{
+  "id": "KPE8",
+  "name": "PMM",
+  "key": "item.wpn.pmm.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.76,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 52.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 12.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 50.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 390.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.0
+      },
+      {
+        "name": "Spread",
+        "value": 1.606
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.25
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.52
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 0.5
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "This upgraded PM differs in terms of its increased magazine and improved reliability. The maximum pressure in the pistol’s barrel has been increased, which has improved its stopping power. Its disadvantages include its short range and low accuracy, and also its increased recoil by comparison with the PM and the increased spring tension in the magazine, which can lead to a loss of elasticity in the spring and cause delays while firing."
+}

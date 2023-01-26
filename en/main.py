@@ -128,6 +128,7 @@ class Converter():
         infoBlocks = file['infoBlocks']
 
         # Строки
+        id = file['id']
         name = file['name']['lines'][self.lang_items_names]
         key = file['name']['key']
         category = file['category']
@@ -179,7 +180,8 @@ class Converter():
         stats['other'] = other
         try:
             new_rows = {
-                "item_name": name,
+                'id': id,
+                "name": name,
                 "key": key,
                 "category": category,
                 "class": item_class,
@@ -188,7 +190,8 @@ class Converter():
                 }
         except Exception:
             new_rows = {
-                "item_name": name,
+                'id': id,
+                "name": name,
                 "key": key,
                 "category": category,
                 "class": item_class,

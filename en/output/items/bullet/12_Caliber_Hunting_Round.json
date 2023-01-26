@@ -1,0 +1,31 @@
+{
+  "id": "JNVG",
+  "name": "12 Caliber Hunting Round",
+  "key": "item.amm.12slug.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.03,
+    "other": [
+      {
+        "text": "Standard ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Bleeding",
+        "value": 15.000001
+      },
+      {
+        "name": "Spread",
+        "value": -60.000004
+      },
+      {
+        "name": "Stopping power",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

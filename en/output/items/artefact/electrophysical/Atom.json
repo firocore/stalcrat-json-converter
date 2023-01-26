@@ -1,0 +1,29 @@
+{
+  "id": "RgOz",
+  "name": "Atom",
+  "key": "item.art.puzir_atom.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An extremely rare and valuable artifact. Finding it is a big windfall. The few people who own one of these call it their “guardian angel,” as it can protect from negative effects while not having any negative properties of its own."
+}

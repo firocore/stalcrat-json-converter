@@ -1,0 +1,77 @@
+{
+  "id": "BMay",
+  "name": "PB",
+  "key": "item.wpn.pb.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.73,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 50.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 8.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 50.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 400.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.0
+      },
+      {
+        "name": "Spread",
+        "value": 1.811
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.5
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Draw time",
+        "value": 0.45
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "This pistol was developed in the second half of the 20th century and was based on the PM pistol. It was intended for use by reconnaissance teams and special forces personnel. This model is considered obsolete, but in skilled hands, it is still an extremely effective weapon. It is sold as a set with a silencer, which is removed by default."
+}

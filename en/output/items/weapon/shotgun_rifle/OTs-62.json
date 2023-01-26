@@ -1,0 +1,73 @@
+{
+  "id": "qw6w",
+  "name": "OTs-62",
+  "key": "item.wpn.ots62.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 2.5,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 160.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 5.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 40.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 250.0
+      },
+      {
+        "name": "Reload",
+        "value": 4.75
+      },
+      {
+        "name": "Spread",
+        "value": 4.5
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 5.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 7.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.85
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.3
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "This revolver is the next generation of MTs255 single-barrel revolving rifle"
+}

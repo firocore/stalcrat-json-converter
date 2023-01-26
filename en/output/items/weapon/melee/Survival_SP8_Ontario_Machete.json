@@ -1,0 +1,52 @@
+{
+  "id": "w1BA",
+  "name": "Survival SP8 Ontario Machete",
+  "key": "item.21023.name",
+  "category": "weapon/melee",
+  "class": "Melee Weapons",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.63,
+    "other": [
+      {
+        "name": "Quick attack (min)",
+        "value": 50.0
+      },
+      {
+        "name": "Quick attack (max)",
+        "value": 60.0
+      },
+      {
+        "name": "Strong attack (min)",
+        "value": 120.0
+      },
+      {
+        "name": "Strong attack (max)",
+        "value": 140.0
+      },
+      {
+        "name": "Weapon reach (quick)",
+        "value": 1.9
+      },
+      {
+        "name": "Weapon reach (strong)",
+        "value": 1.9
+      },
+      {
+        "name": "Penetration",
+        "value": 40.0
+      },
+      {
+        "name": "Chance for a deep wound",
+        "value": 35.0
+      },
+      {
+        "text": "Backstab damage: x1,2"
+      },
+      {
+        "text": "Damage to mutants: x1,2"
+      }
+    ]
+  },
+  "discription": "Intended for rescue work and surviving in the wilderness."
+}

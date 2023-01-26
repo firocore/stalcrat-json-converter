@@ -1,0 +1,29 @@
+{
+  "id": "Bkmy",
+  "name": "Mossberg Stock",
+  "key": "item.22600.name",
+  "category": "attachment/butt",
+  "class": "Stocks",
+  "stats": {
+    "weight": 0.25,
+    "other": [
+      {
+        "name": "Recoil",
+        "value": -14.999998
+      },
+      {
+        "name": "Sway",
+        "value": -19.999998
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      },
+      {
+        "name": "Stabilization",
+        "value": 25.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

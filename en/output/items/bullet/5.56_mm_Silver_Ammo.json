@@ -1,0 +1,61 @@
+{
+  "id": "KrB8",
+  "name": "5.56 mm Silver Ammo",
+  "key": "item.amm.556silver.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.012,
+    "other": [
+      {
+        "text": "Special ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Absolute damage",
+        "value": 10.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 5.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 25.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}{
+  "id": "PbOA",
+  "name": "5.56 mm Silver Ammo",
+  "key": "item.amm.556silver2.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.012,
+    "other": [
+      {
+        "text": "Special ammo"
+      },
+      {
+        "text": "High penetration"
+      },
+      {
+        "name": "Absolute damage",
+        "value": 20.0
+      },
+      {
+        "name": "Bleeding",
+        "value": 5.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 25.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

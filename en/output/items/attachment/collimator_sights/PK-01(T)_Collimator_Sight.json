@@ -1,0 +1,18 @@
+{
+  "id": "61a2",
+  "name": "PK-01(T) Collimator Sight",
+  "key": "item.att.sight_pk01t.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.15,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Reticle: incomplete crosshair, yellow"
+}

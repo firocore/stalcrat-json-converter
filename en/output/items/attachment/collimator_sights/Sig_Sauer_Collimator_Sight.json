@@ -1,0 +1,18 @@
+{
+  "id": "mxNO",
+  "name": "Sig Sauer Collimator Sight",
+  "key": "item.att.sight_romeo3.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.04,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: ROMEO3 1x25@Reticle: dot, red"
+}

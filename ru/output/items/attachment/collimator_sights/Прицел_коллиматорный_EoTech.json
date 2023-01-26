@@ -1,0 +1,35 @@
+{
+  "id": "yEOl",
+  "name": "Прицел коллиматорный EoTech",
+  "key": "item.att.sight_eoth.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: 552, хаки@Метка - круг с лучами, точка в центре, зелёный"
+}{
+  "id": "lz2M",
+  "name": "Прицел коллиматорный EoTech",
+  "key": "item.att.sight_eotb.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Модель: 552, чёрный@Метка - круг с лучами, точка в центре, красный"
+}

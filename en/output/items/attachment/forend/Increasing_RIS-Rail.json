@@ -1,0 +1,13 @@
+{
+  "id": "xLr3",
+  "name": "Increasing RIS-Rail",
+  "key": "item.att.mount_riselevator.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.05,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

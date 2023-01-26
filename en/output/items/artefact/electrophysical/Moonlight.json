@@ -1,0 +1,29 @@
+{
+  "id": "n8l9",
+  "name": "Moonlight",
+  "key": "item.art.electra_moonlight.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Plasma is somehow contained in a cloud similar to the finest glass, yet organic in nature. The artifact has a positive effect on the mind of its owner, despite being radioactive."
+}

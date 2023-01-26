@@ -1,0 +1,74 @@
+{
+  "id": "BMXN",
+  "name": "HK XM8S",
+  "key": "item.wpn.xm8s.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 2.8,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.56"
+      },
+      {
+        "name": "Damage",
+        "value": 39.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 170.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 750.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.95
+      },
+      {
+        "name": "Spread",
+        "value": 0.374
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.3
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.12
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "The XM8S is an optimized version of the classic XM8. The integrated optical sight was replaced with a mechanical one and it has a Picatinny rail for attaching various sights and underbarrel modules."
+}

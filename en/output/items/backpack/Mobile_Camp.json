@@ -1,0 +1,12 @@
+{
+  "id": "yd96",
+  "name": "Mobile Camp",
+  "key": "item.clan.ffa_camp.name",
+  "category": "backpack",
+  "class": "Backpacks",
+  "stats": {
+    "weight": 25.0,
+    "other": []
+  },
+  "discription": "When placed in a tournament location, lets you respawn in the camp."
+}

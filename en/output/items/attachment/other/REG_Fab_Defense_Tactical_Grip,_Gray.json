@@ -1,0 +1,26 @@
+{
+  "id": "kxjk",
+  "name": "REG Fab Defense Tactical Grip, Gray",
+  "key": "item.att.handgrip_regfbb.name",
+  "category": "attachment/other",
+  "class": "Other Attachments",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.12,
+    "other": [
+      {
+        "name": "Horizontal recoil",
+        "value": -22.000004
+      },
+      {
+        "name": "Sway",
+        "value": -35.000004
+      },
+      {
+        "name": "Draw speed",
+        "value": 14.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

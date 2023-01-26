@@ -1,0 +1,18 @@
+{
+  "id": "z57x",
+  "name": "Прицел коллиматорный РУСАК",
+  "key": "item.att.sight_rusak.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.13,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Метка - шеврон, красный"
+}

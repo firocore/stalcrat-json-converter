@@ -1,0 +1,77 @@
+{
+  "id": "nqXA",
+  "name": "Browning Hi-Power",
+  "key": "item.wpn.hp.name",
+  "category": "weapon/pistol",
+  "class": "Pistols",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.88,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "9 mm"
+      },
+      {
+        "name": "Damage",
+        "value": 56.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 13.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 60.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 375.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.25
+      },
+      {
+        "name": "Tactical reload",
+        "value": 1.85
+      },
+      {
+        "name": "Spread",
+        "value": 1.211
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.6999998
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.4
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.35
+      },
+      {
+        "name": "Draw time",
+        "value": 0.45
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.15
+      },
+      {
+        "text": "Damage increases by 1% for every % of the target’s health that is missing, to a maximum of +100% damage"
+      }
+    ]
+  },
+  "discription": "A modified version of a pistol from the first half of the 20th century. Despite its venerable age, this model remains as popular as ever all over the world."
+}

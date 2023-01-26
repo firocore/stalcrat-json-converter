@@ -1,0 +1,77 @@
+{
+  "id": "lOeK",
+  "name": "DSA-58",
+  "key": "item.wpn.dsa58.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Master",
+    "weight": 3.48,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 49.5
+      },
+      {
+        "name": "Clip capacity",
+        "value": 20.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 170.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 585.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.9
+      },
+      {
+        "name": "Spread",
+        "value": 0.355
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 2.7
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.66
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.176
+      },
+      {
+        "name": "Draw time",
+        "value": 0.8
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Limb damage: x0.7"
+      }
+    ]
+  },
+  "discription": "A modification of the Belgian FN FAL rifle that was created by the American company DS Arms."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BkX2",
+  "name": "Noveske KX3 Flash Suppressor",
+  "key": "item.att.barrel_noveske.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Stalker",
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Spread",
+        "value": -13.999998
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

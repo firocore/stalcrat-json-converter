@@ -1,0 +1,13 @@
+{
+  "id": "Bk2j",
+  "name": "RIS L85 Handguard",
+  "key": "item.att.forend_l85.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.2,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "MOwn",
+  "name": "AKS-74",
+  "key": "item.wpn.aks74.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 3.3000002,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "5.45"
+      },
+      {
+        "name": "Damage",
+        "value": 36.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 150.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 600.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 2.95
+      },
+      {
+        "name": "Spread",
+        "value": 0.858
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.45
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.2
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "A 5.45 mm caliber AK Kalashnikov assault rifle developed in 1970 using Mikhail Kalashnikov’s design, and first used by the armed forces of the USSR in 1974. This model is a further development of the AKM. It was developed as a result of the changeover to new, low-impulse 5.45x39 mm ammo."
+}

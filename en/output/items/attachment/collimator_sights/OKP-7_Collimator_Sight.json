@@ -1,0 +1,18 @@
+{
+  "id": "3mz7",
+  "name": "OKP-7 Collimator Sight",
+  "key": "item.att.sight_okp.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 0.25,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Reticle: chevron, side stripes, green"
+}

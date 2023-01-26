@@ -1,0 +1,26 @@
+{
+  "id": "7mYL",
+  "name": "ASh-12 Standard Barrel",
+  "key": "item.att.barrel_ash12.name",
+  "category": "attachment/barrel",
+  "class": "Muzzles and Silencers",
+  "stats": {
+    "rank": "Master",
+    "weight": 0.16,
+    "other": [
+      {
+        "name": "Distance",
+        "value": 10.000002
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": -10.000002
+      },
+      {
+        "name": "Draw speed",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

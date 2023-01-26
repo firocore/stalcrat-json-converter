@@ -1,0 +1,66 @@
+{
+  "id": "wQww",
+  "name": "Ghillie Suit",
+  "key": "item.arm.ghillie.name",
+  "category": "armor/combat",
+  "class": "Combat",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 9.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Movement speed",
+        "value": 8.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 10.0
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 55.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 71.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 77.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 27.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 22.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 100.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 90.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 50.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 42.0
+      }
+    ]
+  },
+  "discription": "A crude ghillie suit with a utility vest. The most suitable suit for snipers."
+}

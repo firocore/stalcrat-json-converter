@@ -1,0 +1,74 @@
+{
+  "id": "1gnd",
+  "name": "AKM",
+  "key": "item.wpn.akm.name",
+  "category": "weapon/assault_rifle",
+  "class": "Assault Rifles",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 3.1000001,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "7.62"
+      },
+      {
+        "name": "Damage",
+        "value": 40.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 30.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 160.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 600.0
+      },
+      {
+        "name": "Reload",
+        "value": 3.5
+      },
+      {
+        "name": "Tactical reload",
+        "value": 3.0
+      },
+      {
+        "name": "Spread",
+        "value": 0.917
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.0010002
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 0.6
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 0.25
+      },
+      {
+        "name": "Draw time",
+        "value": 1.0
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      }
+    ]
+  },
+  "discription": "An assault rifle first used in 1959, which replaced the AK and was a further development of it. It stands out for its use of a large-caliber ammo and its excellent reliability. It comes with a “dovetail” rail."
+}

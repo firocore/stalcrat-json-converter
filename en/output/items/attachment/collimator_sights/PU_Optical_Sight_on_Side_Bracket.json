@@ -1,0 +1,22 @@
+{
+  "id": "Ro0D",
+  "name": "PU Optical Sight on Side Bracket",
+  "key": "item.att.scope_pu.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.27,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x3.5"
+      },
+      {
+        "name": "Aim speed",
+        "value": 10.000002
+      }
+    ]
+  },
+  "discription": "A variation of the Soviet optical sight first created in 1940 for use with the sniper model of the Tokarev semi-automatic rifle."
+}

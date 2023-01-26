@@ -1,0 +1,32 @@
+{
+  "id": "D1eX",
+  "name": "Polyhedron",
+  "key": "item.art.kisel_poly.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.05,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      },
+      {
+        "text": "Protects against direct damage"
+      }
+    ]
+  },
+  "discription": "A strange radioactive artifact that seems to consume the owner, but prevents them from dying."
+}

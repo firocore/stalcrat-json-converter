@@ -1,0 +1,13 @@
+{
+  "id": "mxwo",
+  "name": "Адаптивная планка RIS для ДП",
+  "key": "item.att.mount_dpris.name",
+  "category": "attachment/forend",
+  "class": "Цевья и крепления",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.1,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

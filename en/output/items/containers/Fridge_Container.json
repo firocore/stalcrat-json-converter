@@ -1,0 +1,42 @@
+{
+  "id": "a0nY",
+  "name": "Fridge Container",
+  "key": "item.cont.fridge.name",
+  "category": "containers",
+  "class": "Backpacks and Containers",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 6.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Inner protection",
+        "value": 85.0
+      },
+      {
+        "name": "Effectiveness",
+        "value": 80.0
+      },
+      {
+        "name": "Capacity",
+        "value": 3.0
+      },
+      {
+        "name": "Movement speed",
+        "value": -1.0
+      },
+      {
+        "name": "Temperature",
+        "value": -1.5
+      }
+    ]
+  },
+  "discription": "Standard Container"
+}

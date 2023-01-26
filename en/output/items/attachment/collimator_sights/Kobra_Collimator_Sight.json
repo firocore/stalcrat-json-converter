@@ -1,0 +1,35 @@
+{
+  "id": "G0O3",
+  "name": "Kobra Collimator Sight",
+  "key": "item.att.sight_cobra_pik.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.38,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: EKP-8, Picatinny rail@Reticle: T-shaped, red"
+}{
+  "id": "nxD3",
+  "name": "Kobra Collimator Sight",
+  "key": "item.att.sight_cobra.name",
+  "category": "attachment/collimator_sights",
+  "class": "Sights",
+  "stats": {
+    "rank": "Newbie",
+    "weight": 0.41,
+    "other": [
+      {
+        "name": "Magnification",
+        "value": "x1.0"
+      }
+    ]
+  },
+  "discription": "Model: EKP-8, dovetail@Reticle: T-shaped, red"
+}

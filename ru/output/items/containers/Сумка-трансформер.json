@@ -1,0 +1,22 @@
+{
+  "id": "Rboy",
+  "name": "Сумка-трансформер",
+  "key": "item.bag.transformer.name",
+  "category": "containers",
+  "class": "Рюкзаки и Контейнеры",
+  "stats": {
+    "rank": "Отмычка",
+    "weight": 1.0,
+    "other": [
+      {
+        "name": "Выносливость",
+        "value": 10.0
+      },
+      {
+        "name": "Переносимый вес",
+        "value": 15.0
+      }
+    ]
+  },
+  "discription": "Легкий рюкзак"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "EYEE",
+  "name": "10 mm Incendiary Ammo",
+  "key": "item.amm.10inc.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.013,
+    "other": [
+      {
+        "text": "Incendiary ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Number of projectiles",
+        "value": 5.0
+      },
+      {
+        "name": "Damage",
+        "value": -5.9604645e-06
+      },
+      {
+        "name": "Bleeding",
+        "value": -45.0
+      },
+      {
+        "name": "Burning",
+        "value": 50.0
+      },
+      {
+        "name": "Stopping power",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

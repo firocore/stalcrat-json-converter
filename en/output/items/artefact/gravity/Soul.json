@@ -1,0 +1,29 @@
+{
+  "id": "k51k",
+  "name": "Soul",
+  "key": "item.art.karousel_dusha.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "Legend says this artifact contains the souls of dead swamp dwellers. It has the ability to significantly speed up the wearer’s physical regeneration rate. Radioactive."
+}

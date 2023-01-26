@@ -1,0 +1,29 @@
+{
+  "id": "gKaN",
+  "name": "Slime",
+  "key": "item.art.kisel_sliz.name",
+  "category": "artefact/biochemical",
+  "class": "Biochemical",
+  "stats": {
+    "weight": 0.2,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "A slimy artifact that, despite its repulsive texture, is safe to hold without hand protection. When in close contact with a human, it lowers fibrinogen levels in the blood, thickening it. However, the owner becomes more susceptible to different types of burns."
+}

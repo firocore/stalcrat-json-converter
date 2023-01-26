@@ -1,0 +1,37 @@
+{
+  "id": "w8PP",
+  "name": "“STRIKE”",
+  "key": "item.med.strike.name",
+  "category": "medicine",
+  "class": "Medicine",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Purpose",
+        "value": "Healing"
+      },
+      {
+        "name": "Instant healing",
+        "value": 15.0
+      },
+      {
+        "name": "Duration",
+        "value": 6.0
+      },
+      {
+        "name": "Poison",
+        "value": 25.0
+      },
+      {
+        "name": "Stamina regeneration",
+        "value": 15.0
+      },
+      {
+        "name": "Periodic healing",
+        "value": 10.0
+      }
+    ]
+  },
+  "discription": "A cocktail of chemicals that quickly relieves pain and removes any feeling of fatigue. Toxic."
+}

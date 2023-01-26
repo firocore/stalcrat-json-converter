@@ -1,0 +1,39 @@
+{
+  "id": "2D9P",
+  "name": "12 Caliber Buckshot",
+  "key": "item.amm.12drob.name",
+  "category": "bullet",
+  "class": "Ammo",
+  "stats": {
+    "weight": 0.03,
+    "other": [
+      {
+        "text": "Expanding ammo"
+      },
+      {
+        "text": "Low penetration"
+      },
+      {
+        "name": "Number of projectiles",
+        "value": 20.0
+      },
+      {
+        "name": "Damage",
+        "value": 49.999977
+      },
+      {
+        "name": "Bleeding",
+        "value": 0.25
+      },
+      {
+        "name": "Stopping power",
+        "value": 50.0
+      },
+      {
+        "name": "Damage at range",
+        "value": -65.0
+      }
+    ]
+  },
+  "discription": "Отсутвует"
+}

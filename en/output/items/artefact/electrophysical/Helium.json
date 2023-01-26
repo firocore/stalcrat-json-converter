@@ -1,0 +1,29 @@
+{
+  "id": "gKMn",
+  "name": "Helium",
+  "key": "item.art.electra_helium.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.1,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "The brightest member of the electrostatic family of artifacts. It emits a gas-like substance that causes adrenaline to be released in a human’s blood, but which negatively affects the body if not neutralized. In high demand due to its effectiveness."
+}

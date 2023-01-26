@@ -1,0 +1,77 @@
+{
+  "id": "dzRL",
+  "name": "Grenadier Exoskeleton",
+  "key": "item.arm.grenadier.name",
+  "category": "armor/discoverer",
+  "class": "Explorer",
+  "stats": {
+    "rank": "Veteran",
+    "weight": 20.0,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Movement speed",
+        "value": 5.0
+      },
+      {
+        "name": "Carry weight",
+        "value": 30.0
+      },
+      {
+        "text": "Night-vision goggles"
+      },
+      {
+        "name": "Bullet resistance",
+        "value": 110.0
+      },
+      {
+        "name": "Melee protection",
+        "value": 125.0
+      },
+      {
+        "name": "Explosion protection",
+        "value": 175.0
+      },
+      {
+        "name": "Resistance to electricity",
+        "value": 50.0
+      },
+      {
+        "name": "Resistance to fire",
+        "value": 50.0
+      },
+      {
+        "name": "Resistance to chemicals",
+        "value": 50.0
+      },
+      {
+        "name": "Radiation protection",
+        "value": 200.0
+      },
+      {
+        "name": "Thermal protection",
+        "value": 40.0
+      },
+      {
+        "name": "Bioinfection Protection",
+        "value": 270.0
+      },
+      {
+        "name": "Psy-Emission Protection",
+        "value": 150.0
+      },
+      {
+        "name": "Bleeding protection",
+        "value": 60.0
+      }
+    ]
+  },
+  "discription": "This suit is a good choice for anyone who wants to sneak up behind the enemy unnoticed (even in the middle of the night—it comes with excellent NVG!) and set up a “grenade shower.” The enemy has little chance of survival... unless they’re also equipped with Grenadiers and manage to flee quickly."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "B1QQ",
+  "name": "Quirk",
+  "key": "item.art.voronka_vivert.name",
+  "category": "artefact/gravity",
+  "class": "Gravitational",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "An unknown gas is emitted from the “pores” of this artifact. It speeds up tissue regeneration from scratches and injuries. The artifact is radioactive, easy to find, and inexpensive."
+}

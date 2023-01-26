@@ -1,0 +1,73 @@
+{
+  "id": "oqrQ",
+  "name": "Cobray Terminator",
+  "key": "item.wpn.terminator.name",
+  "category": "weapon/shotgun_rifle",
+  "class": "Shotguns and Rifles",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 2.175,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "12 caliber"
+      },
+      {
+        "name": "Damage",
+        "value": 220.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 1.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 30.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 150.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.5
+      },
+      {
+        "name": "Spread",
+        "value": 2.0
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 3.5
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 12.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 2.0
+      },
+      {
+        "name": "Draw time",
+        "value": 0.7
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.25
+      },
+      {
+        "text": "Damage to mutants: x1,5"
+      }
+    ]
+  },
+  "discription": "An American smoothbore, single-shot shotgun. It has never enjoyed widespread use, but thanks to its simple construction, it is now often made by hand in the Zone as a cheap and reliable “boomstick.”"
+}

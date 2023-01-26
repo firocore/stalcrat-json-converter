@@ -1,0 +1,70 @@
+{
+  "id": "753d",
+  "name": "RPG-7",
+  "key": "item.wpn.rpg7.name",
+  "category": "weapon/heavy",
+  "class": "Other Weapons",
+  "stats": {
+    "rank": "Master",
+    "weight": 6.3,
+    "other": [
+      {
+        "name": "Durability",
+        "value": 100.0
+      },
+      {
+        "name": "Max. durability",
+        "value": 100.0
+      },
+      {
+        "name": "Ammo type",
+        "value": "RPG Round"
+      },
+      {
+        "name": "Damage",
+        "value": 500.0
+      },
+      {
+        "name": "Clip capacity",
+        "value": 1.0
+      },
+      {
+        "name": "Maximum distance",
+        "value": 200.0
+      },
+      {
+        "name": "Rate of fire",
+        "value": 75.0
+      },
+      {
+        "name": "Reload",
+        "value": 2.5
+      },
+      {
+        "name": "Spread",
+        "value": 1.0
+      },
+      {
+        "name": "Hip-fire spread",
+        "value": 1.0
+      },
+      {
+        "name": "Vertical recoil",
+        "value": 2.0
+      },
+      {
+        "name": "Horizontal recoil",
+        "value": 1.0
+      },
+      {
+        "name": "Draw time",
+        "value": 1.4
+      },
+      {
+        "name": "Aiming time",
+        "value": 0.35
+      }
+    ]
+  },
+  "discription": "A reusable Soviet handheld anti-tank grenade launcher. It is intended for dealing with tanks, self-propelled artillery, and other armored vehicles. It can be used to eliminate personnel behind cover and also counter low-flying, low-speed airborne targets."
+}

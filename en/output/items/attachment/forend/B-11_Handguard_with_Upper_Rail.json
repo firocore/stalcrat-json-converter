@@ -1,0 +1,13 @@
+{
+  "id": "nxE9",
+  "name": "B-11 Handguard with Upper Rail",
+  "key": "item.att.forend_b11.name",
+  "category": "attachment/forend",
+  "class": "Hanguards and Brackets",
+  "stats": {
+    "rank": "Picklock",
+    "weight": 0.2,
+    "other": []
+  },
+  "discription": "Отсутвует"
+}

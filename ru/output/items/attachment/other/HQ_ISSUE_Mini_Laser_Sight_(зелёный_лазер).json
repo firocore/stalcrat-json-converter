@@ -1,0 +1,22 @@
+{
+  "id": "DVb9",
+  "name": "HQ ISSUE Mini Laser Sight (зелёный лазер)",
+  "key": "item.att.lcu_hqi.name",
+  "category": "attachment/other",
+  "class": "Прочие обвесы",
+  "stats": {
+    "rank": "Сталкер",
+    "weight": 0.085,
+    "other": [
+      {
+        "name": "Разброс от бедра",
+        "value": -19.999998
+      },
+      {
+        "name": "Стабилизация",
+        "value": 35.000004
+      }
+    ]
+  },
+  "discription": "Цвет лазера - зелёный"
+}

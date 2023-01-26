@@ -1,0 +1,29 @@
+{
+  "id": "31K1",
+  "name": "Shell",
+  "key": "item.art.electra_pustishka.name",
+  "category": "artefact/electrophysical",
+  "class": "Electrophysical",
+  "stats": {
+    "weight": 0.3,
+    "other": [
+      {
+        "name": "Common",
+        "value": "Not studied"
+      },
+      {
+        "name": "Freshness",
+        "value": "III"
+      },
+      {
+        "name": "Charge",
+        "value": 100.0
+      },
+      {
+        "name": "Max. charge",
+        "value": 100.0
+      }
+    ]
+  },
+  "discription": "When this artifact comes into contact with heated plasma, it absorbs part of it, working in a similar way as a Battery. It may be a Battery that has undergone an unknown mutation inside an anomaly. Radioactive."
+}

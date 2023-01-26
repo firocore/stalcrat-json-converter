@@ -1,0 +1,18 @@
+{
+  "id": "Bkwr",
+  "name": "Прицел оптический SUSAT",
+  "key": "item.att.scope_susat.name",
+  "category": "attachment/collimator_sights",
+  "class": "Прицелы",
+  "stats": {
+    "rank": "Новичок",
+    "weight": 0.417,
+    "other": [
+      {
+        "name": "Увеличение",
+        "value": "x1.5"
+      }
+    ]
+  },
+  "discription": "Модель: L9A1@Оптический прицел, производимый в странах НАТО. Устанавливается на оружие при помощи стандартного натовского крепления — планки Пикатинни. Производится компанией Avimo, а также United Scientific Instruments."
+}
